@@ -1,6 +1,23 @@
 {
   "schemaVersion": 1,
-  "version": 5,
-  "generatedAt": "2026-08-27T05:25:18.8856481\u002B00:00",
-  "links": []
+  "version": 6,
+  "generatedAt": "2026-08-27T09:55:44.9473690\u002B00:00",
+  "links": [
+    {
+      "id": "e7b8db4d-7ba6-40e5-ae00-124884672c6e",
+      "name": "Swimy",
+      "url": "https://www.twitch.tv/swimy",
+      "type": "WEB_PAGE",
+      "resolvedType": null,
+      "image": null,
+      "category": null,
+      "notes": null,
+      "country": null,
+      "enabled": true,
+      "order": 10,
+      "startAt": null,
+      "expiresAt": null,
+      "adBlockEnabled": true
+    }
+  ]
 }
