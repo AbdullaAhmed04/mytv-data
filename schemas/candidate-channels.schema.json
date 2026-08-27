@@ -1,0 +1,6 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/AbdullaAhmed04/mytv-data/main/schemas/candidate-channels.schema.json",
+  "title": "MYTV candidate channels",
+  "$ref": "channels.schema.json"
+}

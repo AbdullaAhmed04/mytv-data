@@ -1,0 +1,7 @@
+[
+  {"channel":"YemenSports.ye","id":"Main","name":"Main","is_main":true,"broadcast_area":["c/YE"],"timezones":["Asia/Aden"],"languages":["ara"],"format":"1080p"},
+  {"channel":"ArabGeneral.eg","id":"Main","name":"Main","is_main":true,"broadcast_area":["c/EG"],"timezones":["Africa/Cairo"],"languages":["ara"],"format":"720p"},
+  {"channel":"UsNews.us","id":"Main","name":"Main","is_main":true,"broadcast_area":["c/US"],"timezones":["America/New_York"],"languages":["eng"],"format":"720p"},
+  {"channel":"UkSports.uk","id":"Main","name":"Main","is_main":true,"broadcast_area":["c/UK"],"timezones":["Europe/London"],"languages":["eng"],"format":"1080p"},
+  {"channel":"CanadaSports.ca","id":"Main","name":"Main","is_main":true,"broadcast_area":["c/CA"],"timezones":["America/Toronto"],"languages":["eng"],"format":"720p"}
+]

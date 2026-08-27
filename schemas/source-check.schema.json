@@ -1,0 +1,74 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/AbdullaAhmed04/mytv-data/main/schemas/source-check.schema.json",
+  "title": "MYTV pipeline source check metadata",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "checkedAt",
+    "status",
+    "sources",
+    "upstreamCounts",
+    "candidateChannels",
+    "pendingChanges",
+    "adultRejectedCount",
+    "policyRejectedCount",
+    "safetyQuarantinedCount"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "checkedAt": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "status": {
+      "enum": [
+        "NOT_RUN",
+        "SUCCESS",
+        "FAILED"
+      ]
+    },
+    "sources": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "format": "uri",
+        "pattern": "^https://"
+      }
+    },
+    "upstreamCounts": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "integer",
+        "minimum": 0
+      }
+    },
+    "candidateChannels": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "pendingChanges": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "adultRejectedCount": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "safetyQuarantinedCount": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "policyRejectedCount": {
+      "type": "integer",
+      "minimum": 0
+    }
+  }
+}

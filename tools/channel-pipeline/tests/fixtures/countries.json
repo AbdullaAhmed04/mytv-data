@@ -1,0 +1,7 @@
+[
+  {"name":"Yemen","code":"YE","languages":["ara"],"flag":"🇾🇪"},
+  {"name":"Egypt","code":"EG","languages":["ara"],"flag":"🇪🇬"},
+  {"name":"United States","code":"US","languages":["eng"],"flag":"🇺🇸"},
+  {"name":"United Kingdom","code":"UK","languages":["eng"],"flag":"🇬🇧"},
+  {"name":"Canada","code":"CA","languages":["eng","fra"],"flag":"🇨🇦"}
+]

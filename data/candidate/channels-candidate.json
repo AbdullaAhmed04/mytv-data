@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "version": 1,
+  "generatedAt": "2026-08-27T00:00:00Z",
+  "countryOrder": ["YE", "SA", "EG", "IQ", "AE", "KW", "QA", "JO", "LB", "SY", "PS", "DZ", "BH", "KM", "DJ", "LY", "MR", "MA", "OM", "SO", "SD", "TN"],
+  "channels": [
+    {
+      "id": "sample.safe.placeholder",
+      "upstreamId": null,
+      "name": "بيانات تجريبية آمنة",
+      "country": "اليمن",
+      "countryCode": "YE",
+      "categories": ["OTHER"],
+      "languages": ["ara"],
+      "logo": null,
+      "website": null,
+      "enabled": false,
+      "order": 1,
+      "description": "عنصر معطل وآمن؛ لا يمثل قناة حية.",
+      "safety": {"isNsfw": false, "reviewed": true},
+      "streams": [{"url":"https://example.com/mytv-safe-placeholder.m3u8","quality":null,"userAgent":null,"referer":null,"priority":100,"source":"bundled-safe-sample","geo":{"label":null,"isGeoBlocked":false,"blockedCountries":[],"allowedCountries":[]}}]
+    }
+  ]
+}

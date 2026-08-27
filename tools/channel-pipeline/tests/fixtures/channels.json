@@ -1,0 +1,12 @@
+[
+  {"id":"YemenSports.ye","name":"رياضة اليمن","country":"YE","categories":["sports"],"is_nsfw":false,"website":"https://example.org/yemen"},
+  {"id":"ArabGeneral.eg","name":"قناة مصر العامة","country":"EG","categories":["general"],"is_nsfw":false,"website":null},
+  {"id":"UsNews.us","name":"US News Public","country":"US","categories":["news"],"is_nsfw":false,"website":"https://example.org/us"},
+  {"id":"UkSports.uk","name":"UK Sports Public","country":"UK","categories":["sports"],"is_nsfw":false,"website":"https://example.org/uk"},
+  {"id":"CanadaSports.ca","name":"Canada Sports","country":"CA","categories":["sports"],"is_nsfw":false,"website":null},
+  {"id":"AdultXXX.us","name":"XXX Adult","country":"US","categories":["adult"],"is_nsfw":true,"website":null},
+  {"id":"MissingSafety.ye","name":"بيانات ناقصة","country":"YE","categories":["general"],"website":null},
+  {"id":"HttpOnly.ye","name":"بث غير آمن","country":"YE","categories":["general"],"is_nsfw":false,"website":null},
+  {"id":"BlockedAdult.ye","name":"محظورة من المصدر","country":"YE","categories":["general"],"is_nsfw":false,"website":null},
+  {"id":"UserBlocked.ye","name":"محظورة من المستخدم","country":"YE","categories":["general"],"is_nsfw":false,"website":null}
+]

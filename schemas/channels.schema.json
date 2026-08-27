@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/AbdullaAhmed04/mytv-data/main/schemas/channels.schema.json",
+  "title": "MYTV approved channels",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "version", "generatedAt", "countryOrder", "channels"],
+  "properties": {
+    "schemaVersion": {"const": 1},
+    "version": {"type": "integer", "minimum": 1},
+    "generatedAt": {"type": ["string", "null"], "format": "date-time"},
+    "countryOrder": {"type": "array", "uniqueItems": true, "maxItems": 100, "items": {"type": "string", "pattern": "^[A-Z]{2}$"}},
+    "channels": {"type": "array", "minItems": 1, "maxItems": 8000, "items": {"$ref": "#/$defs/channel"}}
+  },
+  "$defs": {
+    "httpsUrl": {"type": "string", "format": "uri", "pattern": "^https://", "maxLength": 2048},
+    "nullableHttpsUrl": {"oneOf": [{"$ref": "#/$defs/httpsUrl"}, {"type": "null"}]},
+    "geo": {
+      "type": "object", "additionalProperties": false,
+      "required": ["label", "isGeoBlocked", "blockedCountries", "allowedCountries"],
+      "properties": {
+        "label": {"type": ["string", "null"], "maxLength": 200},
+        "isGeoBlocked": {"type": "boolean"},
+        "blockedCountries": {"type": "array", "uniqueItems": true, "items": {"type": "string", "pattern": "^[A-Z]{2}$"}},
+        "allowedCountries": {"type": "array", "uniqueItems": true, "items": {"type": "string", "pattern": "^[A-Z]{2}$"}}
+      }
+    },
+    "stream": {
+      "type": "object", "additionalProperties": false,
+      "required": ["url", "quality", "userAgent", "referer", "priority", "source", "geo"],
+      "properties": {
+        "url": {"$ref": "#/$defs/httpsUrl"},
+        "quality": {"type": ["string", "null"], "maxLength": 24},
+        "userAgent": {"type": ["string", "null"], "minLength": 1, "maxLength": 512, "pattern": "^[^\\u0000-\\u001F\\u007F]+$"},
+        "referer": {"$ref": "#/$defs/nullableHttpsUrl"},
+        "priority": {"type": "integer", "minimum": 0, "maximum": 100000},
+        "source": {"type": "string", "minLength": 1, "maxLength": 80},
+        "geo": {"$ref": "#/$defs/geo"}
+      }
+    },
+    "channel": {
+      "type": "object", "additionalProperties": false,
+      "required": ["id", "upstreamId", "name", "country", "countryCode", "categories", "languages", "logo", "website", "enabled", "order", "description", "safety", "streams"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^[A-Za-z0-9._-]{1,120}$"},
+        "upstreamId": {"type": ["string", "null"], "maxLength": 120},
+        "name": {"type": "string", "minLength": 1, "maxLength": 160},
+        "country": {"type": "string", "minLength": 1, "maxLength": 80},
+        "countryCode": {"type": "string", "pattern": "^[A-Z]{2}$"},
+        "categories": {"type": "array", "minItems": 1, "uniqueItems": true, "items": {"enum": ["NEWS", "SPORTS", "MOVIES", "SERIES", "KIDS", "MUSIC", "RELIGIOUS", "DOCUMENTARY", "CULTURE", "GENERAL", "GOVERNMENT", "OTHER"]}},
+        "languages": {"type": "array", "uniqueItems": true, "maxItems": 20, "items": {"type": "string", "pattern": "^[a-z]{2,3}$"}},
+        "logo": {"$ref": "#/$defs/nullableHttpsUrl"},
+        "website": {"$ref": "#/$defs/nullableHttpsUrl"},
+        "enabled": {"type": "boolean"},
+        "order": {"type": "integer", "minimum": -100000, "maximum": 100000},
+        "epgId": {"type": ["string", "null"], "maxLength": 120},
+        "description": {"type": ["string", "null"], "maxLength": 500},
+        "safety": {
+          "type": "object", "additionalProperties": false,
+          "required": ["isNsfw", "reviewed"],
+          "properties": {"isNsfw": {"const": false}, "reviewed": {"const": true}}
+        },
+        "streams": {"type": "array", "minItems": 1, "maxItems": 8, "items": {"$ref": "#/$defs/stream"}}
+      }
+    }
+  }
+}

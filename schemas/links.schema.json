@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/AbdullaAhmed04/mytv-data/main/schemas/links.schema.json",
+  "title": "MYTV approved manual links",
+  "type": "object", "additionalProperties": false,
+  "required": ["schemaVersion", "version", "generatedAt", "links"],
+  "properties": {
+    "schemaVersion": {"const": 1},
+    "version": {"type": "integer", "minimum": 1},
+    "generatedAt": {"type": ["string", "null"], "format": "date-time"},
+    "links": {
+      "type": "array", "maxItems": 2000,
+      "items": {
+        "type": "object", "additionalProperties": false,
+        "required": ["id", "name", "url", "type", "resolvedType", "image", "category", "notes", "country", "enabled", "order", "startAt", "expiresAt", "adBlockEnabled"],
+        "properties": {
+          "id": {"type": "string", "pattern": "^[A-Za-z0-9._-]{1,120}$"},
+          "name": {"type": "string", "minLength": 1, "maxLength": 160},
+          "url": {"type": "string", "format": "uri", "pattern": "^https://", "maxLength": 2048},
+          "type": {"enum": ["DIRECT_STREAM", "WEB_PAGE", "AUTO"]},
+          "resolvedType": {"type": ["string", "null"], "enum": ["DIRECT_STREAM", "WEB_PAGE", null]},
+          "image": {"oneOf": [{"type": "string", "format": "uri", "pattern": "^https://", "maxLength": 2048}, {"type": "null"}]},
+          "category": {"type": ["string", "null"], "maxLength": 80},
+          "notes": {"type": ["string", "null"], "maxLength": 1000},
+          "country": {"type": ["string", "null"], "maxLength": 80},
+          "enabled": {"type": "boolean"},
+          "order": {"type": "integer", "minimum": -100000, "maximum": 100000},
+          "startAt": {"type": ["string", "null"], "format": "date-time"},
+          "expiresAt": {"type": ["string", "null"], "format": "date-time"},
+          "adBlockEnabled": {"type": "boolean"}
+        }
+      }
+    }
+  }
+}

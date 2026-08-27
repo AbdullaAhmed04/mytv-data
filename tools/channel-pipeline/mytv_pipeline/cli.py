@@ -1,0 +1,142 @@
+from __future__ import annotations
+
+import argparse
+import json
+import os
+from datetime import datetime, timezone
+from pathlib import Path
+
+from .constants import COUNTRY_ORDER, UPSTREAM_URLS
+from .diff import canonical, generate_changes, summary
+from .net import load_upstream
+from .normalize import normalize
+from .validation import validate_channels, validate_links, validate_pending
+
+
+def read_json(path: Path, default=None):
+    if not path.exists():
+        if default is not None:
+            return default
+        raise FileNotFoundError(path)
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def write_json_atomic(path: Path, value) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    temporary = path.with_suffix(path.suffix + ".tmp")
+    temporary.write_text(
+        json.dumps(value, ensure_ascii=False, sort_keys=True, indent=2) + "\n",
+        encoding="utf-8",
+    )
+    os.replace(temporary, path)
+
+
+def utc_now(value: str | None = None) -> str:
+    if value:
+        parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
+        return parsed.astimezone(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
+    return datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
+
+
+def update(repo_root: Path, upstream_dir: Path | None, now: str | None) -> dict:
+    checked_at = utc_now(now)
+    approved_path = repo_root / "data/approved/channels.json"
+    approved = read_json(approved_path)
+    validate_channels(approved)
+    adult_blocklist = read_json(repo_root / "data/blocklists/adult-blocklist.json", {"channelIds": []})
+    user_blocklist = read_json(repo_root / "data/blocklists/user-blocklist.json", {"channelIds": []})
+    upstream = load_upstream(upstream_dir)
+    result = normalize(upstream, adult_blocklist, user_blocklist)
+
+    content_changed = canonical(result.channels) != canonical(approved.get("channels", []))
+    candidate_version = int(approved["version"]) + (1 if content_changed else 0)
+    candidate = {
+        "schemaVersion": 1,
+        "version": candidate_version,
+        "generatedAt": checked_at,
+        "countryOrder": COUNTRY_ORDER,
+        "channels": result.channels,
+    }
+    # A successful source check producing no eligible channels is treated as suspicious, not as a wipe.
+    validate_channels(candidate)
+
+    previous_pending = read_json(
+        repo_root / "data/review/pending-changes.json",
+        {"schemaVersion": 1, "changes": []},
+    )
+    changes = generate_changes(approved, candidate, previous_pending, checked_at)
+    pending = {
+        "schemaVersion": 1,
+        "generatedAt": checked_at,
+        "approvedVersion": approved["version"],
+        "candidateVersion": candidate["version"],
+        "summary": summary(changes, len(result.rejected), len(result.quarantined)),
+        "changes": changes,
+    }
+    validate_pending(pending)
+
+    rejected_summary = {
+        "schemaVersion": 1,
+        "generatedAt": checked_at,
+        "adultRejectedCount": len(result.rejected),
+        "items": result.rejected,
+    }
+    quarantine = {
+        "schemaVersion": 1,
+        "generatedAt": checked_at,
+        "count": len(result.quarantined),
+        # Deliberately contains no names, URLs, logos, or previews.
+        "items": result.quarantined,
+    }
+    source_check = {
+        "schemaVersion": 1,
+        "checkedAt": checked_at,
+        "status": "SUCCESS",
+        "sources": list(UPSTREAM_URLS.values()),
+        "upstreamCounts": {key: len(value) for key, value in sorted(upstream.items())},
+        "candidateChannels": len(candidate["channels"]),
+        "pendingChanges": len(changes),
+        "adultRejectedCount": len(result.rejected),
+        "policyRejectedCount": len(result.policy_rejected),
+        "safetyQuarantinedCount": len(result.quarantined),
+    }
+    write_json_atomic(repo_root / "data/candidate/channels-candidate.json", candidate)
+    write_json_atomic(repo_root / "data/candidate/rejected-adult-summary.json", rejected_summary)
+    write_json_atomic(repo_root / "data/candidate/quarantined-safety.json", quarantine)
+    write_json_atomic(repo_root / "data/review/pending-changes.json", pending)
+    write_json_atomic(repo_root / "data/metadata/source-check.json", source_check)
+    return source_check
+
+
+def validate_repository(repo_root: Path) -> None:
+    validate_channels(read_json(repo_root / "data/approved/channels.json"))
+    validate_links(read_json(repo_root / "data/approved/links.json"))
+    candidate_path = repo_root / "data/candidate/channels-candidate.json"
+    if candidate_path.exists():
+        validate_channels(read_json(candidate_path))
+    pending_path = repo_root / "data/review/pending-changes.json"
+    if pending_path.exists():
+        validate_pending(read_json(pending_path))
+
+
+def build_parser() -> argparse.ArgumentParser:
+    parser = argparse.ArgumentParser(description="MYTV IPTV-org review pipeline")
+    parser.add_argument("--repo-root", type=Path, default=Path(__file__).resolve().parents[3])
+    subparsers = parser.add_subparsers(dest="command", required=True)
+    update_parser = subparsers.add_parser("update", help="fetch, normalize, and generate review files")
+    update_parser.add_argument("--upstream-dir", type=Path)
+    update_parser.add_argument("--now", help="fixed ISO timestamp for reproducible tests")
+    subparsers.add_parser("validate", help="validate MYTV repository data")
+    return parser
+
+
+def main(argv: list[str] | None = None) -> int:
+    args = build_parser().parse_args(argv)
+    root = args.repo_root.resolve()
+    if args.command == "update":
+        report = update(root, args.upstream_dir, args.now)
+        print(json.dumps(report, ensure_ascii=False, sort_keys=True))
+    else:
+        validate_repository(root)
+        print("MYTV data validation passed")
+    return 0

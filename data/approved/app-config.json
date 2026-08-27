@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "version": 1,
+  "endpoints": {
+    "channels": "https://raw.githubusercontent.com/AbdullaAhmed04/mytv-data/main/data/approved/channels.json",
+    "links": "https://raw.githubusercontent.com/AbdullaAhmed04/mytv-data/main/data/approved/links.json",
+    "versions": "https://raw.githubusercontent.com/AbdullaAhmed04/mytv-data/main/data/metadata/versions.json"
+  }
+}

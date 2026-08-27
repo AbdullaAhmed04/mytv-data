@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-27T00:00:00Z",
+  "approvedVersion": 1,
+  "candidateVersion": 1,
+  "summary": {"totalPending": 0, "byType": {}, "adultRejectedCount": 0, "safetyQuarantinedCount": 0},
+  "changes": []
+}

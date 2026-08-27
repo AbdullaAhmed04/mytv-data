@@ -1,0 +1,6 @@
+[
+  {"channel":"YemenSports.ye","feed":"Main","in_use":true,"tags":["horizontal"],"width":1000,"height":500,"format":"PNG","url":"https://images.example.org/yemen.png"},
+  {"channel":"UsNews.us","feed":"Main","in_use":true,"tags":["horizontal"],"width":800,"height":400,"format":"WebP","url":"https://images.example.org/us.webp"},
+  {"channel":"UkSports.uk","feed":"Main","in_use":true,"tags":["horizontal"],"width":800,"height":400,"format":"PNG","url":"https://images.example.org/uk.png"},
+  {"channel":"ArabGeneral.eg","feed":"Main","in_use":true,"tags":[],"width":500,"height":500,"format":"PNG","url":"http://images.example.org/insecure.png"}
+]

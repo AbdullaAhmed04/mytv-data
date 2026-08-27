@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/AbdullaAhmed04/mytv-data/main/schemas/blocklists.schema.json",
+  "title": "MYTV blocklists",
+  "oneOf": [
+    {
+      "title": "Permanent adult blocklist",
+      "type": "object", "additionalProperties": false,
+      "required": ["schemaVersion", "version", "channelIds", "domains", "categories", "keywords"],
+      "properties": {
+        "schemaVersion": {"const": 1}, "version": {"type": "integer", "minimum": 1},
+        "channelIds": {"type": "array", "uniqueItems": true, "items": {"type": "string", "minLength": 1}},
+        "domains": {"type": "array", "uniqueItems": true, "items": {"type": "string", "pattern": "^[A-Za-z0-9.-]+$"}},
+        "categories": {"type": "array", "uniqueItems": true, "items": {"type": "string", "minLength": 1}},
+        "keywords": {"type": "array", "uniqueItems": true, "items": {"type": "string", "minLength": 1}}
+      }
+    },
+    {
+      "title": "User blocklist",
+      "type": "object", "additionalProperties": false,
+      "required": ["schemaVersion", "version", "channelIds"],
+      "properties": {
+        "schemaVersion": {"const": 1}, "version": {"type": "integer", "minimum": 1},
+        "channelIds": {"type": "array", "uniqueItems": true, "items": {"type": "string", "minLength": 1, "maxLength": 120}}
+      }
+    }
+  ]
+}

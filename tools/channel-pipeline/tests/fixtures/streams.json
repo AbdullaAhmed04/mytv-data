@@ -1,0 +1,17 @@
+[
+  {"channel":"YemenSports.ye","feed":"Main","title":"1080","url":"https://media.example.org/yemen-1080.m3u8","referrer":"https://example.org/","user_agent":"MYTV Test","quality":"1080p","label":null},
+  {"channel":"YemenSports.ye","feed":"Main","title":"720","url":"https://media.example.org/yemen-720.m3u8","referrer":null,"user_agent":null,"quality":"720p","label":null},
+  {"channel":"YemenSports.ye","feed":"Main","title":"480","url":"https://media.example.org/yemen-480.m3u8","referrer":null,"user_agent":null,"quality":"480p","label":null},
+  {"channel":"YemenSports.ye","feed":"Main","title":"other","url":"https://media.example.org/yemen-other.m3u8","referrer":null,"user_agent":null,"quality":"360p","label":null},
+  {"channel":"YemenSports.ye","feed":"Main","title":"US blocked","url":"https://media.example.org/yemen-geoblocked.m3u8","referrer":null,"user_agent":null,"quality":"1080p","label":"Geo-blocked in US"},
+  {"channel":"YemenSports.ye","feed":"Main","title":"duplicate","url":"https://media.example.org/yemen-1080.m3u8","referrer":null,"user_agent":null,"quality":"720p","label":null},
+  {"channel":"ArabGeneral.eg","feed":"Main","title":"General","url":"https://media.example.org/egypt.m3u8","referrer":null,"user_agent":null,"quality":"720p","label":null},
+  {"channel":"UsNews.us","feed":"Main","title":"US News","url":"https://media.example.org/us-news.m3u8","referrer":null,"user_agent":null,"quality":"720p","label":null},
+  {"channel":"UkSports.uk","feed":"Main","title":"UK Sports","url":"https://media.example.org/uk-sports.m3u8","referrer":null,"user_agent":null,"quality":"1080p","label":null},
+  {"channel":"CanadaSports.ca","feed":"Main","title":"Canada Sports","url":"https://media.example.org/ca-sports.m3u8","referrer":null,"user_agent":null,"quality":"720p","label":null},
+  {"channel":"AdultXXX.us","feed":null,"title":"Adult","url":"https://media.example.org/adult.m3u8","referrer":null,"user_agent":null,"quality":"720p","label":null},
+  {"channel":"MissingSafety.ye","feed":null,"title":"Missing","url":"https://media.example.org/missing.m3u8","referrer":null,"user_agent":null,"quality":"720p","label":null},
+  {"channel":"HttpOnly.ye","feed":null,"title":"HTTP","url":"http://media.example.org/http.m3u8","referrer":null,"user_agent":null,"quality":"720p","label":null},
+  {"channel":"BlockedAdult.ye","feed":null,"title":"Blocked","url":"https://media.example.org/blocked.m3u8","referrer":null,"user_agent":null,"quality":"720p","label":null},
+  {"channel":"UserBlocked.ye","feed":null,"title":"User","url":"https://media.example.org/user.m3u8","referrer":null,"user_agent":null,"quality":"720p","label":null}
+]

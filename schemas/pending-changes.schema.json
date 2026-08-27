@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/AbdullaAhmed04/mytv-data/main/schemas/pending-changes.schema.json",
+  "title": "MYTV pending review changes",
+  "type": "object", "additionalProperties": false,
+  "required": ["schemaVersion", "generatedAt", "approvedVersion", "candidateVersion", "summary", "changes"],
+  "properties": {
+    "schemaVersion": {"const": 1},
+    "generatedAt": {"type": "string", "format": "date-time"},
+    "approvedVersion": {"type": "integer", "minimum": 1},
+    "candidateVersion": {"type": "integer", "minimum": 1},
+    "summary": {
+      "type": "object", "additionalProperties": false,
+      "required": ["totalPending", "byType", "adultRejectedCount", "safetyQuarantinedCount"],
+      "properties": {
+        "totalPending": {"type": "integer", "minimum": 0},
+        "byType": {"type": "object", "additionalProperties": {"type": "integer", "minimum": 0}},
+        "adultRejectedCount": {"type": "integer", "minimum": 0},
+        "safetyQuarantinedCount": {"type": "integer", "minimum": 0}
+      }
+    },
+    "changes": {
+      "type": "array",
+      "items": {
+        "type": "object", "additionalProperties": false,
+        "required": ["id", "channelId", "type", "field", "status", "requiresApproval", "detectedAt", "old", "new"],
+        "properties": {
+          "id": {"type": "string", "pattern": "^chg-[a-f0-9]{24}$"},
+          "channelId": {"type": "string", "minLength": 1, "maxLength": 120},
+          "type": {"enum": ["ADD_CHANNEL", "UPSTREAM_MISSING", "CHANGE_IDENTITY", "CHANGE_COUNTRY", "CHANGE_CATEGORIES", "CHANGE_LANGUAGES", "CHANGE_ENABLED", "LOGO_ONLY", "CHANGE_METADATA", "CHANGE_STREAMS", "CHANGE_QUALITY", "CHANGE_STREAM_HEADERS", "CHANGE_GEO", "CHANGE_STREAM_ORDER"]},
+          "field": {"type": "string", "minLength": 1},
+          "status": {"enum": ["PENDING", "AUTO_APPROVED"]},
+          "requiresApproval": {"type": "boolean"},
+          "detectedAt": {"type": "string", "format": "date-time"},
+          "old": {},
+          "new": {}
+        }
+      }
+    }
+  }
+}
