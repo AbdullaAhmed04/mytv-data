@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "version": 8,
-  "generatedAt": "2026-08-27T10:28:36.8353608\u002B00:00",
+  "version": 9,
+  "generatedAt": "2026-08-27T18:21:33.7239400\u002B00:00",
   "links": [
     {
-      "id": "fb2b7fb9-c68f-4a9f-b6b5-0449a38b2937",
-      "name": "fahad",
-      "url": "https://kick.com/fahad",
-      "type": "WEB_PAGE",
-      "resolvedType": null,
+      "id": "9116f2aa-8d5c-47df-9fe5-f0509c3c9be5",
+      "name": "yemen tv",
+      "url": "https://live.yementv.tv/c79810a8-85f6-414f-980b-0ae14ad5228d.html",
+      "type": "AUTO",
+      "resolvedType": "WEB_PAGE",
       "image": null,
       "category": null,
       "notes": null,
