@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "version": 6,
-  "generatedAt": "2026-08-27T09:55:44.9473690\u002B00:00",
+  "version": 7,
+  "generatedAt": "2026-08-27T10:21:56.7257565\u002B00:00",
   "links": [
     {
-      "id": "e7b8db4d-7ba6-40e5-ae00-124884672c6e",
-      "name": "Swimy",
-      "url": "https://www.twitch.tv/swimy",
+      "id": "b0483cc7-9630-4d7e-a360-cf87ac3d0c18",
+      "name": "\u0631\u0627\u0628\u0637 \u062C\u062F\u064A\u062Fydan",
+      "url": "https://www.twitch.tv/aydan",
       "type": "WEB_PAGE",
       "resolvedType": null,
       "image": null,
