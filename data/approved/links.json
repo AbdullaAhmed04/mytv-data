@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "version": 7,
-  "generatedAt": "2026-08-27T10:21:56.7257565\u002B00:00",
+  "version": 8,
+  "generatedAt": "2026-08-27T10:28:36.8353608\u002B00:00",
   "links": [
     {
-      "id": "b0483cc7-9630-4d7e-a360-cf87ac3d0c18",
-      "name": "\u0631\u0627\u0628\u0637 \u062C\u062F\u064A\u062Fydan",
-      "url": "https://www.twitch.tv/aydan",
+      "id": "fb2b7fb9-c68f-4a9f-b6b5-0449a38b2937",
+      "name": "fahad",
+      "url": "https://kick.com/fahad",
       "type": "WEB_PAGE",
       "resolvedType": null,
       "image": null,
