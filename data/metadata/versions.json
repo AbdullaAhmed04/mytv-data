@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "channelsVersion": 1,
-  "linksVersion": 1,
+  "channelsVersion": 2,
+  "linksVersion": 2,
   "appConfigVersion": 1,
-  "publishedAt": "2026-08-27T00:00:00Z",
-  "publishedBy": "initial-safe-state",
+  "publishedAt": "2026-08-27T05:24:52.8854139\u002B00:00",
+  "publishedBy": "MYTV Manager",
   "approvedCommit": null,
   "repository": "https://github.com/AbdullaAhmed04/mytv-data",
   "branch": "main"

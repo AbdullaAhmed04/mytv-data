@@ -1,23 +1,92 @@
 {
   "schemaVersion": 1,
-  "version": 1,
-  "generatedAt": "2026-08-27T00:00:00Z",
-  "countryOrder": ["YE", "SA", "EG", "IQ", "AE", "KW", "QA", "JO", "LB", "SY", "PS", "DZ", "BH", "KM", "DJ", "LY", "MR", "MA", "OM", "SO", "SD", "TN"],
+  "version": 2,
+  "generatedAt": "2026-08-27T05:24:52.8850442\u002B00:00",
+  "countryOrder": [
+    "YE",
+    "SA",
+    "EG",
+    "IQ",
+    "AE",
+    "KW",
+    "QA",
+    "JO",
+    "LB",
+    "SY",
+    "PS",
+    "DZ",
+    "BH",
+    "KM",
+    "DJ",
+    "LY",
+    "MR",
+    "MA",
+    "OM",
+    "SO",
+    "SD",
+    "TN"
+  ],
   "channels": [
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0627\u0644\u0645\u063A\u0631\u0628",
+      "countryCode": "MA",
+      "description": null,
+      "enabled": true,
+      "id": "2MMonde.ma",
+      "languages": [
+        "ara",
+        "fra"
+      ],
+      "logo": "https://i.imgur.com/MvpntzA.png",
+      "name": "2M Monde",
+      "order": 273,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "2MMonde.ma",
+      "website": "https://2m.ma/"
+    },
     {
       "id": "sample.safe.placeholder",
       "upstreamId": null,
-      "name": "بيانات تجريبية آمنة",
-      "country": "اليمن",
+      "name": "\u0628\u064A\u0627\u0646\u0627\u062A \u062A\u062C\u0631\u064A\u0628\u064A\u0629 \u0622\u0645\u0646\u0629",
+      "country": "\u0627\u0644\u064A\u0645\u0646",
       "countryCode": "YE",
-      "categories": ["OTHER"],
-      "languages": ["ara"],
+      "categories": [
+        "OTHER"
+      ],
+      "languages": [
+        "ara"
+      ],
       "logo": null,
       "website": null,
       "enabled": false,
       "order": 1,
-      "description": "عنصر معطل وآمن؛ لا يمثل قناة حية.",
-      "safety": {"isNsfw": false, "reviewed": true},
+      "description": "\u0639\u0646\u0635\u0631 \u0645\u0639\u0637\u0644 \u0648\u0622\u0645\u0646\u061B \u0644\u0627 \u064A\u0645\u062B\u0644 \u0642\u0646\u0627\u0629 \u062D\u064A\u0629.",
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
       "streams": [
         {
           "url": "https://example.com/mytv-safe-placeholder.m3u8",
@@ -26,7 +95,12 @@
           "referer": null,
           "priority": 100,
           "source": "bundled-safe-sample",
-          "geo": {"label": null, "isGeoBlocked": false, "blockedCountries": [], "allowedCountries": []}
+          "geo": {
+            "label": null,
+            "isGeoBlocked": false,
+            "blockedCountries": [],
+            "allowedCountries": []
+          }
         }
       ]
     }
