@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 3,
-  "generatedAt": "2026-08-27T05:49:49.9886096\u002B00:00",
+  "version": 4,
+  "generatedAt": "2026-08-27T05:51:34.9815971\u002B00:00",
   "countryOrder": [
     "YE",
     "SA",
@@ -65,6 +65,120 @@
       ],
       "upstreamId": "2MMonde.ma",
       "website": "https://2m.ma/"
+    },
+    {
+      "categories": [
+        "NEWS"
+      ],
+      "country": "\u0627\u0644\u064A\u0645\u0646",
+      "countryCode": "YE",
+      "description": null,
+      "enabled": true,
+      "id": "AlMasirah.ye",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/V055t5e.png",
+      "name": "Al Masirah",
+      "order": 0,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": "Not 24/7"
+          },
+          "priority": 0,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlMasirah.ye",
+      "website": "https://www.masirahtv.net/"
+    },
+    {
+      "categories": [
+        "NEWS"
+      ],
+      "country": "\u0627\u0644\u064A\u0645\u0646",
+      "countryCode": "YE",
+      "description": null,
+      "enabled": true,
+      "id": "AlMasirahMubacher.ye",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/0xHb3XM.jpg",
+      "name": "Al Masirah Mubacher",
+      "order": 1,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": "Not 24/7"
+          },
+          "priority": 0,
+          "quality": "642p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlMasirahMubacher.ye",
+      "website": "https://www.masirahtv.net/"
+    },
+    {
+      "categories": [
+        "RELIGIOUS"
+      ],
+      "country": "\u0627\u0644\u064A\u0645\u0646",
+      "countryCode": "YE",
+      "description": null,
+      "enabled": true,
+      "id": "AlSahatTV.ye",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/UVndAta.png",
+      "name": "Al-Sahat TV",
+      "order": 2,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlSahatTV.ye",
+      "website": "https://alsahattv.com.ye/live.php"
     },
     {
       "categories": [
