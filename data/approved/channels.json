@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 2,
-  "generatedAt": "2026-08-27T05:24:52.8850442\u002B00:00",
+  "version": 3,
+  "generatedAt": "2026-08-27T05:49:49.9886096\u002B00:00",
   "countryOrder": [
     "YE",
     "SA",
@@ -65,6 +65,44 @@
       ],
       "upstreamId": "2MMonde.ma",
       "website": "https://2m.ma/"
+    },
+    {
+      "categories": [
+        "OTHER"
+      ],
+      "country": "\u0627\u0644\u064A\u0645\u0646",
+      "countryCode": "YE",
+      "description": null,
+      "enabled": true,
+      "id": "YemenTodayTV.ye",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/8TzcJu5.png",
+      "name": "Yemen Today TV",
+      "order": 3,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "480p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://video.yementdy.tv/hls/yementoday.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "YemenTodayTV.ye",
+      "website": null
     },
     {
       "id": "sample.safe.placeholder",
