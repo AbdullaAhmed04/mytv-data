@@ -1,0 +1,54 @@
+name: MYTV channel update check
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mytv-channel-update-check
+  cancel-in-progress: false
+
+jobs:
+  discover-and-review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Check out mytv-data
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate last approved state
+        run: python tools/channel-pipeline/run_pipeline.py --repo-root . validate
+
+      - name: Fetch IPTV-org and generate candidate review
+        run: python tools/channel-pipeline/run_pipeline.py --repo-root . update
+
+      - name: Validate generated candidate and review
+        run: python tools/channel-pipeline/run_pipeline.py --repo-root . validate
+
+      - name: Run pipeline tests
+        working-directory: tools/channel-pipeline
+        run: python -m unittest discover -s tests -v
+
+      - name: Commit review files when changed
+        shell: bash
+        run: |
+          git add data/candidate data/review data/metadata/source-check.json
+          if git diff --cached --quiet; then
+            echo "No candidate changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh MYTV channel candidates"
+          git push origin main
