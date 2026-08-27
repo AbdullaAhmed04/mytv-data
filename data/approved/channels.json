@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 4,
-  "generatedAt": "2026-08-27T05:51:34.9815971\u002B00:00",
+  "version": 5,
+  "generatedAt": "2026-08-27T09:04:28.4166858\u002B00:00",
   "countryOrder": [
     "YE",
     "SA",
@@ -65,6 +65,1141 @@
       ],
       "upstreamId": "2MMonde.ma",
       "website": "https://2m.ma/"
+    },
+    {
+      "categories": [
+        "NEWS"
+      ],
+      "country": "\u0627\u0644\u062C\u0632\u0627\u0626\u0631",
+      "countryCode": "DZ",
+      "description": null,
+      "enabled": true,
+      "id": "AL24News.dz",
+      "languages": [
+        "ara",
+        "eng",
+        "fra"
+      ],
+      "logo": "https://i.imgur.com/vyVEXYL.png",
+      "name": "AL24 News",
+      "order": 260,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": null,
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AL24News.dz",
+      "website": "https://al24news.com/"
+    },
+    {
+      "categories": [
+        "MOVIES"
+      ],
+      "country": "\u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629",
+      "countryCode": "SA",
+      "description": null,
+      "enabled": true,
+      "id": "Aflam.sa",
+      "languages": [
+        "ara",
+        "arz"
+      ],
+      "logo": "https://i.imgur.com/cTLj7Yt.png",
+      "name": "Aflam",
+      "order": 5,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "Aflam.sa",
+      "website": null
+    },
+    {
+      "categories": [
+        "MUSIC"
+      ],
+      "country": "\u0644\u0628\u0646\u0627\u0646",
+      "countryCode": "LB",
+      "description": null,
+      "enabled": true,
+      "id": "AghaniAghaniTV.lb",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/o6HSfNg.png",
+      "name": "Aghani Aghani TV",
+      "order": 209,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://cdn.streamlane.tv/hls/aghanitv/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AghaniAghaniTV.lb",
+      "website": "https://aghaniaghani.com/"
+    },
+    {
+      "categories": [
+        "RELIGIOUS"
+      ],
+      "country": "\u0645\u0635\u0631",
+      "countryCode": "EG",
+      "description": null,
+      "enabled": true,
+      "id": "AghapyTV.eg",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg",
+      "name": "Aghapy TV",
+      "order": 58,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": "Not 24/7"
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AghapyTV.eg",
+      "website": null
+    },
+    {
+      "categories": [
+        "OTHER"
+      ],
+      "country": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062A",
+      "countryCode": "AE",
+      "description": null,
+      "enabled": true,
+      "id": "AlArabiyaBusiness.ae",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://shahid.mbc.net/mediaObject/73142189-aeca-4f65-8977-d769c91e2573?height=auto\u0026width=600\u0026croppingPoint=\u0026version=1\u0026type=png",
+      "name": "Al Arabiya Business",
+      "order": 128,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlArabiyaBusiness.ae",
+      "website": "https://www.alarabiya.net/aswaq"
+    },
+    {
+      "categories": [
+        "NEWS"
+      ],
+      "country": "\u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629",
+      "countryCode": "SA",
+      "description": null,
+      "enabled": true,
+      "id": "AlArabiyaEnglish.sa",
+      "languages": [
+        "eng"
+      ],
+      "logo": "https://i.ibb.co/fVfP7Yvy/en-night-logo.png",
+      "name": "Al Arabiya English",
+      "order": 6,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlArabiyaEnglish.sa",
+      "website": null
+    },
+    {
+      "categories": [
+        "NEWS",
+        "DOCUMENTARY"
+      ],
+      "country": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062A",
+      "countryCode": "AE",
+      "description": null,
+      "enabled": true,
+      "id": "AlArabiyaPrograms.ae",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/Hoc3cfO.png",
+      "name": "Al Arabiya Programs",
+      "order": 129,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1280p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlArabiyaPrograms.ae",
+      "website": "https://www.alarabiya.net/programs"
+    },
+    {
+      "categories": [
+        "NEWS"
+      ],
+      "country": "\u0642\u0637\u0631",
+      "countryCode": "QA",
+      "description": null,
+      "enabled": true,
+      "id": "AlArabyTV.qa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/YMqWEe4.png",
+      "name": "Al Araby TV",
+      "order": 174,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5616",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlArabyTV.qa",
+      "website": "https://www.alaraby.com/"
+    },
+    {
+      "categories": [
+        "NEWS"
+      ],
+      "country": "\u0642\u0637\u0631",
+      "countryCode": "QA",
+      "description": null,
+      "enabled": true,
+      "id": "AlArabyTV2.qa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/Gp5mNea.png",
+      "name": "Al Araby TV 2",
+      "order": 175,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5617",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlArabyTV2.qa",
+      "website": "https://www.alaraby.com/alaraby2"
+    },
+    {
+      "categories": [
+        "NEWS"
+      ],
+      "country": "\u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629",
+      "countryCode": "SA",
+      "description": null,
+      "enabled": true,
+      "id": "AlEkhbariya.sa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/WcRlHQm.png",
+      "name": "Al Ekhbariya",
+      "order": 7,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "360p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlEkhbariya.sa",
+      "website": "https://www.alekhbariya.net/"
+    },
+    {
+      "categories": [
+        "NEWS"
+      ],
+      "country": "\u0645\u0635\u0631",
+      "countryCode": "EG",
+      "description": null,
+      "enabled": true,
+      "id": "AlGhadTV.eg",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/ga6NXb9.png",
+      "name": "Al Ghad TV",
+      "order": 59,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlGhadTV.eg",
+      "website": "https://www.alghad.tv/"
+    },
+    {
+      "categories": [
+        "NEWS"
+      ],
+      "country": "\u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629",
+      "countryCode": "SA",
+      "description": null,
+      "enabled": true,
+      "id": "AlHadath.sa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/De4SEWE.png",
+      "name": "Al Hadath",
+      "order": 8,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": "Not 24/7"
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": "Not 24/7"
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlHadath.sa",
+      "website": "https://www.alhadath.net/"
+    },
+    {
+      "categories": [
+        "RELIGIOUS"
+      ],
+      "country": "\u0644\u0628\u0646\u0627\u0646",
+      "countryCode": "LB",
+      "description": null,
+      "enabled": true,
+      "id": "AlImanTV.lb",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/4WKQppG.png",
+      "name": "Al-Iman TV",
+      "order": 212,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": "Not 24/7"
+          },
+          "priority": 0,
+          "quality": "240p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlImanTV.lb",
+      "website": "https://www.alimantv.com.lb/"
+    },
+    {
+      "categories": [
+        "NEWS"
+      ],
+      "country": "\u0627\u0644\u0639\u0631\u0627\u0642",
+      "countryCode": "IQ",
+      "description": null,
+      "enabled": true,
+      "id": "AlIraqiaNews.iq",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/feQTXeZ.jpg",
+      "name": "Al Iraqia News",
+      "order": 80,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://imn-live.esite-lab.com/hls/iraqia-news.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlIraqiaNews.iq",
+      "website": null
+    },
+    {
+      "categories": [
+        "SPORTS"
+      ],
+      "country": "\u0627\u0644\u0639\u0631\u0627\u0642",
+      "countryCode": "IQ",
+      "description": null,
+      "enabled": true,
+      "id": "AlIraqiaSport.iq",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/DrrlxTO.png",
+      "name": "Al Iraqia Sport",
+      "order": 81,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlIraqiaSport.iq",
+      "website": null
+    },
+    {
+      "categories": [
+        "NEWS"
+      ],
+      "country": "\u0642\u0637\u0631",
+      "countryCode": "QA",
+      "description": null,
+      "enabled": true,
+      "id": "AlJazeera.qa",
+      "languages": [
+        "ara",
+        "eng"
+      ],
+      "logo": "https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540",
+      "name": "Al Jazeera",
+      "order": 176,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://cdn1tlinkgo.tlink.cl/aljazeera/index.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 3,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 4,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 5,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 6,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 7,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlJazeera.qa",
+      "website": "https://www.aljazeera.net/"
+    },
+    {
+      "categories": [
+        "NEWS"
+      ],
+      "country": "\u0642\u0637\u0631",
+      "countryCode": "QA",
+      "description": null,
+      "enabled": true,
+      "id": "AlJazeera2.qa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/miq8O1Q.png",
+      "name": "Al Jazeera 2",
+      "order": 177,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlJazeera2.qa",
+      "website": null
+    },
+    {
+      "categories": [
+        "NEWS"
+      ],
+      "country": "\u0642\u0637\u0631",
+      "countryCode": "QA",
+      "description": null,
+      "enabled": true,
+      "id": "AlJazeeraMubasher.qa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/DfJI4t5.png",
+      "name": "Al Jazeera Mubasher",
+      "order": 179,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 3,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlJazeeraMubasher.qa",
+      "website": null
+    },
+    {
+      "categories": [
+        "NEWS"
+      ],
+      "country": "\u0642\u0637\u0631",
+      "countryCode": "QA",
+      "description": null,
+      "enabled": true,
+      "id": "AlJazeeraMubasher24.qa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/DfJI4t5.png",
+      "name": "Al Jazeera Mubasher 24",
+      "order": 180,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live-hls-web-ajm24-fa.thehlive.com/AJM24/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlJazeeraMubasher24.qa",
+      "website": "https://www.aljazeeramubasher.net/"
+    },
+    {
+      "categories": [
+        "NEWS"
+      ],
+      "country": "\u0642\u0637\u0631",
+      "countryCode": "QA",
+      "description": null,
+      "enabled": true,
+      "id": "AlJazeeraMubasherBroadcast2.qa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/DfJI4t5.png",
+      "name": "Al Jazeera Mubasher Broadcast 2",
+      "order": 181,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlJazeeraMubasherBroadcast2.qa",
+      "website": "https://www.aljazeeramubasher.net/"
+    },
+    {
+      "categories": [
+        "RELIGIOUS"
+      ],
+      "country": "\u0642\u0637\u0631",
+      "countryCode": "QA",
+      "description": null,
+      "enabled": true,
+      "id": "AlMaarefTV.qa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/QFnztgo.png",
+      "name": "Al Maaref TV",
+      "order": 182,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlMaarefTV.qa",
+      "website": "https://almaaref.ch/"
+    },
+    {
+      "categories": [
+        "NEWS"
+      ],
+      "country": "\u0644\u064A\u0628\u064A\u0627",
+      "countryCode": "LY",
+      "description": null,
+      "enabled": true,
+      "id": "AlMasarTV.ly",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU",
+      "name": "Al Masar TV",
+      "order": 269,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "576p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://starmenajo.com/hls/almasar/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlMasarTV.ly",
+      "website": "https://almasartv.ly/"
     },
     {
       "categories": [
@@ -144,6 +1279,224 @@
     },
     {
       "categories": [
+        "NEWS"
+      ],
+      "country": "\u0644\u0628\u0646\u0627\u0646",
+      "countryCode": "LB",
+      "description": null,
+      "enabled": true,
+      "id": "AlMayadeenTV.lb",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/GtQOKeW.png",
+      "name": "Al Mayadeen TV",
+      "order": 211,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "576p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlMayadeenTV.lb",
+      "website": "https://www.almayadeen.net/"
+    },
+    {
+      "categories": [
+        "OTHER"
+      ],
+      "country": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062A",
+      "countryCode": "AE",
+      "description": null,
+      "enabled": true,
+      "id": "AlQamarTV.ae",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/zkBT0C8.png",
+      "name": "Al Qamar TV",
+      "order": 130,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://streamer3.premio.link/alqamar/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlQamarTV.ae",
+      "website": null
+    },
+    {
+      "categories": [
+        "RELIGIOUS"
+      ],
+      "country": "\u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629",
+      "countryCode": "SA",
+      "description": null,
+      "enabled": true,
+      "id": "AlQuranAlKareemTV.sa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png",
+      "name": "Al Quran Al Kareem TV",
+      "order": 9,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": "Not 24/7"
+          },
+          "priority": 0,
+          "quality": "360p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlQuranAlKareemTV.sa",
+      "website": "https://makkahlive.net/tvquran.aspx"
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0642\u0637\u0631",
+      "countryCode": "QA",
+      "description": null,
+      "enabled": true,
+      "id": "AlRayyanOldTV.qa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/4qB5iN0.png",
+      "name": "Al Rayyan Old TV",
+      "order": 183,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://streamer7.qna.org.qa/148136781_live/148136781_63.sdp/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlRayyanOldTV.qa",
+      "website": "https://www.alrayyan.tv/"
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0642\u0637\u0631",
+      "countryCode": "QA",
+      "description": null,
+      "enabled": true,
+      "id": "AlRayyanTV.qa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/Ts3RjTV.png",
+      "name": "Al Rayyan TV",
+      "order": 184,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://streamer7.qna.org.qa/148136749_live/148136749_296.sdp/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlRayyanTV.qa",
+      "website": "https://www.alrayyan.tv/"
+    },
+    {
+      "categories": [
         "RELIGIOUS"
       ],
       "country": "\u0627\u0644\u064A\u0645\u0646",
@@ -179,6 +1532,5837 @@
       ],
       "upstreamId": "AlSahatTV.ye",
       "website": "https://alsahattv.com.ye/live.php"
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629",
+      "countryCode": "SA",
+      "description": null,
+      "enabled": true,
+      "id": "AlSaudiya.sa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/GRQTndk.png",
+      "name": "Al Saudiya",
+      "order": 12,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "360p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlSaudiya.sa",
+      "website": "https://saudiatv.sa/"
+    },
+    {
+      "categories": [
+        "OTHER"
+      ],
+      "country": "\u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629",
+      "countryCode": "SA",
+      "description": null,
+      "enabled": true,
+      "id": "AlSaudiyaAlaan.sa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/sEOjApe.png",
+      "name": "Al Saudiya Alaan",
+      "order": 13,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlSaudiyaAlaan.sa",
+      "website": "https://www.aloula.sa/live/ksa-now"
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062A",
+      "countryCode": "AE",
+      "description": null,
+      "enabled": true,
+      "id": "AlShallalTV.ae",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/otAHLRo.png",
+      "name": "Al Shallal TV",
+      "order": 131,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlShallalTV.ae",
+      "website": "https://www.alshallalchannel.com/"
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062A",
+      "countryCode": "AE",
+      "description": null,
+      "enabled": true,
+      "id": "AlSharqiyaMinKabla.ae",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/m4qheI4.png",
+      "name": "Al Sharqiya Min Kabla",
+      "order": 132,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlSharqiyaMinKabla.ae",
+      "website": null
+    },
+    {
+      "categories": [
+        "OTHER"
+      ],
+      "country": "\u0633\u0648\u0631\u064A\u0627",
+      "countryCode": "SY",
+      "description": null,
+      "enabled": true,
+      "id": "AlSouriyaTV.sy",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Al-Souriya_TV_logo.svg",
+      "name": "Al-Souriya TV",
+      "order": 235,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlSouriyaTV.sy",
+      "website": null
+    },
+    {
+      "categories": [
+        "RELIGIOUS"
+      ],
+      "country": "\u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629",
+      "countryCode": "SA",
+      "description": null,
+      "enabled": true,
+      "id": "AlSunnahAlNabawiyahTV.sa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png",
+      "name": "Al Sunnah Al Nabawiyah TV",
+      "order": 14,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "360p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlSunnahAlNabawiyahTV.sa",
+      "website": "https://www.aloula.sa/en/live/sunnatvsa"
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062A",
+      "countryCode": "AE",
+      "description": null,
+      "enabled": true,
+      "id": "AlWoustaTV.ae",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/zgMqQPQ.png",
+      "name": "Al Wousta TV",
+      "order": 133,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlWoustaTV.ae",
+      "website": "https://sba.net.ae/ar/tv/channel/38"
+    },
+    {
+      "categories": [
+        "NEWS"
+      ],
+      "country": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062A",
+      "countryCode": "AE",
+      "description": null,
+      "enabled": true,
+      "id": "AlYaumTV.ae",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/rBixF3P.png",
+      "name": "Al Yaum TV",
+      "order": 134,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlYaumTV.ae",
+      "website": null
+    },
+    {
+      "categories": [
+        "NEWS"
+      ],
+      "country": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062A",
+      "countryCode": "AE",
+      "description": null,
+      "enabled": true,
+      "id": "Alarabiya.ae",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://shahid.mbc.net/mediaObject/a4c125db-ede8-4970-9eed-963948c78651?height=auto\u0026width=512\u0026croppingPoint=\u0026version=1\u0026type=png",
+      "name": "Alarabiya",
+      "order": 135,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "Alarabiya.ae",
+      "website": "https://www.alarabiya.net/"
+    },
+    {
+      "categories": [
+        "RELIGIOUS"
+      ],
+      "country": "\u0639\u064F\u0645\u0627\u0646",
+      "countryCode": "OM",
+      "description": null,
+      "enabled": true,
+      "id": "AlistiqamaTV.om",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/2FPtYZr.png",
+      "name": "Alistiqama TV",
+      "order": 279,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "576p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AlistiqamaTV.om",
+      "website": null
+    },
+    {
+      "categories": [
+        "NEWS"
+      ],
+      "country": "\u0627\u0644\u0623\u0631\u062F\u0646",
+      "countryCode": "JO",
+      "description": null,
+      "enabled": true,
+      "id": "AltaghierTV.jo",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/YTyCBvB.png",
+      "name": "Altaghier TV",
+      "order": 198,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://jmc-live.ercdn.net/altaghier/altaghier.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AltaghierTV.jo",
+      "website": "https://altaghier.tv/"
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0633\u0648\u0631\u064A\u0627",
+      "countryCode": "SY",
+      "description": null,
+      "enabled": true,
+      "id": "Althania.sy",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://www.althania.tv/themes/custom/althania/assets/images/stv-logo.svg",
+      "name": "Althania",
+      "order": 236,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": null,
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://qmcconnect.qa/api/StreamServices/arabictvsyria2/master.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "Althania.sy",
+      "website": "https://www.althania.tv/"
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0627\u0644\u0623\u0631\u062F\u0646",
+      "countryCode": "JO",
+      "description": null,
+      "enabled": true,
+      "id": "AmmanTV.jo",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/5l7kw0b.png",
+      "name": "Amman TV",
+      "order": 199,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://htvnksdtmy.erbvr.com/ammantvhd/ammantvhd.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AmmanTV.jo",
+      "website": "https://ammantv.net/"
+    },
+    {
+      "categories": [
+        "NEWS",
+        "OTHER"
+      ],
+      "country": "\u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629",
+      "countryCode": "SA",
+      "description": null,
+      "enabled": true,
+      "id": "AsharqNews.sa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/bqRC3sl.png",
+      "name": "Asharq News",
+      "order": 19,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live-news.asharq.com/asharq.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/manifest.mpd",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 3,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AsharqNews.sa",
+      "website": "https://asharq.com/"
+    },
+    {
+      "categories": [
+        "NEWS",
+        "OTHER"
+      ],
+      "country": "\u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629",
+      "countryCode": "SA",
+      "description": null,
+      "enabled": true,
+      "id": "AsharqRadio.sa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/M6K8cD3.jpeg",
+      "name": "Asharq Radio",
+      "order": 20,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AsharqRadio.sa",
+      "website": "https://asharqbusiness.com/radio/"
+    },
+    {
+      "categories": [
+        "KIDS"
+      ],
+      "country": "\u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629",
+      "countryCode": "SA",
+      "description": null,
+      "enabled": true,
+      "id": "AtfalMawahebTV.sa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/Y2BqP9m.png",
+      "name": "Atfal \u0026 Mawaheb TV",
+      "order": 21,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "AtfalMawahebTV.sa",
+      "website": "https://atfal1.com/"
+    },
+    {
+      "categories": [
+        "SERIES"
+      ],
+      "country": "\u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629",
+      "countryCode": "SA",
+      "description": null,
+      "enabled": true,
+      "id": "BabAlHara.sa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/QtlnZbq.png",
+      "name": "Bab Al Hara",
+      "order": 22,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "BabAlHara.sa",
+      "website": null
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0627\u0644\u0628\u062D\u0631\u064A\u0646",
+      "countryCode": "BH",
+      "description": null,
+      "enabled": true,
+      "id": "BahrainInternational.bh",
+      "languages": [
+        "ara",
+        "eng"
+      ],
+      "logo": "https://i.imgur.com/t6Lmntr.png",
+      "name": "Bahrain International",
+      "order": 264,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": "Not 24/7"
+          },
+          "priority": 0,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "BahrainInternational.bh",
+      "website": "https://www.mia.gov.bh/media-center/live-tv-and-radio/?lang=en"
+    },
+    {
+      "categories": [
+        "RELIGIOUS"
+      ],
+      "country": "\u0627\u0644\u0628\u062D\u0631\u064A\u0646",
+      "countryCode": "BH",
+      "description": null,
+      "enabled": true,
+      "id": "BahrainQuran.bh",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/er5hOK4.png",
+      "name": "Bahrain Quran",
+      "order": 265,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": "Not 24/7"
+          },
+          "priority": 0,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "BahrainQuran.bh",
+      "website": "https://www.mia.gov.bh/media-center/live-tv-and-radio/?lang=en"
+    },
+    {
+      "categories": [
+        "SPORTS"
+      ],
+      "country": "\u0627\u0644\u0628\u062D\u0631\u064A\u0646",
+      "countryCode": "BH",
+      "description": null,
+      "enabled": true,
+      "id": "BahrainSports1.bh",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/fBpLsbC.png",
+      "name": "Bahrain Sports 1",
+      "order": 266,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": "Not 24/7"
+          },
+          "priority": 0,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "BahrainSports1.bh",
+      "website": "https://www.mia.gov.bh/media-center/live-tv-and-radio/?lang=en"
+    },
+    {
+      "categories": [
+        "SPORTS"
+      ],
+      "country": "\u0627\u0644\u0628\u062D\u0631\u064A\u0646",
+      "countryCode": "BH",
+      "description": null,
+      "enabled": true,
+      "id": "BahrainSports2.bh",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/ZkuZmIo.png",
+      "name": "Bahrain Sports 2",
+      "order": 267,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": "Not 24/7"
+          },
+          "priority": 0,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "BahrainSports2.bh",
+      "website": "https://www.mia.gov.bh/media-center/live-tv-and-radio/?lang=en"
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0627\u0644\u0628\u062D\u0631\u064A\u0646",
+      "countryCode": "BH",
+      "description": null,
+      "enabled": true,
+      "id": "BahrainTV.bh",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/LTD0jIm.png",
+      "name": "Bahrain TV",
+      "order": 268,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": "Not 24/7"
+          },
+          "priority": 0,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "BahrainTV.bh",
+      "website": "https://www.mia.gov.bh/media-center/live-tv-and-radio/?lang=en"
+    },
+    {
+      "categories": [
+        "OTHER"
+      ],
+      "country": "\u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629",
+      "countryCode": "SA",
+      "description": null,
+      "enabled": true,
+      "id": "BigTimePlus.sa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://shahid.mbc.net/mediaObject/4e042cb6-500b-4e4c-a8ca-21a5a7a7a71b",
+      "name": "Big Time Plus",
+      "order": 23,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "BigTimePlus.sa",
+      "website": null
+    },
+    {
+      "categories": [
+        "SPORTS"
+      ],
+      "country": "\u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629",
+      "countryCode": "US",
+      "description": null,
+      "enabled": true,
+      "id": "BilliardTV.us",
+      "languages": [
+        "eng"
+      ],
+      "logo": "https://i.imgur.com/BZijfKh.png",
+      "name": "Billiard TV",
+      "order": 336,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": true,
+            "label": "Geo-blocked"
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://pb-wm04vonaerv0k.akamaized.net/billi.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "BilliardTV.us",
+      "website": "https://streamstak.com/billiardtv/"
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0645\u0635\u0631",
+      "countryCode": "EG",
+      "description": null,
+      "enabled": true,
+      "id": "CBC.eg",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/8apNaLP.png",
+      "name": "CBC",
+      "order": 60,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "576p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://flu.systemnet.tv/CBC/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "CBC.eg",
+      "website": "https://www.cbc-eg.com/"
+    },
+    {
+      "categories": [
+        "SERIES"
+      ],
+      "country": "\u0645\u0635\u0631",
+      "countryCode": "EG",
+      "description": null,
+      "enabled": true,
+      "id": "CBCDrama.eg",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/I8YdakH.png",
+      "name": "CBC Drama",
+      "order": 61,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "576p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://flu.systemnet.tv/CBCDrama/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "CBCDrama.eg",
+      "website": "https://www.cbc-eg.com/drama"
+    },
+    {
+      "categories": [
+        "OTHER"
+      ],
+      "country": "\u0645\u0635\u0631",
+      "countryCode": "EG",
+      "description": null,
+      "enabled": true,
+      "id": "CBCSofra.eg",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/YAdk2WR.png",
+      "name": "CBC Sofra",
+      "order": 62,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "576p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "CBCSofra.eg",
+      "website": "https://sofra.cbc-eg.com/"
+    },
+    {
+      "categories": [
+        "OTHER"
+      ],
+      "country": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062A",
+      "countryCode": "AE",
+      "description": null,
+      "enabled": true,
+      "id": "CNBCArabiya.ae",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/CNBC_Arabia_2025.svg/960px-CNBC_Arabia_2025.svg.png",
+      "name": "CNBC Arabiya",
+      "order": 136,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://cnbc-live.akamaized.net/cnbc/master.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "CNBCArabiya.ae",
+      "website": "https://www.cnbcarabia.com/"
+    },
+    {
+      "categories": [
+        "RELIGIOUS"
+      ],
+      "country": "\u0627\u0644\u0643\u0648\u064A\u062A",
+      "countryCode": "KW",
+      "description": null,
+      "enabled": true,
+      "id": "Ch4TeenDocumentary.kw",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/pHpFGeg.png",
+      "name": "Ch4Teen Documentary",
+      "order": 163,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://ch14.tv/live/ch4teendoc/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "Ch4TeenDocumentary.kw",
+      "website": "https://www.twitch.tv/ch4teendoc"
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0627\u0644\u0645\u063A\u0631\u0628",
+      "countryCode": "MA",
+      "description": null,
+      "enabled": true,
+      "id": "ChadaTV.ma",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://freebox.cdn.scw.iliad.fr/medium_Logo_chada_tv_2ee1412d38.png",
+      "name": "Chada TV",
+      "order": 274,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://edge13.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://edge19.vedge.infomaniak.com/livecast/ik:chadatv/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "ChadaTV.ma",
+      "website": "https://chadatv.com/"
+    },
+    {
+      "categories": [
+        "RELIGIOUS"
+      ],
+      "country": "\u0645\u0635\u0631",
+      "countryCode": "EG",
+      "description": null,
+      "enabled": true,
+      "id": "CopticTV.eg",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://www.ctvchannel.tv/images/CTV-logo-white.png",
+      "name": "Coptic TV",
+      "order": 63,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": "Not 24/7"
+          },
+          "priority": 0,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://ctv.icopts.app/CTV/index.fmp4.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "CopticTV.eg",
+      "website": "https://www.ctvchannel.tv/"
+    },
+    {
+      "categories": [
+        "OTHER"
+      ],
+      "country": "\u0633\u0648\u0631\u064A\u0627",
+      "countryCode": "SY",
+      "description": null,
+      "enabled": true,
+      "id": "DamascusRadio.sy",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://damasradio.fm/wp-content/uploads/2026/01/logo-red.svg",
+      "name": "Damascus Radio",
+      "order": 237,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "DamascusRadio.sy",
+      "website": "https://damasradio.fm"
+    },
+    {
+      "categories": [
+        "SPORTS"
+      ],
+      "country": "\u0627\u0644\u062C\u0632\u0627\u0626\u0631",
+      "countryCode": "DZ",
+      "description": null,
+      "enabled": true,
+      "id": "ElHeddafTV.dz",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/cDkIDIA.png",
+      "name": "El-Heddaf TV",
+      "order": 262,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live.elheddaftv.com:8081/elheddaftv/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "ElHeddafTV.dz",
+      "website": "https://www.elheddaf.com/"
+    },
+    {
+      "categories": [
+        "MUSIC"
+      ],
+      "country": "\u0645\u0635\u0631",
+      "countryCode": "EG",
+      "description": null,
+      "enabled": true,
+      "id": "ElRadio9090FM.eg",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://www.9090.fm/images/logo.png",
+      "name": "El Radio 9090 FM",
+      "order": 64,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "480p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://9090video.mobtada.com/hls/stream.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "ElRadio9090FM.eg",
+      "website": "https://www.9090.fm/"
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u062A\u0648\u0646\u0633",
+      "countryCode": "TN",
+      "description": null,
+      "enabled": true,
+      "id": "ElWatania1.tn",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/gNr2V14.png",
+      "name": "El Watania 1",
+      "order": 290,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080i",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/playlist.m3u8?DVR",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "1080i",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/chunklist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "ElWatania1.tn",
+      "website": null
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u062A\u0648\u0646\u0633",
+      "countryCode": "TN",
+      "description": null,
+      "enabled": true,
+      "id": "ElWatania2.tn",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/kgkrD3V.png",
+      "name": "El Watania 2",
+      "order": 291,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/playlist.m3u8?DVR",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "ElWatania2.tn",
+      "website": null
+    },
+    {
+      "categories": [
+        "MUSIC"
+      ],
+      "country": "\u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629",
+      "countryCode": "SA",
+      "description": null,
+      "enabled": true,
+      "id": "Fairuz.sa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://shahid.mbc.net/mediaObject/f809d51c-e83d-43c9-8236-78731c2216ad?type=png",
+      "name": "Fairuz",
+      "order": 25,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "Fairuz.sa",
+      "website": null
+    },
+    {
+      "categories": [
+        "SPORTS"
+      ],
+      "country": "\u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629",
+      "countryCode": "US",
+      "description": null,
+      "enabled": true,
+      "id": "FloRacing.us",
+      "languages": [
+        "eng"
+      ],
+      "logo": "https://images.fubo.tv/channel-config-ui/station-logos/on-dark/floracing-white.png",
+      "name": "FloRacing",
+      "order": 367,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "FloRacing.us",
+      "website": "https://flosports.tv/"
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0644\u0628\u0646\u0627\u0646",
+      "countryCode": "LB",
+      "description": null,
+      "enabled": true,
+      "id": "FutureTV.lb",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/OaqEpwe.png",
+      "name": "Future TV",
+      "order": 215,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "FutureTV.lb",
+      "website": null
+    },
+    {
+      "categories": [
+        "SPORTS"
+      ],
+      "country": "\u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629",
+      "countryCode": "US",
+      "description": null,
+      "enabled": true,
+      "id": "GolazoNetwork.us",
+      "languages": [
+        "eng"
+      ],
+      "logo": "https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG_1731835813404.png",
+      "name": "Golazo Network",
+      "order": 377,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "GolazoNetwork.us",
+      "website": "https://pluto.tv/live-tv/golazo-network/details"
+    },
+    {
+      "categories": [
+        "NEWS"
+      ],
+      "country": "\u0633\u0648\u0631\u064A\u0627",
+      "countryCode": "SY",
+      "description": null,
+      "enabled": true,
+      "id": "HalabTodayTV.sy",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://pbs.twimg.com/profile_images/1779495135841075200/aPINrLwe_400x400.png",
+      "name": "Halab Today TV",
+      "order": 238,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://halabtoday-live.lg.mncdn.com/halabtoday/livestream/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "HalabTodayTV.sy",
+      "website": "https://halabtodaytv.net/"
+    },
+    {
+      "categories": [
+        "RELIGIOUS",
+        "GENERAL"
+      ],
+      "country": "\u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629",
+      "countryCode": "SA",
+      "description": null,
+      "enabled": true,
+      "id": "HolyQuranRadio.sa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://aloula.faulio.com/storage/mediagallery/14/da/fullhd_823bc2fe722ede75410492d57fd6c201208b4224.png",
+      "name": "Holy Quran Radio",
+      "order": 26,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "HolyQuranRadio.sa",
+      "website": "https://radioplus.sba.sa/ar/live/4"
+    },
+    {
+      "categories": [
+        "RELIGIOUS"
+      ],
+      "country": "\u0645\u0635\u0631",
+      "countryCode": "EG",
+      "description": null,
+      "enabled": true,
+      "id": "HudaTV.eg",
+      "languages": [
+        "eng"
+      ],
+      "logo": "https://i.imgur.com/1UUjU26.png",
+      "name": "Huda TV",
+      "order": 65,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": "Not 24/7"
+          },
+          "priority": 0,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "HudaTV.eg",
+      "website": "https://huda.tv/"
+    },
+    {
+      "categories": [
+        "RELIGIOUS"
+      ],
+      "country": "\u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629",
+      "countryCode": "SA",
+      "description": null,
+      "enabled": true,
+      "id": "IqraaAfricaEurope.sa",
+      "languages": [
+        "ara",
+        "eng",
+        "fra"
+      ],
+      "logo": "https://i.imgur.com/nUlZvSe.png",
+      "name": "Iqraa Africa \u0026 Europe",
+      "order": 27,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "IqraaAfricaEurope.sa",
+      "website": "https://iqraa.com/"
+    },
+    {
+      "categories": [
+        "RELIGIOUS"
+      ],
+      "country": "\u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629",
+      "countryCode": "SA",
+      "description": null,
+      "enabled": true,
+      "id": "IqraaArabic.sa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/HPVsIa4.png",
+      "name": "Iqraa Arabic",
+      "order": 28,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": "Not 24/7"
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "IqraaArabic.sa",
+      "website": "https://iqraa.com/"
+    },
+    {
+      "categories": [
+        "RELIGIOUS"
+      ],
+      "country": "\u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629",
+      "countryCode": "SA",
+      "description": null,
+      "enabled": true,
+      "id": "IqraaQuran.sa",
+      "languages": [
+        "ara",
+        "eng",
+        "fra"
+      ],
+      "logo": "https://i.imgur.com/HPVsIa4.png",
+      "name": "Iqraa Quran",
+      "order": 29,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "IqraaQuran.sa",
+      "website": "https://iqraa.com/"
+    },
+    {
+      "categories": [
+        "MUSIC"
+      ],
+      "country": "\u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629",
+      "countryCode": "SA",
+      "description": null,
+      "enabled": true,
+      "id": "JeddahRadio.sa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://aloula.faulio.com/storage/mediagallery/bd/f5/fullhd_527bf54a5adb56ac17f572ac2cd0801304db3baf.png",
+      "name": "Jeddah Radio",
+      "order": 30,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/chunks.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "JeddahRadio.sa",
+      "website": null
+    },
+    {
+      "categories": [
+        "OTHER"
+      ],
+      "country": "\u0627\u0644\u0623\u0631\u062F\u0646",
+      "countryCode": "JO",
+      "description": null,
+      "enabled": true,
+      "id": "JordanArchive.jo",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/8UrCl4k.png",
+      "name": "Jordan Archive",
+      "order": 200,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "JordanArchive.jo",
+      "website": null
+    },
+    {
+      "categories": [
+        "OTHER"
+      ],
+      "country": "\u0627\u0644\u0623\u0631\u062F\u0646",
+      "countryCode": "JO",
+      "description": null,
+      "enabled": true,
+      "id": "JordanComedy.jo",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/DuwwoO2.png",
+      "name": "Jordan Comedy",
+      "order": 201,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "JordanComedy.jo",
+      "website": null
+    },
+    {
+      "categories": [
+        "OTHER"
+      ],
+      "country": "\u0627\u0644\u0623\u0631\u062F\u0646",
+      "countryCode": "JO",
+      "description": null,
+      "enabled": true,
+      "id": "JordanDrama.jo",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/gvIAEsJ.png",
+      "name": "Jordan Drama",
+      "order": 202,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "JordanDrama.jo",
+      "website": null
+    },
+    {
+      "categories": [
+        "OTHER"
+      ],
+      "country": "\u0627\u0644\u0623\u0631\u062F\u0646",
+      "countryCode": "JO",
+      "description": null,
+      "enabled": true,
+      "id": "JordanKitchen.jo",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/B45qcQX.png",
+      "name": "Jordan Kitchen",
+      "order": 203,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "JordanKitchen.jo",
+      "website": null
+    },
+    {
+      "categories": [
+        "MUSIC"
+      ],
+      "country": "\u0627\u0644\u0623\u0631\u062F\u0646",
+      "countryCode": "JO",
+      "description": null,
+      "enabled": true,
+      "id": "JordanSongs.jo",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/1DE7Gmw.png",
+      "name": "Jordan Songs",
+      "order": 204,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "JordanSongs.jo",
+      "website": null
+    },
+    {
+      "categories": [
+        "SPORTS"
+      ],
+      "country": "\u0627\u0644\u0623\u0631\u062F\u0646",
+      "countryCode": "JO",
+      "description": null,
+      "enabled": true,
+      "id": "JordanSport.jo",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/2EmrZPQ.png",
+      "name": "Jordan Sport",
+      "order": 205,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": true,
+            "label": "Geo-blocked"
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "JordanSport.jo",
+      "website": null
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0627\u0644\u0623\u0631\u062F\u0646",
+      "countryCode": "JO",
+      "description": null,
+      "enabled": true,
+      "id": "JordanTV.jo",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://www.jrtv.gov.jo/static/media/jrtv-logo-3.c1d0dd22.png",
+      "name": "Jordan TV",
+      "order": 207,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "JordanTV.jo",
+      "website": "https://www.jrtv.gov.jo/"
+    },
+    {
+      "categories": [
+        "OTHER"
+      ],
+      "country": "\u0627\u0644\u0623\u0631\u062F\u0646",
+      "countryCode": "JO",
+      "description": null,
+      "enabled": true,
+      "id": "JordanTourism.jo",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/gpeIoU9.png",
+      "name": "Jordan Tourism",
+      "order": 206,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "JordanTourism.jo",
+      "website": null
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0627\u0644\u0643\u0648\u064A\u062A",
+      "countryCode": "KW",
+      "description": null,
+      "enabled": true,
+      "id": "KTV1.kw",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/kG0d8Ay.png",
+      "name": "KTV 1",
+      "order": 164,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "360p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://cdn-globecast.akamaized.net/live/eds/kuwait_tv1/hls_roku/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "KTV1.kw",
+      "website": "https://media.gov.kw/"
+    },
+    {
+      "categories": [
+        "NEWS",
+        "CULTURE"
+      ],
+      "country": "\u0627\u0644\u0643\u0648\u064A\u062A",
+      "countryCode": "KW",
+      "description": null,
+      "enabled": true,
+      "id": "KTV2.kw",
+      "languages": [
+        "eng"
+      ],
+      "logo": "https://i.imgur.com/hB57mNh.png",
+      "name": "KTV 2",
+      "order": 165,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "KTV2.kw",
+      "website": "https://media.gov.kw/"
+    },
+    {
+      "categories": [
+        "RELIGIOUS"
+      ],
+      "country": "\u0627\u0644\u0643\u0648\u064A\u062A",
+      "countryCode": "KW",
+      "description": null,
+      "enabled": true,
+      "id": "KTVAlQurain.kw",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/naVEZtj.png",
+      "name": "KTV Al Qurain",
+      "order": 166,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "KTVAlQurain.kw",
+      "website": "https://media.gov.kw/"
+    },
+    {
+      "categories": [
+        "CULTURE"
+      ],
+      "country": "\u0627\u0644\u0643\u0648\u064A\u062A",
+      "countryCode": "KW",
+      "description": null,
+      "enabled": true,
+      "id": "KTVArabe.kw",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/jg3VAxO.png",
+      "name": "KTV Arabe",
+      "order": 167,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "KTVArabe.kw",
+      "website": "https://media.gov.kw/"
+    },
+    {
+      "categories": [
+        "RELIGIOUS"
+      ],
+      "country": "\u0627\u0644\u0643\u0648\u064A\u062A",
+      "countryCode": "KW",
+      "description": null,
+      "enabled": true,
+      "id": "KTVEthraa.kw",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/hqEbc49.png",
+      "name": "KTV Ethraa",
+      "order": 168,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "KTVEthraa.kw",
+      "website": "https://media.gov.kw/"
+    },
+    {
+      "categories": [
+        "NEWS"
+      ],
+      "country": "\u0627\u0644\u0643\u0648\u064A\u062A",
+      "countryCode": "KW",
+      "description": null,
+      "enabled": true,
+      "id": "KTVNews.kw",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/erZ0Ol1.png",
+      "name": "KTV News",
+      "order": 169,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "360p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://cdn-globecast.akamaized.net/live/eds/ktv_al_akhbar/hls_roku/ktv_al_akhbar.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "KTVNews.kw",
+      "website": "https://media.gov.kw/"
+    },
+    {
+      "categories": [
+        "SPORTS"
+      ],
+      "country": "\u0627\u0644\u0643\u0648\u064A\u062A",
+      "countryCode": "KW",
+      "description": null,
+      "enabled": true,
+      "id": "KTVSport.kw",
+      "languages": [
+        "ara",
+        "eng"
+      ],
+      "logo": "https://i.imgur.com/R1hGX1d.png",
+      "name": "KTV Sport",
+      "order": 170,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "KTVSport.kw",
+      "website": "https://media.gov.kw/"
+    },
+    {
+      "categories": [
+        "SPORTS"
+      ],
+      "country": "\u0627\u0644\u0643\u0648\u064A\u062A",
+      "countryCode": "KW",
+      "description": null,
+      "enabled": true,
+      "id": "KTVSportPlus.kw",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/l4oX0gf.png",
+      "name": "KTV Sport Plus",
+      "order": 171,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "KTVSportPlus.kw",
+      "website": null
+    },
+    {
+      "categories": [
+        "KIDS",
+        "RELIGIOUS"
+      ],
+      "country": "\u0645\u0635\u0631",
+      "countryCode": "EG",
+      "description": null,
+      "enabled": true,
+      "id": "KoogiTV.eg",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/zojMTP9.png",
+      "name": "Koogi TV",
+      "order": 66,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "KoogiTV.eg",
+      "website": "https://www.koogi.tv/"
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0644\u0628\u0646\u0627\u0646",
+      "countryCode": "LB",
+      "description": null,
+      "enabled": true,
+      "id": "LanaTV.lb",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/xPoycVY.png",
+      "name": "Lana TV",
+      "order": 216,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "576p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://cdn.streamlane.tv/hls/ltv/master.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "LanaTV.lb",
+      "website": "https://ltv.com.lb/"
+    },
+    {
+      "categories": [
+        "NEWS"
+      ],
+      "country": "\u0642\u0637\u0631",
+      "countryCode": "QA",
+      "description": null,
+      "enabled": true,
+      "id": "LibyaAlAhrarTV.qa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/xkQKVGi.png",
+      "name": "Libya Al Ahrar TV",
+      "order": 192,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": "https://player.castr.com",
+          "source": "iptv-org",
+          "url": "https://stream-hls.castr.net/64490fcefe045f1b63012886/live_22d9a1f0c69c11ee9441219c2cc6d61f/index.fmp4.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "LibyaAlAhrarTV.qa",
+      "website": "https://libyaalahrar.tv/"
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0644\u064A\u0628\u064A\u0627",
+      "countryCode": "LY",
+      "description": null,
+      "enabled": true,
+      "id": "LibyaAlWataniya.ly",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/KSUny9D.jpeg",
+      "name": "Libya Al Wataniya",
+      "order": 270,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "360p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "LibyaAlWataniya.ly",
+      "website": null
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062A",
+      "countryCode": "AE",
+      "description": null,
+      "enabled": true,
+      "id": "MBC1.ae",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/CiA3plN.png",
+      "name": "MBC 1",
+      "order": 138,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "MBC1.ae",
+      "website": null
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0645\u0635\u0631",
+      "countryCode": "EG",
+      "description": null,
+      "enabled": true,
+      "id": "MBC1Egypt.eg",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/CiA3plN.png",
+      "name": "MBC 1 Egypt",
+      "order": 67,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "MBC1Egypt.eg",
+      "website": null
+    },
+    {
+      "categories": [
+        "OTHER"
+      ],
+      "country": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062A",
+      "countryCode": "AE",
+      "description": null,
+      "enabled": true,
+      "id": "MBC4.ae",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/BcXASJp.png",
+      "name": "MBC 4",
+      "order": 139,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "MBC4.ae",
+      "website": null
+    },
+    {
+      "categories": [
+        "OTHER"
+      ],
+      "country": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062A",
+      "countryCode": "AE",
+      "description": null,
+      "enabled": true,
+      "id": "MBC5.ae",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/fRWaDyF.png",
+      "name": "MBC 5",
+      "order": 140,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "MBC5.ae",
+      "website": "https://www.mbc.net/channels/mbc5"
+    },
+    {
+      "categories": [
+        "MOVIES"
+      ],
+      "country": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062A",
+      "countryCode": "AE",
+      "description": null,
+      "enabled": true,
+      "id": "MBCBollywood.ae",
+      "languages": [
+        "ara",
+        "eng",
+        "hin"
+      ],
+      "logo": "https://i.imgur.com/TTAGFHG.png",
+      "name": "MBC Bollywood",
+      "order": 141,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": true,
+            "label": "Geo-blocked"
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "MBCBollywood.ae",
+      "website": null
+    },
+    {
+      "categories": [
+        "OTHER"
+      ],
+      "country": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062A",
+      "countryCode": "AE",
+      "description": null,
+      "enabled": true,
+      "id": "MBCDrama.ae",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/g5PWnqp.png",
+      "name": "MBC Drama",
+      "order": 142,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "MBCDrama.ae",
+      "website": "https://www.mbc.net/channels/mbc-drama"
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0627\u0644\u0639\u0631\u0627\u0642",
+      "countryCode": "IQ",
+      "description": null,
+      "enabled": true,
+      "id": "MBCIraq.iq",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/D0LxiPE.png",
+      "name": "MBC Iraq",
+      "order": 117,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "MBCIraq.iq",
+      "website": "https://www.mbc.net/channels/mbc-iraq"
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0645\u0635\u0631",
+      "countryCode": "EG",
+      "description": null,
+      "enabled": true,
+      "id": "MBCMasr.eg",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/o2elx0u.png",
+      "name": "MBC Masr",
+      "order": 68,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "MBCMasr.eg",
+      "website": null
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0645\u0635\u0631",
+      "countryCode": "EG",
+      "description": null,
+      "enabled": true,
+      "id": "MBCMasr2.eg",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/KHo7Gtn.png",
+      "name": "MBC Masr 2",
+      "order": 69,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "MBCMasr2.eg",
+      "website": null
+    },
+    {
+      "categories": [
+        "SERIES"
+      ],
+      "country": "\u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629",
+      "countryCode": "SA",
+      "description": null,
+      "enabled": true,
+      "id": "MBCMasrDrama.sa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://media0070.elcinema.com/tvguide/1399_1.png",
+      "name": "MBC Masr Drama",
+      "order": 36,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "MBCMasrDrama.sa",
+      "website": "https://www.mbc.net/"
+    },
+    {
+      "categories": [
+        "MUSIC"
+      ],
+      "country": "\u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629",
+      "countryCode": "SA",
+      "description": null,
+      "enabled": true,
+      "id": "MBCMood.sa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://www.mbcmood.com/images/Logo.png",
+      "name": "MBC Mood",
+      "order": 37,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "MBCMood.sa",
+      "website": "https://www.mbcmood.com/"
+    },
+    {
+      "categories": [
+        "OTHER"
+      ],
+      "country": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062A",
+      "countryCode": "AE",
+      "description": null,
+      "enabled": true,
+      "id": "MBCPersia.ae",
+      "languages": [
+        "fas"
+      ],
+      "logo": "https://i.imgur.com/4FXiyjn.png",
+      "name": "MBC Persia",
+      "order": 144,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://hls.mbcpersia.live/hls/stream.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "MBCPersia.ae",
+      "website": null
+    },
+    {
+      "categories": [
+        "SPORTS"
+      ],
+      "country": "\u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629",
+      "countryCode": "US",
+      "description": null,
+      "enabled": true,
+      "id": "MLB.us",
+      "languages": [
+        "eng"
+      ],
+      "logo": "https://i.imgur.com/ym3su2J.png",
+      "name": "MLB",
+      "order": 395,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": "Not 24/7"
+          },
+          "priority": 0,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": true,
+            "label": "Geo-blocked"
+          },
+          "priority": 2,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "MLB.us",
+      "website": "https://pluto.tv/en/live-tv/mlb"
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0644\u0628\u0646\u0627\u0646",
+      "countryCode": "LB",
+      "description": null,
+      "enabled": true,
+      "id": "MTVLebanon.lb",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png",
+      "name": "MTV Lebanon",
+      "order": 218,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "MTVLebanon.lb",
+      "website": null
+    },
+    {
+      "categories": [
+        "MUSIC"
+      ],
+      "country": "\u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629",
+      "countryCode": "SA",
+      "description": null,
+      "enabled": true,
+      "id": "MajidAlMohandis.sa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.discogs.com/Fk9Bm8gTYJYeVXIJKX-EOGmYQ90sVQPtkIW5ZK4fydo/rs:fit/g:sm/q:90/h:372/w:412/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2OTY4/MzMtMTU2ODk0NjI5/MC01Njk2LmpwZWc.jpeg",
+      "name": "Majid Al Mohandis",
+      "order": 32,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-amg-fast.edgenextcdn.net/tx019/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "MajidAlMohandis.sa",
+      "website": null
+    },
+    {
+      "categories": [
+        "RELIGIOUS"
+      ],
+      "country": "\u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629",
+      "countryCode": "SA",
+      "description": null,
+      "enabled": true,
+      "id": "MakkahTV.sa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.ibb.co/r2k71w5N/download.png",
+      "name": "Makkah TV",
+      "order": 33,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "576p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": true,
+            "label": "Geo-blocked"
+          },
+          "priority": 1,
+          "quality": null,
+          "referer": "https://www.dens.tv/",
+          "source": "iptv-org",
+          "url": "https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8",
+          "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
+        }
+      ],
+      "upstreamId": "MakkahTV.sa",
+      "website": "https://makkahtv.tv/"
+    },
+    {
+      "categories": [
+        "SERIES"
+      ],
+      "country": "\u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629",
+      "countryCode": "SA",
+      "description": null,
+      "enabled": true,
+      "id": "Maraya.sa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://shahid.mbc.net/mediaObject/d089a559-4f41-4def-a786-f98fcfbf0464?height=auto\u0026width=288\u0026croppingPoint=\u0026version=1\u0026type=png",
+      "name": "Maraya",
+      "order": 34,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "Maraya.sa",
+      "website": null
+    },
+    {
+      "categories": [
+        "NEWS"
+      ],
+      "country": "\u0627\u0644\u0645\u063A\u0631\u0628",
+      "countryCode": "MA",
+      "description": null,
+      "enabled": true,
+      "id": "Medi1TVAfrique.ma",
+      "languages": [
+        "fra"
+      ],
+      "logo": "https://i.imgur.com/a20DHnj.png",
+      "name": "Medi1TV Afrique",
+      "order": 275,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "Medi1TVAfrique.ma",
+      "website": "https://medi1tv.com/"
+    },
+    {
+      "categories": [
+        "NEWS"
+      ],
+      "country": "\u0627\u0644\u0645\u063A\u0631\u0628",
+      "countryCode": "MA",
+      "description": null,
+      "enabled": true,
+      "id": "Medi1TVArabic.ma",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/3YsZPY6.jpeg",
+      "name": "Medi1TV Arabic",
+      "order": 276,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dvr.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "Medi1TVArabic.ma",
+      "website": "https://medi1tv.com/"
+    },
+    {
+      "categories": [
+        "NEWS"
+      ],
+      "country": "\u0627\u0644\u0645\u063A\u0631\u0628",
+      "countryCode": "MA",
+      "description": null,
+      "enabled": true,
+      "id": "Medi1TVMaghreb.ma",
+      "languages": [
+        "ara",
+        "fra"
+      ],
+      "logo": "https://i.imgur.com/F5OFQsp.jpeg",
+      "name": "Medi1TV Maghreb",
+      "order": 277,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist_dvr.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "Medi1TVMaghreb.ma",
+      "website": "https://medi1tv.com/"
+    },
+    {
+      "categories": [
+        "MUSIC"
+      ],
+      "country": "\u0627\u0644\u0623\u0631\u062F\u0646",
+      "countryCode": "JO",
+      "description": null,
+      "enabled": true,
+      "id": "MelodyFM.jo",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/J8omcNz.png",
+      "name": "Melody FM",
+      "order": 208,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": "Not 24/7"
+          },
+          "priority": 0,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "MelodyFM.jo",
+      "website": "https://melody-fm.com/"
+    },
+    {
+      "categories": [
+        "MOVIES"
+      ],
+      "country": "\u0645\u0635\u0631",
+      "countryCode": "EG",
+      "description": null,
+      "enabled": true,
+      "id": "MixHollywood.eg",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/1ENdbZn.png",
+      "name": "Mix Hollywood",
+      "order": 70,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "MixHollywood.eg",
+      "website": null
+    },
+    {
+      "categories": [
+        "MUSIC"
+      ],
+      "country": "\u062A\u0648\u0646\u0633",
+      "countryCode": "TN",
+      "description": null,
+      "enabled": true,
+      "id": "MosaiqueFM.tn",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/GDUykah.png",
+      "name": "Mosaique FM",
+      "order": 293,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8?DVR",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "MosaiqueFM.tn",
+      "website": "https://www.mosaiquefm.net/"
+    },
+    {
+      "categories": [
+        "MOVIES"
+      ],
+      "country": "\u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629",
+      "countryCode": "SA",
+      "description": null,
+      "enabled": true,
+      "id": "MoviesAction.sa",
+      "languages": [
+        "ara",
+        "eng"
+      ],
+      "logo": "https://i.imgur.com/NIVhISa.png",
+      "name": "Movies Action",
+      "order": 40,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "MoviesAction.sa",
+      "website": null
+    },
+    {
+      "categories": [
+        "SPORTS"
+      ],
+      "country": "\u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629",
+      "countryCode": "US",
+      "description": null,
+      "enabled": true,
+      "id": "NBCSportsNOW.us",
+      "languages": [
+        "eng"
+      ],
+      "logo": "https://i.imgur.com/EzNf2Yx.png",
+      "name": "NBC Sports NOW",
+      "order": 409,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 3,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://jmp2.uk/plu-6549306c83595c000815a696.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "NBCSportsNOW.us",
+      "website": "https://www.nbcsports.com/now"
+    },
+    {
+      "categories": [
+        "MUSIC"
+      ],
+      "country": "\u0645\u0635\u0631",
+      "countryCode": "EG",
+      "description": null,
+      "enabled": true,
+      "id": "NogoumFMTV.eg",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/krp3kgv.png",
+      "name": "NogoumFMTV",
+      "order": 71,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": "Not 24/7"
+          },
+          "priority": 0,
+          "quality": "672p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://nogoumtv.nrpstream.com/hls/stream.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "NogoumFMTV.eg",
+      "website": "https://www.nogoumfm.net/"
+    },
+    {
+      "categories": [
+        "RELIGIOUS"
+      ],
+      "country": "\u0644\u0628\u0646\u0627\u0646",
+      "countryCode": "LB",
+      "description": null,
+      "enabled": true,
+      "id": "NourAlKoddass.lb",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/dF4Mvts.png",
+      "name": "Nour Al Koddass",
+      "order": 220,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": "Not 24/7"
+          },
+          "priority": 0,
+          "quality": "406p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "NourAlKoddass.lb",
+      "website": "https://noursat.tv/"
+    },
+    {
+      "categories": [
+        "RELIGIOUS"
+      ],
+      "country": "\u0644\u0628\u0646\u0627\u0646",
+      "countryCode": "LB",
+      "description": null,
+      "enabled": true,
+      "id": "NourAlSharq.lb",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/EEy2dUr.png",
+      "name": "Nour Al Sharq",
+      "order": 221,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "576p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "NourAlSharq.lb",
+      "website": null
+    },
+    {
+      "categories": [
+        "RELIGIOUS"
+      ],
+      "country": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062A",
+      "countryCode": "AE",
+      "description": null,
+      "enabled": true,
+      "id": "NourTV.ae",
+      "languages": [
+        "fas"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/8/8c/Nourtv_logo.jpg",
+      "name": "Nour TV",
+      "order": 145,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": null,
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "NourTV.ae",
+      "website": "https://nourtv.net/"
+    },
+    {
+      "categories": [
+        "RELIGIOUS"
+      ],
+      "country": "\u0644\u0628\u0646\u0627\u0646",
+      "countryCode": "LB",
+      "description": null,
+      "enabled": true,
+      "id": "Noursat.lb",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/6Zs5rx4.png",
+      "name": "Noursat",
+      "order": 224,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "576p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "Noursat.lb",
+      "website": "https://noursat.tv/"
+    },
+    {
+      "categories": [
+        "RELIGIOUS"
+      ],
+      "country": "\u0644\u0628\u0646\u0627\u0646",
+      "countryCode": "LB",
+      "description": null,
+      "enabled": true,
+      "id": "NoursatEnglish.lb",
+      "languages": [
+        "eng"
+      ],
+      "logo": "https://i.imgur.com/RC5Kw82.png",
+      "name": "Noursat English",
+      "order": 225,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "576p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "NoursatEnglish.lb",
+      "website": "https://noursat.tv/"
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0644\u0628\u0646\u0627\u0646",
+      "countryCode": "LB",
+      "description": null,
+      "enabled": true,
+      "id": "OTV.lb",
+      "languages": [
+        "ara",
+        "eng",
+        "fra",
+        "hye"
+      ],
+      "logo": "https://i.imgur.com/toxFMeY.png",
+      "name": "OTV",
+      "order": 228,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "OTV.lb",
+      "website": "https://www.otv.com.lb/"
+    },
+    {
+      "categories": [
+        "SPORTS"
+      ],
+      "country": "\u0639\u064F\u0645\u0627\u0646",
+      "countryCode": "OM",
+      "description": null,
+      "enabled": true,
+      "id": "OmanSportsTV.om",
+      "languages": [
+        "ara",
+        "eng"
+      ],
+      "logo": "https://i.imgur.com/1omi7p8.png",
+      "name": "Oman Sports TV",
+      "order": 280,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": "Not 24/7"
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "OmanSportsTV.om",
+      "website": null
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0639\u064F\u0645\u0627\u0646",
+      "countryCode": "OM",
+      "description": null,
+      "enabled": true,
+      "id": "OmanTV.om",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/rBftT9x.png",
+      "name": "Oman TV",
+      "order": 281,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "360p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://cdn-globecast.akamaized.net/live/eds/oman_tv/hls_roku/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "OmanTV.om",
+      "website": null
+    },
+    {
+      "categories": [
+        "CULTURE"
+      ],
+      "country": "\u0639\u064F\u0645\u0627\u0646",
+      "countryCode": "OM",
+      "description": null,
+      "enabled": true,
+      "id": "OmanTVCultural.om",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/b38wNPK.png",
+      "name": "Oman TV Cultural",
+      "order": 282,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "OmanTVCultural.om",
+      "website": null
+    },
+    {
+      "categories": [
+        "NEWS"
+      ],
+      "country": "\u0639\u064F\u0645\u0627\u0646",
+      "countryCode": "OM",
+      "description": null,
+      "enabled": true,
+      "id": "OmanTVMubashir.om",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/UkQTR5b.png",
+      "name": "Oman TV Mubashir",
+      "order": 283,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "OmanTVMubashir.om",
+      "website": null
+    },
+    {
+      "categories": [
+        "MUSIC"
+      ],
+      "country": "\u0644\u0628\u0646\u0627\u0646",
+      "countryCode": "LB",
+      "description": null,
+      "enabled": true,
+      "id": "OneTV.lb",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/O4DuR9G.png",
+      "name": "One TV",
+      "order": 226,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": "Not 24/7"
+          },
+          "priority": 0,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "OneTV.lb",
+      "website": "https://www.mtv.com.lb/OneTV/Live"
+    },
+    {
+      "categories": [
+        "SPORTS"
+      ],
+      "country": "\u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629",
+      "countryCode": "US",
+      "description": null,
+      "enabled": true,
+      "id": "Overtime.us",
+      "languages": [
+        "eng"
+      ],
+      "logo": "https://i.imgur.com/9S9k4IK.png",
+      "name": "Overtime",
+      "order": 435,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://d1a8aq6t30gkqj.cloudfront.net/v1/amc_overtime_1/samsungheadend_us/latest/main/hls/playlist_hd.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "Overtime.us",
+      "website": "https://watch.plex.tv/live-tv/channel/overtime"
+    },
+    {
+      "categories": [
+        "SPORTS"
+      ],
+      "country": "\u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629",
+      "countryCode": "US",
+      "description": null,
+      "enabled": true,
+      "id": "PFLMMA.us",
+      "languages": [
+        "eng"
+      ],
+      "logo": "https://provider-static.plex.tv/epg/cms/production/96dd0531-b500-4bd4-93ca-763cbf46defe/1500x1000_PFL_SHIELD_DARK_BG_-_Allie_Dinsmore.png",
+      "name": "PFL MMA",
+      "order": 439,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://jmp2.uk/plu-64f6163a30ab3300083d870e.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 3,
+          "quality": null,
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://jmp2.uk/plu-6334a574605f140007e233c4.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "PFLMMA.us",
+      "website": "https://pflmma.com/fast-channels"
+    },
+    {
+      "categories": [
+        "SPORTS"
+      ],
+      "country": "\u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629",
+      "countryCode": "US",
+      "description": null,
+      "enabled": true,
+      "id": "PlutoTVSnooker900.us",
+      "languages": [
+        "eng"
+      ],
+      "logo": "https://images.pluto.tv/channels/639b4f75d3d35c0007d37b30/colorLogoPNG_1759333260607.png",
+      "name": "Pluto TV Snooker 900",
+      "order": 442,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": null,
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "PlutoTVSnooker900.us",
+      "website": "https://pluto.tv/live-tv/pluto-tv-snooker-900-ca/details"
+    },
+    {
+      "categories": [
+        "SPORTS",
+        "GENERAL"
+      ],
+      "country": "\u0633\u0648\u0631\u064A\u0627",
+      "countryCode": "SY",
+      "description": null,
+      "enabled": true,
+      "id": "Prime.sy",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://prime1tv.com/wp-content/uploads/2025/12/7-1.png",
+      "name": "Prime",
+      "order": 239,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://mn-nl.mncdn.com/primetv/live/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "Prime.sy",
+      "website": "https://prime1tv.com/"
+    },
+    {
+      "categories": [
+        "NEWS",
+        "OTHER"
+      ],
+      "country": "\u0642\u0637\u0631",
+      "countryCode": "QA",
+      "description": null,
+      "enabled": true,
+      "id": "QBC.qa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://www.qbc.news/_next/static/media/logo.0~2x9wpd284~a.svg",
+      "name": "QBC",
+      "order": 196,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://googlecdn1.alkassdigital.net/livestream/qbc4/main.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live.kwikmotion.com/qbusinesslive/qbusiness.smil/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "QBC.qa",
+      "website": "https://www.qbc.news/"
+    },
+    {
+      "categories": [
+        "RELIGIOUS"
+      ],
+      "country": "\u0642\u0637\u0631",
+      "countryCode": "QA",
+      "description": null,
+      "enabled": true,
+      "id": "QatarTVTheHolyQuran.qa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://www.qmc.qa/img/LiveChannels/1ca67a44-9290-4b2a-8a16-d8c6e2260816.jpg",
+      "name": "Qatar TV The Holy Quran",
+      "order": 195,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "QatarTVTheHolyQuran.qa",
+      "website": "https://www.qtv.qa/"
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0642\u0637\u0631",
+      "countryCode": "QA",
+      "description": null,
+      "enabled": true,
+      "id": "QatarTelevision.qa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/N5RB4sp.png",
+      "name": "Qatar Television",
+      "order": 193,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://streamer1.qna.org.qa/148133273_live/148133273_63.sdp/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "QatarTelevision.qa",
+      "website": null
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0642\u0637\u0631",
+      "countryCode": "QA",
+      "description": null,
+      "enabled": true,
+      "id": "QatarTelevision2.qa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/iWJxDUm.png",
+      "name": "Qatar Television 2",
+      "order": 194,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 3,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://streamer1.qna.org.qa/148133344_live/148133344_63.sdp/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "QatarTelevision2.qa",
+      "website": null
+    },
+    {
+      "categories": [
+        "MUSIC"
+      ],
+      "country": "\u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629",
+      "countryCode": "SA",
+      "description": null,
+      "enabled": true,
+      "id": "RabehSaqer.sa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://shahid.mbc.net/mediaObject/b98b0635-c8ed-4a7c-9efa-5856e278f54b?type=png",
+      "name": "Rabeh Saqer",
+      "order": 44,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "RabehSaqer.sa",
+      "website": null
+    },
+    {
+      "categories": [
+        "SPORTS"
+      ],
+      "country": "\u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629",
+      "countryCode": "US",
+      "description": null,
+      "enabled": true,
+      "id": "RallyTV.us",
+      "languages": [
+        "eng"
+      ],
+      "logo": "https://i.postimg.cc/WtLq2C7c/logo-Rally-Tv1.png",
+      "name": "Rally TV",
+      "order": 446,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://jmp2.uk/plu-696e02423b9ce349c90edef9.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://jmp2.uk/plu-696e024a7e92438c27a425a8.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 3,
+          "quality": null,
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://jmp2.uk/plu-696e0fe49ba4ac18057433ac.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "RallyTV.us",
+      "website": "https://www.rally.tv/"
+    },
+    {
+      "categories": [
+        "NEWS"
+      ],
+      "country": "\u0644\u0628\u0646\u0627\u0646",
+      "countryCode": "LB",
+      "description": null,
+      "enabled": true,
+      "id": "RedTVLebanon.lb",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/bWwY885.png",
+      "name": "Red TV Lebanon",
+      "order": 230,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "RedTVLebanon.lb",
+      "website": "https://redtvlebanon.com"
+    },
+    {
+      "categories": [
+        "OTHER"
+      ],
+      "country": "\u0627\u0644\u0643\u0648\u064A\u062A",
+      "countryCode": "KW",
+      "description": null,
+      "enabled": true,
+      "id": "RitmuTV.kw",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://play-lh.googleusercontent.com/aO-2614npPjbJny21ljgGDRqfixPUG39uLfXwG-xX6fd2y5sxjp_SR6ty92d9l08yt10",
+      "name": "Ritmu TV",
+      "order": 173,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": null,
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://659605a54e9a6.streamlock.net:8443/live/livestream/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "RitmuTV.kw",
+      "website": "https://www.ritmu.tv/"
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0633\u0648\u0631\u064A\u0627",
+      "countryCode": "SY",
+      "description": null,
+      "enabled": true,
+      "id": "RojavaTV.sy",
+      "languages": [
+        "ara",
+        "kur"
+      ],
+      "logo": "https://i.imgur.com/42noysO.png",
+      "name": "Rojava TV",
+      "order": 240,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "RojavaTV.sy",
+      "website": null
+    },
+    {
+      "categories": [
+        "OTHER"
+      ],
+      "country": "\u0633\u0648\u0631\u064A\u0627",
+      "countryCode": "SY",
+      "description": null,
+      "enabled": true,
+      "id": "RonahiTV.sy",
+      "languages": [
+        "ara",
+        "kur"
+      ],
+      "logo": "https://i.imgur.com/JSvJpD8.png",
+      "name": "Ronahi TV",
+      "order": 241,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "RonahiTV.sy",
+      "website": null
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629",
+      "countryCode": "SA",
+      "description": null,
+      "enabled": true,
+      "id": "SBC.sa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/9JSQglj.png",
+      "name": "SBC",
+      "order": 55,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "SBC.sa",
+      "website": "https://sbctv.sba.sa/Home"
+    },
+    {
+      "categories": [
+        "CULTURE"
+      ],
+      "country": "\u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629",
+      "countryCode": "SA",
+      "description": null,
+      "enabled": true,
+      "id": "SaudiThaqafiyaTV.sa",
+      "languages": [
+        "ara",
+        "eng"
+      ],
+      "logo": "https://shahid.mbc.net/mediaObject/55f69983-5b4b-47c7-9c25-06ed5ad860a4?height=auto\u0026width=512\u0026croppingPoint=\u0026version=1\u0026type=jpeg",
+      "name": "Saudi Thaqafiya TV",
+      "order": 53,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "SaudiThaqafiyaTV.sa",
+      "website": null
+    },
+    {
+      "categories": [
+        "RELIGIOUS"
+      ],
+      "country": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062A",
+      "countryCode": "AE",
+      "description": null,
+      "enabled": true,
+      "id": "SharjahRadioQuran.ae",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/MxZlOvc.png",
+      "name": "Sharjah Radio Quran",
+      "order": 155,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "SharjahRadioQuran.ae",
+      "website": null
+    },
+    {
+      "categories": [
+        "NEWS"
+      ],
+      "country": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062A",
+      "countryCode": "AE",
+      "description": null,
+      "enabled": true,
+      "id": "SkyNewsArabia.ae",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/SvjU4h6.png",
+      "name": "Sky News Arabia",
+      "order": 158,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": "Not 24/7"
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://stream.skynewsarabia.com/ott/ott.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": "Not 24/7"
+          },
+          "priority": 2,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "SkyNewsArabia.ae",
+      "website": "https://www.skynewsarabia.com/"
+    },
+    {
+      "categories": [
+        "NEWS"
+      ],
+      "country": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062A",
+      "countryCode": "AE",
+      "description": null,
+      "enabled": true,
+      "id": "SkyNewsArabiaVertical.ae",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/FjtzQQs.png",
+      "name": "Sky News Arabia Vertical",
+      "order": 159,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": "Not 24/7"
+          },
+          "priority": 1,
+          "quality": "1280p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://stream.skynewsarabia.com/vertical/vertical.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "SkyNewsArabiaVertical.ae",
+      "website": "https://www.skynewsarabia.com/"
+    },
+    {
+      "categories": [
+        "KIDS",
+        "OTHER"
+      ],
+      "country": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062A",
+      "countryCode": "AE",
+      "description": null,
+      "enabled": true,
+      "id": "SpacetoonArabic.ae",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",
+      "name": "Spacetoon Arabic",
+      "order": 160,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "576p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "SpacetoonArabic.ae",
+      "website": null
+    },
+    {
+      "categories": [
+        "CULTURE"
+      ],
+      "country": "\u0627\u0644\u0645\u063A\u0631\u0628",
+      "countryCode": "MA",
+      "description": null,
+      "enabled": true,
+      "id": "StoryChannelTV.ma",
+      "languages": [
+        "ara",
+        "asp",
+        "eng",
+        "fra",
+        "kab",
+        "rif",
+        "shi",
+        "shy",
+        "taq",
+        "tzm",
+        "xms"
+      ],
+      "logo": "https://i.imgur.com/ZBV6xph.png",
+      "name": "StoryChannel TV",
+      "order": 278,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://136044159.r.cdnsun.net/storychannel.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "StoryChannelTV.ma",
+      "website": "https://storychannel.tv/"
+    },
+    {
+      "categories": [
+        "NEWS"
+      ],
+      "country": "\u0633\u0648\u0631\u064A\u0627",
+      "countryCode": "SY",
+      "description": null,
+      "enabled": true,
+      "id": "SyriaTV.sy",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/FjuVuXF.jpeg",
+      "name": "Syria TV",
+      "order": 242,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://qmcconnect.qa/api/StreamServices/arabictvsyria1/master.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6017",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 3,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "SyriaTV.sy",
+      "website": "https://www.syria.tv/"
+    },
+    {
+      "categories": [
+        "KIDS"
+      ],
+      "country": "\u0644\u0628\u0646\u0627\u0646",
+      "countryCode": "LB",
+      "description": null,
+      "enabled": true,
+      "id": "TahaTV.lb",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/hdsrxvX.png",
+      "name": "Taha TV",
+      "order": 231,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "576p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "TahaTV.lb",
+      "website": "https://www.tahatv.com/"
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0644\u064A\u0628\u064A\u0627",
+      "countryCode": "LY",
+      "description": null,
+      "enabled": true,
+      "id": "TanasuhTV.ly",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/iBAhM2v.png",
+      "name": "Tanasuh TV",
+      "order": 271,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.mpd",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://tip.stream.tanasuh.tv:4434/live/smil:tanasuhtv.smil/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "TanasuhTV.ly",
+      "website": "https://tanasuh.tv/"
+    },
+    {
+      "categories": [
+        "MUSIC"
+      ],
+      "country": "\u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629",
+      "countryCode": "SA",
+      "description": null,
+      "enabled": true,
+      "id": "Tarab.sa",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://assets.mbcmood.com/channels/1738059679TARAB_Logo.png",
+      "name": "Tarab",
+      "order": 56,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-amg-fast-btpls.shahid.net/tx002/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "Tarab.sa",
+      "website": null
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0644\u064A\u0628\u064A\u0627",
+      "countryCode": "LY",
+      "description": null,
+      "enabled": true,
+      "id": "WasatTV.ly",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/f9pL2NE.png",
+      "name": "Wasat TV",
+      "order": 272,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": "https://alwasat.ly/",
+          "source": "iptv-org",
+          "url": "https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "WasatTV.ly",
+      "website": null
+    },
+    {
+      "categories": [
+        "GENERAL"
+      ],
+      "country": "\u0645\u0635\u0631",
+      "countryCode": "EG",
+      "description": null,
+      "enabled": true,
+      "id": "WatanTV.eg",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://i.imgur.com/pZyKaUH.png",
+      "name": "Watan TV",
+      "order": 73,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "WatanTV.eg",
+      "website": "https://watanegypt.tv/"
+    },
+    {
+      "categories": [
+        "NEWS"
+      ],
+      "country": "\u0633\u0648\u0631\u064A\u0627",
+      "countryCode": "SY",
+      "description": null,
+      "enabled": true,
+      "id": "WelatTV.sy",
+      "languages": [
+        "ara"
+      ],
+      "logo": "https://avatars.githubusercontent.com/u/213803648?s=400\u0026u=e27c09d39f813b9698de9c6559cbf7f196bf6fce\u0026v=4",
+      "name": "Welat TV",
+      "order": 243,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080i",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://stream.badinan.xyz/welat/tv/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "WelatTV.sy",
+      "website": "https://www.welattv.net/"
+    },
+    {
+      "categories": [
+        "SPORTS"
+      ],
+      "country": "\u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629",
+      "countryCode": "US",
+      "description": null,
+      "enabled": true,
+      "id": "WillowSports.us",
+      "languages": [
+        "eng"
+      ],
+      "logo": "https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png",
+      "name": "Willow Sports",
+      "order": 489,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://jmp2.uk/plu-6972546cc62833833a187f50.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": true,
+            "label": "Geo-blocked"
+          },
+          "priority": 3,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": true,
+            "label": "Geo-blocked"
+          },
+          "priority": 4,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": true,
+            "label": "Geo-blocked"
+          },
+          "priority": 5,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "WillowSports.us",
+      "website": "https://www.willow.tv/willow_sports"
     },
     {
       "categories": [
