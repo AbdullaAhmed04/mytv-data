@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 9,
-  "generatedAt": "2026-08-27T18:21:33.7239400\u002B00:00",
+  "version": 10,
+  "generatedAt": "2026-08-27T18:56:40.5367046\u002B00:00",
   "links": [
     {
       "id": "9116f2aa-8d5c-47df-9fe5-f0509c3c9be5",
@@ -15,6 +15,22 @@
       "country": null,
       "enabled": true,
       "order": 10,
+      "startAt": null,
+      "expiresAt": null,
+      "adBlockEnabled": true
+    },
+    {
+      "id": "749f4c1d-f36c-4c36-bd5b-51ba9e455220",
+      "name": "hadhramaut",
+      "url": "https://hadhramaut.tv/",
+      "type": "AUTO",
+      "resolvedType": "WEB_PAGE",
+      "image": null,
+      "category": null,
+      "notes": null,
+      "country": null,
+      "enabled": true,
+      "order": 20,
       "startAt": null,
       "expiresAt": null,
       "adBlockEnabled": true
