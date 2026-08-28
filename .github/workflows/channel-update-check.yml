@@ -43,7 +43,10 @@ jobs:
       - name: Commit review files when changed
         shell: bash
         run: |
-          git add data/candidate data/review data/metadata/source-check.json
+          git add data/candidate data/review \
+            data/metadata/source-check.json \
+            data/metadata/arab-channel-audit.json \
+            data/metadata/arab-channel-audit.md
           if git diff --cached --quiet; then
             echo "No candidate changes to commit."
             exit 0
