@@ -12,9 +12,9 @@ sys.path.insert(0, str(PIPELINE_ROOT))
 
 from mytv_pipeline.audit import build_arab_channel_audit, render_arab_channel_audit_markdown
 from mytv_pipeline.cli import update, validate_repository
+from mytv_pipeline.constants import UPSTREAM_URLS
 from mytv_pipeline.decisions import apply_decisions
 from mytv_pipeline.diff import generate_changes
-from mytv_pipeline.free_tv import merge_free_tv, parse_free_tv_playlist
 from mytv_pipeline.net import load_upstream
 from mytv_pipeline.normalize import normalize, normalize_stream
 from mytv_pipeline.safety import evaluate_safety
@@ -108,106 +108,6 @@ class NormalizationTests(unittest.TestCase):
             "url": "https://media.example.org/live.m3u8",
             "user_agent": "MYTV\r\nX-Injected: yes",
         }))
-
-
-class FreeTvTests(unittest.TestCase):
-    def setUp(self):
-        self.upstream = load_upstream(FIXTURES)
-        self.adult = {"channelIds": [], "domains": [], "categories": [], "keywords": []}
-        self.entries = parse_free_tv_playlist((FIXTURES / "free-tv-playlist.m3u8").read_text(encoding="utf-8"))
-
-    def test_parser_keeps_country_id_logo_and_skips_nothing_until_merge(self):
-        self.assertGreater(len(self.entries), 0)
-        http_replacement = next(item for item in self.entries if item.tvg_id == "HttpOnly.ye")
-        self.assertEqual("YE", http_replacement.country_code)
-        self.assertEqual("https://images.example.org/http.png", http_replacement.logo)
-        sd = next(item for item in self.entries if item.tvg_id == "ArabGeneral.eg")
-        self.assertTrue(sd.is_sd)
-        self.assertEqual("Egypt fallback", sd.name)
-
-    def test_merge_fills_missing_streams_dedupes_and_applies_same_safety_rules(self):
-        base = normalize(self.upstream, self.adult, {"channelIds": ["UserBlocked.ye"]})
-        merged = merge_free_tv(
-            base.channels, self.entries, self.upstream, self.adult, {"channelIds": ["UserBlocked.ye"]},
-            base.rejected, base.policy_rejected, base.quarantined,
-        )
-        by_id = {item["id"]: item for item in merged.channels}
-        self.assertIn("HttpOnly.ye", by_id)
-        self.assertEqual("free-tv", by_id["HttpOnly.ye"]["streams"][0]["source"])
-        self.assertIn("YemenSports.ye", by_id)
-        self.assertEqual(1, sum(1 for item in by_id["YemenSports.ye"]["streams"] if item["url"] == "https://free.example.org/yemen/playlist.m3u8"))
-        fresh = [item for item in merged.channels if item["name"] == "Fresh Yemen"]
-        self.assertEqual(1, len(fresh))
-        self.assertTrue(fresh[0]["id"].startswith("free-tv.ye."))
-        self.assertNotIn("UnsafeXXX.ye", by_id)
-        self.assertNotIn("BlockedAdult.ye", by_id)
-        self.assertNotIn("UserBlocked.ye", by_id)
-        ids = {item["id"] for item in merged.channels}
-        self.assertNotIn("CanadaSports.ca", ids)
-        self.assertIn("UsNews.us", ids)
-        self.assertIn("UkSports.uk", ids)
-        self.assertEqual(1, sum(1 for item in by_id["UsNews.us"]["streams"] if item["source"] == "free-tv"))
-        self.assertNotIn("RandomEntertainment.us", ids)
-        self.assertGreaterEqual(merged.stats["freeTvDuplicateEntriesSkipped"], 2)
-        self.assertGreaterEqual(merged.stats["freeTvNonDirectEntriesSkipped"], 2)
-        self.assertGreaterEqual(merged.stats["freeTvUnsafeEntriesRejected"], 2)
-        self.assertGreaterEqual(merged.stats["freeTvUserBlockedSkipped"], 1)
-
-    def test_dmca_channel_is_not_resurrected_by_free_tv(self):
-        upstream = deepcopy(self.upstream)
-        upstream["blocklist"].append({"channel": "ArabGeneral.eg", "reason": "dmca"})
-        base = normalize(upstream, self.adult, {"channelIds": []})
-        merged = merge_free_tv(
-            base.channels, self.entries, upstream, self.adult, {"channelIds": []},
-            base.rejected, base.policy_rejected, base.quarantined,
-        )
-        self.assertNotIn("ArabGeneral.eg", {item["id"] for item in merged.channels})
-        self.assertGreaterEqual(merged.stats["freeTvPolicyEntriesRejected"], 1)
-
-    def test_reviewed_aliases_merge_into_existing_iptv_org_identities(self):
-        upstream = deepcopy(self.upstream)
-        upstream["channels"].extend([
-            {"id": "AlIraqia.iq", "name": "Al Iraqia", "country": "IQ", "categories": ["general"], "is_nsfw": False, "website": None},
-            {"id": "DubaiRacing.ae", "name": "Dubai Racing", "country": "AE", "categories": ["sports"], "is_nsfw": False, "website": None},
-            {"id": "QatarTVTheHolyQuran.qa", "name": "Qatar TV The Holy Quran", "country": "QA", "categories": ["religious"], "is_nsfw": False, "website": None},
-        ])
-        entries = parse_free_tv_playlist("""#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-country="IQ",Al-Iraqiya
-https://free.example.org/iraq/playlist.m3u8
-#EXTINF:-1 tvg-id="DubaiRacing1.ae" tvg-country="AE",Dubai Racing 1
-https://free.example.org/dubai-racing/playlist.m3u8
-#EXTINF:-1 tvg-id="QatarTelevisionTheHolyQuran.qa" tvg-country="QA",Qatar Television The Holy Quran
-https://free.example.org/qatar-quran/playlist.m3u8
-""")
-        base = normalize(upstream, self.adult, {"channelIds": []})
-        merged = merge_free_tv(
-            base.channels, entries, upstream, self.adult, {"channelIds": []},
-            base.rejected, base.policy_rejected, base.quarantined,
-        )
-        by_id = {item["id"]: item for item in merged.channels}
-        self.assertIn("AlIraqia.iq", by_id)
-        self.assertIn("DubaiRacing.ae", by_id)
-        self.assertIn("QatarTVTheHolyQuran.qa", by_id)
-        self.assertNotIn("DubaiRacing1.ae", by_id)
-        self.assertNotIn("QatarTelevisionTheHolyQuran.qa", by_id)
-        self.assertEqual(3, merged.stats["freeTvMatchedByAlias"])
-        for channel_id in ("AlIraqia.iq", "DubaiRacing.ae", "QatarTVTheHolyQuran.qa"):
-            self.assertEqual("free-tv", by_id[channel_id]["streams"][0]["source"])
-
-    def test_wrong_country_tvg_id_cannot_auto_create_new_channel(self):
-        entries = parse_free_tv_playlist("""#EXTM3U
-#EXTINF:-1 tvg-id="SomaliCableTV.uk" tvg-country="SO",Somali Cable TV
-https://free.example.org/somali-cable/playlist.m3u8
-""")
-        base = normalize(self.upstream, self.adult, {"channelIds": []})
-        merged = merge_free_tv(
-            base.channels, entries, self.upstream, self.adult, {"channelIds": []},
-            base.rejected, base.policy_rejected, base.quarantined,
-        )
-        self.assertNotIn("SomaliCableTV.uk", {item["id"] for item in merged.channels})
-        self.assertFalse(any(item["name"] == "Somali Cable TV" for item in merged.channels))
-        self.assertEqual(1, merged.stats["freeTvIdCountryMismatchSkipped"])
-
 
 
 class AuditTests(unittest.TestCase):
@@ -342,6 +242,8 @@ class ValidationTests(unittest.TestCase):
             report = update(root, FIXTURES, "2026-08-27T00:00:00Z")
             validate_repository(root)
             self.assertEqual("SUCCESS", report["status"])
+            self.assertEqual(list(UPSTREAM_URLS.values()), report["sources"])
+            self.assertEqual(set(UPSTREAM_URLS), set(report["upstreamCounts"]))
             pending = json.loads((root / "data/review/pending-changes.json").read_text(encoding="utf-8"))
             self.assertGreater(pending["summary"]["totalPending"], 0)
             quarantine = json.loads((root / "data/candidate/quarantined-safety.json").read_text(encoding="utf-8"))

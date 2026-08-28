@@ -1,0 +1,1053 @@
+# MYTV Arab channel audit
+
+Generated: `2026-08-28T19:23:03Z`
+
+This report audits Arab-country channels from IPTV-org without exposing adult or safety-quarantined channel identities or stream URLs.
+
+## Summary
+
+- Upstream Arab channels: **1100**
+- Eligible candidate channels: **294**
+- Currently approved channels from this upstream set: **155**
+- Excluded before candidate generation: **806**
+- Hidden safety details: **1**
+
+## Countries
+
+| Country | Source | Any stream | HTTPS | Valid stream | Candidate | Approved | Excluded | +18 | Safety quarantine | HTTP only | No streams | DMCA | User block |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| اليمن | 23 | 4 | 4 | 4 | 4 | 4 | 19 | 0 | 0 | 0 | 19 | 0 | 0 |
+| السعودية | 166 | 55 | 54 | 54 | 54 | 29 | 112 | 0 | 0 | 0 | 111 | 0 | 0 |
+| مصر | 117 | 18 | 16 | 16 | 16 | 15 | 101 | 0 | 0 | 2 | 99 | 0 | 0 |
+| العراق | 138 | 56 | 53 | 53 | 53 | 3 | 85 | 0 | 0 | 3 | 82 | 0 | 0 |
+| الإمارات | 140 | 38 | 36 | 36 | 36 | 20 | 104 | 1 | 0 | 2 | 96 | 5 | 0 |
+| الكويت | 26 | 11 | 11 | 11 | 11 | 10 | 15 | 0 | 0 | 0 | 15 | 0 | 0 |
+| قطر | 86 | 23 | 23 | 23 | 23 | 15 | 63 | 0 | 0 | 0 | 33 | 30 | 0 |
+| الأردن | 62 | 18 | 12 | 12 | 12 | 11 | 50 | 0 | 0 | 6 | 44 | 0 | 0 |
+| لبنان | 49 | 31 | 26 | 26 | 26 | 14 | 23 | 0 | 0 | 5 | 18 | 0 | 0 |
+| سوريا | 30 | 11 | 9 | 9 | 9 | 9 | 21 | 0 | 0 | 2 | 19 | 0 | 0 |
+| فلسطين | 41 | 19 | 16 | 16 | 16 | 0 | 25 | 0 | 0 | 3 | 22 | 0 | 0 |
+| الجزائر | 46 | 6 | 4 | 4 | 4 | 2 | 42 | 0 | 0 | 2 | 40 | 0 | 0 |
+| البحرين | 6 | 5 | 5 | 5 | 5 | 5 | 1 | 0 | 0 | 0 | 1 | 0 | 0 |
+| جزر القمر | 2 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 2 | 0 | 0 |
+| جيبوتي | 8 | 0 | 0 | 0 | 0 | 0 | 8 | 0 | 0 | 0 | 8 | 0 | 0 |
+| ليبيا | 26 | 4 | 4 | 4 | 4 | 4 | 22 | 0 | 0 | 0 | 22 | 0 | 0 |
+| موريتانيا | 16 | 0 | 0 | 0 | 0 | 0 | 16 | 0 | 0 | 0 | 16 | 0 | 0 |
+| المغرب | 30 | 9 | 6 | 6 | 6 | 6 | 24 | 0 | 0 | 3 | 21 | 0 | 0 |
+| عُمان | 6 | 5 | 5 | 5 | 5 | 5 | 1 | 0 | 0 | 0 | 1 | 0 | 0 |
+| الصومال | 25 | 7 | 4 | 4 | 4 | 0 | 21 | 0 | 0 | 3 | 18 | 0 | 0 |
+| السودان | 31 | 3 | 2 | 2 | 2 | 0 | 29 | 0 | 0 | 1 | 28 | 0 | 0 |
+| تونس | 26 | 4 | 4 | 4 | 4 | 3 | 22 | 0 | 0 | 0 | 22 | 0 | 0 |
+
+## Safe details by country
+
+### اليمن (YE)
+
+- `NO_STREAMS` — **Aden TV** (`AdenTV.ye`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **AIC TV** (`AICTV.ye`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Mahrah TV** (`AlMahrahTV.ye`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al-Hawyah** (`AlHawyah.ye`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al-Iman** (`AlIman.ye`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alghadye** (`Alghadye.ye`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alghurfah TV** (`AlghurfahTV.ye`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Allahdhah TV** (`AllahdhahTV.ye`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alqubba Alkhadra** (`AlqubbaAlkhadra.ye`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Belqees TV** (`BelqeesTV.ye`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Hadhramaut TV** (`HadhramautTV.ye`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sheba TV** (`ShebaTV.ye`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Suhail TV** (`SuhailTV.ye`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **TV3ad** (`TV3ad.ye`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Yemen Documentary** (`YemenDocumentary.ye`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Yemen Education** (`YemenEducation.ye`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Yemen Shabab Channel** (`YemenShababChannel.ye`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Yemen TV** (`YemenTV.ye`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Yemenia TV** (`YemeniaTV.ye`); streams: 0, HTTPS: 0, valid: 0
+
+### السعودية (SA)
+
+- `CANDIDATE_NOT_APPROVED` — **Abdulmajeed Abdullah** (`AbdulmajeedAbdullah.sa`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Al Resalah** (`AlResalah.sa`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Al Riyadh Radio** (`AlRiyadhRadio.sa`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Alkhuzama Radio** (`AlkhuzamaRadio.sa`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Alwesam TV** (`AlwesamTV.sa`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Asharq Discovery** (`AsharqDiscovery.sa`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Asharq Documentary** (`AsharqDocumentary.sa`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Dr Pal TV** (`DrPalTV.sa`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **LBC** (`LBC.sa`); streams: 2, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **MBC Loud** (`MBCLoud.sa`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **MBC+ Drama** (`MBCPlusDrama.sa`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Mohammed Abdo** (`MohammedAbdo.sa`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Movies Thriller** (`MoviesThriller.sa`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Nidae AlIslam Radio** (`NidaeAlIslamRadio.sa`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Panorama FM** (`PanoramaFM.sa`); streams: 2, HTTPS: 2, valid: 2
+- `CANDIDATE_NOT_APPROVED` — **Rashid AlMajed** (`RashidAlMajed.sa`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Rotana Cinema KSA** (`RotanaCinemaKSA.sa`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Rotana Classic** (`RotanaClassic.sa`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Rotana Clip** (`RotanaClip.sa`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Rotana Comedy** (`RotanaComedy.sa`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Rotana Drama** (`RotanaDrama.sa`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Rotana Khalijia** (`RotanaKhalijia.sa`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Rotana Music** (`RotanaMusic.sa`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Saudia Radio** (`SaudiaRadio.sa`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Thikrayat TV** (`ThikrayatTV.sa`); streams: 1, HTTPS: 1, valid: 1
+- `NO_HTTPS_STREAM` — **Rotana FM KSA** (`RotanaFMKSA.sa`); streams: 1, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **22 Arab TV** (`22ArabTV.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **7lim BIGOTV** (`7limBIGOTV.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Ahl-Alquran TV** (`AhlAlquranTV.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Ahlu Al Quran TV** (`AhluAlQuranTV.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Ajyal TV** (`AjyalTV.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Alam Al Yawm** (`AlAlamAlYawm.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Amaken TV** (`AlAmakenTV.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Hokair Group TV** (`AlHokairGroupTV.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Khalij TV** (`AlKhalijTV.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Mergab TV** (`AlMergabTV.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Resalah International** (`AlResalahInternational.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Sahraa TV** (`AlSahraaTV.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al-Majd Al Hadeeth Al Nabawy** (`AlMajdAlHadeethAlNabawy.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al-Majd Al Tabeeaiyah** (`AlMajdAlTabeeaiyah.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al-Majd Documentary** (`AlMajdDocumentary.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al-Majd Holy Quran** (`AlMajdHolyQuran.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al-Majd Kids** (`AlMajdKids.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al-Majd Public Channel** (`AlMajdPublicChannel.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al-Majd Scientific** (`AlMajdScientific.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Anime** (`Anime.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **ART Aflam 1** (`ARTAflam1.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **ART Aflam 2** (`ARTAflam2.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **ART America** (`ARTAmerica.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Art Cima** (`ArtCima.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **ART Cinema** (`ARTCinema.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **ART Hekayat** (`ARTHekayat.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **ART Hekayat 2** (`ARTHekayat2.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **ART Tarab** (`ARTTarab.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Asharq News Portrait** (`AsharqNewsPortrait.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Ayat** (`Ayat.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Bedaya TV** (`BedayaTV.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Beity** (`Beity.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Besma** (`Besma.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Bin Othaimeen** (`BinOthaimeen.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Channel 24 Saudi** (`Channel24Saudi.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Channel 24 Sports** (`Channel24Sports.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Dahk wa Bass** (`DahkwaBass.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Drama Badawia** (`DramaBadawia.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Duhk Wa Bas** (`DuhkWaBas.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **EN TV** (`ENTV.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Goal Zone** (`GoalZone.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **IEN Doros 1** (`IENDoros1.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **IEN Doros 10** (`IENDoros10.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **IEN Doros 11** (`IENDoros11.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **IEN Doros 12** (`IENDoros12.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **IEN Doros 13** (`IENDoros13.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **IEN Doros 14** (`IENDoros14.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **IEN Doros 15** (`IENDoros15.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **IEN Doros 16** (`IENDoros16.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **IEN Doros 17** (`IENDoros17.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **IEN Doros 18** (`IENDoros18.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **IEN Doros 19** (`IENDoros19.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **IEN Doros 2** (`IENDoros2.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **IEN Doros 20** (`IENDoros20.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **IEN Doros 21** (`IENDoros21.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **IEN Doros 22** (`IENDoros22.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **IEN Doros 23** (`IENDoros23.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **IEN Doros 3** (`IENDoros3.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **IEN Doros 4** (`IENDoros4.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **IEN Doros 5** (`IENDoros5.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **IEN Doros 6** (`IENDoros6.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **IEN Doros 7** (`IENDoros7.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **IEN Doros 8** (`IENDoros8.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **IEN Doros 9** (`IENDoros9.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **IEN Doros TV** (`IENDorosTV.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Iqraa Duea Wabtihal** (`IqraaDueaWabtihal.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Iqraa Mukhtarat 1** (`IqraaMukhtarat1.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Kaif TV** (`KaifTV.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Khaliji Comedy** (`KhalijiComedy.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **KSA Sports 1** (`KSASports1.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **KSA Sports 2** (`KSASports2.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **KSA Sports 3** (`KSASports3.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **KSA Sports 4** (`KSASports4.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **M+** (`MPlus.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Masah** (`Masah.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **MBC Gaming** (`MBCGaming.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **MBC Max** (`MBCMax.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Oyoun Al-Watan TV** (`OyounAlWatanTV.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Qur'an Hidayah English** (`QuranHidayahEnglish.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Ramez** (`Ramez.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Rawdah** (`Rawdah.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Romance** (`Romance.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Rotana Aflam** (`RotanaAflam.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Rotana Aflam+** (`RotanaAflamPlus.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Rotana America** (`RotanaAmerica.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Rotana D7** (`RotanaD7.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Rotana Kids** (`RotanaKids.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Rotana Sydtelshasha** (`RotanaSydtelshasha.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Rotana+** (`RotanaPlus.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sad Satellite Channel** (`SadSatelliteChannel.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sayedat Alshasha** (`SayedatAlshasha.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Shareeyah TV** (`ShareeyahTV.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **SSC 1** (`SSC1.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **SSC 2** (`SSC2.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **SSC 3** (`SSC3.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **SSC 4** (`SSC4.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **SSC 5** (`SSC5.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **SSC Action Waleed** (`SSCActionWaleed.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **SSC Action Waleed Extra** (`SSCActionWaleedExtra.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **SSC Extra 1** (`SSCExtra1.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **SSC Extra 2** (`SSCExtra2.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **SSC Extra 3** (`SSCExtra3.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **SSC News** (`SSCNews.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sunna TV** (`SunnaTV.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Thmanyah 1** (`Thmanyah1.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Thmanyah 2** (`Thmanyah2.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Thmanyah 3** (`Thmanyah3.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Wanasah** (`Wanasah.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Waqie TV** (`WaqieTV.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Wesal TV** (`WesalTV.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Zad TV** (`ZadTV.sa`); streams: 0, HTTPS: 0, valid: 0
+
+### مصر (EG)
+
+- `CANDIDATE_NOT_APPROVED` — **Rotana Cinema Egypt** (`RotanaCinemaEgypt.eg`); streams: 1, HTTPS: 1, valid: 1
+- `HTTP_ONLY` — **Al Masriyah** (`AlMasriyah.eg`); streams: 1, HTTPS: 0, valid: 0
+- `HTTP_ONLY` — **Mazzika** (`Mazzika.eg`); streams: 1, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **3yoon TV** (`3yoonTV.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Ahly TV** (`AlAhlyTV.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Ghad Plus** (`AlGhadPlus.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Kahera Wal Nas** (`AlKaheraWalNas.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Kahera Wal Nas 2** (`AlKaheraWalNas2.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Nada TV** (`AlNadaTV.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Qahera News** (`AlQaheraNews.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Rahma** (`AlRahma.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Seha Wal Jamal TV** (`AlSehaWalJamalTV.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Shams TV** (`AlShamsTV.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Wathaeqya** (`AlWathaeqya.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al-Nahar** (`AlNahar.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al-Nahar Algadid** (`AlNaharAlgadid.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al-Nahar Drama** (`AlNaharDrama.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al-Nahar Noor** (`AlNaharNoor.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al-Saeedah** (`AlSaeedah.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alassema TV** (`AlassemaTV.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alfath Atfal TV** (`AlfathAtfalTV.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alfath Sonnah TV** (`AlfathSonnahTV.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alfath TV** (`AlfathTV.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **AlHadath Alyoum** (`AlHadathAlyoum.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alhayat Drama** (`AlhayatDrama.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alhayat TV** (`AlhayatTV.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alkofiya TV** (`AlkofiyaTV.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **AlShoub** (`AlShoub.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **CAF TV** (`CAFTV.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Cima** (`Cima.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Cookies Kids** (`CookiesKids.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **DMC** (`DMC.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **DMC Drama** (`DMCDrama.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Egypt Quran Kareem** (`EgyptQuranKareem.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Egyptian TV** (`EgyptianTV.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **El Mehwar Channel** (`ElMehwarChannel.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **El Moled** (`ElMoled.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Elnas TV** (`ElnasTV.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **ERTU 1** (`ERTU1.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **ERTU 2** (`ERTU2.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **ERTU 3 Al Kahera** (`ERTU3AlKahera.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **ERTU 4 Al Kanal** (`ERTU4AlKanal.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **ERTU 5 Al Askandria** (`ERTU5AlAskandria.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **ERTU 6 Al Delta** (`ERTU6AlDelta.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **ERTU 7 Al Saeed** (`ERTU7AlSaeed.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **ERTU 8 Teba** (`ERTU8Teba.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **ETC TV** (`ETCTV.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Extra Live** (`ExtraLive.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Extra News** (`ExtraNews.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Fox Movies** (`FoxMovies.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Free TV** (`FreeTV.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **GUC TV** (`GUCTV.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **HBC** (`HBC.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Hya TV** (`HyaTV.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Madrasetna 1** (`Madrasetna1.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Madrasetna 2** (`Madrasetna2.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Madrasetna 3** (`Madrasetna3.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Maspero Zaman** (`MasperoZaman.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Masr Om Eldonia** (`MasrOmEldonia.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Mawda TV** (`MawdaTV.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Melody Classic** (`MelodyClassic.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Menhag TV** (`MenhagTV.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **MESat** (`MESat.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Misr Al Zeraya** (`MisrAlZeraya.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Misr AlBalad** (`MisrAlBalad.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Mix Bel Araby** (`MixBelAraby.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Nile Cinema** (`NileCinema.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Nile Comedy** (`NileComedy.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Nile Culture** (`NileCulture.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Nile Drama** (`NileDrama.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Nile Education Channel** (`NileEducationChannel.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Nile Family** (`NileFamily.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Nile Life** (`NileLife.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Nile News** (`NileNews.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Nile Sport** (`NileSport.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Nile TV International** (`NileTVInternational.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Noble TV** (`NobleTV.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Omg Channel** (`OmgChannel.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Omg Series** (`OmgSeries.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **On Drama** (`OnDrama.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **On E** (`OnE.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **One Movies** (`OneMovies.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **OnTime Sports** (`OnTimeSports.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **OnTime Sports 2** (`OnTimeSports2.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **OnTime Sports 3** (`OnTimeSports3.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **OTV** (`OTV.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **PNC Drama** (`PNCDrama.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **PNC Drama 2** (`PNCDrama2.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **PNC Film** (`PNCFilm.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **PNC Food** (`PNCFood.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **PNC Yom** (`PNCYom.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sada Elbalad** (`SadaElbalad.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sada Elbalad 2** (`SadaElbalad2.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sada Elbalad Drama** (`SadaElbaladDrama.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Safa TV** (`SafaTV.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Shaabeyat** (`Shaabeyat.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sout Masr** (`SoutMasr.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sowt Al-Arab TV** (`SowtAlArabTV.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **TeN** (`TeN.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **The Kingdom Sat** (`TheKingdomSat.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Zamalek TV** (`ZamalekTV.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Zilzal Classic** (`ZilzalClassic.eg`); streams: 0, HTTPS: 0, valid: 0
+
+### العراق (IQ)
+
+- `CANDIDATE_NOT_APPROVED` — **ABNsat** (`ABNsat.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Afaq TV** (`AfaqTV.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Afarin Baxcha** (`AfarinBaxcha.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Afarin TV** (`AfarinTV.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Al Iraqia** (`AlIraqia.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Al Iraqia Kurdish** (`AlIraqiaKurdish.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Al Janoub TV** (`AlJanoubTV.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Al Rasheed TV** (`AlRasheedTV.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Al Sharqiya** (`AlSharqiya.iq`); streams: 2, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Al Sharqiya News** (`AlSharqiyaNews.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Al-Aimma TV** (`AlAimmaTV.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Al-Jawadain TV** (`AlJawadainTV.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Alabbassia TV** (`AlabbassiaTV.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Alawla TV** (`AlawlaTV.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Alghadeer TV** (`AlghadeerTV.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Alquran** (`Alquran.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Amozhgary TV** (`AmozhgaryTV.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Anwar TV2** (`AnwarTV2.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Avar TV** (`AvarTV.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **BeitolAbbas TV Channel** (`BeitolAbbasTVChannel.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Channel8** (`Channel8.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Dijlah TV** (`DijlahTV.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **EmanTv** (`EmanTv.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **FarmodaTV** (`FarmodaTV.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **I News** (`INews.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Imam Hussein TV 1** (`ImamHusseinTV1.iq`); streams: 2, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Imam Hussein TV 2** (`ImamHusseinTV2.iq`); streams: 2, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Imam Hussein TV 3** (`ImamHusseinTV3.iq`); streams: 2, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Imam Hussein TV 4** (`ImamHusseinTV4.iq`); streams: 2, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Iraq Future** (`IraqFuture.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Ishtar TV** (`IshtarTV.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Karbala Documentary** (`KarbalaDocumentary.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Kurd Channel** (`KurdChannel.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Kurdistan 24** (`Kurdistan24.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Kurdistan TV** (`KurdistanTV.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Kurdsat** (`Kurdsat.iq`); streams: 2, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Kurdsat News** (`KurdsatNews.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Manu Chat** (`ManuChat.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Marjaeyat TV Arabic** (`MarjaeyatTVArabic.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Marjaeyat TV English** (`MarjaeyatTVEnglish.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Marjaeyat TV Persian** (`MarjaeyatTVPersian.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Mixkurdy** (`Mixkurdy.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **NRT TV** (`NRTTV.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Payam TV** (`PayamTV.iq`); streams: 2, HTTPS: 2, valid: 2
+- `CANDIDATE_NOT_APPROVED` — **Rudaw TV** (`RudawTV.iq`); streams: 2, HTTPS: 2, valid: 2
+- `CANDIDATE_NOT_APPROVED` — **Samarra TV** (`SamarraTV.iq`); streams: 2, HTTPS: 2, valid: 2
+- `CANDIDATE_NOT_APPROVED` — **Shams TV** (`ShamsTV.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **UTV** (`UTV.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Waar TV** (`WaarTV.iq`); streams: 2, HTTPS: 2, valid: 2
+- `CANDIDATE_NOT_APPROVED` — **Zagros TV** (`ZagrosTV.iq`); streams: 2, HTTPS: 2, valid: 2
+- `HTTP_ONLY` — **Al-Naeem TV** (`AlNaeemTV.iq`); streams: 1, HTTPS: 0, valid: 0
+- `HTTP_ONLY` — **Imam Hussein TV 5** (`ImamHusseinTV5.iq`); streams: 1, HTTPS: 0, valid: 0
+- `HTTP_ONLY` — **Imam Hussein TV 6** (`ImamHusseinTV6.iq`); streams: 1, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **7 Sky** (`7Sky.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Ayyam TV** (`AlAyyamTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Diwaniyah** (`AlDiwaniyah.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Eshraq TV** (`AlEshraqTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Fallujah TV** (`AlFallujahTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Forat TV** (`AlForatTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Mawsleya TV** (`AlMawsleyaTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Rabiaa TV** (`AlRabiaaTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Salam TV** (`AlSalamTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al-Baghdadia 1** (`AlBaghdadia1.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al-Baghdadia 2** (`AlBaghdadia2.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al-Etejah** (`AlEtejah.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al-Etejah Satellite Channel** (`AlEtejahSatelliteChannel.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al-Masar Al-Oula Satellite Channel** (`AlMasarAlOulaSatelliteChannel.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al-Nujaba TV** (`AlNujabaTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alahad TV** (`AlahadTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alebaa TV** (`AlebaaTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alkafeel: Between the two holy shrines** (`AlkafeelBetweenthetwoholyshrines.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alkafeel: The entrance of the holy sanctuary** (`AlkafeelTheentranceoftheholysanctuary.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alkafeel: The Holy Tomb** (`AlkafeelTheHolyTomb.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alkafeel: The window of Al-Kafeel** (`AlkafeelThewindowofAlKafeel.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **AlKomail Satellite Channel** (`AlKomailSatelliteChannel.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alshaaer TV** (`AlshaaerTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alsumaria** (`Alsumaria.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Altaleaa TV** (`AltaleaaTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Anbar TV Channel** (`AnbarTVChannel.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Ava Entertainment** (`AvaEntertainment.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Babylon TV** (`BabylonTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Bangawaz TV** (`BangawazTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Bayyinat TV** (`BayyinatTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Beladi Satellite TV** (`BeladiSatelliteTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Cihan TV** (`CihanTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Dijlah Tarab** (`DijlahTarab.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Dijlah Zaman** (`DijlahZaman.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Diwan TV** (`DiwanTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Dua TV** (`DuaTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Gali Kurdistan** (`GaliKurdistan.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **GK Channel** (`GKChannel.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Hadi TV 1** (`HadiTV1.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Hadi TV 2** (`HadiTV2.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Hadi TV 3** (`HadiTV3.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Hadi TV 4** (`HadiTV4.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Hadi TV 5** (`HadiTV5.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Hadi TV 6** (`HadiTV6.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Hadi TV 7** (`HadiTV7.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Hona Baghdad TV** (`HonaBaghdadTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Imam Ali TV** (`ImamAliTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Imam Asr TV** (`ImamAsrTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Iraq 24** (`Iraq24.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Iraq Educational Sat** (`IraqEducationalSat.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Iraq Kids** (`IraqKids.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Iraq Now** (`IraqNow.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Kalimat TV Channel** (`KalimatTVChannel.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Karbala Satellite Channel** (`KarbalaSatelliteChannel.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Karbala TV** (`KarbalaTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Kirkuk TV** (`KirkukTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **KNN Channel** (`KNNChannel.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Korek TV** (`KorekTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **KurdMax Kurmanci** (`KurdMaxKurmanci.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **KurdMax Music** (`KurdMaxMusic.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **KurdMax Show** (`KurdMaxShow.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **KurdMax Sorani** (`KurdMaxSorani.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Net TV** (`NetTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **NRT** (`NRT.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **NRT 2** (`NRT2.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **NRT 3 Kids** (`NRT3Kids.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **NRT 4** (`NRT4.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **NUBAR Plus +** (`NUBARPlusPlus.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **NUBAR tv** (`NUBARtv.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Parwardayi TV** (`ParwardayiTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **QTV** (`QTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Quran TV** (`QuranTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Salahalddin TV** (`SalahalddinTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Shabab Sport 1** (`ShababSport1.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Shihab TV** (`ShihabTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Speda Channel** (`SpedaChannel.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Speda Drama** (`SpedaDrama.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Speda TV** (`SpedaTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **SPI TV** (`SPITV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Tishk TV** (`TishkTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Turkmeneli TV** (`TurkmeneliTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **W.TV** (`WTV.iq`); streams: 0, HTTPS: 0, valid: 0
+
+### الإمارات (AE)
+
+- **1** item(s) are intentionally hidden because safety checks did not allow identity disclosure.
+- `CANDIDATE_NOT_APPROVED` — **Ajman TV** (`AjmanTV.ae`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Fujairah TV** (`FujairahTV.ae`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **MBC FM** (`MBCFM.ae`); streams: 2, HTTPS: 2, valid: 2
+- `CANDIDATE_NOT_APPROVED` — **Peace TV Bangla** (`PeaceTVBangla.ae`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Peace TV Chinese** (`PeaceTVChinese.ae`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Peace TV English** (`PeaceTVEnglish.ae`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Peace TV Urdu** (`PeaceTVUrdu.ae`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **PMC** (`PMC.ae`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **PMC Royale** (`PMCRoyale.ae`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Pulse95 Radio** (`Pulse95Radio.ae`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Sharjah 2** (`Sharjah2.ae`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Sharjah Radio** (`SharjahRadio.ae`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Sharjah Sports** (`SharjahSports.ae`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Sharjah TV** (`SharjahTV.ae`); streams: 2, HTTPS: 2, valid: 2
+- `CANDIDATE_NOT_APPROVED` — **Watar Radio** (`WatarRadio.ae`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Zee Alwan** (`ZeeAlwan.ae`); streams: 1, HTTPS: 1, valid: 1
+- `DMCA` — **Cartoon Network Arabic** (`CartoonNetworkArabic.ae`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **CNN Arabic** (`CNNArabic.ae`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **DMAX MENA** (`DMAXMENA.ae`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **Fatafeat** (`Fatafeat.ae`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **MBC Action** (`MBCAction.ae`); streams: 0, HTTPS: 0, valid: 0
+- `HTTP_ONLY` — **Dubai TV International** (`DubaiTVInternational.ae`); streams: 1, HTTPS: 0, valid: 0
+- `HTTP_ONLY` — **OSN Movies Action** (`OSNMoviesAction.ae`); streams: 1, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **3eesh Al Aan TV** (`3eeshAlAanTV.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Abu Dhabi Drama** (`AbuDhabiDrama.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Abu Dhabi Emirates** (`AbuDhabiEmirates.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Abu Dhabi Sports 1** (`AbuDhabiSports1.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Abu Dhabi Sports 2** (`AbuDhabiSports2.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Abu Dhabi Sports 3** (`AbuDhabiSports3.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Abu Dhabi Sports 4** (`AbuDhabiSports4.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Abu Dhabi TV** (`AbuDhabiTV.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Abu Dhabi TV Europe** (`AbuDhabiTVEurope.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Ajman** (`Ajman.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Aan TV** (`AlAanTV.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Dafrah TV** (`AlDafrahTV.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Mashhad** (`AlMashhad.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Safwa** (`AlSafwa.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Yawm** (`AlYawm.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alarabiya Portrait** (`AlarabiyaPortrait.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alfa Series** (`AlfaSeries.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **B4U Aflam** (`B4UAflam.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Baynounah TV** (`BaynounahTV.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Bee Theater** (`BeeTheater.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Butterfly HDTV** (`ButterflyHDTV.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **China Arab TV** (`ChinaArabTV.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Cinema 1** (`Cinema1.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Cinema 2** (`Cinema2.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Citruss TV** (`CitrussTV.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **CNN Business Arabic** (`CNNBusinessArabic.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Damac Persian** (`DamacPersian.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **DKids** (`DKids.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Dubai One** (`DubaiOne.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Dubai Racing** (`DubaiRacing.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Dubai Racing 2** (`DubaiRacing2.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Dubai Racing 3** (`DubaiRacing3.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Dubai Sports 1** (`DubaiSports1.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Dubai Sports 2** (`DubaiSports2.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Dubai Sports 3** (`DubaiSports3.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Dubai TV** (`DubaiTV.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Dubai Zaman** (`DubaiZaman.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **DXB One** (`DXBOne.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Ellay.com** (`Ellaycom.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Fann** (`Fann.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Fox Arabia** (`FoxArabia.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Fox Life Middle East** (`FoxLifeMiddleEast.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Hawas TV** (`HawasTV.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Just Vogue TV** (`JustVogueTV.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Majid** (`Majid.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **MBC 2** (`MBC2.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **MBC 3** (`MBC3.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **MBC+ Power** (`MBCPlusPower.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **MBC+ Variety** (`MBCPlusVariety.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Media Office** (`MediaOffice.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Music Now** (`MusicNow.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Narayana TV** (`NarayanaTV.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Nat Geo Kids Abu Dhabi** (`NatGeoKidsAbuDhabi.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **National Geographic Abu Dhabi** (`NationalGeographicAbuDhabi.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Nick Jr. Arabia** (`NickJrArabia.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Nickelodeon Arabia** (`NickelodeonArabia.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Nicktoons Arabia** (`NicktoonsArabia.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Nojoum TV** (`NojoumTV.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Noor Dubai** (`NoorDubai.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **NTV** (`NTV.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **OSN Comedy** (`OSNComedy.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **OSN Family** (`OSNFamily.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **OSN Kids** (`OSNKids.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **OSN Kidzone** (`OSNKidzone.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **OSN Living** (`OSNLiving.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **OSN Mezze** (`OSNMezze.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **OSN Movies Hollywood** (`OSNMoviesHollywood.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **OSN News** (`OSNNews.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **OSN Pop Up** (`OSNPopUp.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **OSN Series Prime** (`OSNSeriesPrime.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **OSN Showcase** (`OSNShowcase.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **OSN W** (`OSNW.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **OSN Yahala** (`OSNYahala.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **OSN Yahala Aflam** (`OSNYahalaAflam.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **OSN Yahala Bil Arabi** (`OSNYahalaBilArabi.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Paramount Network MENA** (`ParamountNetworkMENA.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Peace TV Middle East** (`PeaceTVMiddleEast.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **RBC TV** (`RBCTV.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sama Dubai** (`SamaDubai.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sony Max UAE** (`SonyMaxUAE.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Star Movies Middle East** (`StarMoviesMiddleEast.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Star World Middle East** (`StarWorldMiddleEast.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **TeenNick Arabia** (`TeenNickArabia.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Towheed TV** (`TowheedTV.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **U Toon** (`UToon.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **UBL** (`UBL.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Urdu 1 Middle East** (`Urdu1MiddleEast.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Weyyak Action** (`WeyyakAction.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Weyyak Drama** (`WeyyakDrama.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Weyyak Mix** (`WeyyakMix.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Weyyak Nawaem** (`WeyyakNawaem.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Weyyak Smashi** (`WeyyakSmashi.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Yas TV** (`YasTV.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Zee Aflam** (`ZeeAflam.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Zee TV Middle East** (`ZeeTVMiddleEast.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Zorins TV** (`ZorinsTV.ae`); streams: 0, HTTPS: 0, valid: 0
+
+### الكويت (KW)
+
+- `CANDIDATE_NOT_APPROVED` — **Marina TV** (`MarinaTV.kw`); streams: 1, HTTPS: 1, valid: 1
+- `NO_STREAMS` — **Al Anwar TV** (`AlAnwarTV.kw`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Maali TV** (`AlMaaliTV.kw`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Sabah** (`AlSabah.kw`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al-Bawadi TV** (`AlBawadiTV.kw`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alrai TV** (`AlraiTV.kw`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alshahed TV** (`AlshahedTV.kw`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **ATV** (`ATV.kw`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Bahry** (`Bahry.kw`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Ch4Teen** (`Ch4Teen.kw`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Ch4Teen Clip** (`Ch4TeenClip.kw`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Funoon TV** (`FunoonTV.kw`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **KTV Al Majlis** (`KTVAlMajlis.kw`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **KTV Khallik Bilbait** (`KTVKhallikBilbait.kw`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Scope TV** (`ScopeTV.kw`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Soutalarab TV** (`SoutalarabTV.kw`); streams: 0, HTTPS: 0, valid: 0
+
+### قطر (QA)
+
+- `CANDIDATE_NOT_APPROVED` — **Al Jazeera Documentary** (`AlJazeeraDocumentary.qa`); streams: 4, HTTPS: 4, valid: 4
+- `CANDIDATE_NOT_APPROVED` — **Alkass Four** (`AlkassFour.qa`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Alkass One** (`AlkassOne.qa`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Alkass SHOOF** (`AlkassSHOOF.qa`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Alkass SHOOF 2** (`AlkassSHOOF2.qa`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Alkass Six** (`AlkassSix.qa`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Alkass Three** (`AlkassThree.qa`); streams: 2, HTTPS: 2, valid: 2
+- `CANDIDATE_NOT_APPROVED` — **Alkass Two** (`AlkassTwo.qa`); streams: 1, HTTPS: 1, valid: 1
+- `DMCA` — **beIN Sports** (`beINSports.qa`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **beIN Sports 1** (`beINSports1.qa`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **beIN Sports 2** (`beINSports2.qa`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **beIN Sports 3** (`beINSports3.qa`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **beIN Sports 4** (`beINSports4.qa`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **beIN Sports 5** (`beINSports5.qa`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **beIN Sports 6** (`beINSports6.qa`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **beIN Sports 7** (`beINSports7.qa`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **beIN Sports 8** (`beINSports8.qa`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **beIN Sports English 1** (`beINSportsEnglish1.qa`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **beIN Sports English 2** (`beINSportsEnglish2.qa`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **beIN Sports English 3** (`beINSportsEnglish3.qa`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **beIN Sports French 1** (`beINSportsFrench1.qa`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **beIN Sports French 2** (`beINSportsFrench2.qa`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **beIN Sports French 3** (`beINSportsFrench3.qa`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **beIN Sports Max 1** (`beINSportsMax1.qa`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **beIN Sports Max 10** (`beINSportsMax10.qa`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **beIN Sports Max 2** (`beINSportsMax2.qa`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **beIN Sports Max 3** (`beINSportsMax3.qa`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **beIN Sports Max 4** (`beINSportsMax4.qa`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **beIN Sports Max 5** (`beINSportsMax5.qa`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **beIN Sports Max 6** (`beINSportsMax6.qa`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **beIN Sports Max 7** (`beINSportsMax7.qa`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **beIN Sports Max 8** (`beINSportsMax8.qa`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **beIN Sports Max 9** (`beINSportsMax9.qa`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **beIN Sports Premium 1** (`beINSportsPremium1.qa`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **beIN Sports Premium 2** (`beINSportsPremium2.qa`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **beIN Sports Premium 3** (`beINSportsPremium3.qa`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **beIN Sports Xtra 1** (`beINSportsXtra1.qa`); streams: 0, HTTPS: 0, valid: 0
+- `DMCA` — **beIN Sports Xtra 2** (`beINSportsXtra2.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Rassoul** (`AlRassoul.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alkass Eight** (`AlkassEight.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alkass Eleven** (`AlkassEleven.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alkass Five** (`AlkassFive.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alkass Nine** (`AlkassNine.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alkass Seven** (`AlkassSeven.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alkass Ten** (`AlkassTen.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Baraem** (`Baraem.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Be Junior** (`BeJunior.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **beIN 4K** (`beIN4K.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **beIN Box Office 1** (`beINBoxOffice1.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **beIN Box Office 2** (`beINBoxOffice2.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **beIN Drama 1** (`beINDrama1.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **beIN Gourmet** (`beINGourmet.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **beIN Movies 1 Premiere** (`beINMovies1Premiere.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **beIN Movies 2 Action** (`beINMovies2Action.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **beIN Movies 3 Drama** (`beINMovies3Drama.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **beIN Movies 4 Family** (`beINMovies4Family.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **beIN Series 1** (`beINSeries1.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **beIN Series 2** (`beINSeries2.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **beIN Sports 4K HDR** (`beINSports4KHDR.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **beIN Sports AFC** (`beINSportsAFC.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **beIN Sports AFC 1** (`beINSportsAFC1.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **beIN Sports AFC 2** (`beINSportsAFC2.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **beIN Sports AFC 3** (`beINSportsAFC3.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **beIN Sports en Espanol** (`beINSportsenEspanol.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **beIN Sports NBA** (`beINSportsNBA.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **beIN Sports News** (`beINSportsNews.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Dohat Alquran TV** (`DohatAlquranTV.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **JeemTV** (`JeemTV.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Qatar Today 1** (`QatarToday1.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Qatar Today 2** (`QatarToday2.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sama Alkhaleej TV** (`SamaAlkhaleejTV.qa`); streams: 0, HTTPS: 0, valid: 0
+
+### الأردن (JO)
+
+- `CANDIDATE_NOT_APPROVED` — **Alhaqeqa Aldawlia** (`AlhaqeqaAldawlia.jo`); streams: 1, HTTPS: 1, valid: 1
+- `HTTP_ONLY` — **Alerth Alnabawi Channel** (`AlerthAlnabawiChannel.jo`); streams: 1, HTTPS: 0, valid: 0
+- `HTTP_ONLY` — **Kaifa TV** (`KaifaTV.jo`); streams: 1, HTTPS: 0, valid: 0
+- `HTTP_ONLY` — **Radio Fann Jordan Studio** (`RadioFannJordanStudio.jo`); streams: 1, HTTPS: 0, valid: 0
+- `HTTP_ONLY` — **Radio Yaqeen Jordan City View** (`RadioYaqeenJordanCityView.jo`); streams: 1, HTTPS: 0, valid: 0
+- `HTTP_ONLY` — **Rotana Radio Jordan Studio** (`RotanaRadioJordanStudio.jo`); streams: 1, HTTPS: 0, valid: 0
+- `HTTP_ONLY` — **Rotana Tarab Jordan City View** (`RotanaTarabJordanCityView.jo`); streams: 1, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **7 Stars TV** (`7StarsTV.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **A One TV** (`AOneTV.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Hakika TV** (`AlHakikaTV.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Mamlaka TV** (`AlMamlakaTV.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Amen FM TV** (`AmenFMTV.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **ANB** (`ANB.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Awdeh** (`Awdeh.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Azhari TV** (`AzhariTV.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Darsak 1** (`Darsak1.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Darsak 2** (`Darsak2.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Darsak Tawjihi** (`DarsakTawjihi.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Deretna** (`Deretna.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Fact International** (`FactInternational.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Hala** (`Hala.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Hala Control Studio** (`HalaControlStudio.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Ismaoona TV** (`IsmaoonaTV.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Jeish FM** (`JeishFM.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Jordan Now TV** (`JordanNowTV.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Jordan Sport 2** (`JordanSport2.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Josat TV** (`JosatTV.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Karameesh** (`Karameesh.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Qudaah** (`Qudaah.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Radio Fann Jordan City View** (`RadioFannJordanCityView.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Radio Fann Jordan Control Studio** (`RadioFannJordanControlStudio.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Radio Yaqeen Jordan Control Studio** (`RadioYaqeenJordanControlStudio.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Radio Yaqeen Jordan Studio** (`RadioYaqeenJordanStudio.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Rotana Radio Jordan City View** (`RotanaRadioJordanCityView.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Rotana Radio Jordan Control Studio** (`RotanaRadioJordanControlStudio.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Rotana Tarab Jordan Control Studio** (`RotanaTarabJordanControlStudio.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Roya Comedy** (`RoyaComedy.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Roya Drama** (`RoyaDrama.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Roya Kids** (`RoyaKids.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Roya Kids Originals** (`RoyaKidsOriginals.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Roya Kids Songs** (`RoyaKidsSongs.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Roya Kids Stories** (`RoyaKidsStories.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Roya Kitchen** (`RoyaKitchen.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Roya Music** (`RoyaMusic.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Roya News** (`RoyaNews.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Roya TV** (`RoyaTV.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sport TV** (`SportTV.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Tala Kids Club** (`TalaKidsClub.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Thakafah TV** (`ThakafahTV.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Toyor Al-Jannah** (`ToyorAlJannah.jo`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Yarmouk TV** (`YarmoukTV.jo`); streams: 0, HTTPS: 0, valid: 0
+
+### لبنان (LB)
+
+- `CANDIDATE_NOT_APPROVED` — **Al Ittihad TV** (`AlIttihadTV.lb`); streams: 2, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Al-Manar** (`AlManar.lb`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Charity TV** (`CharityTV.lb`); streams: 2, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **mfm** (`mfm.lb`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Nabaa TV** (`NabaaTV.lb`); streams: 3, HTTPS: 2, valid: 2
+- `CANDIDATE_NOT_APPROVED` — **Nour El Shabeb** (`NourElShabeb.lb`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Nour Mariam** (`NourMariam.lb`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **OneFM** (`OneFM.lb`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Palestine Al Yawm** (`PalestineAlYawm.lb`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Tele Liban** (`TeleLiban.lb`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **UNews** (`UNews.lb`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Voice of Lebanon** (`VoiceofLebanon.lb`); streams: 1, HTTPS: 1, valid: 1
+- `HTTP_ONLY` — **Al Jadeed** (`AlJadeed.lb`); streams: 1, HTTPS: 0, valid: 0
+- `HTTP_ONLY` — **ALWifak News TV** (`ALWifakNewsTV.lb`); streams: 1, HTTPS: 0, valid: 0
+- `HTTP_ONLY` — **Arabica TV** (`ArabicaTV.lb`); streams: 1, HTTPS: 0, valid: 0
+- `HTTP_ONLY` — **LBC International** (`LBCInternational.lb`); streams: 1, HTTPS: 0, valid: 0
+- `HTTP_ONLY` — **Senses TV** (`SensesTV.lb`); streams: 1, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **A TV** (`ATV.lb`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al-waad TV** (`AlwaadTV.lb`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Falestinona Channel** (`FalestinonaChannel.lb`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Hawacom TV** (`HawacomTV.lb`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Khaleej Al Arab 1** (`KhaleejAlArab1.lb`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Khaleej Al Arab 2** (`KhaleejAlArab2.lb`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Lana TV Plus** (`LanaTVPlus.lb`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **LB2 International** (`LB2International.lb`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **LBC Europe** (`LBCEurope.lb`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Mariam TV** (`MariamTV.lb`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **NBN** (`NBN.lb`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **New Vision TV** (`NewVisionTV.lb`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Nour Kids** (`NourKids.lb`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sawt El Mada** (`SawtElMada.lb`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sheikh Youssef Ftouni TV** (`SheikhYoussefFtouniTV.lb`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **SPI Lebanon** (`SPILebanon.lb`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Suboro TV** (`SuboroTV.lb`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **TV Seventeen** (`TVSeventeen.lb`); streams: 0, HTTPS: 0, valid: 0
+
+### سوريا (SY)
+
+- `HTTP_ONLY` — **Alalam News Channel Syria** (`AlalamNewsChannelSyria.sy`); streams: 1, HTTPS: 0, valid: 0
+- `HTTP_ONLY` — **Alikhbaria Syria** (`AlikhbariaSyria.sy`); streams: 1, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al-Khabar Tele Site** (`AlKhabarTeleSite.sy`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Almahaliya TV** (`AlmahaliyaTV.sy`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alyaum Channel** (`AlyaumChannel.sy`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **ANN** (`ANN.sy`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Massaya TV** (`MassayaTV.sy`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Nour El-Sham** (`NourElSham.sy`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Radio Alkul TV** (`RadioAlkulTV.sy`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Raqqa TV** (`RaqqaTV.sy`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sama TV** (`SamaTV.sy`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sham FM TV** (`ShamFMTV.sy`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Souryana Radio** (`SouryanaRadio.sy`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Souryana TV** (`SouryanaTV.sy`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Syria Drama** (`SyriaDrama.sy`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Syria Drama 24** (`SyriaDrama24.sy`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Syria One** (`SyriaOne.sy`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Syria Sports TV** (`SyriaSportsTV.sy`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Syrian Educational TV** (`SyrianEducationalTV.sy`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Syrian News Channel** (`SyrianNewsChannel.sy`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Ugarit TV** (`UgaritTV.sy`); streams: 0, HTTPS: 0, valid: 0
+
+### فلسطين (PS)
+
+- `CANDIDATE_NOT_APPROVED` — **Al Madina** (`AlMadina.ps`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Al Najah News** (`AlNajahNews.ps`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Falastini TV** (`FalastiniTV.ps`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Kolalnas TV** (`KolalnasTV.ps`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Ma'an TV** (`MaanTV.ps`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Musawa Channel** (`MusawaChannel.ps`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Palestine Edu** (`PalestineEdu.ps`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Palestine Mubasher** (`PalestineMubasher.ps`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Palestine Satellite Channel** (`PalestineSatelliteChannel.ps`); streams: 2, HTTPS: 2, valid: 2
+- `CANDIDATE_NOT_APPROVED` — **Palestine Today** (`PalestineToday.ps`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Radio Albalad TV** (`RadioAlbaladTV.ps`); streams: 2, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Rajeen TV** (`RajeenTV.ps`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Seraj TV** (`SerajTV.ps`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Shabab FM** (`ShababFM.ps`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Watar TV** (`WatarTV.ps`); streams: 2, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Wattan TV** (`WattanTV.ps`); streams: 1, HTTPS: 1, valid: 1
+- `HTTP_ONLY` — **Ajyal TV** (`AjyalTV.ps`); streams: 2, HTTPS: 0, valid: 0
+- `HTTP_ONLY` — **Holy Quran Radio Nablus** (`HolyQuranRadioNablus.ps`); streams: 1, HTTPS: 0, valid: 0
+- `HTTP_ONLY` — **Nablus TV** (`NablusTV.ps`); streams: 1, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **7ala TV** (`7alaTV.ps`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Quds Today TV** (`AlQudsTodayTV.ps`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al-Aqsa TV** (`AlAqsaTV.ps`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al-Quds Open University** (`AlQudsOpenUniversity.ps`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Awdah TV** (`AwdahTV.ps`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Baladna** (`Baladna.ps`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Fajer TV 1** (`FajerTV1.ps`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Fajer TV 2** (`FajerTV2.ps`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Hala Ramallah** (`HalaRamallah.ps`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Hebron Sat** (`HebronSat.ps`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Hekaya TV** (`HekayaTV.ps`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Hettin** (`Hettin.ps`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Marah FM** (`MarahFM.ps`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Mawwal** (`Mawwal.ps`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Nativity TV** (`NativityTV.ps`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Palestine News Network** (`PalestineNewsNetwork.ps`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Palestine Sport** (`PalestineSport.ps`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Palestine TV** (`PalestineTV.ps`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Raya 1** (`Raya1.ps`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Raya 2** (`Raya2.ps`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Raya 3** (`Raya3.ps`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Salam TV** (`SalamTV.ps`); streams: 0, HTTPS: 0, valid: 0
+
+### الجزائر (DZ)
+
+- `CANDIDATE_NOT_APPROVED` — **CNA** (`CNA.dz`); streams: 2, HTTPS: 2, valid: 2
+- `CANDIDATE_NOT_APPROVED` — **Elwatania TV** (`ElwataniaTV.dz`); streams: 1, HTTPS: 1, valid: 1
+- `HTTP_ONLY` — **Amou Yazid TV** (`AmouYazidTV.dz`); streams: 1, HTTPS: 0, valid: 0
+- `HTTP_ONLY` — **TV2** (`TV2.dz`); streams: 1, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **4Kids TV** (`4KidsTV.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Anis TV** (`AlAnisTV.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alaqaria TV** (`AlaqariaTV.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alsir TV** (`AlsirTV.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Aures TV** (`AuresTV.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Bahia TV** (`BahiaTV.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Channel 0225 TV** (`Channel0225TV.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Chebab TV** (`ChebabTV.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Dz News TV** (`DzNewsTV.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Dzair Tube TV** (`DzairTubeTV.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Echorouk News** (`EchoroukNews.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Echorouk TV** (`EchoroukTV.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **El Adjwaa TV** (`ElAdjwaaTV.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **El Bilad TV** (`ElBiladTV.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **El Djazair N1** (`ElDjazairN1.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **El Djazairia One** (`ElDjazairiaOne.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **El Fadjer TV** (`ElFadjerTV.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **El Hayat TV** (`ElHayatTV.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **El Hidhab TV** (`ElHidhabTV.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Elikhbaria TV** (`ElikhbariaTV.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Eliktisadia El Oula TV** (`EliktisadiaElOulaTV.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Ennahar TV** (`EnnaharTV.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Essalam TV** (`EssalamTV.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Fairs TV** (`FairsTV.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Jeel DZ TV** (`JeelDZTV.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Lina TV** (`LinaTV.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **One TV** (`OneTV.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sahra TV** (`SahraTV.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Samira TV** (`SamiraTV.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Setif News** (`SetifNews.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **TV1** (`TV1.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **TV3** (`TV3.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **TV4** (`TV4.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **TV5** (`TV5.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **TV6** (`TV6.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **TV7** (`TV7.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **TV8** (`TV8.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **TV9** (`TV9.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **WebTV Universite de Bejaia** (`WebTVUniversitedeBejaia.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **ZAHRA TV** (`ZAHRATV.dz`); streams: 0, HTTPS: 0, valid: 0
+
+### البحرين (BH)
+
+- `NO_STREAMS` — **Bahrain Lawal** (`BahrainLawal.bh`); streams: 0, HTTPS: 0, valid: 0
+
+### جزر القمر (KM)
+
+- `NO_STREAMS` — **Huri TV** (`HuriTV.km`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **ORTC TV** (`ORTCTV.km`); streams: 0, HTTPS: 0, valid: 0
+
+### جيبوتي (DJ)
+
+- `NO_STREAMS` — **RTD** (`RTD.dj`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **RTD 1** (`RTD1.dj`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **RTD 2** (`RTD2.dj`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **RTD 3** (`RTD3.dj`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **RTD 4** (`RTD4.dj`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **RTD 5** (`RTD5.dj`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **RTD 6** (`RTD6.dj`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **RTD 7** (`RTD7.dj`); streams: 0, HTTPS: 0, valid: 0
+
+### ليبيا (LY)
+
+- `NO_STREAMS` — **218 News** (`218News.ly`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **218TV** (`218TV.ly`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Abu Surra TV** (`AbuSurraTV.ly`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Ali Gate TV** (`AliGateTV.ly`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Allibiya TV** (`AllibiyaTV.ly`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **February Channel** (`FebruaryChannel.ly`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Jamahiriya TV** (`JamahiriyaTV.ly`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Libya Alhadath TV** (`LibyaAlhadathTV.ly`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Libya Alrasmia Channel** (`LibyaAlrasmiaChannel.ly`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Libya Education TV** (`LibyaEducationTV.ly`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Libya LY TV** (`LibyaLYTV.ly`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Libya Mostakbal** (`LibyaMostakbal.ly`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Libya One** (`LibyaOne.ly`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Libya Panorama Channel** (`LibyaPanoramaChannel.ly`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Libya Sport TV 1** (`LibyaSportTV1.ly`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Libya Sport TV 2** (`LibyaSportTV2.ly`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **New Libya Channel** (`NewLibyaChannel.ly`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **NLC Kids** (`NLCKids.ly`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **NLC News** (`NLCNews.ly`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **RTV Lebda** (`RTVLebda.ly`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Salam TV** (`SalamTV.ly`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Waad Channels TV** (`WaadChannelsTV.ly`); streams: 0, HTTPS: 0, valid: 0
+
+### موريتانيا (MR)
+
+- `NO_STREAMS` — **Al Barlemania** (`AlBarlemania.mr`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Arriadia** (`Arriadia.mr`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Athagavia** (`Athagavia.mr`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Chinguit TV** (`ChinguitTV.mr`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Dava TV** (`DavaTV.mr`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **El Mahadra** (`ElMahadra.mr`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **El Medina** (`ElMedina.mr`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **El Oussra TV** (`ElOussraTV.mr`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Elmourabiton TV** (`ElmourabitonTV.mr`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Elmouritania** (`Elmouritania.mr`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Elmouritania 2** (`Elmouritania2.mr`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Elwataniya TV** (`ElwataniyaTV.mr`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Ghimem TV** (`GhimemTV.mr`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **HOLPAC TV** (`HOLPACTV.mr`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sahara 24** (`Sahara24.mr`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sahel TV** (`SahelTV.mr`); streams: 0, HTTPS: 0, valid: 0
+
+### المغرب (MA)
+
+- `HTTP_ONLY` — **2M** (`2M.ma`); streams: 1, HTTPS: 0, valid: 0
+- `HTTP_ONLY` — **Al Maghribia** (`AlMaghribia.ma`); streams: 1, HTTPS: 0, valid: 0
+- `HTTP_ONLY` — **Arryadia** (`Arryadia.ma`); streams: 1, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **2M MENA** (`2MMENA.ma`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Aflam TV** (`AflamTV.ma`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Aoula** (`AlAoula.ma`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Ons TV** (`AlOnsTV.ma`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Arryadia HD1** (`ArryadiaHD1.ma`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Arryadia HD2** (`ArryadiaHD2.ma`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Arryadia HD3** (`ArryadiaHD3.ma`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Assadissa** (`Assadissa.ma`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Athaqafia** (`Athaqafia.ma`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Campus Maroc TV** (`CampusMarocTV.ma`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Canal Atlas Fight** (`CanalAtlasFight.ma`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Chouf TV** (`ChoufTV.ma`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Cote & Sport 1** (`CoteSport1.ma`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Cote & Sport 2** (`CoteSport2.ma`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **L'Match** (`LMatch.ma`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Laayoune TV** (`LaayouneTV.ma`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **M24 TV** (`M24TV.ma`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sloog** (`Sloog.ma`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sorec TV** (`SorecTV.ma`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Tamazight TV** (`TamazightTV.ma`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Tele Maroc** (`TeleMaroc.ma`); streams: 0, HTTPS: 0, valid: 0
+
+### عُمان (OM)
+
+- `NO_STREAMS` — **Majan TV** (`MajanTV.om`); streams: 0, HTTPS: 0, valid: 0
+
+### الصومال (SO)
+
+- `CANDIDATE_NOT_APPROVED` — **Arlaadi TV** (`ArlaadiTV.so`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Saab TV** (`SaabTV.so`); streams: 2, HTTPS: 2, valid: 2
+- `CANDIDATE_NOT_APPROVED` — **SNTV Daljir** (`SNTVDaljir.so`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Somali National TV** (`SomaliNationalTV.so`); streams: 1, HTTPS: 1, valid: 1
+- `HTTP_ONLY` — **Hirshabelle TV** (`HirshabelleTV.so`); streams: 1, HTTPS: 0, valid: 0
+- `HTTP_ONLY` — **Puntland TV** (`PuntlandTV.so`); streams: 1, HTTPS: 0, valid: 0
+- `HTTP_ONLY` — **SBC TV** (`SBCTV.so`); streams: 1, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Asal TV** (`AsalTV.so`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Banaadir TV** (`BanaadirTV.so`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Bulsho TV** (`BulshoTV.so`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Codka Bariga Afrika** (`CodkaBarigaAfrika.so`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Dalka TV** (`DalkaTV.so`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Gobanimo TV** (`GobanimoTV.so`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Goobjoog TV** (`GoobjoogTV.so`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Iftiin TV** (`IftiinTV.so`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Jubbaland TV** (`JubbalandTV.so`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **KGS TV** (`KGSTV.so`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Maan TV** (`MaanTV.so`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Rejo Sports** (`RejoSports.so`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sahan TV** (`SahanTV.so`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **SMS TV** (`SMSTV.so`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **SNTV 2** (`SNTV2.so`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Somaliland National TV** (`SomalilandNationalTV.so`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **STV Somalia** (`STVSomalia.so`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Voice of Somali TV** (`VoiceofSomaliTV.so`); streams: 0, HTTPS: 0, valid: 0
+
+### السودان (SD)
+
+- `CANDIDATE_NOT_APPROVED` — **Dabanga TV** (`DabangaTV.sd`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Sudan TV** (`SudanTV.sd`); streams: 1, HTTPS: 1, valid: 1
+- `HTTP_ONLY` — **Al Alamiya 2** (`AlAlamiya2.sd`); streams: 1, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Gezira TV** (`AlGeziraTV.sd`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al-Hilal TV** (`AlHilalTV.sd`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al-Merrikh TV** (`AlMerrikhTV.sd`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Albalad TV** (`AlbaladTV.sd`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Aleunwan 24** (`Aleunwan24.sd`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alistijabah TV** (`AlistijabahTV.sd`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alzarga TV** (`AlzargaTV.sd`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Ashorooq TV** (`AshorooqTV.sd`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Blue Nile Channel** (`BlueNileChannel.sd`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Blue Nile Channel 2** (`BlueNileChannel2.sd`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Kanon TV Sudan** (`KanonTVSudan.sd`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Karari TV** (`KarariTV.sd`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Kassala TV** (`KassalaTV.sd`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Khartoum TV** (`KhartoumTV.sd`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **ML TV** (`MLTV.sd`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Nile River TV Channel** (`NileRiverTVChannel.sd`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Red Sea Channel** (`RedSeaChannel.sd`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Shamalia TV** (`ShamaliaTV.sd`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sniper TV** (`SniperTV.sd`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sudan Bukra** (`SudanBukra.sd`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sudan Drama** (`SudanDrama.sd`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sudan Edu TV** (`SudanEduTV.sd`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sudan Music** (`SudanMusic.sd`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sudan Now 24** (`SudanNow24.sd`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sudan Sport** (`SudanSport.sd`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sudania 24 TV** (`Sudania24TV.sd`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **TA Seti Almareefa** (`TASetiAlmareefa.sd`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Tayba TV** (`TaybaTV.sd`); streams: 0, HTTPS: 0, valid: 0
+
+### تونس (TN)
+
+- `CANDIDATE_NOT_APPROVED` — **Jawhara TV** (`JawharaTV.tn`); streams: 2, HTTPS: 1, valid: 1
+- `NO_STREAMS` — **Al Insen TV** (`AlInsenTV.tn`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Al Janoubiya TV** (`AlJanoubiyaTV.tn`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Attessia TV** (`AttessiaTV.tn`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Baya TV** (`BayaTV.tn`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Carthage+** (`CarthagePlus.tn`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **CNB TV** (`CNBTV.tn`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Elhiwar Ettounsi TV** (`ElhiwarEttounsiTV.tn`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Essaida TV** (`EssaidaTV.tn`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Hannibal TV** (`HannibalTV.tn`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **IFM TV** (`IFMTV.tn`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Nefzawa TV** (`NefzawaTV.tn`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Nessma El Jadida** (`NessmaElJadida.tn`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Radio Nationale Visuelle** (`RadioNationaleVisuelle.tn`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sahel TV** (`SahelTV.tn`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **SPLTV** (`SPLTV.tn`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Telvza TV** (`TelvzaTV.tn`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **TT1** (`TT1.tn`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **TunisiaShop TV** (`TunisiaShopTV.tn`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Tunisie Immobilier TV** (`TunisieImmobilierTV.tn`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Tunisna TV** (`TunisnaTV.tn`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Watania Educative** (`WataniaEducative.tn`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Zitouna TV** (`ZitounaTV.tn`); streams: 0, HTTPS: 0, valid: 0
