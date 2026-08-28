@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 7,
-  "generatedAt": "2026-08-28T22:37:02.1721374\u002B00:00",
+  "version": 8,
+  "generatedAt": "2026-08-28T22:37:59.2299474\u002B00:00",
   "countryOrder": [
     "YE",
     "SA",
@@ -1266,44 +1266,6 @@
       ],
       "upstreamId": "AlMasarTV.ly",
       "website": "https://almasartv.ly/"
-    },
-    {
-      "categories": [
-        "NEWS"
-      ],
-      "country": "\u0627\u0644\u064A\u0645\u0646",
-      "countryCode": "YE",
-      "description": null,
-      "enabled": true,
-      "id": "AlMasirah.ye",
-      "languages": [
-        "ara"
-      ],
-      "logo": "https://i.imgur.com/V055t5e.png",
-      "name": "Al Masirah",
-      "order": 0,
-      "safety": {
-        "isNsfw": false,
-        "reviewed": true
-      },
-      "streams": [
-        {
-          "geo": {
-            "allowedCountries": [],
-            "blockedCountries": [],
-            "isGeoBlocked": false,
-            "label": "Not 24/7"
-          },
-          "priority": 0,
-          "quality": "720p",
-          "referer": null,
-          "source": "iptv-org",
-          "url": "https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8",
-          "userAgent": null
-        }
-      ],
-      "upstreamId": "AlMasirah.ye",
-      "website": "https://www.masirahtv.net/"
     },
     {
       "categories": [
