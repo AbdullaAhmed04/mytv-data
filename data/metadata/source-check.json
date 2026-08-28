@@ -1,8 +1,8 @@
 {
   "adultRejectedCount": 377,
-  "candidateChannels": 533,
-  "checkedAt": "2026-08-27T04:21:42Z",
-  "pendingChanges": 534,
+  "candidateChannels": 560,
+  "checkedAt": "2026-08-28T03:46:21Z",
+  "pendingChanges": 385,
   "policyRejectedCount": 1053,
   "safetyQuarantinedCount": 0,
   "schemaVersion": 1,
@@ -12,15 +12,33 @@
     "https://iptv-org.github.io/api/streams.json",
     "https://iptv-org.github.io/api/logos.json",
     "https://iptv-org.github.io/api/countries.json",
-    "https://iptv-org.github.io/api/blocklist.json"
+    "https://iptv-org.github.io/api/blocklist.json",
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"
   ],
   "status": "SUCCESS",
   "upstreamCounts": {
     "blocklist": 1578,
-    "channels": 40766,
+    "channels": 40815,
     "countries": 250,
-    "feeds": 44753,
-    "logos": 43120,
-    "streams": 16941
+    "feeds": 44804,
+    "freeTvAmbiguousEntriesSkipped": 1,
+    "freeTvArabEntries": 107,
+    "freeTvDirectHttpsEntries": 159,
+    "freeTvDuplicateEntriesSkipped": 54,
+    "freeTvIdCountryMismatchSkipped": 1,
+    "freeTvMatchedByAlias": 3,
+    "freeTvMatchedById": 80,
+    "freeTvMatchedByName": 3,
+    "freeTvMergedStreams": 11,
+    "freeTvNewChannels": 26,
+    "freeTvNonDirectEntriesSkipped": 31,
+    "freeTvOutOfScopeEntriesSkipped": 1662,
+    "freeTvPlaylistEntries": 1788,
+    "freeTvPolicyEntriesRejected": 2,
+    "freeTvUnsafeEntriesRejected": 0,
+    "freeTvUsUkEntries": 83,
+    "freeTvUserBlockedSkipped": 0,
+    "logos": 43170,
+    "streams": 16955
   }
 }
