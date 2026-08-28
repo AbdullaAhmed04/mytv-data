@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 12,
-  "generatedAt": "2026-08-27T20:27:08.9660526\u002B00:00",
+  "version": 13,
+  "generatedAt": "2026-08-28T18:33:11.5225340\u002B00:00",
   "links": [
     {
       "id": "9116f2aa-8d5c-47df-9fe5-f0509c3c9be5",
@@ -52,10 +52,10 @@
       "adBlockEnabled": true
     },
     {
-      "id": "f6e5b33d-6cd1-48fa-8ca0-59073b076715",
-      "name": "\u0628\u0631\u0634\u0644\u0648\u0646\u0627",
-      "url": "https://fabor-tv-player.me/hard/2908c7d4425d87350.html?match=4750519",
-      "type": "AUTO",
+      "id": "bb72ba32-54f2-41a8-ac5b-67af6af0e1fc",
+      "name": "\u0645\u0628\u0627\u0631\u0647",
+      "url": "https://ka.yallacuop.xyz/albaplayer/thmanya-1/?serv=2",
+      "type": "DIRECT_STREAM",
       "resolvedType": null,
       "image": null,
       "category": null,
