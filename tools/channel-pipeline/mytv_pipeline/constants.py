@@ -1,5 +1,8 @@
 from __future__ import annotations
 
+
+FREE_TV_PLAYLIST_URL = "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"
+
 UPSTREAM_URLS = {
     "channels": "https://iptv-org.github.io/api/channels.json",
     "feeds": "https://iptv-org.github.io/api/feeds.json",

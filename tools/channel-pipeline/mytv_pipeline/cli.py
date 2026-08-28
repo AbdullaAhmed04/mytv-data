@@ -6,11 +6,13 @@ import os
 from datetime import datetime, timezone
 from pathlib import Path
 
-from .constants import COUNTRY_ORDER, UPSTREAM_URLS
+from .audit import build_arab_channel_audit, render_arab_channel_audit_markdown
+from .constants import COUNTRY_ORDER, FREE_TV_PLAYLIST_URL, UPSTREAM_URLS
 from .diff import canonical, generate_changes, summary
-from .net import load_upstream
+from .free_tv import merge_free_tv, parse_free_tv_playlist
+from .net import load_free_tv_playlist, load_upstream
 from .normalize import normalize
-from .validation import validate_channels, validate_links, validate_pending
+from .validation import validate_arab_audit, validate_channels, validate_links, validate_pending
 
 
 def read_json(path: Path, default=None):
@@ -47,6 +49,21 @@ def update(repo_root: Path, upstream_dir: Path | None, now: str | None) -> dict:
     user_blocklist = read_json(repo_root / "data/blocklists/user-blocklist.json", {"channelIds": []})
     upstream = load_upstream(upstream_dir)
     result = normalize(upstream, adult_blocklist, user_blocklist)
+    free_tv_entries = parse_free_tv_playlist(load_free_tv_playlist(upstream_dir))
+    free_tv = merge_free_tv(
+        result.channels,
+        free_tv_entries,
+        upstream,
+        adult_blocklist,
+        user_blocklist,
+        result.rejected,
+        result.policy_rejected,
+        result.quarantined,
+    )
+    result.channels = free_tv.channels
+    result.rejected = free_tv.rejected
+    result.policy_rejected = free_tv.policy_rejected
+    result.quarantined = free_tv.quarantined
 
     content_changed = canonical(result.channels) != canonical(approved.get("channels", []))
     candidate_version = int(approved["version"]) + (1 if content_changed else 0)
@@ -88,12 +105,20 @@ def update(repo_root: Path, upstream_dir: Path | None, now: str | None) -> dict:
         # Deliberately contains no names, URLs, logos, or previews.
         "items": result.quarantined,
     }
+    arab_audit = build_arab_channel_audit(
+        upstream, adult_blocklist, user_blocklist, candidate, approved, checked_at,
+    )
+    validate_arab_audit(arab_audit)
+
     source_check = {
         "schemaVersion": 1,
         "checkedAt": checked_at,
         "status": "SUCCESS",
-        "sources": list(UPSTREAM_URLS.values()),
-        "upstreamCounts": {key: len(value) for key, value in sorted(upstream.items())},
+        "sources": list(UPSTREAM_URLS.values()) + [FREE_TV_PLAYLIST_URL],
+        "upstreamCounts": {
+            **{key: len(value) for key, value in sorted(upstream.items())},
+            **free_tv.stats,
+        },
         "candidateChannels": len(candidate["channels"]),
         "pendingChanges": len(changes),
         "adultRejectedCount": len(result.rejected),
@@ -105,6 +130,10 @@ def update(repo_root: Path, upstream_dir: Path | None, now: str | None) -> dict:
     write_json_atomic(repo_root / "data/candidate/quarantined-safety.json", quarantine)
     write_json_atomic(repo_root / "data/review/pending-changes.json", pending)
     write_json_atomic(repo_root / "data/metadata/source-check.json", source_check)
+    write_json_atomic(repo_root / "data/metadata/arab-channel-audit.json", arab_audit)
+    audit_md = repo_root / "data/metadata/arab-channel-audit.md"
+    audit_md.parent.mkdir(parents=True, exist_ok=True)
+    audit_md.write_text(render_arab_channel_audit_markdown(arab_audit), encoding="utf-8")
     return source_check
 
 
@@ -117,10 +146,13 @@ def validate_repository(repo_root: Path) -> None:
     pending_path = repo_root / "data/review/pending-changes.json"
     if pending_path.exists():
         validate_pending(read_json(pending_path))
+    audit_path = repo_root / "data/metadata/arab-channel-audit.json"
+    if audit_path.exists():
+        validate_arab_audit(read_json(audit_path))
 
 
 def build_parser() -> argparse.ArgumentParser:
-    parser = argparse.ArgumentParser(description="MYTV IPTV-org review pipeline")
+    parser = argparse.ArgumentParser(description="MYTV multi-source review pipeline (IPTV-org + Free-TV)")
     parser.add_argument("--repo-root", type=Path, default=Path(__file__).resolve().parents[3])
     subparsers = parser.add_subparsers(dest="command", required=True)
     update_parser = subparsers.add_parser("update", help="fetch, normalize, and generate review files")

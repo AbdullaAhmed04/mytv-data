@@ -102,3 +102,91 @@ def validate_pending(document: dict) -> None:
     ids = [item.get("id") for item in changes if isinstance(item, dict)]
     if len(ids) != len(changes) or len(ids) != len(set(ids)):
         raise ValueError("Invalid or duplicate change IDs")
+
+AUDIT_REASON_KEYS = {
+    "APPROVED", "CANDIDATE_NOT_APPROVED", "USER_BLOCKLIST", "DMCA",
+    "ADULT_REJECTED", "SAFETY_QUARANTINED", "NO_STREAMS", "HTTP_ONLY",
+    "NO_HTTPS_STREAM", "INSECURE_REFERER", "INVALID_USER_AGENT",
+    "INVALID_STREAM_METADATA", "OTHER_EXCLUDED",
+}
+
+
+def validate_arab_audit(document: dict) -> None:
+    if not isinstance(document, dict) or document.get("schemaVersion") != 1:
+        raise ValueError("Invalid audit schemaVersion")
+    if document.get("source") != "iptv-org" or document.get("scope") != "ARAB_COUNTRIES":
+        raise ValueError("Invalid audit source or scope")
+    if not isinstance(document.get("generatedAt"), str) or not document["generatedAt"]:
+        raise ValueError("Invalid audit generatedAt")
+    summary = document.get("summary")
+    countries = document.get("countries")
+    if not isinstance(summary, dict) or not isinstance(countries, list):
+        raise ValueError("Invalid audit structure")
+    codes: set[str] = set()
+    totals = {
+        "upstreamChannels": 0,
+        "channelsWithAnyStream": 0,
+        "channelsWithHttpsStream": 0,
+        "channelsWithValidStream": 0,
+        "candidateChannels": 0,
+        "approvedCurrentChannels": 0,
+        "excludedBeforeCandidate": 0,
+        "hiddenDetailsCount": 0,
+    }
+    reason_totals = {key: 0 for key in AUDIT_REASON_KEYS}
+    for country in countries:
+        if not isinstance(country, dict):
+            raise ValueError("Invalid audit country")
+        code = country.get("countryCode")
+        if not isinstance(code, str) or not code or code in codes:
+            raise ValueError("Invalid or duplicate audit countryCode")
+        codes.add(code)
+        if not isinstance(country.get("country"), str) or not country["country"]:
+            raise ValueError("Invalid audit country name")
+        for key in totals:
+            value = country.get(key)
+            if not isinstance(value, int) or value < 0:
+                raise ValueError(f"Invalid audit count: {key}")
+            totals[key] += value
+        reasons = country.get("reasons")
+        if not isinstance(reasons, dict) or set(reasons) != AUDIT_REASON_KEYS:
+            raise ValueError("Invalid audit reasons")
+        for key, value in reasons.items():
+            if not isinstance(value, int) or value < 0:
+                raise ValueError("Invalid audit reason count")
+            reason_totals[key] += value
+        if sum(reasons.values()) != country["upstreamChannels"]:
+            raise ValueError("Audit country accounting mismatch")
+        if reasons["APPROVED"] + reasons["CANDIDATE_NOT_APPROVED"] != country["candidateChannels"]:
+            raise ValueError("Audit candidate accounting mismatch")
+        if country["upstreamChannels"] - country["candidateChannels"] != country["excludedBeforeCandidate"]:
+            raise ValueError("Audit exclusion accounting mismatch")
+        if reasons["APPROVED"] != country["approvedCurrentChannels"]:
+            raise ValueError("Audit approved accounting mismatch")
+        items = country.get("items")
+        if not isinstance(items, list):
+            raise ValueError("Invalid audit items")
+        for item in items:
+            if not isinstance(item, dict):
+                raise ValueError("Invalid audit item")
+            if item.get("reason") not in AUDIT_REASON_KEYS - {"APPROVED", "ADULT_REJECTED", "SAFETY_QUARANTINED"}:
+                raise ValueError("Unsafe or invalid audit item reason")
+            if not isinstance(item.get("channelId"), str) or not item["channelId"]:
+                raise ValueError("Invalid audit item channelId")
+            if not isinstance(item.get("name"), str) or not item["name"]:
+                raise ValueError("Invalid audit item name")
+            for count_key in ("rawStreamCount", "httpsStreamCount", "validStreamCount"):
+                if not isinstance(item.get(count_key), int) or item[count_key] < 0:
+                    raise ValueError("Invalid audit stream count")
+            if any(key in item for key in ("url", "logo", "website", "referer", "userAgent")):
+                raise ValueError("Audit item leaked media metadata")
+    for key, value in totals.items():
+        if summary.get(key) != value:
+            raise ValueError(f"Audit summary mismatch: {key}")
+    reasons = summary.get("reasons")
+    if not isinstance(reasons, dict) or set(reasons) != AUDIT_REASON_KEYS:
+        raise ValueError("Invalid audit summary reasons")
+    if reasons != reason_totals:
+        raise ValueError("Audit reason totals mismatch")
+    if sum(reason_totals.values()) != summary["upstreamChannels"]:
+        raise ValueError("Audit summary accounting mismatch")

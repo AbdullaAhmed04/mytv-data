@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="HTTP replacement" tvg-logo="https://images.example.org/http.png" tvg-id="HttpOnly.ye" tvg-country="YE" group-title="Yemen",HTTP replacement
+https://free.example.org/http-replacement/playlist.m3u8
+#EXTINF:-1 tvg-name="رياضة اليمن" tvg-logo="https://images.example.org/yemen.png" tvg-id="YemenSports.ye" tvg-country="YE" group-title="Yemen",رياضة اليمن
+https://free.example.org/yemen/playlist.m3u8
+#EXTINF:-1 tvg-name="رياضة اليمن" tvg-logo="https://images.example.org/yemen.png" tvg-id="YemenSports.ye" tvg-country="YE" group-title="Yemen",رياضة اليمن
+https://free.example.org/yemen/playlist.m3u8
+#EXTINF:-1 tvg-name="Fresh Yemen" tvg-logo="https://images.example.org/fresh.png" tvg-id="" tvg-country="YE" group-title="Yemen",Fresh Yemen
+https://free.example.org/fresh/master.m3u8
+#EXTINF:-1 tvg-name="Fresh Yemen" tvg-logo="https://images.example.org/fresh.png" tvg-id="" tvg-country="YE" group-title="Yemen",Fresh Yemen
+https://free.example.org/fresh/master.m3u8
+#EXTINF:-1 tvg-name="Web only" tvg-logo="https://images.example.org/web.png" tvg-id="WebOnly.ye" tvg-country="YE" group-title="Yemen",Web only Ⓨ
+https://www.youtube.com/example/live
+#EXTINF:-1 tvg-name="Unsafe XXX" tvg-logo="https://images.example.org/adult.png" tvg-id="UnsafeXXX.ye" tvg-country="YE" group-title="Yemen",Unsafe XXX
+https://free.example.org/unsafe/playlist.m3u8
+#EXTINF:-1 tvg-name="محظورة من المصدر" tvg-logo="https://images.example.org/blocked.png" tvg-id="BlockedAdult.ye" tvg-country="YE" group-title="Yemen",محظورة من المصدر
+https://free.example.org/blocked/playlist.m3u8
+#EXTINF:-1 tvg-name="محظورة من المستخدم" tvg-logo="https://images.example.org/user.png" tvg-id="UserBlocked.ye" tvg-country="YE" group-title="Yemen",محظورة من المستخدم
+https://free.example.org/user/playlist.m3u8
+#EXTINF:-1 tvg-name="Egypt fallback" tvg-logo="https://images.example.org/egypt.png" tvg-id="ArabGeneral.eg" tvg-country="EG" group-title="Egypt",Egypt fallback Ⓢ
+https://free.example.org/egypt/playlist.m3u8
+#EXTINF:-1 tvg-name="Canada ignored" tvg-logo="https://images.example.org/canada.png" tvg-id="CanadaSports.ca" tvg-country="CA" group-title="Canada",Canada ignored
+https://free.example.org/canada/playlist.m3u8
+#EXTINF:-1 tvg-name="HTTP ignored" tvg-logo="https://images.example.org/http2.png" tvg-id="HttpIgnored.ye" tvg-country="YE" group-title="Yemen",HTTP ignored
+http://free.example.org/http/playlist.m3u8
+#EXTINF:-1 tvg-name="US News Public" tvg-logo="https://images.example.org/us.png" tvg-id="UsNews.us" tvg-country="US" group-title="United States",US News Public
+https://free.example.org/us-news/playlist.m3u8
+#EXTINF:-1 tvg-name="UK Sports Public" tvg-logo="https://images.example.org/uk.png" tvg-id="UkSports.uk" tvg-country="UK" group-title="United Kingdom",UK Sports Public
+https://free.example.org/uk-sports/playlist.m3u8
+#EXTINF:-1 tvg-name="Random US Entertainment" tvg-logo="https://images.example.org/random-us.png" tvg-id="RandomEntertainment.us" tvg-country="US" group-title="United States",Random US Entertainment
+https://free.example.org/us-random/playlist.m3u8

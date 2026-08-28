@@ -38,9 +38,9 @@ def quality_rank(value: object) -> int:
     quality = str(value or "").casefold()
     if quality in {"1080p", "1080i"}:
         return 0
-    if quality in {"720p", "720i"}:
+    if quality in {"720p", "720i", "hd"}:
         return 1
-    if quality in {"480p", "480i"}:
+    if quality in {"480p", "480i", "sd"}:
         return 2
     return 3
 
