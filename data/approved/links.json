@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 18,
-  "generatedAt": "2026-08-28T22:42:44.4731542\u002B00:00",
+  "version": 19,
+  "generatedAt": "2026-08-29T19:27:40.6343386\u002B00:00",
   "links": [
     {
       "id": "9116f2aa-8d5c-47df-9fe5-f0509c3c9be5",
@@ -68,11 +68,11 @@
       "adBlockEnabled": true
     },
     {
-      "id": "f6c46e70-724f-4368-9180-0766397964f4",
-      "name": "\u0627\u0646\u0645\u064A",
-      "url": "https://web.topcinemaa.live/series/%d8%a7%d9%86%d9%85%d9%8a-jujutsu-kaisen-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/list/",
-      "type": "WEB_PAGE",
-      "resolvedType": null,
+      "id": "3de3a416-9cdd-4eab-a387-2a0023169841",
+      "name": "\u0643\u0648\u0631\u0647  2",
+      "url": "https://yalla.autos/",
+      "type": "AUTO",
+      "resolvedType": "WEB_PAGE",
       "image": null,
       "category": null,
       "notes": null,
