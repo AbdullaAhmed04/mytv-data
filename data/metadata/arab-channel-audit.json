@@ -1,14 +1,14 @@
 {
   "countries": [
     {
-      "approvedCurrentChannels": 4,
-      "candidateChannels": 4,
+      "approvedCurrentChannels": 3,
+      "candidateChannels": 3,
       "channelsWithAnyStream": 4,
       "channelsWithHttpsStream": 4,
       "channelsWithValidStream": 4,
       "country": "اليمن",
       "countryCode": "YE",
-      "excludedBeforeCandidate": 19,
+      "excludedBeforeCandidate": 20,
       "hiddenDetailsCount": 0,
       "items": [
         {
@@ -162,11 +162,19 @@
           "rawStreamCount": 0,
           "reason": "NO_STREAMS",
           "validStreamCount": 0
+        },
+        {
+          "channelId": "AlMasirah.ye",
+          "httpsStreamCount": 1,
+          "name": "Al Masirah",
+          "rawStreamCount": 1,
+          "reason": "USER_BLOCKLIST",
+          "validStreamCount": 1
         }
       ],
       "reasons": {
         "ADULT_REJECTED": 0,
-        "APPROVED": 4,
+        "APPROVED": 3,
         "CANDIDATE_NOT_APPROVED": 0,
         "DMCA": 0,
         "HTTP_ONLY": 0,
@@ -177,7 +185,7 @@
         "NO_STREAMS": 19,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
-        "USER_BLOCKLIST": 0
+        "USER_BLOCKLIST": 1
       },
       "upstreamChannels": 23
     },
@@ -2152,14 +2160,14 @@
       "upstreamChannels": 117
     },
     {
-      "approvedCurrentChannels": 3,
-      "candidateChannels": 53,
+      "approvedCurrentChannels": 2,
+      "candidateChannels": 52,
       "channelsWithAnyStream": 56,
       "channelsWithHttpsStream": 53,
       "channelsWithValidStream": 53,
       "country": "العراق",
       "countryCode": "IQ",
-      "excludedBeforeCandidate": 85,
+      "excludedBeforeCandidate": 86,
       "hiddenDetailsCount": 0,
       "items": [
         {
@@ -3241,11 +3249,19 @@
           "rawStreamCount": 0,
           "reason": "NO_STREAMS",
           "validStreamCount": 0
+        },
+        {
+          "channelId": "AlIraqiaSport.iq",
+          "httpsStreamCount": 1,
+          "name": "Al Iraqia Sport",
+          "rawStreamCount": 1,
+          "reason": "USER_BLOCKLIST",
+          "validStreamCount": 1
         }
       ],
       "reasons": {
         "ADULT_REJECTED": 0,
-        "APPROVED": 3,
+        "APPROVED": 2,
         "CANDIDATE_NOT_APPROVED": 50,
         "DMCA": 0,
         "HTTP_ONLY": 3,
@@ -3256,7 +3272,7 @@
         "NO_STREAMS": 82,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
-        "USER_BLOCKLIST": 0
+        "USER_BLOCKLIST": 1
       },
       "upstreamChannels": 138
     },
@@ -8191,21 +8207,21 @@
       "upstreamChannels": 26
     }
   ],
-  "generatedAt": "2026-08-28T21:27:17Z",
+  "generatedAt": "2026-08-29T05:21:53Z",
   "schemaVersion": 1,
   "scope": "ARAB_COUNTRIES",
   "source": "iptv-org",
   "summary": {
-    "approvedCurrentChannels": 155,
-    "candidateChannels": 294,
+    "approvedCurrentChannels": 153,
+    "candidateChannels": 292,
     "channelsWithAnyStream": 327,
     "channelsWithHttpsStream": 294,
     "channelsWithValidStream": 294,
-    "excludedBeforeCandidate": 806,
+    "excludedBeforeCandidate": 808,
     "hiddenDetailsCount": 1,
     "reasons": {
       "ADULT_REJECTED": 1,
-      "APPROVED": 155,
+      "APPROVED": 153,
       "CANDIDATE_NOT_APPROVED": 139,
       "DMCA": 35,
       "HTTP_ONLY": 32,
@@ -8216,7 +8232,7 @@
       "NO_STREAMS": 737,
       "OTHER_EXCLUDED": 0,
       "SAFETY_QUARANTINED": 0,
-      "USER_BLOCKLIST": 0
+      "USER_BLOCKLIST": 2
     },
     "upstreamChannels": 1100
   }

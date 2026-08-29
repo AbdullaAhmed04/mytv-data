@@ -1,25 +1,25 @@
 # MYTV Arab channel audit
 
-Generated: `2026-08-28T21:27:17Z`
+Generated: `2026-08-29T05:21:53Z`
 
 This report audits Arab-country channels from IPTV-org without exposing adult or safety-quarantined channel identities or stream URLs.
 
 ## Summary
 
 - Upstream Arab channels: **1100**
-- Eligible candidate channels: **294**
-- Currently approved channels from this upstream set: **155**
-- Excluded before candidate generation: **806**
+- Eligible candidate channels: **292**
+- Currently approved channels from this upstream set: **153**
+- Excluded before candidate generation: **808**
 - Hidden safety details: **1**
 
 ## Countries
 
 | Country | Source | Any stream | HTTPS | Valid stream | Candidate | Approved | Excluded | +18 | Safety quarantine | HTTP only | No streams | DMCA | User block |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| اليمن | 23 | 4 | 4 | 4 | 4 | 4 | 19 | 0 | 0 | 0 | 19 | 0 | 0 |
+| اليمن | 23 | 4 | 4 | 4 | 3 | 3 | 20 | 0 | 0 | 0 | 19 | 0 | 1 |
 | السعودية | 166 | 55 | 54 | 54 | 54 | 29 | 112 | 0 | 0 | 0 | 111 | 0 | 0 |
 | مصر | 117 | 18 | 16 | 16 | 16 | 15 | 101 | 0 | 0 | 2 | 99 | 0 | 0 |
-| العراق | 138 | 56 | 53 | 53 | 53 | 3 | 85 | 0 | 0 | 3 | 82 | 0 | 0 |
+| العراق | 138 | 56 | 53 | 53 | 52 | 2 | 86 | 0 | 0 | 3 | 82 | 0 | 1 |
 | الإمارات | 140 | 38 | 36 | 36 | 36 | 20 | 104 | 1 | 0 | 2 | 96 | 5 | 0 |
 | الكويت | 26 | 11 | 11 | 11 | 11 | 10 | 15 | 0 | 0 | 0 | 15 | 0 | 0 |
 | قطر | 86 | 23 | 23 | 23 | 23 | 15 | 63 | 0 | 0 | 0 | 33 | 30 | 0 |
@@ -62,6 +62,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **Yemen Shabab Channel** (`YemenShababChannel.ye`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Yemen TV** (`YemenTV.ye`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Yemenia TV** (`YemeniaTV.ye`); streams: 0, HTTPS: 0, valid: 0
+- `USER_BLOCKLIST` — **Al Masirah** (`AlMasirah.ye`); streams: 1, HTTPS: 1, valid: 1
 
 ### السعودية (SA)
 
@@ -445,6 +446,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **Tishk TV** (`TishkTV.iq`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Turkmeneli TV** (`TurkmeneliTV.iq`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **W.TV** (`WTV.iq`); streams: 0, HTTPS: 0, valid: 0
+- `USER_BLOCKLIST` — **Al Iraqia Sport** (`AlIraqiaSport.iq`); streams: 1, HTTPS: 1, valid: 1
 
 ### الإمارات (AE)
 
