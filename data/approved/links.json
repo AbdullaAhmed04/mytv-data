@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 21,
-  "generatedAt": "2026-08-31T20:54:53.1057403\u002B00:00",
+  "version": 22,
+  "generatedAt": "2026-08-31T20:55:26.9464843\u002B00:00",
   "links": [
     {
       "id": "9116f2aa-8d5c-47df-9fe5-f0509c3c9be5",
@@ -63,6 +63,22 @@
       "country": null,
       "enabled": true,
       "order": 60,
+      "startAt": null,
+      "expiresAt": null,
+      "adBlockEnabled": true
+    },
+    {
+      "id": "3f75a158-6835-4eb4-9655-0b574c2a948d",
+      "name": "\u0643\u0648\u0631\u0647 3",
+      "url": "https://yalladance.org/",
+      "type": "AUTO",
+      "resolvedType": "WEB_PAGE",
+      "image": null,
+      "category": null,
+      "notes": null,
+      "country": null,
+      "enabled": true,
+      "order": 70,
       "startAt": null,
       "expiresAt": null,
       "adBlockEnabled": true
