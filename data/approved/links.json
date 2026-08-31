@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 22,
-  "generatedAt": "2026-08-31T20:55:26.9464843\u002B00:00",
+  "version": 23,
+  "generatedAt": "2026-08-31T20:55:52.0355284\u002B00:00",
   "links": [
     {
       "id": "9116f2aa-8d5c-47df-9fe5-f0509c3c9be5",
@@ -79,6 +79,22 @@
       "country": null,
       "enabled": true,
       "order": 70,
+      "startAt": null,
+      "expiresAt": null,
+      "adBlockEnabled": true
+    },
+    {
+      "id": "00c4e5fe-1c6a-4dfd-b66e-498077237248",
+      "name": "\u0643\u0648\u0631\u0647 4",
+      "url": "https://www.shooty.online/",
+      "type": "AUTO",
+      "resolvedType": "WEB_PAGE",
+      "image": null,
+      "category": null,
+      "notes": null,
+      "country": null,
+      "enabled": true,
+      "order": 80,
       "startAt": null,
       "expiresAt": null,
       "adBlockEnabled": true
