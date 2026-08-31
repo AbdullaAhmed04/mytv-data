@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 20,
-  "generatedAt": "2026-08-29T20:20:36.9557727\u002B00:00",
+  "version": 21,
+  "generatedAt": "2026-08-31T20:54:53.1057403\u002B00:00",
   "links": [
     {
       "id": "9116f2aa-8d5c-47df-9fe5-f0509c3c9be5",
@@ -37,7 +37,7 @@
     },
     {
       "id": "fe5a5757-bcea-4e6b-b5a7-c85eef7b08e0",
-      "name": "\u0643\u0648\u0631\u0647",
+      "name": "\u0643\u0648\u0631\u0647 v",
       "url": "https://www.yalla-shooot.sbs/",
       "type": "AUTO",
       "resolvedType": "WEB_PAGE",
@@ -47,6 +47,22 @@
       "country": null,
       "enabled": true,
       "order": 50,
+      "startAt": null,
+      "expiresAt": null,
+      "adBlockEnabled": true
+    },
+    {
+      "id": "f6e04d72-ffe2-40b9-ba6a-49ead26163cb",
+      "name": "\u0643\u0648\u0631\u0647 2",
+      "url": "https://www.livekora.vip/",
+      "type": "AUTO",
+      "resolvedType": "WEB_PAGE",
+      "image": null,
+      "category": null,
+      "notes": null,
+      "country": null,
+      "enabled": true,
+      "order": 60,
       "startAt": null,
       "expiresAt": null,
       "adBlockEnabled": true
