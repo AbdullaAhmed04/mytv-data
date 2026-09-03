@@ -1,15 +1,15 @@
 # MYTV Arab channel audit
 
-Generated: `2026-09-02T05:29:33Z`
+Generated: `2026-09-03T05:45:32Z`
 
 This report audits Arab-country channels from IPTV-org without exposing adult or safety-quarantined channel identities or stream URLs.
 
 ## Summary
 
-- Upstream Arab channels: **1100**
-- Eligible candidate channels: **292**
+- Upstream Arab channels: **1102**
+- Eligible candidate channels: **293**
 - Currently approved channels from this upstream set: **153**
-- Excluded before candidate generation: **808**
+- Excluded before candidate generation: **809**
 - Hidden safety details: **1**
 
 ## Countries
@@ -17,7 +17,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 | Country | Source | Any stream | HTTPS | Valid stream | Candidate | Approved | Excluded | +18 | Safety quarantine | HTTP only | No streams | DMCA | User block |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | اليمن | 23 | 4 | 4 | 4 | 3 | 3 | 20 | 0 | 0 | 0 | 19 | 0 | 1 |
-| السعودية | 166 | 55 | 54 | 54 | 54 | 29 | 112 | 0 | 0 | 0 | 111 | 0 | 0 |
+| السعودية | 166 | 56 | 55 | 55 | 55 | 29 | 111 | 0 | 0 | 0 | 110 | 0 | 0 |
 | مصر | 117 | 18 | 16 | 16 | 16 | 15 | 101 | 0 | 0 | 2 | 99 | 0 | 0 |
 | العراق | 138 | 56 | 53 | 53 | 52 | 2 | 86 | 0 | 0 | 3 | 82 | 0 | 1 |
 | الإمارات | 140 | 38 | 36 | 36 | 36 | 20 | 104 | 1 | 0 | 2 | 96 | 5 | 0 |
@@ -27,7 +27,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 | لبنان | 49 | 31 | 26 | 26 | 26 | 14 | 23 | 0 | 0 | 5 | 18 | 0 | 0 |
 | سوريا | 30 | 11 | 9 | 9 | 9 | 9 | 21 | 0 | 0 | 2 | 19 | 0 | 0 |
 | فلسطين | 41 | 19 | 16 | 16 | 16 | 0 | 25 | 0 | 0 | 3 | 22 | 0 | 0 |
-| الجزائر | 46 | 6 | 4 | 4 | 4 | 2 | 42 | 0 | 0 | 2 | 40 | 0 | 0 |
+| الجزائر | 47 | 6 | 4 | 4 | 4 | 2 | 43 | 0 | 0 | 2 | 41 | 0 | 0 |
 | البحرين | 6 | 5 | 5 | 5 | 5 | 5 | 1 | 0 | 0 | 0 | 1 | 0 | 0 |
 | جزر القمر | 2 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 2 | 0 | 0 |
 | جيبوتي | 8 | 0 | 0 | 0 | 0 | 0 | 8 | 0 | 0 | 0 | 8 | 0 | 0 |
@@ -37,7 +37,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 | عُمان | 6 | 5 | 5 | 5 | 5 | 5 | 1 | 0 | 0 | 0 | 1 | 0 | 0 |
 | الصومال | 25 | 7 | 4 | 4 | 4 | 0 | 21 | 0 | 0 | 3 | 18 | 0 | 0 |
 | السودان | 31 | 3 | 2 | 2 | 2 | 0 | 29 | 0 | 0 | 1 | 28 | 0 | 0 |
-| تونس | 26 | 4 | 4 | 4 | 4 | 3 | 22 | 0 | 0 | 0 | 22 | 0 | 0 |
+| تونس | 27 | 4 | 4 | 4 | 4 | 3 | 23 | 0 | 0 | 0 | 23 | 0 | 0 |
 
 ## Safe details by country
 
@@ -67,6 +67,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 ### السعودية (SA)
 
 - `CANDIDATE_NOT_APPROVED` — **Abdulmajeed Abdullah** (`AbdulmajeedAbdullah.sa`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Al Alam Al Yawm** (`AlAlamAlYawm.sa`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Al Resalah** (`AlResalah.sa`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Al Riyadh Radio** (`AlRiyadhRadio.sa`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Alkhuzama Radio** (`AlkhuzamaRadio.sa`); streams: 1, HTTPS: 1, valid: 1
@@ -97,7 +98,6 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **Ahl-Alquran TV** (`AhlAlquranTV.sa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Ahlu Al Quran TV** (`AhluAlQuranTV.sa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Ajyal TV** (`AjyalTV.sa`); streams: 0, HTTPS: 0, valid: 0
-- `NO_STREAMS` — **Al Alam Al Yawm** (`AlAlamAlYawm.sa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Al Amaken TV** (`AlAmakenTV.sa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Al Hokair Group TV** (`AlHokairGroupTV.sa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Al Khalij TV** (`AlKhalijTV.sa`); streams: 0, HTTPS: 0, valid: 0
@@ -860,6 +860,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **Sahra TV** (`SahraTV.dz`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Samira TV** (`SamiraTV.dz`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Setif News** (`SetifNews.dz`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Sport Plus HD** (`SportPlusHD.dz`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **TV1** (`TV1.dz`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **TV3** (`TV3.dz`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **TV4** (`TV4.dz`); streams: 0, HTTPS: 0, valid: 0
@@ -1052,4 +1053,5 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **Tunisie Immobilier TV** (`TunisieImmobilierTV.tn`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Tunisna TV** (`TunisnaTV.tn`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Watania Educative** (`WataniaEducative.tn`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Watania Sports** (`WataniaSports.tn`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Zitouna TV** (`ZitounaTV.tn`); streams: 0, HTTPS: 0, valid: 0

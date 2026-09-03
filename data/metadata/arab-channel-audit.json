@@ -191,19 +191,27 @@
     },
     {
       "approvedCurrentChannels": 29,
-      "candidateChannels": 54,
-      "channelsWithAnyStream": 55,
-      "channelsWithHttpsStream": 54,
-      "channelsWithValidStream": 54,
+      "candidateChannels": 55,
+      "channelsWithAnyStream": 56,
+      "channelsWithHttpsStream": 55,
+      "channelsWithValidStream": 55,
       "country": "السعودية",
       "countryCode": "SA",
-      "excludedBeforeCandidate": 112,
+      "excludedBeforeCandidate": 111,
       "hiddenDetailsCount": 0,
       "items": [
         {
           "channelId": "AbdulmajeedAbdullah.sa",
           "httpsStreamCount": 1,
           "name": "Abdulmajeed Abdullah",
+          "rawStreamCount": 1,
+          "reason": "CANDIDATE_NOT_APPROVED",
+          "validStreamCount": 1
+        },
+        {
+          "channelId": "AlAlamAlYawm.sa",
+          "httpsStreamCount": 1,
+          "name": "Al Alam Al Yawm",
           "rawStreamCount": 1,
           "reason": "CANDIDATE_NOT_APPROVED",
           "validStreamCount": 1
@@ -444,14 +452,6 @@
           "channelId": "AjyalTV.sa",
           "httpsStreamCount": 0,
           "name": "Ajyal TV",
-          "rawStreamCount": 0,
-          "reason": "NO_STREAMS",
-          "validStreamCount": 0
-        },
-        {
-          "channelId": "AlAlamAlYawm.sa",
-          "httpsStreamCount": 0,
-          "name": "Al Alam Al Yawm",
           "rawStreamCount": 0,
           "reason": "NO_STREAMS",
           "validStreamCount": 0
@@ -1300,14 +1300,14 @@
       "reasons": {
         "ADULT_REJECTED": 0,
         "APPROVED": 29,
-        "CANDIDATE_NOT_APPROVED": 25,
+        "CANDIDATE_NOT_APPROVED": 26,
         "DMCA": 0,
         "HTTP_ONLY": 0,
         "INSECURE_REFERER": 0,
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 1,
-        "NO_STREAMS": 111,
+        "NO_STREAMS": 110,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 0
@@ -6319,7 +6319,7 @@
       "channelsWithValidStream": 4,
       "country": "الجزائر",
       "countryCode": "DZ",
-      "excludedBeforeCandidate": 42,
+      "excludedBeforeCandidate": 43,
       "hiddenDetailsCount": 0,
       "items": [
         {
@@ -6595,6 +6595,14 @@
           "validStreamCount": 0
         },
         {
+          "channelId": "SportPlusHD.dz",
+          "httpsStreamCount": 0,
+          "name": "Sport Plus HD",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
           "channelId": "TV1.dz",
           "httpsStreamCount": 0,
           "name": "TV1",
@@ -6685,12 +6693,12 @@
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 0,
-        "NO_STREAMS": 40,
+        "NO_STREAMS": 41,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 0
       },
-      "upstreamChannels": 46
+      "upstreamChannels": 47
     },
     {
       "approvedCurrentChannels": 5,
@@ -8001,7 +8009,7 @@
       "channelsWithValidStream": 4,
       "country": "تونس",
       "countryCode": "TN",
-      "excludedBeforeCandidate": 22,
+      "excludedBeforeCandidate": 23,
       "hiddenDetailsCount": 0,
       "items": [
         {
@@ -8181,6 +8189,14 @@
           "validStreamCount": 0
         },
         {
+          "channelId": "WataniaSports.tn",
+          "httpsStreamCount": 0,
+          "name": "Watania Sports",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
           "channelId": "ZitounaTV.tn",
           "httpsStreamCount": 0,
           "name": "Zitouna TV",
@@ -8199,41 +8215,41 @@
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 0,
-        "NO_STREAMS": 22,
+        "NO_STREAMS": 23,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 0
       },
-      "upstreamChannels": 26
+      "upstreamChannels": 27
     }
   ],
-  "generatedAt": "2026-09-02T05:29:33Z",
+  "generatedAt": "2026-09-03T05:45:32Z",
   "schemaVersion": 1,
   "scope": "ARAB_COUNTRIES",
   "source": "iptv-org",
   "summary": {
     "approvedCurrentChannels": 153,
-    "candidateChannels": 292,
-    "channelsWithAnyStream": 327,
-    "channelsWithHttpsStream": 294,
-    "channelsWithValidStream": 294,
-    "excludedBeforeCandidate": 808,
+    "candidateChannels": 293,
+    "channelsWithAnyStream": 328,
+    "channelsWithHttpsStream": 295,
+    "channelsWithValidStream": 295,
+    "excludedBeforeCandidate": 809,
     "hiddenDetailsCount": 1,
     "reasons": {
       "ADULT_REJECTED": 1,
       "APPROVED": 153,
-      "CANDIDATE_NOT_APPROVED": 139,
+      "CANDIDATE_NOT_APPROVED": 140,
       "DMCA": 35,
       "HTTP_ONLY": 32,
       "INSECURE_REFERER": 0,
       "INVALID_STREAM_METADATA": 0,
       "INVALID_USER_AGENT": 0,
       "NO_HTTPS_STREAM": 1,
-      "NO_STREAMS": 737,
+      "NO_STREAMS": 738,
       "OTHER_EXCLUDED": 0,
       "SAFETY_QUARANTINED": 0,
       "USER_BLOCKLIST": 2
     },
-    "upstreamChannels": 1100
+    "upstreamChannels": 1102
   }
 }
