@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 8,
-  "generatedAt": "2026-08-28T22:37:59.2299474\u002B00:00",
+  "version": 9,
+  "generatedAt": "2026-09-04T19:13:15.0302103\u002B00:00",
   "countryOrder": [
     "YE",
     "SA",
@@ -3712,7 +3712,7 @@
       "languages": [
         "eng"
       ],
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Fubo_Sports_Network_2023_Logo.webp/960px-Fubo_Sports_Network_2023_Logo.webp.png",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NTD_Logo_with_symbol.svg/960px-NTD_Logo_with_symbol.svg.png",
       "name": "Fubo Sports Network",
       "order": 374,
       "safety": {
@@ -8845,7 +8845,7 @@
       "languages": [
         "eng"
       ],
-      "logo": "https://i.ibb.co/HT49GPmB/XTRA-2.png",
+      "logo": "https://i.imgur.com/JfRqVn6.png",
       "name": "beIN SPORTS XTRA",
       "order": 332,
       "safety": {

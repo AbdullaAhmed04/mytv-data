@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 25,
-  "generatedAt": "2026-08-31T20:59:47.7300098\u002B00:00",
+  "version": 26,
+  "generatedAt": "2026-09-04T19:13:15.0513412\u002B00:00",
   "links": [
     {
       "id": "9116f2aa-8d5c-47df-9fe5-f0509c3c9be5",
@@ -47,6 +47,22 @@
       "country": null,
       "enabled": true,
       "order": 70,
+      "startAt": null,
+      "expiresAt": null,
+      "adBlockEnabled": true
+    },
+    {
+      "id": "b0215032-987d-4b09-8779-294c569ae679",
+      "name": "\u0643\u0648\u0631\u0647 1",
+      "url": "https://www.maryslim.com/",
+      "type": "AUTO",
+      "resolvedType": "WEB_PAGE",
+      "image": null,
+      "category": null,
+      "notes": null,
+      "country": null,
+      "enabled": true,
+      "order": 80,
       "startAt": null,
       "expiresAt": null,
       "adBlockEnabled": true
