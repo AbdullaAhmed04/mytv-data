@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 26,
-  "generatedAt": "2026-09-04T19:13:15.0513412\u002B00:00",
+  "version": 27,
+  "generatedAt": "2026-09-04T19:14:29.5847779\u002B00:00",
   "links": [
     {
       "id": "9116f2aa-8d5c-47df-9fe5-f0509c3c9be5",
@@ -63,6 +63,22 @@
       "country": null,
       "enabled": true,
       "order": 80,
+      "startAt": null,
+      "expiresAt": null,
+      "adBlockEnabled": true
+    },
+    {
+      "id": "207e629c-b1b2-4235-89c0-4ff6f6841455",
+      "name": "\u0643\u0648\u0631\u0647 2",
+      "url": "https://yalla3rab.com/",
+      "type": "AUTO",
+      "resolvedType": "WEB_PAGE",
+      "image": null,
+      "category": null,
+      "notes": null,
+      "country": null,
+      "enabled": true,
+      "order": 90,
       "startAt": null,
       "expiresAt": null,
       "adBlockEnabled": true
