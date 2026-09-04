@@ -3965,6 +3965,243 @@
       "type": "ADD_CHANNEL"
     },
     {
+      "channelId": "BBCNews.uk",
+      "detectedAt": "2026-09-04T05:26:14Z",
+      "field": "streams",
+      "id": "chg-e92ab7b99f8046b3717f3a96",
+      "new": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://xemzi.short.gy/1000015",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 3,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 4,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 5,
+          "quality": null,
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 6,
+          "quality": "576p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 7,
+          "quality": "576p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://thinkkast.dpdns.org/thinkkast/bbcworld_news_sd/versiglia/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "old": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://xemzi.short.gy/1000015",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 3,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 4,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 5,
+          "quality": null,
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 6,
+          "quality": "576p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://thinkkast.dpdns.org/thinkkast/bbcworld_news_sd/versiglia/index.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 7,
+          "quality": "576p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://tvsen1.aynaott.com/shn6jGTk/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_STREAMS"
+    },
+    {
       "channelId": "BEKNews.us",
       "detectedAt": "2026-09-03T05:45:32Z",
       "field": "channel",
@@ -18983,17 +19220,18 @@
       "type": "ADD_CHANNEL"
     }
   ],
-  "generatedAt": "2026-09-03T05:45:32Z",
+  "generatedAt": "2026-09-04T05:26:14Z",
   "schemaVersion": 1,
   "summary": {
     "adultRejectedCount": 377,
     "byType": {
       "ADD_CHANNEL": 335,
       "CHANGE_LANGUAGES": 1,
+      "CHANGE_STREAMS": 1,
       "LOGO_ONLY": 2,
       "UPSTREAM_MISSING": 1
     },
     "safetyQuarantinedCount": 0,
-    "totalPending": 337
+    "totalPending": 338
   }
 }

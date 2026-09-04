@@ -13966,7 +13966,7 @@
           "quality": "576p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://thinkkast.dpdns.org/thinkkast/bbcworld_news_sd/versiglia/index.m3u8",
+          "url": "https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8",
           "userAgent": null
         },
         {
@@ -13980,7 +13980,7 @@
           "quality": "576p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://tvsen1.aynaott.com/shn6jGTk/index.m3u8",
+          "url": "https://thinkkast.dpdns.org/thinkkast/bbcworld_news_sd/versiglia/index.m3u8",
           "userAgent": null
         }
       ],
@@ -24470,7 +24470,7 @@
     "SD",
     "TN"
   ],
-  "generatedAt": "2026-09-03T05:45:32Z",
+  "generatedAt": "2026-09-04T05:26:14Z",
   "schemaVersion": 1,
   "version": 9
 }
