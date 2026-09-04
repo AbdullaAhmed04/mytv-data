@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 29,
-  "generatedAt": "2026-09-04T19:16:39.2268947\u002B00:00",
+  "version": 30,
+  "generatedAt": "2026-09-04T19:17:35.5970357\u002B00:00",
   "links": [
     {
       "id": "9116f2aa-8d5c-47df-9fe5-f0509c3c9be5",
@@ -111,6 +111,22 @@
       "country": null,
       "enabled": true,
       "order": 110,
+      "startAt": null,
+      "expiresAt": null,
+      "adBlockEnabled": true
+    },
+    {
+      "id": "c5edfafa-872e-42eb-a332-18a6e32d2dc2",
+      "name": "\u0643\u0648\u0631\u0647 6",
+      "url": "https://www.sootwesora.com/",
+      "type": "AUTO",
+      "resolvedType": "WEB_PAGE",
+      "image": null,
+      "category": null,
+      "notes": null,
+      "country": null,
+      "enabled": true,
+      "order": 120,
       "startAt": null,
       "expiresAt": null,
       "adBlockEnabled": true
