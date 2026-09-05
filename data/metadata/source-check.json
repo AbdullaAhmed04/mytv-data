@@ -1,8 +1,8 @@
 {
   "adultRejectedCount": 377,
   "candidateChannels": 519,
-  "checkedAt": "2026-09-04T05:26:14Z",
-  "pendingChanges": 340,
+  "checkedAt": "2026-09-05T05:25:09Z",
+  "pendingChanges": 374,
   "policyRejectedCount": 906,
   "safetyQuarantinedCount": 0,
   "schemaVersion": 1,
@@ -17,10 +17,10 @@
   "status": "SUCCESS",
   "upstreamCounts": {
     "blocklist": 1431,
-    "channels": 31127,
+    "channels": 31151,
     "countries": 250,
-    "feeds": 44479,
-    "logos": 36461,
-    "streams": 17184
+    "feeds": 44520,
+    "logos": 36454,
+    "streams": 17207
   }
 }

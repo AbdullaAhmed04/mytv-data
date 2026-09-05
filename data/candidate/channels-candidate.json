@@ -25,7 +25,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "642p",
@@ -358,7 +358,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -372,7 +372,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 1,
           "quality": "1080p",
@@ -424,7 +424,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "360p",
@@ -461,8 +461,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -1223,7 +1223,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -1338,8 +1338,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -1428,8 +1428,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 1,
           "quality": null,
@@ -1952,8 +1952,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -1990,8 +1990,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -2028,8 +2028,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -2066,8 +2066,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -2104,8 +2104,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -2142,8 +2142,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -2180,8 +2180,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -2371,8 +2371,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -2410,7 +2410,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -2600,7 +2600,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "720p",
@@ -2676,7 +2676,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "720p",
@@ -2905,7 +2905,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "672p",
@@ -2942,8 +2942,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -3134,7 +3134,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "720p",
@@ -3324,7 +3324,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -3476,7 +3476,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -4011,7 +4011,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -4049,7 +4049,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -4087,7 +4087,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -4125,7 +4125,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -4360,7 +4360,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "720p",
@@ -4590,7 +4590,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "240p",
@@ -4704,7 +4704,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "720p",
@@ -4756,7 +4756,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 1,
           "quality": "720p",
@@ -5040,7 +5040,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 1,
           "quality": "720p",
@@ -5641,8 +5641,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -6241,8 +6241,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -6346,7 +6346,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 1,
           "quality": "1080p",
@@ -6360,7 +6360,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 2,
           "quality": "720p",
@@ -6412,7 +6412,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 1,
           "quality": "1280p",
@@ -6528,7 +6528,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "576p",
@@ -7320,8 +7320,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -7334,8 +7334,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 1,
           "quality": "1080p",
@@ -7348,8 +7348,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 2,
           "quality": "1080p",
@@ -7362,8 +7362,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 3,
           "quality": "1080p",
@@ -8310,7 +8310,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -8627,8 +8627,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -8742,7 +8742,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "720p",
@@ -8818,7 +8818,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "552p",
@@ -8894,7 +8894,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "240p",
@@ -8932,7 +8932,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "576p",
@@ -9160,7 +9160,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "720p",
@@ -9174,7 +9174,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 1,
           "quality": "720p",
@@ -9212,7 +9212,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "406p",
@@ -9440,7 +9440,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "720p",
@@ -9478,7 +9478,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "720p",
@@ -9671,7 +9671,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "720p",
@@ -10392,7 +10392,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -10557,8 +10557,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": "480p",
@@ -10634,7 +10634,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -10711,7 +10711,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "720p",
@@ -10749,7 +10749,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "720p",
@@ -10866,7 +10866,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "360p",
@@ -10880,7 +10880,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 1,
           "quality": "360p",
@@ -10995,7 +10995,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "720p",
@@ -11033,7 +11033,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "720p",
@@ -11071,7 +11071,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "720p",
@@ -11109,7 +11109,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "720p",
@@ -11147,7 +11147,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "720p",
@@ -11700,7 +11700,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -12213,7 +12213,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "720p",
@@ -12446,10 +12446,10 @@
             "label": null
           },
           "priority": 0,
-          "quality": "720p",
+          "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8",
+          "url": "https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8",
           "userAgent": null
         },
         {
@@ -12463,21 +12463,21 @@
           "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8",
+          "url": "https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8",
           "userAgent": null
         },
         {
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 2,
-          "quality": "1080p",
+          "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8",
+          "url": "https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8",
           "userAgent": null
         }
       ],
@@ -13033,7 +13033,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -13071,7 +13071,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -13199,7 +13199,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -13251,7 +13251,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -13289,7 +13289,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -13327,7 +13327,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -13365,7 +13365,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "720p",
@@ -13403,7 +13403,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -13441,7 +13441,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -13480,7 +13480,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -13634,7 +13634,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -13882,7 +13882,7 @@
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd",
+          "url": "https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
           "userAgent": null
         },
         {
@@ -13896,7 +13896,7 @@
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://xemzi.short.gy/1000015",
+          "url": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd",
           "userAgent": null
         },
         {
@@ -13907,10 +13907,10 @@
             "label": null
           },
           "priority": 2,
-          "quality": "720p",
+          "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8",
+          "url": "https://xemzi.short.gy/1000015",
           "userAgent": null
         },
         {
@@ -13924,7 +13924,7 @@
           "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd",
+          "url": "https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8",
           "userAgent": null
         },
         {
@@ -13938,7 +13938,7 @@
           "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8",
+          "url": "https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd",
           "userAgent": null
         },
         {
@@ -13949,10 +13949,10 @@
             "label": null
           },
           "priority": 5,
-          "quality": null,
+          "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8",
+          "url": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd",
           "userAgent": null
         },
         {
@@ -13963,10 +13963,10 @@
             "label": null
           },
           "priority": 6,
-          "quality": "576p",
+          "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8",
+          "url": "https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8",
           "userAgent": null
         },
         {
@@ -13977,10 +13977,10 @@
             "label": null
           },
           "priority": 7,
-          "quality": "576p",
+          "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://thinkkast.dpdns.org/thinkkast/bbcworld_news_sd/versiglia/index.m3u8",
+          "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8",
           "userAgent": null
         }
       ],
@@ -14011,8 +14011,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -14324,8 +14324,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -15415,24 +15415,24 @@
             "label": null
           },
           "priority": 0,
-          "quality": "720p",
+          "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8",
+          "url": "https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8",
           "userAgent": null
         },
         {
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 1,
-          "quality": "1080p",
+          "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8",
+          "url": "https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8",
           "userAgent": null
         }
       ],
@@ -15523,21 +15523,21 @@
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8",
+          "url": "https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8",
           "userAgent": null
         },
         {
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 1,
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8",
+          "url": "https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8",
           "userAgent": null
         }
       ],
@@ -15702,7 +15702,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "720p",
@@ -16441,7 +16441,7 @@
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://dnf08l6u6uxnz.cloudfront.net/master.m3u8",
+          "url": "https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8",
           "userAgent": null
         },
         {
@@ -16452,24 +16452,24 @@
             "label": null
           },
           "priority": 1,
-          "quality": "720p",
+          "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8",
+          "url": "https://dnf08l6u6uxnz.cloudfront.net/master.m3u8",
           "userAgent": null
         },
         {
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 2,
-          "quality": "1080p",
+          "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8",
+          "url": "https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8",
           "userAgent": null
         }
       ],
@@ -16713,8 +16713,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -16975,10 +16975,10 @@
             "label": null
           },
           "priority": 0,
-          "quality": "720p",
+          "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
+          "url": "https://pb-k5p02dtnr2162.akamaized.net/LiveNOW_from_FOX.m3u8",
           "userAgent": null
         },
         {
@@ -16992,35 +16992,35 @@
           "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://jmp2.uk/plu-63d025db4e83e700086eaa96.m3u8",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8",
           "userAgent": null
         },
         {
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 2,
-          "quality": "1080p",
+          "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://pb-k5p02dtnr2162.akamaized.net/LiveNOW_from_FOX.m3u8",
+          "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
           "userAgent": null
         },
         {
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 3,
           "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8",
+          "url": "https://jmp2.uk/plu-63d025db4e83e700086eaa96.m3u8",
           "userAgent": null
         }
       ],
@@ -17090,7 +17090,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -17104,7 +17104,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 1,
           "quality": "720p",
@@ -17181,8 +17181,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -17220,8 +17220,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -17335,13 +17335,13 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
-          "quality": "720p",
+          "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8",
+          "url": "https://pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8",
           "userAgent": null
         },
         {
@@ -17355,21 +17355,21 @@
           "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8",
+          "url": "https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8",
           "userAgent": null
         },
         {
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 2,
-          "quality": "1080p",
+          "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8",
+          "url": "https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8",
           "userAgent": null
         }
       ],
@@ -17401,8 +17401,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -17882,20 +17882,6 @@
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://cdn1.ayitistream.com/NBATV/index.m3u8",
-          "userAgent": null
-        },
-        {
-          "geo": {
-            "allowedCountries": [],
-            "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
-          },
-          "priority": 1,
-          "quality": "1080p",
-          "referer": null,
-          "source": "iptv-org",
           "url": "https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8",
           "userAgent": null
         },
@@ -17903,8 +17889,22 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://cdn1.ayitistream.com/NBATV/index.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 2,
           "quality": "1080p",
@@ -17917,8 +17917,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 3,
           "quality": "1080p",
@@ -18018,7 +18018,7 @@
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8",
+          "url": "https://pb-o6czxr182vtiv.akamaized.net/master.m3u8",
           "userAgent": null
         },
         {
@@ -18029,24 +18029,24 @@
             "label": null
           },
           "priority": 5,
-          "quality": "720p",
+          "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://jmp2.uk/plu-5df97894467dfa00091c873c.m3u8",
+          "url": "https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8",
           "userAgent": null
         },
         {
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 6,
-          "quality": "1080p",
+          "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://pb-o6czxr182vtiv.akamaized.net/master.m3u8",
+          "url": "https://jmp2.uk/plu-5df97894467dfa00091c873c.m3u8",
           "userAgent": null
         }
       ],
@@ -18077,8 +18077,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -18195,8 +18195,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -18315,8 +18315,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": null,
@@ -18353,8 +18353,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": null,
@@ -18391,8 +18391,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": null,
@@ -18429,8 +18429,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": null,
@@ -18467,8 +18467,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -18505,8 +18505,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": null,
@@ -18595,8 +18595,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": null,
@@ -18633,8 +18633,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -18671,8 +18671,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -18709,8 +18709,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -18747,8 +18747,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -18785,8 +18785,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -18830,7 +18830,7 @@
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8",
+          "url": "https://amg00217-newsmax-newsmax-rokuus-dur76.amagi.tv/playlist.m3u8",
           "userAgent": null
         },
         {
@@ -18844,7 +18844,7 @@
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://newsmax-samsungus.amagi.tv/playlist.m3u8",
+          "url": "https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8",
           "userAgent": null
         },
         {
@@ -18858,7 +18858,7 @@
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://newsmax-vizio.amagi.tv/playlist.m3u8",
+          "url": "https://newsmax-samsungus.amagi.tv/playlist.m3u8",
           "userAgent": null
         },
         {
@@ -18872,7 +18872,7 @@
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8",
+          "url": "https://newsmax-vizio.amagi.tv/playlist.m3u8",
           "userAgent": null
         },
         {
@@ -18883,10 +18883,10 @@
             "label": null
           },
           "priority": 4,
-          "quality": "720p",
+          "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://a-cdn.klowdtv.com/live3/newsmax2_720p/playlist.m3u8",
+          "url": "https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8",
           "userAgent": null
         },
         {
@@ -18900,7 +18900,7 @@
           "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://jmp2.uk/plu-55b179af994403942f3061d6.m3u8",
+          "url": "https://a-cdn.klowdtv.com/live3/newsmax2_720p/playlist.m3u8",
           "userAgent": null
         },
         {
@@ -18914,21 +18914,21 @@
           "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
+          "url": "https://jmp2.uk/plu-55b179af994403942f3061d6.m3u8",
           "userAgent": null
         },
         {
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 7,
-          "quality": "1080p",
+          "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://amg00217-newsmax-newsmax-rokuus-dur76.amagi.tv/playlist.m3u8",
+          "url": "https://newsmax-klowdtv.amagi.tv/playlist.m3u8",
           "userAgent": null
         }
       ],
@@ -19095,24 +19095,24 @@
             "label": null
           },
           "priority": 0,
-          "quality": "720p",
+          "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8",
+          "url": "https://pb-we3ltka9xobj6.akamaized.net/master.m3u8",
           "userAgent": null
         },
         {
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 1,
-          "quality": "1080p",
+          "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://pb-we3ltka9xobj6.akamaized.net/master.m3u8",
+          "url": "https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8",
           "userAgent": null
         }
       ],
@@ -19663,7 +19663,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "720p",
@@ -19850,10 +19850,10 @@
             "label": null
           },
           "priority": 1,
-          "quality": "720p",
+          "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8",
+          "url": "https://pb-783hpus5r91wv.akamaized.net/playlist.m3u8",
           "userAgent": null
         },
         {
@@ -19867,7 +19867,7 @@
           "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://jmp2.uk/plu-66c86fed85e28d0008f8a9ec.m3u8",
+          "url": "https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8",
           "userAgent": null
         },
         {
@@ -19881,7 +19881,7 @@
           "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://jmp2.uk/plu-66c86fff9ba9e800080d8ebe.m3u8",
+          "url": "https://jmp2.uk/plu-66c86fed85e28d0008f8a9ec.m3u8",
           "userAgent": null
         },
         {
@@ -19895,7 +19895,7 @@
           "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://jmp2.uk/plu-66c870112630fc0008137ae2.m3u8",
+          "url": "https://jmp2.uk/plu-66c86fff9ba9e800080d8ebe.m3u8",
           "userAgent": null
         },
         {
@@ -19909,7 +19909,7 @@
           "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://jmp2.uk/plu-66d885aef0f17500084b6750.m3u8",
+          "url": "https://jmp2.uk/plu-66c870112630fc0008137ae2.m3u8",
           "userAgent": null
         },
         {
@@ -19920,24 +19920,24 @@
             "label": null
           },
           "priority": 6,
-          "quality": null,
+          "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://jmp2.uk/plu-5de94dacb394a300099fa22a.m3u8",
+          "url": "https://jmp2.uk/plu-66d885aef0f17500084b6750.m3u8",
           "userAgent": null
         },
         {
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 7,
-          "quality": "1080p",
+          "quality": null,
           "referer": null,
           "source": "iptv-org",
-          "url": "https://pb-783hpus5r91wv.akamaized.net/playlist.m3u8",
+          "url": "https://jmp2.uk/plu-5de94dacb394a300099fa22a.m3u8",
           "userAgent": null
         }
       ],
@@ -20124,8 +20124,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 3,
           "quality": "1080p",
@@ -20336,8 +20336,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 3,
           "quality": "1080p",
@@ -20552,20 +20552,6 @@
             "label": null
           },
           "priority": 2,
-          "quality": null,
-          "referer": null,
-          "source": "iptv-org",
-          "url": "https://jmp2.uk/plu-66a7f0a78561260008c177f2.m3u8",
-          "userAgent": null
-        },
-        {
-          "geo": {
-            "allowedCountries": [],
-            "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
-          },
-          "priority": 3,
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
@@ -20576,10 +20562,10 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
-          "priority": 4,
+          "priority": 3,
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
@@ -20590,14 +20576,28 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
-          "priority": 5,
+          "priority": 4,
           "quality": "720p",
           "referer": null,
           "source": "iptv-org",
           "url": "https://amg00732-salemmediagroup-salemnews-klowdtv-79zyj.amagi.tv/playlist/amg00732-salemmediagroup-salemnews-klowdtv/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 5,
+          "quality": null,
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://jmp2.uk/plu-66a7f0a78561260008c177f2.m3u8",
           "userAgent": null
         }
       ],
@@ -20709,8 +20709,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 3,
           "quality": "720p",
@@ -21426,10 +21426,10 @@
             "label": null
           },
           "priority": 2,
-          "quality": "720p",
+          "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://jmp2.uk/plu-6627621d56fc840008e47c90.m3u8",
+          "url": "https://messi.damitv.st/papi/ts/tennischannel-usa/playlist.m3u8",
           "userAgent": null
         },
         {
@@ -21443,7 +21443,7 @@
           "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8",
+          "url": "https://jmp2.uk/plu-6627621d56fc840008e47c90.m3u8",
           "userAgent": null
         },
         {
@@ -21457,7 +21457,7 @@
           "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://jmp2.uk/plu-6870c97b759366af055fe371.m3u8",
+          "url": "https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8",
           "userAgent": null
         },
         {
@@ -21471,7 +21471,7 @@
           "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://jmp2.uk/plu-6870c9ca759366af055fe891.m3u8",
+          "url": "https://jmp2.uk/plu-6870c97b759366af055fe371.m3u8",
           "userAgent": null
         },
         {
@@ -21485,7 +21485,7 @@
           "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://rezofoot.tv/Tennis/index.m3u8",
+          "url": "https://jmp2.uk/plu-6870c9ca759366af055fe891.m3u8",
           "userAgent": null
         },
         {
@@ -21499,7 +21499,7 @@
           "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
+          "url": "https://rezofoot.tv/Tennis/index.m3u8",
           "userAgent": null
         }
       ],
@@ -21537,7 +21537,7 @@
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://thefirst-oando.amagi.tv/playlist.m3u8",
+          "url": "https://pb-7dne0wn288z2f.akamaized.net/The_First.m3u8",
           "userAgent": null
         },
         {
@@ -21548,6 +21548,20 @@
             "label": null
           },
           "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://thefirst-oando.amagi.tv/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
           "quality": "720p",
           "referer": null,
           "source": "iptv-org",
@@ -21561,25 +21575,11 @@
             "isGeoBlocked": false,
             "label": null
           },
-          "priority": 2,
+          "priority": 3,
           "quality": null,
           "referer": null,
           "source": "iptv-org",
           "url": "https://jmp2.uk/plu-5d486acc34ceb37d3c458a64.m3u8",
-          "userAgent": null
-        },
-        {
-          "geo": {
-            "allowedCountries": [],
-            "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
-          },
-          "priority": 3,
-          "quality": "1080p",
-          "referer": null,
-          "source": "iptv-org",
-          "url": "https://pb-7dne0wn288z2f.akamaized.net/The_First.m3u8",
           "userAgent": null
         }
       ],
@@ -21614,24 +21614,24 @@
             "label": null
           },
           "priority": 0,
-          "quality": "720p",
+          "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://tyt-samsungus.amagi.tv/playlist.m3u8",
+          "url": "https://amg01220-amg01220c1-firetv-us-5111.playouts.now.amagi.tv/playlist.m3u8",
           "userAgent": null
         },
         {
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 1,
-          "quality": "1080p",
+          "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://amg01220-amg01220c1-firetv-us-5111.playouts.now.amagi.tv/playlist.m3u8",
+          "url": "https://tyt-samsungus.amagi.tv/playlist.m3u8",
           "userAgent": null
         }
       ],
@@ -21881,7 +21881,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "720p",
@@ -22209,20 +22209,6 @@
             "label": null
           },
           "priority": 2,
-          "quality": "720p",
-          "referer": null,
-          "source": "iptv-org",
-          "url": "https://a-cdn.klowdtv.com/live3/usatoday_720p/playlist.m3u8",
-          "userAgent": null
-        },
-        {
-          "geo": {
-            "allowedCountries": [],
-            "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
-          },
-          "priority": 3,
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
@@ -22233,14 +22219,28 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
-          "priority": 4,
+          "priority": 3,
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
           "url": "https://usatodaynews-xumo.amagi.tv/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 4,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://a-cdn.klowdtv.com/live3/usatoday_720p/playlist.m3u8",
           "userAgent": null
         }
       ],
@@ -22392,7 +22392,7 @@
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8",
+          "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8",
           "userAgent": null
         },
         {
@@ -22406,7 +22406,7 @@
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8",
+          "url": "https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8",
           "userAgent": null
         },
         {
@@ -22417,52 +22417,52 @@
             "label": null
           },
           "priority": 2,
-          "quality": "720p",
+          "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://jmp2.uk/plu-6972546cc62833833a187f50.m3u8",
+          "url": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
           "userAgent": null
         },
         {
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 3,
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8",
+          "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8",
           "userAgent": null
         },
         {
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 4,
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8",
+          "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8",
           "userAgent": null
         },
         {
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 5,
-          "quality": "1080p",
+          "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
+          "url": "https://jmp2.uk/plu-6972546cc62833833a187f50.m3u8",
           "userAgent": null
         }
       ],
@@ -22554,7 +22554,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 4,
           "quality": "1080p",
@@ -22571,6 +22571,20 @@
             "label": null
           },
           "priority": 5,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://pb-41uwb26l8gvwx.akamaized.net/World_Poker_Tour.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 6,
           "quality": "720p",
           "referer": null,
           "source": "iptv-org",
@@ -22584,25 +22598,11 @@
             "isGeoBlocked": false,
             "label": null
           },
-          "priority": 6,
-          "quality": null,
-          "referer": null,
-          "source": "iptv-org",
-          "url": "https://jmp2.uk/plu-5616f9c0ada51f8004c4b091.m3u8",
-          "userAgent": null
-        },
-        {
-          "geo": {
-            "allowedCountries": [],
-            "blockedCountries": [],
-            "isGeoBlocked": false,
-            "label": null
-          },
           "priority": 7,
           "quality": null,
           "referer": null,
           "source": "iptv-org",
-          "url": "https://jmp2.uk/plu-5ad8d796e738977e2c31094a.m3u8",
+          "url": "https://jmp2.uk/plu-5616f9c0ada51f8004c4b091.m3u8",
           "userAgent": null
         }
       ],
@@ -22671,8 +22671,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -22863,7 +22863,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "720p",
@@ -23015,7 +23015,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -23043,7 +23043,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 2,
           "quality": "576p",
@@ -23175,7 +23175,7 @@
           "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8",
+          "url": "https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8",
           "userAgent": null
         },
         {
@@ -23186,10 +23186,10 @@
             "label": null
           },
           "priority": 7,
-          "quality": "576p",
+          "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://cdn-7.pishow.tv/live/431/master.m3u8",
+          "url": "https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8",
           "userAgent": null
         }
       ],
@@ -23221,7 +23221,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -23704,7 +23704,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -24166,8 +24166,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -24180,8 +24180,8 @@
           "geo": {
             "allowedCountries": [],
             "blockedCountries": [],
-            "isGeoBlocked": true,
-            "label": "Geo-blocked"
+            "isGeoBlocked": false,
+            "label": null
           },
           "priority": 1,
           "quality": "1080p",
@@ -24336,7 +24336,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "1080p",
@@ -24379,7 +24379,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 0,
           "quality": "406p",
@@ -24393,7 +24393,7 @@
             "allowedCountries": [],
             "blockedCountries": [],
             "isGeoBlocked": false,
-            "label": "Not 24/7"
+            "label": null
           },
           "priority": 1,
           "quality": "406p",
@@ -24470,7 +24470,7 @@
     "SD",
     "TN"
   ],
-  "generatedAt": "2026-09-04T05:26:14Z",
+  "generatedAt": "2026-09-05T05:25:09Z",
   "schemaVersion": 1,
-  "version": 9
+  "version": 10
 }

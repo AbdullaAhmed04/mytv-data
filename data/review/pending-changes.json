@@ -1,6 +1,6 @@
 {
-  "approvedVersion": 8,
-  "candidateVersion": 9,
+  "approvedVersion": 9,
+  "candidateVersion": 10,
   "changes": [
     {
       "channelId": "30AGeorgiaHollywoodReview.us",
@@ -195,6 +195,103 @@
       "requiresApproval": true,
       "status": "PENDING",
       "type": "ADD_CHANNEL"
+    },
+    {
+      "channelId": "ABCNewsLive.us",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams",
+      "id": "chg-b6d3fd9be558f38bb8c76a18",
+      "new": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8",
+          "userAgent": null
+        }
+      ],
+      "old": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": true,
+            "label": "Geo-blocked"
+          },
+          "priority": 2,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8",
+          "userAgent": null
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_STREAMS"
     },
     {
       "channelId": "ABCNewsLive1.us",
@@ -802,9 +899,9 @@
     },
     {
       "channelId": "ATVSat.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-24488dc5f948d7dd1cd26bca",
+      "id": "chg-e3b3e249f0bd4c1b79db0e19",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -830,7 +927,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -995,9 +1092,9 @@
     },
     {
       "channelId": "AfarinTV.iq",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-7669dcb45c27abf313c7f696",
+      "id": "chg-22d201dc9b800106f0357033",
       "new": {
         "categories": [
           "KIDS"
@@ -1023,7 +1120,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "720p",
@@ -1090,6 +1187,31 @@
       "requiresApproval": true,
       "status": "PENDING",
       "type": "ADD_CHANNEL"
+    },
+    {
+      "channelId": "AghapyTV.eg",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams.geo",
+      "id": "chg-2b43567e86fdcf62d9869d50",
+      "new": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        }
+      ],
+      "old": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": "Not 24/7"
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_GEO"
     },
     {
       "channelId": "AjmanTV.ae",
@@ -1286,9 +1408,9 @@
     },
     {
       "channelId": "AlFadyTV.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-17a894d174663f1da6512e5b",
+      "id": "chg-0302eda0b5f397c25020f1a4",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -1314,7 +1436,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -1331,6 +1453,55 @@
       "requiresApproval": true,
       "status": "PENDING",
       "type": "ADD_CHANNEL"
+    },
+    {
+      "channelId": "AlHadath.sa",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams.geo",
+      "id": "chg-82aa4b86dad75f8e695e55a9",
+      "new": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        },
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        },
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        }
+      ],
+      "old": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": "Not 24/7"
+        },
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": "Not 24/7"
+        },
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_GEO"
     },
     {
       "channelId": "AlHayatTV.us",
@@ -1379,6 +1550,56 @@
       "requiresApproval": true,
       "status": "PENDING",
       "type": "ADD_CHANNEL"
+    },
+    {
+      "channelId": "AlHiwarTV.uk",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams.geo",
+      "id": "chg-3ac01ecf95ab38e996a1bf9a",
+      "new": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        }
+      ],
+      "old": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": "Not 24/7"
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_GEO"
+    },
+    {
+      "channelId": "AlImanTV.lb",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams.geo",
+      "id": "chg-f741ea90f5d8a87bc384981a",
+      "new": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        }
+      ],
+      "old": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": "Not 24/7"
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_GEO"
     },
     {
       "channelId": "AlIraqia.iq",
@@ -1478,9 +1699,9 @@
     },
     {
       "channelId": "AlIttihadTV.lb",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-c370a30056a96ffc2aeae8ba",
+      "id": "chg-de2866e1dcb8e2e23f4af44d",
       "new": {
         "categories": [
           "GENERAL"
@@ -1506,7 +1727,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "552p",
@@ -1574,9 +1795,9 @@
     },
     {
       "channelId": "AlJawadainTV.iq",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-59949a03c0139039ce72b338",
+      "id": "chg-0190e8ac2e9a5d0635a9cb15",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -1602,7 +1823,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -1622,9 +1843,9 @@
     },
     {
       "channelId": "AlJazeeraDocumentary.qa",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-fc237aa8aedae1d4f43cc034",
+      "id": "chg-38b247cd48e2e7b91f709702",
       "new": {
         "categories": [
           "DOCUMENTARY"
@@ -1649,8 +1870,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -1663,8 +1884,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 1,
             "quality": "1080p",
@@ -1677,8 +1898,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 2,
             "quality": "1080p",
@@ -1691,8 +1912,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 3,
             "quality": "1080p",
@@ -1760,9 +1981,9 @@
     },
     {
       "channelId": "AlManar.lb",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-d5f11c45b5eb9c4445c1e34b",
+      "id": "chg-9a0098ca637e06c3e4c438e8",
       "new": {
         "categories": [
           "NEWS"
@@ -1788,7 +2009,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "576p",
@@ -1805,6 +2026,31 @@
       "requiresApproval": true,
       "status": "PENDING",
       "type": "ADD_CHANNEL"
+    },
+    {
+      "channelId": "AlMasirahMubacher.ye",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams.geo",
+      "id": "chg-1ca3a14d2e2683907dad5a7c",
+      "new": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        }
+      ],
+      "old": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": "Not 24/7"
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_GEO"
     },
     {
       "channelId": "AlNajahNews.ps",
@@ -1855,10 +2101,35 @@
       "type": "ADD_CHANNEL"
     },
     {
+      "channelId": "AlQuranAlKareemTV.sa",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams.geo",
+      "id": "chg-1b71ddcac975fbe8c59e25ef",
+      "new": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        }
+      ],
+      "old": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": "Not 24/7"
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_GEO"
+    },
+    {
       "channelId": "AlRafidainTV.tr",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-d1c3e753f0babe9626179d2d",
+      "id": "chg-14e0e2b7c0688dcc57c9420c",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -1884,7 +2155,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "720p",
@@ -1904,9 +2175,9 @@
     },
     {
       "channelId": "AlRasheedTV.iq",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-e354190111f7df8320db6249",
+      "id": "chg-46a55aa7467be3f9e404bf9a",
       "new": {
         "categories": [
           "GENERAL"
@@ -1932,7 +2203,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -1952,9 +2223,9 @@
     },
     {
       "channelId": "AlResalah.sa",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-f89eb82e05a05acfdbd7a3de",
+      "id": "chg-2c0a21ef746b93a01c74072d",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -1979,8 +2250,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -2336,9 +2607,9 @@
     },
     {
       "channelId": "AlhaqeqaAldawlia.jo",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-bd807f0eeefa8c182cc089be",
+      "id": "chg-a9a7c11eb9a833b55b0cb38e",
       "new": {
         "categories": [
           "NEWS"
@@ -2364,7 +2635,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -2494,9 +2765,9 @@
     },
     {
       "channelId": "AlkarmaTVAustralia.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-f46e2e28b66b31edcf675c28",
+      "id": "chg-6afa3c1ecd729be36283d958",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -2522,7 +2793,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -2556,9 +2827,9 @@
     },
     {
       "channelId": "AlkarmaTVFamily.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-63f8cf9d80070bcdcd2c4fa3",
+      "id": "chg-f225e7a9c79bf0221142f899",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -2584,7 +2855,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -2604,9 +2875,9 @@
     },
     {
       "channelId": "AlkarmaTVMiddleEast.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-6273799e2f04daaeeefa9f3a",
+      "id": "chg-118d1af98b281cc07ef04946",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -2632,7 +2903,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -2652,9 +2923,9 @@
     },
     {
       "channelId": "AlkarmaTVNorthAmericaCanada.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-211fc8e4716abe132b28bab2",
+      "id": "chg-3dce465e49256865db074a81",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -2680,7 +2951,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -2700,9 +2971,9 @@
     },
     {
       "channelId": "AlkarmaTVPraise.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-50e826a7ba1527cbc761d690",
+      "id": "chg-076aa12cf1b707ce02232431",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -2728,7 +2999,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "720p",
@@ -2748,9 +3019,9 @@
     },
     {
       "channelId": "AlkarmaTVTalmazaDiscipleship.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-812461b0a363a4949b9fae35",
+      "id": "chg-ef27c26459524689545137e2",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -2776,7 +3047,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -2796,9 +3067,9 @@
     },
     {
       "channelId": "AlkarmaTVYouthEnglish.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-1bc3c4a22895cd8d6800c900",
+      "id": "chg-8b88e994ad83c8d32c1ff0e9",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -2824,7 +3095,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -3242,9 +3513,9 @@
     },
     {
       "channelId": "AlmagdTVMiddleEast.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-ddf02ee78db71e0d3e882d63",
+      "id": "chg-06cff593ee870694280d9b8c",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -3271,7 +3542,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -3966,9 +4237,9 @@
     },
     {
       "channelId": "BBCNews.uk",
-      "detectedAt": "2026-09-04T05:26:14Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "streams",
-      "id": "chg-e92ab7b99f8046b3717f3a96",
+      "id": "chg-576ae4795c893af530533665",
       "new": [
         {
           "geo": {
@@ -3981,7 +4252,7 @@
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd",
+          "url": "https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
           "userAgent": null
         },
         {
@@ -3995,7 +4266,7 @@
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://xemzi.short.gy/1000015",
+          "url": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd",
           "userAgent": null
         },
         {
@@ -4006,10 +4277,10 @@
             "label": null
           },
           "priority": 2,
-          "quality": "720p",
+          "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8",
+          "url": "https://xemzi.short.gy/1000015",
           "userAgent": null
         },
         {
@@ -4023,7 +4294,7 @@
           "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd",
+          "url": "https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8",
           "userAgent": null
         },
         {
@@ -4037,7 +4308,7 @@
           "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8",
+          "url": "https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd",
           "userAgent": null
         },
         {
@@ -4048,10 +4319,10 @@
             "label": null
           },
           "priority": 5,
-          "quality": null,
+          "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8",
+          "url": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd",
           "userAgent": null
         },
         {
@@ -4062,10 +4333,10 @@
             "label": null
           },
           "priority": 6,
-          "quality": "576p",
+          "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8",
+          "url": "https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8",
           "userAgent": null
         },
         {
@@ -4076,10 +4347,10 @@
             "label": null
           },
           "priority": 7,
-          "quality": "576p",
+          "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://thinkkast.dpdns.org/thinkkast/bbcworld_news_sd/versiglia/index.m3u8",
+          "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8",
           "userAgent": null
         }
       ],
@@ -4437,6 +4708,131 @@
       "type": "ADD_CHANNEL"
     },
     {
+      "channelId": "BahrainInternational.bh",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams.geo",
+      "id": "chg-43bd5a1757484df934769b4b",
+      "new": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        }
+      ],
+      "old": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": "Not 24/7"
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_GEO"
+    },
+    {
+      "channelId": "BahrainQuran.bh",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams.geo",
+      "id": "chg-46f11ef6b45e8515499baf4e",
+      "new": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        }
+      ],
+      "old": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": "Not 24/7"
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_GEO"
+    },
+    {
+      "channelId": "BahrainSports1.bh",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams.geo",
+      "id": "chg-146dbaa9affa790674b9358b",
+      "new": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        }
+      ],
+      "old": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": "Not 24/7"
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_GEO"
+    },
+    {
+      "channelId": "BahrainSports2.bh",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams.geo",
+      "id": "chg-b96601efa34e9347aab58a34",
+      "new": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        }
+      ],
+      "old": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": "Not 24/7"
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_GEO"
+    },
+    {
+      "channelId": "BahrainTV.bh",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams.geo",
+      "id": "chg-d6eaeef8cc9a5246f6149bc8",
+      "new": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        }
+      ],
+      "old": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": "Not 24/7"
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_GEO"
+    },
+    {
       "channelId": "BeitolAbbasTVChannel.iq",
       "detectedAt": "2026-09-03T05:45:32Z",
       "field": "channel",
@@ -4531,6 +4927,31 @@
       "requiresApproval": true,
       "status": "PENDING",
       "type": "ADD_CHANNEL"
+    },
+    {
+      "channelId": "BilliardTV.us",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams.geo",
+      "id": "chg-828167d3c25439cf022ff5af",
+      "new": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        }
+      ],
+      "old": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": true,
+          "label": "Geo-blocked"
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_GEO"
     },
     {
       "channelId": "BlackNewsChannel.us",
@@ -5567,10 +5988,79 @@
       "type": "ADD_CHANNEL"
     },
     {
+      "channelId": "CBSSportsHQ.us",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams",
+      "id": "chg-1d2e591a7415998a8b8f723a",
+      "new": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8",
+          "userAgent": null
+        }
+      ],
+      "old": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": true,
+            "label": "Geo-blocked"
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_STREAMS"
+    },
+    {
       "channelId": "CGTNArabic.cn",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-0687de7f25798d0002e6f735",
+      "id": "chg-925063fd5e0e882121aa2e67",
       "new": {
         "categories": [
           "NEWS"
@@ -5596,7 +6086,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -5624,7 +6114,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 2,
             "quality": "576p",
@@ -5644,9 +6134,9 @@
     },
     {
       "channelId": "CNA.dz",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-40c6935f130c1a53329c33b2",
+      "id": "chg-e32286c36807a2a697c150f8",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -5673,7 +6163,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "360p",
@@ -5687,7 +6177,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 1,
             "quality": "360p",
@@ -5707,9 +6197,9 @@
     },
     {
       "channelId": "CNBCUK.uk",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-2d80124129f297501a31db21",
+      "id": "chg-bc084df92ecd8571098a25a4",
       "new": {
         "categories": [
           "NEWS",
@@ -5742,21 +6232,21 @@
             "quality": "1080p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8",
+            "url": "https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8",
             "userAgent": null
           },
           {
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 1,
             "quality": "1080p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8",
+            "url": "https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8",
             "userAgent": null
           }
         ],
@@ -5929,6 +6419,31 @@
       "type": "ADD_CHANNEL"
     },
     {
+      "channelId": "CopticTV.eg",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams.geo",
+      "id": "chg-f21189200cfe0cc4355b42c2",
+      "new": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        }
+      ],
+      "old": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": "Not 24/7"
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_GEO"
+    },
+    {
       "channelId": "DAZNCombat.uk",
       "detectedAt": "2026-09-03T05:45:32Z",
       "field": "channel",
@@ -6020,9 +6535,9 @@
     },
     {
       "channelId": "DW.de",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-4fdca61d3effefe99e0dc263",
+      "id": "chg-3df3ea7a86f5dc8eb1b26412",
       "new": {
         "categories": [
           "NEWS"
@@ -6142,7 +6657,7 @@
             "quality": "720p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8",
+            "url": "https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8",
             "userAgent": null
           },
           {
@@ -6153,10 +6668,10 @@
               "label": null
             },
             "priority": 7,
-            "quality": "576p",
+            "quality": "720p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://cdn-7.pishow.tv/live/431/master.m3u8",
+            "url": "https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8",
             "userAgent": null
           }
         ],
@@ -6379,9 +6894,9 @@
     },
     {
       "channelId": "DunyaNewsUK.uk",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-e6b5e6a9010823a7f5c101bd",
+      "id": "chg-246024d7ff32cd0287b15290",
       "new": {
         "categories": [
           "NEWS"
@@ -6408,7 +6923,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "720p",
@@ -6527,9 +7042,9 @@
     },
     {
       "channelId": "ElsharqTV.tr",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-a7fc70c83bc7a3e612069e59",
+      "id": "chg-48f27ac06e7e1148184a210d",
       "new": {
         "categories": [
           "GENERAL"
@@ -6555,7 +7070,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -7574,14 +8089,100 @@
     },
     {
       "channelId": "FuboSportsNetwork.us",
-      "detectedAt": "2026-09-02T05:29:33Z",
-      "field": "logo",
-      "id": "chg-1cced15a5517d1f199282db0",
-      "new": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NTD_Logo_with_symbol.svg/960px-NTD_Logo_with_symbol.svg.png",
-      "old": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Fubo_Sports_Network_2023_Logo.webp/960px-Fubo_Sports_Network_2023_Logo.webp.png",
-      "requiresApproval": false,
-      "status": "AUTO_APPROVED",
-      "type": "LOGO_ONLY"
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams",
+      "id": "chg-9a41643873e22a34ebe77147",
+      "new": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://dnf08l6u6uxnz.cloudfront.net/master.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8",
+          "userAgent": null
+        }
+      ],
+      "old": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://dnf08l6u6uxnz.cloudfront.net/master.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": true,
+            "label": "Geo-blocked"
+          },
+          "priority": 2,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_STREAMS"
     },
     {
       "channelId": "FujairahTV.ae",
@@ -7879,9 +8480,9 @@
     },
     {
       "channelId": "GolfChannel.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-e8d964606d453481f7af4f3d",
+      "id": "chg-2139f7aecf8576b0ed2dc305",
       "new": {
         "categories": [
           "SPORTS"
@@ -7906,8 +8507,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -8025,9 +8626,9 @@
     },
     {
       "channelId": "HalaTV.il",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-92f64cf000243cd30a242c6e",
+      "id": "chg-3701401c955d3851fcecf855",
       "new": {
         "categories": [
           "GENERAL"
@@ -8053,7 +8654,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -8135,6 +8736,31 @@
       "type": "ADD_CHANNEL"
     },
     {
+      "channelId": "HudaTV.eg",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams.geo",
+      "id": "chg-1807d33f2f7ce19446f7a7bf",
+      "new": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        }
+      ],
+      "old": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": "Not 24/7"
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_GEO"
+    },
+    {
       "channelId": "INews.iq",
       "detectedAt": "2026-09-03T05:45:32Z",
       "field": "channel",
@@ -8184,9 +8810,9 @@
     },
     {
       "channelId": "ImamHusseinTV1.iq",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-47b477129c52baeb10f09bf5",
+      "id": "chg-231d7b957f0ac87899172767",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -8212,7 +8838,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -8232,9 +8858,9 @@
     },
     {
       "channelId": "ImamHusseinTV2.iq",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-e492d0ded7ff3efe3a6f519b",
+      "id": "chg-62bbefec30746dd8290a36ef",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -8260,7 +8886,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -8280,9 +8906,9 @@
     },
     {
       "channelId": "ImamHusseinTV3.iq",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-ff04be2cb117d5468df5617b",
+      "id": "chg-bc4b9d0f31778c4e1491d007",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -8308,7 +8934,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -8328,9 +8954,9 @@
     },
     {
       "channelId": "ImamHusseinTV4.iq",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-097e25bedc5523ab5488c1d2",
+      "id": "chg-927280d1f306e20910f15213",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -8356,7 +8982,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -8421,6 +9047,31 @@
       "requiresApproval": true,
       "status": "PENDING",
       "type": "ADD_CHANNEL"
+    },
+    {
+      "channelId": "IqraaArabic.sa",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams.geo",
+      "id": "chg-2470a412440bc3fff988d37a",
+      "new": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        }
+      ],
+      "old": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": "Not 24/7"
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_GEO"
     },
     {
       "channelId": "IraqFuture.iq",
@@ -8524,9 +9175,9 @@
     },
     {
       "channelId": "JawharaTV.tn",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-d0de7672b7a8693bc8475e67",
+      "id": "chg-42a9665a4c506d1936397fe2",
       "new": {
         "categories": [
           "MUSIC"
@@ -8552,7 +9203,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "720p",
@@ -8569,6 +9220,31 @@
       "requiresApproval": true,
       "status": "PENDING",
       "type": "ADD_CHANNEL"
+    },
+    {
+      "channelId": "JordanSport.jo",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams.geo",
+      "id": "chg-e0d456ca286b4b9a89d2a6c8",
+      "new": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        }
+      ],
+      "old": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": true,
+          "label": "Geo-blocked"
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_GEO"
     },
     {
       "channelId": "KarbalaDocumentary.iq",
@@ -8765,9 +9441,9 @@
     },
     {
       "channelId": "KurdistanTV.iq",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-cb7f9832f7b5c7d4188c95b7",
+      "id": "chg-32697c57ff3f7cf04e0ee894",
       "new": {
         "categories": [
           "GENERAL"
@@ -8795,7 +9471,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "720p",
@@ -8913,9 +9589,9 @@
     },
     {
       "channelId": "LBC.sa",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-ef30af3e687330ce4b504ab5",
+      "id": "chg-52796e130fd988a534348402",
       "new": {
         "categories": [
           "GENERAL"
@@ -8940,8 +9616,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -9119,9 +9795,9 @@
     },
     {
       "channelId": "LiveNOWfromFOX.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-13003f094282ed8abc27394a",
+      "id": "chg-887e5fb7b0dfb3fbf4373586",
       "new": {
         "categories": [
           "NEWS"
@@ -9150,10 +9826,10 @@
               "label": null
             },
             "priority": 0,
-            "quality": "720p",
+            "quality": "1080p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
+            "url": "https://pb-k5p02dtnr2162.akamaized.net/LiveNOW_from_FOX.m3u8",
             "userAgent": null
           },
           {
@@ -9167,35 +9843,35 @@
             "quality": "720p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://jmp2.uk/plu-63d025db4e83e700086eaa96.m3u8",
+            "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8",
             "userAgent": null
           },
           {
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 2,
-            "quality": "1080p",
+            "quality": "720p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://pb-k5p02dtnr2162.akamaized.net/LiveNOW_from_FOX.m3u8",
+            "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
             "userAgent": null
           },
           {
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 3,
             "quality": "720p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8",
+            "url": "https://jmp2.uk/plu-63d025db4e83e700086eaa96.m3u8",
             "userAgent": null
           }
         ],
@@ -9209,9 +9885,9 @@
     },
     {
       "channelId": "LogosTV.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-230b01971090a8faa1f0c85a",
+      "id": "chg-8cff517078865cb142bce84c",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -9237,7 +9913,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -9251,7 +9927,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 1,
             "quality": "720p",
@@ -9316,6 +9992,81 @@
       "requiresApproval": true,
       "status": "PENDING",
       "type": "ADD_CHANNEL"
+    },
+    {
+      "channelId": "MBC1USA.us",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams.geo",
+      "id": "chg-001c21bec9883321102c4a13",
+      "new": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        }
+      ],
+      "old": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": true,
+          "label": "Geo-blocked"
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_GEO"
+    },
+    {
+      "channelId": "MBC3USA.us",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams.geo",
+      "id": "chg-b14c60c935a8972a89fd0fa8",
+      "new": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        }
+      ],
+      "old": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": true,
+          "label": "Geo-blocked"
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_GEO"
+    },
+    {
+      "channelId": "MBCBollywood.ae",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams.geo",
+      "id": "chg-6afffc04913eb88fa6fde171",
+      "new": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        }
+      ],
+      "old": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": true,
+          "label": "Geo-blocked"
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_GEO"
     },
     {
       "channelId": "MBCFM.ae",
@@ -9476,10 +10227,107 @@
       "type": "ADD_CHANNEL"
     },
     {
+      "channelId": "MLB.us",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams",
+      "id": "chg-de6a6128f84725ac8da58e3a",
+      "new": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8",
+          "userAgent": null
+        }
+      ],
+      "old": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": "Not 24/7"
+          },
+          "priority": 0,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": true,
+            "label": "Geo-blocked"
+          },
+          "priority": 2,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_STREAMS"
+    },
+    {
       "channelId": "MLBNetwork.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-5fa378fbf8517fbe510719ff",
+      "id": "chg-60bd75b3f2cdf6f6257031d3",
       "new": {
         "categories": [
           "SPORTS"
@@ -9505,8 +10353,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -9981,6 +10829,43 @@
       "type": "ADD_CHANNEL"
     },
     {
+      "channelId": "MakkahTV.sa",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams.geo",
+      "id": "chg-1ef35aeaeb08dbae09339a7e",
+      "new": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        },
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        }
+      ],
+      "old": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        },
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": true,
+          "label": "Geo-blocked"
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_GEO"
+    },
+    {
       "channelId": "ManuChat.iq",
       "detectedAt": "2026-09-03T05:45:32Z",
       "field": "channel",
@@ -10174,9 +11059,9 @@
     },
     {
       "channelId": "MarjaeyatTVPersian.iq",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-3db1fdf9bfa9f0e0e85a4bef",
+      "id": "chg-9db798ae3a75a8eadd2e67e7",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -10202,7 +11087,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "240p",
@@ -10316,6 +11201,31 @@
       "requiresApproval": true,
       "status": "PENDING",
       "type": "ADD_CHANNEL"
+    },
+    {
+      "channelId": "MelodyFM.jo",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams.geo",
+      "id": "chg-ab79445f8787d1bbde27f49a",
+      "new": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        }
+      ],
+      "old": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": "Not 24/7"
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_GEO"
     },
     {
       "channelId": "MiracleChannel.se",
@@ -10680,9 +11590,9 @@
     },
     {
       "channelId": "MusawaChannel.ps",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-c7d3b66e8993bf5cc952e6d4",
+      "id": "chg-d756db45fcd4cce9a32298e9",
       "new": {
         "categories": [
           "GENERAL"
@@ -10708,7 +11618,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -10776,10 +11686,344 @@
       "type": "ADD_CHANNEL"
     },
     {
+      "channelId": "NBATV.us",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams",
+      "id": "chg-b6a25217a1ca76460a75755b",
+      "new": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://cdn1.ayitistream.com/NBATV/index.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://messi.damitv.st/papi/ts/nbatv-usa/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 3,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://pb-5pdyic0cu7tri.akamaized.net/NBA.m3u8",
+          "userAgent": null
+        }
+      ],
+      "old": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://cdn1.ayitistream.com/NBATV/index.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": true,
+            "label": "Geo-blocked"
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": true,
+            "label": "Geo-blocked"
+          },
+          "priority": 2,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://messi.damitv.st/papi/ts/nbatv-usa/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": true,
+            "label": "Geo-blocked"
+          },
+          "priority": 3,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://pb-5pdyic0cu7tri.akamaized.net/NBA.m3u8",
+          "userAgent": null
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_STREAMS"
+    },
+    {
+      "channelId": "NBCNewsNOW.us",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams",
+      "id": "chg-14bbd487b066d8deef2c201f",
+      "new": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://aegis-cloudfront-1.tubi.video/605fb6ea-f89c-451a-873c-030cb726b493/master.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 3,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 4,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://pb-o6czxr182vtiv.akamaized.net/master.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 5,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 6,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://jmp2.uk/plu-5df97894467dfa00091c873c.m3u8",
+          "userAgent": null
+        }
+      ],
+      "old": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://aegis-cloudfront-1.tubi.video/605fb6ea-f89c-451a-873c-030cb726b493/master.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 3,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 4,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 5,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://jmp2.uk/plu-5df97894467dfa00091c873c.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": true,
+            "label": "Geo-blocked"
+          },
+          "priority": 6,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://pb-o6czxr182vtiv.akamaized.net/master.m3u8",
+          "userAgent": null
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_STREAMS"
+    },
+    {
       "channelId": "NBCSportsBayArea.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-3e9002d7fe8ef740aed7c3af",
+      "id": "chg-92f1ca73eb40cd8521c481d0",
       "new": {
         "categories": [
           "SPORTS"
@@ -10804,8 +12048,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -10825,9 +12069,9 @@
     },
     {
       "channelId": "NBCSportsPhiladelphia.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-0eb8c00c83a797501517e50c",
+      "id": "chg-d0f6894a3975434e6ac97b26",
       "new": {
         "categories": [
           "SPORTS"
@@ -10852,8 +12096,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -10870,6 +12114,75 @@
       "requiresApproval": true,
       "status": "PENDING",
       "type": "ADD_CHANNEL"
+    },
+    {
+      "channelId": "NFLChannel.us",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams",
+      "id": "chg-b75ba8eae31ebb388839f9f0",
+      "new": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://pb-we3ltka9xobj6.akamaized.net/master.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8",
+          "userAgent": null
+        }
+      ],
+      "old": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": true,
+            "label": "Geo-blocked"
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://pb-we3ltka9xobj6.akamaized.net/master.m3u8",
+          "userAgent": null
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_STREAMS"
     },
     {
       "channelId": "NHLNetwork.us",
@@ -10997,9 +12310,9 @@
     },
     {
       "channelId": "NRTTV.iq",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-a3949931fcb457c498fc860a",
+      "id": "chg-ca84c829dd735ae028576f9a",
       "new": {
         "categories": [
           "NEWS"
@@ -11025,7 +12338,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "720p",
@@ -11152,9 +12465,9 @@
     },
     {
       "channelId": "NabaaTV.lb",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-3c21bed201f75d27c4c903d4",
+      "id": "chg-09dd31eb4ccd139e14993363",
       "new": {
         "categories": [
           "NEWS"
@@ -11180,7 +12493,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "720p",
@@ -11194,7 +12507,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 1,
             "quality": "720p",
@@ -11214,9 +12527,9 @@
     },
     {
       "channelId": "News12Bronx.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-bf1b21379f1cd69445c03670",
+      "id": "chg-bb0a037fbbf9e46d302599c4",
       "new": {
         "categories": [
           "NEWS"
@@ -11241,8 +12554,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": null,
@@ -11262,9 +12575,9 @@
     },
     {
       "channelId": "News12Brooklyn.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-b0a4cefbeecfcf28dcdcca5c",
+      "id": "chg-e678fce5e5be4868ced6e9b9",
       "new": {
         "categories": [
           "NEWS"
@@ -11289,8 +12602,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": null,
@@ -11310,9 +12623,9 @@
     },
     {
       "channelId": "News12Conneticut.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-6cf8829c4a513f2eb40e8b44",
+      "id": "chg-99699968ceee28a2aed2d059",
       "new": {
         "categories": [
           "NEWS"
@@ -11337,8 +12650,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": null,
@@ -11358,9 +12671,9 @@
     },
     {
       "channelId": "News12HudsonValley.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-b61d9edadbd58b2136177a67",
+      "id": "chg-abcedd016201770afe3e2870",
       "new": {
         "categories": [
           "NEWS"
@@ -11385,8 +12698,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": null,
@@ -11406,9 +12719,9 @@
     },
     {
       "channelId": "News12LongIsland.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-ad503e51e291acb4010439b2",
+      "id": "chg-125a6e38020b60ba0d2a1e11",
       "new": {
         "categories": [
           "NEWS"
@@ -11433,8 +12746,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -11454,9 +12767,9 @@
     },
     {
       "channelId": "News12NewJersey.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-bddaf4fc209554b61dbff492",
+      "id": "chg-1bf4862b1bfe666daa435f89",
       "new": {
         "categories": [
           "NEWS"
@@ -11481,8 +12794,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": null,
@@ -11564,9 +12877,9 @@
     },
     {
       "channelId": "News12PlusConnecticut.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-54c7f8efdf28d43f072a17a1",
+      "id": "chg-616ef0953719265bb15ad2dc",
       "new": {
         "categories": [
           "NEWS"
@@ -11591,8 +12904,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -11612,9 +12925,9 @@
     },
     {
       "channelId": "News12PlusHudsonValley.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-60838fa52f671ac6f4984e55",
+      "id": "chg-bd05630878a4f9b21c4738e9",
       "new": {
         "categories": [
           "NEWS"
@@ -11639,8 +12952,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -11660,9 +12973,9 @@
     },
     {
       "channelId": "News12PlusLongIsland.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-629e443303ce5ca234654957",
+      "id": "chg-ee39a518158d32c2a7b97c7f",
       "new": {
         "categories": [
           "NEWS"
@@ -11687,8 +13000,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -11708,9 +13021,9 @@
     },
     {
       "channelId": "News12PlusNewJersey.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-959175b4eaeb353be7946312",
+      "id": "chg-69c7b97ffdb4d035378b5fc0",
       "new": {
         "categories": [
           "NEWS"
@@ -11735,8 +13048,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -11756,9 +13069,9 @@
     },
     {
       "channelId": "News12PlusNewYork.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-e415237a68fb45871fd752de",
+      "id": "chg-9cf01e506d273949399759eb",
       "new": {
         "categories": [
           "NEWS"
@@ -11783,8 +13096,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -11804,9 +13117,9 @@
     },
     {
       "channelId": "News12Westchester.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-8ca2d9f69024b7c0c901a8ec",
+      "id": "chg-feddad22a8dc9d37def7667d",
       "new": {
         "categories": [
           "NEWS"
@@ -11831,8 +13144,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": null,
@@ -11852,9 +13165,9 @@
     },
     {
       "channelId": "Newsmax2.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-81d68f91dc74e4984abaeac6",
+      "id": "chg-84e38030298b7f4a3b54ea29",
       "new": {
         "categories": [
           "NEWS"
@@ -11886,7 +13199,7 @@
             "quality": "1080p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8",
+            "url": "https://amg00217-newsmax-newsmax-rokuus-dur76.amagi.tv/playlist.m3u8",
             "userAgent": null
           },
           {
@@ -11900,7 +13213,7 @@
             "quality": "1080p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://newsmax-samsungus.amagi.tv/playlist.m3u8",
+            "url": "https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8",
             "userAgent": null
           },
           {
@@ -11914,7 +13227,7 @@
             "quality": "1080p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://newsmax-vizio.amagi.tv/playlist.m3u8",
+            "url": "https://newsmax-samsungus.amagi.tv/playlist.m3u8",
             "userAgent": null
           },
           {
@@ -11928,7 +13241,7 @@
             "quality": "1080p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8",
+            "url": "https://newsmax-vizio.amagi.tv/playlist.m3u8",
             "userAgent": null
           },
           {
@@ -11939,10 +13252,10 @@
               "label": null
             },
             "priority": 4,
-            "quality": "720p",
+            "quality": "1080p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://a-cdn.klowdtv.com/live3/newsmax2_720p/playlist.m3u8",
+            "url": "https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8",
             "userAgent": null
           },
           {
@@ -11956,7 +13269,7 @@
             "quality": "720p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://jmp2.uk/plu-55b179af994403942f3061d6.m3u8",
+            "url": "https://a-cdn.klowdtv.com/live3/newsmax2_720p/playlist.m3u8",
             "userAgent": null
           },
           {
@@ -11970,21 +13283,21 @@
             "quality": "720p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
+            "url": "https://jmp2.uk/plu-55b179af994403942f3061d6.m3u8",
             "userAgent": null
           },
           {
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 7,
-            "quality": "1080p",
+            "quality": "720p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://amg00217-newsmax-newsmax-rokuus-dur76.amagi.tv/playlist.m3u8",
+            "url": "https://newsmax-klowdtv.amagi.tv/playlist.m3u8",
             "userAgent": null
           }
         ],
@@ -12289,6 +13602,56 @@
       "type": "ADD_CHANNEL"
     },
     {
+      "channelId": "NogoumFMTV.eg",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams.geo",
+      "id": "chg-1a70a1e23fae6cb062565658",
+      "new": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        }
+      ],
+      "old": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": "Not 24/7"
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_GEO"
+    },
+    {
+      "channelId": "NourAlKoddass.lb",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams.geo",
+      "id": "chg-528bf17e7a4f12b4fe2b510c",
+      "new": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        }
+      ],
+      "old": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": "Not 24/7"
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_GEO"
+    },
+    {
       "channelId": "NourElShabeb.lb",
       "detectedAt": "2026-09-03T05:45:32Z",
       "field": "channel",
@@ -12567,6 +13930,31 @@
       "type": "ADD_CHANNEL"
     },
     {
+      "channelId": "OmanSportsTV.om",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams.geo",
+      "id": "chg-2b0de93186242fb1482b4b78",
+      "new": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        }
+      ],
+      "old": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": "Not 24/7"
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_GEO"
+    },
+    {
       "channelId": "OneAmericaNewsNetwork.us",
       "detectedAt": "2026-09-03T05:45:32Z",
       "field": "channel",
@@ -12616,9 +14004,9 @@
     },
     {
       "channelId": "OneFM.lb",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-349eb4ab16bbaee86b86f1de",
+      "id": "chg-93e2eecd9a81c78ba729360d",
       "new": {
         "categories": [
           "MUSIC"
@@ -12644,7 +14032,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "720p",
@@ -12661,6 +14049,31 @@
       "requiresApproval": true,
       "status": "PENDING",
       "type": "ADD_CHANNEL"
+    },
+    {
+      "channelId": "OneTV.lb",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams.geo",
+      "id": "chg-16da8536ad9bb4cf335d4522",
+      "new": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        }
+      ],
+      "old": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": "Not 24/7"
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_GEO"
     },
     {
       "channelId": "PBRRidePass.us",
@@ -12712,9 +14125,9 @@
     },
     {
       "channelId": "PGATour.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-481ab878a89142d004976639",
+      "id": "chg-ed5a041a6a9ea17eecd39ef8",
       "new": {
         "categories": [
           "SPORTS"
@@ -12757,10 +14170,10 @@
               "label": null
             },
             "priority": 1,
-            "quality": "720p",
+            "quality": "1080p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8",
+            "url": "https://pb-783hpus5r91wv.akamaized.net/playlist.m3u8",
             "userAgent": null
           },
           {
@@ -12774,7 +14187,7 @@
             "quality": "720p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://jmp2.uk/plu-66c86fed85e28d0008f8a9ec.m3u8",
+            "url": "https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8",
             "userAgent": null
           },
           {
@@ -12788,7 +14201,7 @@
             "quality": "720p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://jmp2.uk/plu-66c86fff9ba9e800080d8ebe.m3u8",
+            "url": "https://jmp2.uk/plu-66c86fed85e28d0008f8a9ec.m3u8",
             "userAgent": null
           },
           {
@@ -12802,7 +14215,7 @@
             "quality": "720p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://jmp2.uk/plu-66c870112630fc0008137ae2.m3u8",
+            "url": "https://jmp2.uk/plu-66c86fff9ba9e800080d8ebe.m3u8",
             "userAgent": null
           },
           {
@@ -12816,7 +14229,7 @@
             "quality": "720p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://jmp2.uk/plu-66d885aef0f17500084b6750.m3u8",
+            "url": "https://jmp2.uk/plu-66c870112630fc0008137ae2.m3u8",
             "userAgent": null
           },
           {
@@ -12827,24 +14240,24 @@
               "label": null
             },
             "priority": 6,
-            "quality": null,
+            "quality": "720p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://jmp2.uk/plu-5de94dacb394a300099fa22a.m3u8",
+            "url": "https://jmp2.uk/plu-66d885aef0f17500084b6750.m3u8",
             "userAgent": null
           },
           {
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 7,
-            "quality": "1080p",
+            "quality": null,
             "referer": null,
             "source": "iptv-org",
-            "url": "https://pb-783hpus5r91wv.akamaized.net/playlist.m3u8",
+            "url": "https://jmp2.uk/plu-5de94dacb394a300099fa22a.m3u8",
             "userAgent": null
           }
         ],
@@ -13250,9 +14663,9 @@
     },
     {
       "channelId": "PalestineToday.ps",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-0ae60b219e7ba3fd55aa93ff",
+      "id": "chg-e91cf8d43f3c84e49b77a12e",
       "new": {
         "categories": [
           "NEWS"
@@ -13277,8 +14690,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": "480p",
@@ -13409,9 +14822,9 @@
     },
     {
       "channelId": "PayamTV.iq",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-d4006c7e1a64cfd0248c9476",
+      "id": "chg-605fda8abedf887956ddd188",
       "new": {
         "categories": [
           "NEWS"
@@ -13451,7 +14864,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 1,
             "quality": "720p",
@@ -13471,9 +14884,9 @@
     },
     {
       "channelId": "PayvandTV.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-8e2fc3a7eb8f31d5f1c81ad0",
+      "id": "chg-098257a14a3faf2b20831a13",
       "new": {
         "categories": [
           "NEWS"
@@ -13499,7 +14912,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "720p",
@@ -14059,9 +15472,9 @@
     },
     {
       "channelId": "RTArabic.ru",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-76cf917691616d6ca79b5a3f",
+      "id": "chg-4d4e1dc3439b93c4f317802d",
       "new": {
         "categories": [
           "NEWS"
@@ -14086,8 +15499,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -14100,8 +15513,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 1,
             "quality": "1080p",
@@ -14121,9 +15534,9 @@
     },
     {
       "channelId": "RacerNetwork.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-36405934323a06765261f580",
+      "id": "chg-3bfe323a7cee7b58f0744b4b",
       "new": {
         "categories": [
           "SPORTS"
@@ -14190,8 +15603,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 3,
             "quality": "1080p",
@@ -14321,9 +15734,9 @@
     },
     {
       "channelId": "RajeenTV.ps",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-298313bdce3b74276db696e1",
+      "id": "chg-3e90433d8a65401367fdce0f",
       "new": {
         "categories": [
           "OTHER"
@@ -14349,7 +15762,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -14417,9 +15830,9 @@
     },
     {
       "channelId": "ReutersTV.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-84097fbf3ffc9e2f8892e846",
+      "id": "chg-e6e988efd7995edcaa0066f3",
       "new": {
         "categories": [
           "NEWS"
@@ -14486,8 +15899,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 3,
             "quality": "1080p",
@@ -14570,9 +15983,9 @@
     },
     {
       "channelId": "RotanaCinemaEgypt.eg",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-7002f4cc05fe4a8e5059a430",
+      "id": "chg-3ade18cb661b45655f728c69",
       "new": {
         "categories": [
           "MOVIES"
@@ -14597,8 +16010,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -14618,9 +16031,9 @@
     },
     {
       "channelId": "RotanaCinemaKSA.sa",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-5c7a639913544ac1f89c4814",
+      "id": "chg-6c9e4f5b7e24f2dc9a3000a2",
       "new": {
         "categories": [
           "MOVIES"
@@ -14645,8 +16058,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -14666,9 +16079,9 @@
     },
     {
       "channelId": "RotanaClassic.sa",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-41c30ed3f1c117906a35d681",
+      "id": "chg-7ceb7954e76019227abaa3b7",
       "new": {
         "categories": [
           "OTHER"
@@ -14693,8 +16106,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -14714,9 +16127,9 @@
     },
     {
       "channelId": "RotanaClip.sa",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-832d3270d17c7e1bb8b732f3",
+      "id": "chg-2aff84ee210dc2ec068c328f",
       "new": {
         "categories": [
           "OTHER"
@@ -14741,8 +16154,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -14762,9 +16175,9 @@
     },
     {
       "channelId": "RotanaComedy.sa",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-8eb3e767f7cd8fd6b89d7ad7",
+      "id": "chg-132a046faafa869c4b7707c0",
       "new": {
         "categories": [
           "OTHER"
@@ -14789,8 +16202,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -14810,9 +16223,9 @@
     },
     {
       "channelId": "RotanaDrama.sa",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-17112dfd3fc7c174354522f2",
+      "id": "chg-37486629d6746538be6cf7d5",
       "new": {
         "categories": [
           "SERIES"
@@ -14837,8 +16250,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -14858,9 +16271,9 @@
     },
     {
       "channelId": "RotanaKhalijia.sa",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-858d2dd1a58db6ac26389fb4",
+      "id": "chg-a718b00f9b6510aa273afd51",
       "new": {
         "categories": [
           "MUSIC"
@@ -14885,8 +16298,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -14906,9 +16319,9 @@
     },
     {
       "channelId": "RotanaMusic.sa",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-7ffbe9e0395280102a4bbfb1",
+      "id": "chg-3b00813a0a0d2daf13e335af",
       "new": {
         "categories": [
           "MUSIC"
@@ -14933,8 +16346,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -15224,9 +16637,9 @@
     },
     {
       "channelId": "SalemNewsChannel.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-d829f40ae5292a98ce76f64c",
+      "id": "chg-0575b47e516ef00e8b783e6d",
       "new": {
         "categories": [
           "NEWS"
@@ -15283,20 +16696,6 @@
               "label": null
             },
             "priority": 2,
-            "quality": null,
-            "referer": null,
-            "source": "iptv-org",
-            "url": "https://jmp2.uk/plu-66a7f0a78561260008c177f2.m3u8",
-            "userAgent": null
-          },
-          {
-            "geo": {
-              "allowedCountries": [],
-              "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
-            },
-            "priority": 3,
             "quality": "1080p",
             "referer": null,
             "source": "iptv-org",
@@ -15307,10 +16706,10 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
-            "priority": 4,
+            "priority": 3,
             "quality": "1080p",
             "referer": null,
             "source": "iptv-org",
@@ -15321,14 +16720,28 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
-            "priority": 5,
+            "priority": 4,
             "quality": "720p",
             "referer": null,
             "source": "iptv-org",
             "url": "https://amg00732-salemmediagroup-salemnews-klowdtv-79zyj.amagi.tv/playlist/amg00732-salemmediagroup-salemnews-klowdtv/playlist.m3u8",
+            "userAgent": null
+          },
+          {
+            "geo": {
+              "allowedCountries": [],
+              "blockedCountries": [],
+              "isGeoBlocked": false,
+              "label": null
+            },
+            "priority": 5,
+            "quality": null,
+            "referer": null,
+            "source": "iptv-org",
+            "url": "https://jmp2.uk/plu-66a7f0a78561260008c177f2.m3u8",
             "userAgent": null
           }
         ],
@@ -15549,9 +16962,9 @@
     },
     {
       "channelId": "ScrippsNews.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-9d7e83fd1e453e35a0704cb8",
+      "id": "chg-a72cdc4a027808422f8f791e",
       "new": {
         "categories": [
           "NEWS"
@@ -15618,8 +17031,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 3,
             "quality": "720p",
@@ -15688,9 +17101,9 @@
     },
     {
       "channelId": "ShababFM.ps",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-2302f5da59a058a1316fd667",
+      "id": "chg-e7eaeb5620ce4f121ddb8725",
       "new": {
         "categories": [
           "OTHER"
@@ -15716,7 +17129,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "720p",
@@ -15880,9 +17293,9 @@
     },
     {
       "channelId": "SharjahSports.ae",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-470c6eee29c754fa008d02e2",
+      "id": "chg-ee91ca7732f864acc934bd93",
       "new": {
         "categories": [
           "SPORTS"
@@ -15908,8 +17321,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -15988,6 +17401,92 @@
       "requiresApproval": true,
       "status": "PENDING",
       "type": "ADD_CHANNEL"
+    },
+    {
+      "channelId": "SkyNewsArabia.ae",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams.geo",
+      "id": "chg-5cfa113912d260b894b9d281",
+      "new": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        },
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        },
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        }
+      ],
+      "old": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        },
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": "Not 24/7"
+        },
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": "Not 24/7"
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_GEO"
+    },
+    {
+      "channelId": "SkyNewsArabiaVertical.ae",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams.geo",
+      "id": "chg-2ecbd15405cc8e5fbd08b949",
+      "new": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        },
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        }
+      ],
+      "old": [
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": null
+        },
+        {
+          "allowedCountries": [],
+          "blockedCountries": [],
+          "isGeoBlocked": false,
+          "label": "Not 24/7"
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_GEO"
     },
     {
       "channelId": "SkySportsCricket.uk",
@@ -16654,9 +18153,9 @@
     },
     {
       "channelId": "TRTArabi.tr",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-4d163207fcb87bafdec3bcbe",
+      "id": "chg-79ad7f28a450c936e18ab322",
       "new": {
         "categories": [
           "NEWS"
@@ -16683,7 +18182,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -16847,9 +18346,9 @@
     },
     {
       "channelId": "TVSSports.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-50f1f2983f6ef992b6c41f89",
+      "id": "chg-1b516f1f3f362ccc0676b1b9",
       "new": {
         "categories": [
           "SPORTS"
@@ -16875,7 +18374,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "720p",
@@ -17087,9 +18586,9 @@
     },
     {
       "channelId": "TeleLiban.lb",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-2227305380c1fc361547e61a",
+      "id": "chg-80a06490980a6bf4fa7d07b2",
       "new": {
         "categories": [
           "GENERAL"
@@ -17115,7 +18614,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "720p",
@@ -17184,9 +18683,9 @@
     },
     {
       "channelId": "TennisChannel.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-94019e8315da4a857c94e102",
+      "id": "chg-e7ce8eca3eb0582d7368289a",
       "new": {
         "categories": [
           "SPORTS"
@@ -17243,10 +18742,10 @@
               "label": null
             },
             "priority": 2,
-            "quality": "720p",
+            "quality": "1080p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://jmp2.uk/plu-6627621d56fc840008e47c90.m3u8",
+            "url": "https://messi.damitv.st/papi/ts/tennischannel-usa/playlist.m3u8",
             "userAgent": null
           },
           {
@@ -17260,7 +18759,7 @@
             "quality": "720p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8",
+            "url": "https://jmp2.uk/plu-6627621d56fc840008e47c90.m3u8",
             "userAgent": null
           },
           {
@@ -17274,7 +18773,7 @@
             "quality": "720p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://jmp2.uk/plu-6870c97b759366af055fe371.m3u8",
+            "url": "https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8",
             "userAgent": null
           },
           {
@@ -17288,7 +18787,7 @@
             "quality": "720p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://jmp2.uk/plu-6870c9ca759366af055fe891.m3u8",
+            "url": "https://jmp2.uk/plu-6870c97b759366af055fe371.m3u8",
             "userAgent": null
           },
           {
@@ -17302,7 +18801,7 @@
             "quality": "720p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://rezofoot.tv/Tennis/index.m3u8",
+            "url": "https://jmp2.uk/plu-6870c9ca759366af055fe891.m3u8",
             "userAgent": null
           },
           {
@@ -17316,7 +18815,7 @@
             "quality": "720p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
+            "url": "https://rezofoot.tv/Tennis/index.m3u8",
             "userAgent": null
           }
         ],
@@ -17330,9 +18829,9 @@
     },
     {
       "channelId": "TheFirstTV.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-886205d64e160654cadd8500",
+      "id": "chg-c6bf0670cc542ad34bc1dc58",
       "new": {
         "categories": [
           "NEWS"
@@ -17364,7 +18863,7 @@
             "quality": "1080p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://thefirst-oando.amagi.tv/playlist.m3u8",
+            "url": "https://pb-7dne0wn288z2f.akamaized.net/The_First.m3u8",
             "userAgent": null
           },
           {
@@ -17375,6 +18874,20 @@
               "label": null
             },
             "priority": 1,
+            "quality": "1080p",
+            "referer": null,
+            "source": "iptv-org",
+            "url": "https://thefirst-oando.amagi.tv/playlist.m3u8",
+            "userAgent": null
+          },
+          {
+            "geo": {
+              "allowedCountries": [],
+              "blockedCountries": [],
+              "isGeoBlocked": false,
+              "label": null
+            },
+            "priority": 2,
             "quality": "720p",
             "referer": null,
             "source": "iptv-org",
@@ -17388,25 +18901,11 @@
               "isGeoBlocked": false,
               "label": null
             },
-            "priority": 2,
+            "priority": 3,
             "quality": null,
             "referer": null,
             "source": "iptv-org",
             "url": "https://jmp2.uk/plu-5d486acc34ceb37d3c458a64.m3u8",
-            "userAgent": null
-          },
-          {
-            "geo": {
-              "allowedCountries": [],
-              "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
-            },
-            "priority": 3,
-            "quality": "1080p",
-            "referer": null,
-            "source": "iptv-org",
-            "url": "https://pb-7dne0wn288z2f.akamaized.net/The_First.m3u8",
             "userAgent": null
           }
         ],
@@ -17420,9 +18919,9 @@
     },
     {
       "channelId": "TheYoungTurks.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-f2fd6d5b4ce7275f041cf3fc",
+      "id": "chg-227dc590170a61b51c06566f",
       "new": {
         "categories": [
           "NEWS"
@@ -17451,24 +18950,24 @@
               "label": null
             },
             "priority": 0,
-            "quality": "720p",
+            "quality": "1080p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://tyt-samsungus.amagi.tv/playlist.m3u8",
+            "url": "https://amg01220-amg01220c1-firetv-us-5111.playouts.now.amagi.tv/playlist.m3u8",
             "userAgent": null
           },
           {
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 1,
-            "quality": "1080p",
+            "quality": "720p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://amg01220-amg01220c1-firetv-us-5111.playouts.now.amagi.tv/playlist.m3u8",
+            "url": "https://tyt-samsungus.amagi.tv/playlist.m3u8",
             "userAgent": null
           }
         ],
@@ -17482,9 +18981,9 @@
     },
     {
       "channelId": "ThikrayatTV.sa",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-d3834f2b13388a8c5a1ad40c",
+      "id": "chg-2a6b6b8f54a5cce58c133ef9",
       "new": {
         "categories": [
           "OTHER"
@@ -17509,8 +19008,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -17578,9 +19077,9 @@
     },
     {
       "channelId": "Turkmenistan.tm",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-f3caaae61f512ccb78a5bffa",
+      "id": "chg-e5480c6d9d4d37ef2fd80579",
       "new": {
         "categories": [
           "GENERAL"
@@ -17611,7 +19110,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "406p",
@@ -17625,7 +19124,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 1,
             "quality": "406p",
@@ -17789,6 +19288,159 @@
       "requiresApproval": true,
       "status": "PENDING",
       "type": "ADD_CHANNEL"
+    },
+    {
+      "channelId": "USATODAY.us",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams",
+      "id": "chg-0438f7e5f7ee33a7324aa62e",
+      "new": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://amg00457-amg00457c1-stirr-us-8143.playouts.now.amagi.tv/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://usatodaynews-samsungus-tsv2-ghkcu.amagi.tv/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 3,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://usatodaynews-xumo.amagi.tv/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 4,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://a-cdn.klowdtv.com/live3/usatoday_720p/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "old": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://amg00457-amg00457c1-stirr-us-8143.playouts.now.amagi.tv/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://a-cdn.klowdtv.com/live3/usatoday_720p/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": true,
+            "label": "Geo-blocked"
+          },
+          "priority": 3,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://usatodaynews-samsungus-tsv2-ghkcu.amagi.tv/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": true,
+            "label": "Geo-blocked"
+          },
+          "priority": 4,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://usatodaynews-xumo.amagi.tv/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_STREAMS"
     },
     {
       "channelId": "UTV.iq",
@@ -18157,9 +19809,9 @@
     },
     {
       "channelId": "WSOCNow.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-9721b5ce9a1e5024847a1380",
+      "id": "chg-e56ed58131e93662e4a0408d",
       "new": {
         "categories": [
           "NEWS"
@@ -18184,8 +19836,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -18315,9 +19967,9 @@
     },
     {
       "channelId": "WatarTV.ps",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-e3963d327840b70a05e54d7f",
+      "id": "chg-91b7a636794864849949eb19",
       "new": {
         "categories": [
           "GENERAL"
@@ -18343,7 +19995,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "720p",
@@ -18458,10 +20110,191 @@
       "type": "ADD_CHANNEL"
     },
     {
+      "channelId": "WillowSports.us",
+      "detectedAt": "2026-09-05T05:25:09Z",
+      "field": "streams",
+      "id": "chg-6a548ce944f5560bc998023f",
+      "new": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 3,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 4,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 5,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://jmp2.uk/plu-6972546cc62833833a187f50.m3u8",
+          "userAgent": null
+        }
+      ],
+      "old": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://jmp2.uk/plu-6972546cc62833833a187f50.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": true,
+            "label": "Geo-blocked"
+          },
+          "priority": 3,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": true,
+            "label": "Geo-blocked"
+          },
+          "priority": 4,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": true,
+            "label": "Geo-blocked"
+          },
+          "priority": 5,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_STREAMS"
+    },
+    {
       "channelId": "WorldPokerTour.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-857627388d186edb63f6234c",
+      "id": "chg-171ea1d04469be2f707e82da",
       "new": {
         "categories": [
           "SPORTS"
@@ -18547,7 +20380,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 4,
             "quality": "1080p",
@@ -18564,6 +20397,20 @@
               "label": null
             },
             "priority": 5,
+            "quality": "1080p",
+            "referer": null,
+            "source": "iptv-org",
+            "url": "https://pb-41uwb26l8gvwx.akamaized.net/World_Poker_Tour.m3u8",
+            "userAgent": null
+          },
+          {
+            "geo": {
+              "allowedCountries": [],
+              "blockedCountries": [],
+              "isGeoBlocked": false,
+              "label": null
+            },
+            "priority": 6,
             "quality": "720p",
             "referer": null,
             "source": "iptv-org",
@@ -18577,25 +20424,11 @@
               "isGeoBlocked": false,
               "label": null
             },
-            "priority": 6,
-            "quality": null,
-            "referer": null,
-            "source": "iptv-org",
-            "url": "https://jmp2.uk/plu-5616f9c0ada51f8004c4b091.m3u8",
-            "userAgent": null
-          },
-          {
-            "geo": {
-              "allowedCountries": [],
-              "blockedCountries": [],
-              "isGeoBlocked": false,
-              "label": null
-            },
             "priority": 7,
             "quality": null,
             "referer": null,
             "source": "iptv-org",
-            "url": "https://jmp2.uk/plu-5ad8d796e738977e2c31094a.m3u8",
+            "url": "https://jmp2.uk/plu-5616f9c0ada51f8004c4b091.m3u8",
             "userAgent": null
           }
         ],
@@ -18657,9 +20490,9 @@
     },
     {
       "channelId": "ZagrosTV.iq",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-3f2ce83c8308f97b4b96e048",
+      "id": "chg-a2ffa194cc271808ef3d8451",
       "new": {
         "categories": [
           "GENERAL"
@@ -18699,7 +20532,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 1,
             "quality": "720p",
@@ -18768,9 +20601,9 @@
     },
     {
       "channelId": "ZeeAlwan.ae",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-04f49ccee4269162157f606c",
+      "id": "chg-103691a6eb997ead7f304656",
       "new": {
         "categories": [
           "SERIES",
@@ -18797,7 +20630,7 @@
               "allowedCountries": [],
               "blockedCountries": [],
               "isGeoBlocked": false,
-              "label": "Not 24/7"
+              "label": null
             },
             "priority": 0,
             "quality": "576p",
@@ -18814,17 +20647,6 @@
       "requiresApproval": true,
       "status": "PENDING",
       "type": "ADD_CHANNEL"
-    },
-    {
-      "channelId": "beINSPORTSXTRA.us",
-      "detectedAt": "2026-09-02T05:29:33Z",
-      "field": "logo",
-      "id": "chg-cc285ada590b3c606d8386d7",
-      "new": "https://i.imgur.com/JfRqVn6.png",
-      "old": "https://i.ibb.co/HT49GPmB/XTRA-2.png",
-      "requiresApproval": false,
-      "status": "AUTO_APPROVED",
-      "type": "LOGO_ONLY"
     },
     {
       "channelId": "beINSPORTSXTRAenEspanol.us",
@@ -18905,9 +20727,9 @@
     },
     {
       "channelId": "beINSportsUSA.us",
-      "detectedAt": "2026-09-03T05:45:32Z",
+      "detectedAt": "2026-09-05T05:25:09Z",
       "field": "channel",
-      "id": "chg-c8f84f4c33cf271f6997d0cb",
+      "id": "chg-11324cb00ae30c60411c3316",
       "new": {
         "categories": [
           "SPORTS"
@@ -18932,8 +20754,8 @@
             "geo": {
               "allowedCountries": [],
               "blockedCountries": [],
-              "isGeoBlocked": true,
-              "label": "Geo-blocked"
+              "isGeoBlocked": false,
+              "label": null
             },
             "priority": 0,
             "quality": "1080p",
@@ -19220,18 +21042,18 @@
       "type": "ADD_CHANNEL"
     }
   ],
-  "generatedAt": "2026-09-04T05:26:14Z",
+  "generatedAt": "2026-09-05T05:25:09Z",
   "schemaVersion": 1,
   "summary": {
     "adultRejectedCount": 377,
     "byType": {
       "ADD_CHANNEL": 335,
+      "CHANGE_GEO": 27,
       "CHANGE_LANGUAGES": 1,
-      "CHANGE_STREAMS": 1,
-      "LOGO_ONLY": 2,
+      "CHANGE_STREAMS": 10,
       "UPSTREAM_MISSING": 1
     },
     "safetyQuarantinedCount": 0,
-    "totalPending": 338
+    "totalPending": 374
   }
 }
