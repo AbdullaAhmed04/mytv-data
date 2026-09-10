@@ -20651,44 +20651,6 @@
       "categories": [
         "SPORTS"
       ],
-      "country": "المملكة المتحدة",
-      "countryCode": "UK",
-      "description": null,
-      "enabled": true,
-      "id": "SkySportsCricket.uk",
-      "languages": [
-        "eng"
-      ],
-      "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png",
-      "name": "Sky Sports Cricket",
-      "order": 450,
-      "safety": {
-        "isNsfw": false,
-        "reviewed": true
-      },
-      "streams": [
-        {
-          "geo": {
-            "allowedCountries": [],
-            "blockedCountries": [],
-            "isGeoBlocked": false,
-            "label": null
-          },
-          "priority": 0,
-          "quality": "1080p",
-          "referer": null,
-          "source": "iptv-org",
-          "url": "https://xemzi.short.gy/2000006",
-          "userAgent": null
-        }
-      ],
-      "upstreamId": "SkySportsCricket.uk",
-      "website": "https://www.skysports.com/"
-    },
-    {
-      "categories": [
-        "SPORTS"
-      ],
       "country": "الولايات المتحدة",
       "countryCode": "US",
       "description": null,
@@ -20699,7 +20661,7 @@
       ],
       "logo": "https://i.imgur.com/8bzAfgK.png",
       "name": "Slopes TV",
-      "order": 451,
+      "order": 450,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -20737,7 +20699,7 @@
       ],
       "logo": "https://i.imgur.com/ulGKX30.png",
       "name": "SportsGrid",
-      "order": 452,
+      "order": 451,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -20831,7 +20793,7 @@
       ],
       "logo": "https://i.imgur.com/SnZOiER.png",
       "name": "Stadium",
-      "order": 453,
+      "order": 452,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -20884,7 +20846,7 @@
       ],
       "logo": "https://i.imgur.com/bVQBF6R.png",
       "name": "Strongman",
-      "order": 454,
+      "order": 453,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -20950,7 +20912,7 @@
       ],
       "logo": "https://provider-static.plex.tv/epg/cms/production/80fb7204-c306-4759-a0d7-c4e829650c22/StrongmanChampionsLeague_Channel-Logo-Light-1500px.png",
       "name": "Strongman Champions League",
-      "order": 455,
+      "order": 454,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21086,7 +21048,7 @@
       ],
       "logo": "https://i.imgur.com/eFZh7aG.png",
       "name": "Swerve Combat",
-      "order": 456,
+      "order": 455,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21166,7 +21128,7 @@
       ],
       "logo": "https://i.imgur.com/GT0Yi2T.png",
       "name": "Swerve Sports",
-      "order": 457,
+      "order": 456,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21218,7 +21180,7 @@
       ],
       "logo": "https://i.imgur.com/Cvnps2J.jpg",
       "name": "Takbeer TV",
-      "order": 458,
+      "order": 457,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21256,7 +21218,7 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/en/9/9d/Talksport_logo.png",
       "name": "talkSPORT",
-      "order": 459,
+      "order": 458,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21308,7 +21270,7 @@
       ],
       "logo": "https://i.imgur.com/tsljAnY.png",
       "name": "Tennis Channel",
-      "order": 460,
+      "order": 459,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21444,7 +21406,7 @@
       ],
       "logo": "https://i.imgur.com/rOSlp93.png",
       "name": "The First TV",
-      "order": 461,
+      "order": 460,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21524,7 +21486,7 @@
       ],
       "logo": "https://i.imgur.com/XDNXJCl.png",
       "name": "The Young Turks",
-      "order": 462,
+      "order": 461,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21576,7 +21538,7 @@
       ],
       "logo": "https://i.imgur.com/LhbQ8Mr.png",
       "name": "TODAY All Day",
-      "order": 463,
+      "order": 462,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21642,7 +21604,7 @@
       ],
       "logo": "https://i.imgur.com/UfN6aAi.png",
       "name": "Top Stories by Newsy",
-      "order": 464,
+      "order": 463,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21680,7 +21642,7 @@
       ],
       "logo": "https://www.watchyour.tv/channels/logo/tvs-bowling-network.jpg",
       "name": "TVS Bowling Network",
-      "order": 465,
+      "order": 464,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21718,7 +21680,7 @@
       ],
       "logo": "https://i.imgur.com/30ZoF75.png",
       "name": "TVS Boxing",
-      "order": 466,
+      "order": 465,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21756,7 +21718,7 @@
       ],
       "logo": "https://i.imgur.com/auR0Mi6.png",
       "name": "TVS Classic Sports",
-      "order": 467,
+      "order": 466,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21794,7 +21756,7 @@
       ],
       "logo": "https://i.imgur.com/Lwwq62E.png",
       "name": "TVS Sports",
-      "order": 468,
+      "order": 467,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21832,7 +21794,7 @@
       ],
       "logo": null,
       "name": "TVS Sports Bureau",
-      "order": 469,
+      "order": 468,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21870,7 +21832,7 @@
       ],
       "logo": "https://i.imgur.com/7zYIbU1.png",
       "name": "TVS Turbo",
-      "order": 470,
+      "order": 469,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21908,7 +21870,7 @@
       ],
       "logo": "https://i.imgur.com/8hC4PfF.png",
       "name": "TVS Women Sports",
-      "order": 471,
+      "order": 470,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21946,7 +21908,7 @@
       ],
       "logo": "https://i.imgur.com/UcAwBep.png",
       "name": "UN Web TV",
-      "order": 472,
+      "order": 471,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21984,7 +21946,7 @@
       ],
       "logo": "https://i.imgur.com/LmkNt3v.png",
       "name": "Unbeaten",
-      "order": 473,
+      "order": 472,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22053,7 +22015,7 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
       "name": "USA Network",
-      "order": 474,
+      "order": 473,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22091,7 +22053,7 @@
       ],
       "logo": "https://i.imgur.com/37K0AZX.png",
       "name": "USA TODAY",
-      "order": 475,
+      "order": 474,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22185,7 +22147,7 @@
       ],
       "logo": "https://i.imgur.com/rtRnlqN.png",
       "name": "VoA TV",
-      "order": 476,
+      "order": 475,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22223,7 +22185,7 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png",
       "name": "W14DK-D 14.2",
-      "order": 477,
+      "order": 476,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22261,7 +22223,7 @@
       ],
       "logo": "https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png",
       "name": "Willow",
-      "order": 478,
+      "order": 477,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22299,7 +22261,7 @@
       ],
       "logo": "https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png",
       "name": "Willow Sports",
-      "order": 479,
+      "order": 478,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22411,7 +22373,7 @@
       ],
       "logo": "https://i.imgur.com/98kLMjj.png",
       "name": "World Poker Tour",
-      "order": 480,
+      "order": 479,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22547,7 +22509,7 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/WPLG_Local_10_%282014%2C_without_ABC_logo%29.svg/500px-WPLG_Local_10_%282014%2C_without_ABC_logo%29.svg.png",
       "name": "WPLG 10.1",
-      "order": 481,
+      "order": 480,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22585,7 +22547,7 @@
       ],
       "logo": "https://i.imgur.com/tUb1mdc.png",
       "name": "WSOC Now",
-      "order": 482,
+      "order": 481,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22623,7 +22585,7 @@
       ],
       "logo": "https://i.imgur.com/LcfzmG0.png",
       "name": "XFC TV",
-      "order": 483,
+      "order": 482,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22662,7 +22624,7 @@
       ],
       "logo": null,
       "name": "Zarin TV",
-      "order": 484,
+      "order": 483,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22700,7 +22662,7 @@
       ],
       "logo": "https://i.imgur.com/Zdi31dy.png",
       "name": "Al Alam",
-      "order": 485,
+      "order": 484,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22738,7 +22700,7 @@
       ],
       "logo": "https://i.imgur.com/OI1HQv5.png",
       "name": "Al Wilayah",
-      "order": 486,
+      "order": 485,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22776,7 +22738,7 @@
       ],
       "logo": "https://i.imgur.com/rjXDCN5.png",
       "name": "Al-Rafidain TV",
-      "order": 487,
+      "order": 486,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22814,7 +22776,7 @@
       ],
       "logo": "https://i.imgur.com/GgEeTNr.png",
       "name": "Almahriah TV",
-      "order": 488,
+      "order": 487,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22852,7 +22814,7 @@
       ],
       "logo": "https://i.imgur.com/gROQqFD.png",
       "name": "Asil TV",
-      "order": 489,
+      "order": 488,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22890,7 +22852,7 @@
       ],
       "logo": "https://i.imgur.com/ps4Gtj0.png",
       "name": "Assirat TV",
-      "order": 490,
+      "order": 489,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22928,7 +22890,7 @@
       ],
       "logo": "https://i.imgur.com/AkFFrS7.png",
       "name": "CGTN Arabic",
-      "order": 491,
+      "order": 490,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22998,7 +22960,7 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/960px-Deutsche_Welle_symbol_2012.svg.png",
       "name": "DW",
-      "order": 492,
+      "order": 491,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -23134,7 +23096,7 @@
       ],
       "logo": "https://i.imgur.com/8vmfZb5.png",
       "name": "Elsharq TV",
-      "order": 493,
+      "order": 492,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -23175,7 +23137,7 @@
       ],
       "logo": "https://i.imgur.com/bTR0Huw.png",
       "name": "ERi-TV 1",
-      "order": 494,
+      "order": 493,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -23198,6 +23160,48 @@
       ],
       "upstreamId": "ERiTV1.er",
       "website": "https://www.dendenmedia.com/"
+    },
+    {
+      "categories": [
+        "KIDS"
+      ],
+      "country": "Germany",
+      "countryCode": "DE",
+      "description": null,
+      "enabled": true,
+      "id": "FixFoxi.de",
+      "languages": [
+        "ara",
+        "bul",
+        "deu",
+        "eng",
+        "spa"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Fix_and_Fox_Channel_Logo.png/250px-Fix_and_Fox_Channel_Logo.png",
+      "name": "Fix & Foxi",
+      "order": 494,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "540p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://live.omni3.pl/fixfoxide/index.m3u8?token=ebnk.xyz",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "FixFoxi.de",
+      "website": "https://fixundfoxi.tv/"
     },
     {
       "categories": [
@@ -24394,7 +24398,7 @@
     "SD",
     "TN"
   ],
-  "generatedAt": "2026-09-09T05:27:25Z",
+  "generatedAt": "2026-09-10T05:26:48Z",
   "schemaVersion": 1,
   "version": 10
 }
