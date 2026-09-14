@@ -7140,9 +7140,9 @@
           "validStreamCount": 0
         },
         {
-          "channelId": "ElMedina.mr",
+          "channelId": "ElMedinaTV.mr",
           "httpsStreamCount": 0,
-          "name": "El Medina",
+          "name": "El Medina TV",
           "rawStreamCount": 0,
           "reason": "NO_STREAMS",
           "validStreamCount": 0
@@ -8223,7 +8223,7 @@
       "upstreamChannels": 27
     }
   ],
-  "generatedAt": "2026-09-13T05:25:20Z",
+  "generatedAt": "2026-09-14T05:27:02Z",
   "schemaVersion": 1,
   "scope": "ARAB_COUNTRIES",
   "source": "iptv-org",

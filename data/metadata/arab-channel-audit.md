@@ -1,6 +1,6 @@
 # MYTV Arab channel audit
 
-Generated: `2026-09-13T05:25:20Z`
+Generated: `2026-09-14T05:27:02Z`
 
 This report audits Arab-country channels from IPTV-org without exposing adult or safety-quarantined channel identities or stream URLs.
 
@@ -925,7 +925,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **Chinguit TV** (`ChinguitTV.mr`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Dava TV** (`DavaTV.mr`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **El Mahadra** (`ElMahadra.mr`); streams: 0, HTTPS: 0, valid: 0
-- `NO_STREAMS` — **El Medina** (`ElMedina.mr`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **El Medina TV** (`ElMedinaTV.mr`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **El Oussra TV** (`ElOussraTV.mr`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Elmourabiton TV** (`ElmourabitonTV.mr`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Elmouritania** (`Elmouritania.mr`); streams: 0, HTTPS: 0, valid: 0
