@@ -6314,7 +6314,7 @@
     {
       "approvedCurrentChannels": 2,
       "candidateChannels": 4,
-      "channelsWithAnyStream": 6,
+      "channelsWithAnyStream": 7,
       "channelsWithHttpsStream": 4,
       "channelsWithValidStream": 4,
       "country": "الجزائر",
@@ -6350,6 +6350,14 @@
           "channelId": "TV2.dz",
           "httpsStreamCount": 0,
           "name": "TV2",
+          "rawStreamCount": 1,
+          "reason": "HTTP_ONLY",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "TV7.dz",
+          "httpsStreamCount": 0,
+          "name": "TV7",
           "rawStreamCount": 1,
           "reason": "HTTP_ONLY",
           "validStreamCount": 0
@@ -6643,14 +6651,6 @@
           "validStreamCount": 0
         },
         {
-          "channelId": "TV7.dz",
-          "httpsStreamCount": 0,
-          "name": "TV7",
-          "rawStreamCount": 0,
-          "reason": "NO_STREAMS",
-          "validStreamCount": 0
-        },
-        {
           "channelId": "TV8.dz",
           "httpsStreamCount": 0,
           "name": "TV8",
@@ -6688,12 +6688,12 @@
         "APPROVED": 2,
         "CANDIDATE_NOT_APPROVED": 2,
         "DMCA": 0,
-        "HTTP_ONLY": 2,
+        "HTTP_ONLY": 3,
         "INSECURE_REFERER": 0,
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 0,
-        "NO_STREAMS": 41,
+        "NO_STREAMS": 40,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 0
@@ -8223,14 +8223,14 @@
       "upstreamChannels": 27
     }
   ],
-  "generatedAt": "2026-09-17T05:27:17Z",
+  "generatedAt": "2026-09-18T05:25:52Z",
   "schemaVersion": 1,
   "scope": "ARAB_COUNTRIES",
   "source": "iptv-org",
   "summary": {
     "approvedCurrentChannels": 153,
     "candidateChannels": 293,
-    "channelsWithAnyStream": 328,
+    "channelsWithAnyStream": 329,
     "channelsWithHttpsStream": 295,
     "channelsWithValidStream": 295,
     "excludedBeforeCandidate": 809,
@@ -8240,12 +8240,12 @@
       "APPROVED": 153,
       "CANDIDATE_NOT_APPROVED": 140,
       "DMCA": 35,
-      "HTTP_ONLY": 32,
+      "HTTP_ONLY": 33,
       "INSECURE_REFERER": 0,
       "INVALID_STREAM_METADATA": 0,
       "INVALID_USER_AGENT": 0,
       "NO_HTTPS_STREAM": 1,
-      "NO_STREAMS": 738,
+      "NO_STREAMS": 737,
       "OTHER_EXCLUDED": 0,
       "SAFETY_QUARANTINED": 0,
       "USER_BLOCKLIST": 2

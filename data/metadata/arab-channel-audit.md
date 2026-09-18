@@ -1,6 +1,6 @@
 # MYTV Arab channel audit
 
-Generated: `2026-09-17T05:27:17Z`
+Generated: `2026-09-18T05:25:52Z`
 
 This report audits Arab-country channels from IPTV-org without exposing adult or safety-quarantined channel identities or stream URLs.
 
@@ -27,7 +27,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 | لبنان | 49 | 31 | 26 | 26 | 26 | 14 | 23 | 0 | 0 | 5 | 18 | 0 | 0 |
 | سوريا | 30 | 11 | 9 | 9 | 9 | 9 | 21 | 0 | 0 | 2 | 19 | 0 | 0 |
 | فلسطين | 41 | 19 | 16 | 16 | 16 | 0 | 25 | 0 | 0 | 3 | 22 | 0 | 0 |
-| الجزائر | 47 | 6 | 4 | 4 | 4 | 2 | 43 | 0 | 0 | 2 | 41 | 0 | 0 |
+| الجزائر | 47 | 7 | 4 | 4 | 4 | 2 | 43 | 0 | 0 | 3 | 40 | 0 | 0 |
 | البحرين | 6 | 5 | 5 | 5 | 5 | 5 | 1 | 0 | 0 | 0 | 1 | 0 | 0 |
 | جزر القمر | 2 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 2 | 0 | 0 |
 | جيبوتي | 8 | 0 | 0 | 0 | 0 | 0 | 8 | 0 | 0 | 0 | 8 | 0 | 0 |
@@ -830,6 +830,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `CANDIDATE_NOT_APPROVED` — **Elwatania TV** (`ElwataniaTV.dz`); streams: 1, HTTPS: 1, valid: 1
 - `HTTP_ONLY` — **Amou Yazid TV** (`AmouYazidTV.dz`); streams: 1, HTTPS: 0, valid: 0
 - `HTTP_ONLY` — **TV2** (`TV2.dz`); streams: 1, HTTPS: 0, valid: 0
+- `HTTP_ONLY` — **TV7** (`TV7.dz`); streams: 1, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **4Kids TV** (`4KidsTV.dz`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Al Anis TV** (`AlAnisTV.dz`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Alaqaria TV** (`AlaqariaTV.dz`); streams: 0, HTTPS: 0, valid: 0
@@ -866,7 +867,6 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **TV4** (`TV4.dz`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **TV5** (`TV5.dz`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **TV6** (`TV6.dz`); streams: 0, HTTPS: 0, valid: 0
-- `NO_STREAMS` — **TV7** (`TV7.dz`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **TV8** (`TV8.dz`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **TV9** (`TV9.dz`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **WebTV Universite de Bejaia** (`WebTVUniversitedeBejaia.dz`); streams: 0, HTTPS: 0, valid: 0
