@@ -1,15 +1,15 @@
 # MYTV Arab channel audit
 
-Generated: `2026-09-18T05:25:52Z`
+Generated: `2026-09-19T05:25:17Z`
 
 This report audits Arab-country channels from IPTV-org without exposing adult or safety-quarantined channel identities or stream URLs.
 
 ## Summary
 
 - Upstream Arab channels: **1102**
-- Eligible candidate channels: **293**
+- Eligible candidate channels: **294**
 - Currently approved channels from this upstream set: **153**
-- Excluded before candidate generation: **809**
+- Excluded before candidate generation: **808**
 - Hidden safety details: **1**
 
 ## Countries
@@ -23,7 +23,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 | الإمارات | 140 | 38 | 36 | 36 | 36 | 20 | 104 | 1 | 0 | 2 | 96 | 5 | 0 |
 | الكويت | 26 | 11 | 11 | 11 | 11 | 10 | 15 | 0 | 0 | 0 | 15 | 0 | 0 |
 | قطر | 86 | 23 | 23 | 23 | 23 | 15 | 63 | 0 | 0 | 0 | 33 | 30 | 0 |
-| الأردن | 62 | 18 | 12 | 12 | 12 | 11 | 50 | 0 | 0 | 6 | 44 | 0 | 0 |
+| الأردن | 62 | 19 | 13 | 13 | 13 | 11 | 49 | 0 | 0 | 6 | 43 | 0 | 0 |
 | لبنان | 49 | 31 | 26 | 26 | 26 | 14 | 23 | 0 | 0 | 5 | 18 | 0 | 0 |
 | سوريا | 30 | 11 | 9 | 9 | 9 | 9 | 21 | 0 | 0 | 2 | 19 | 0 | 0 |
 | فلسطين | 41 | 19 | 16 | 16 | 16 | 0 | 25 | 0 | 0 | 3 | 22 | 0 | 0 |
@@ -667,6 +667,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 ### الأردن (JO)
 
 - `CANDIDATE_NOT_APPROVED` — **Alhaqeqa Aldawlia** (`AlhaqeqaAldawlia.jo`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Roya TV** (`RoyaTV.jo`); streams: 1, HTTPS: 1, valid: 1
 - `HTTP_ONLY` — **Alerth Alnabawi Channel** (`AlerthAlnabawiChannel.jo`); streams: 1, HTTPS: 0, valid: 0
 - `HTTP_ONLY` — **Kaifa TV** (`KaifaTV.jo`); streams: 1, HTTPS: 0, valid: 0
 - `HTTP_ONLY` — **Radio Fann Jordan Studio** (`RadioFannJordanStudio.jo`); streams: 1, HTTPS: 0, valid: 0
@@ -711,7 +712,6 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **Roya Kitchen** (`RoyaKitchen.jo`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Roya Music** (`RoyaMusic.jo`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Roya News** (`RoyaNews.jo`); streams: 0, HTTPS: 0, valid: 0
-- `NO_STREAMS` — **Roya TV** (`RoyaTV.jo`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Sport TV** (`SportTV.jo`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Tala Kids Club** (`TalaKidsClub.jo`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Thakafah TV** (`ThakafahTV.jo`); streams: 0, HTTPS: 0, valid: 0

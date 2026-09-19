@@ -5013,19 +5013,27 @@
     },
     {
       "approvedCurrentChannels": 11,
-      "candidateChannels": 12,
-      "channelsWithAnyStream": 18,
-      "channelsWithHttpsStream": 12,
-      "channelsWithValidStream": 12,
+      "candidateChannels": 13,
+      "channelsWithAnyStream": 19,
+      "channelsWithHttpsStream": 13,
+      "channelsWithValidStream": 13,
       "country": "الأردن",
       "countryCode": "JO",
-      "excludedBeforeCandidate": 50,
+      "excludedBeforeCandidate": 49,
       "hiddenDetailsCount": 0,
       "items": [
         {
           "channelId": "AlhaqeqaAldawlia.jo",
           "httpsStreamCount": 1,
           "name": "Alhaqeqa Aldawlia",
+          "rawStreamCount": 1,
+          "reason": "CANDIDATE_NOT_APPROVED",
+          "validStreamCount": 1
+        },
+        {
+          "channelId": "RoyaTV.jo",
+          "httpsStreamCount": 1,
+          "name": "Roya TV",
           "rawStreamCount": 1,
           "reason": "CANDIDATE_NOT_APPROVED",
           "validStreamCount": 1
@@ -5383,14 +5391,6 @@
           "validStreamCount": 0
         },
         {
-          "channelId": "RoyaTV.jo",
-          "httpsStreamCount": 0,
-          "name": "Roya TV",
-          "rawStreamCount": 0,
-          "reason": "NO_STREAMS",
-          "validStreamCount": 0
-        },
-        {
           "channelId": "SportTV.jo",
           "httpsStreamCount": 0,
           "name": "Sport TV",
@@ -5434,14 +5434,14 @@
       "reasons": {
         "ADULT_REJECTED": 0,
         "APPROVED": 11,
-        "CANDIDATE_NOT_APPROVED": 1,
+        "CANDIDATE_NOT_APPROVED": 2,
         "DMCA": 0,
         "HTTP_ONLY": 6,
         "INSECURE_REFERER": 0,
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 0,
-        "NO_STREAMS": 44,
+        "NO_STREAMS": 43,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 0
@@ -8223,29 +8223,29 @@
       "upstreamChannels": 27
     }
   ],
-  "generatedAt": "2026-09-18T05:25:52Z",
+  "generatedAt": "2026-09-19T05:25:17Z",
   "schemaVersion": 1,
   "scope": "ARAB_COUNTRIES",
   "source": "iptv-org",
   "summary": {
     "approvedCurrentChannels": 153,
-    "candidateChannels": 293,
-    "channelsWithAnyStream": 329,
-    "channelsWithHttpsStream": 295,
-    "channelsWithValidStream": 295,
-    "excludedBeforeCandidate": 809,
+    "candidateChannels": 294,
+    "channelsWithAnyStream": 330,
+    "channelsWithHttpsStream": 296,
+    "channelsWithValidStream": 296,
+    "excludedBeforeCandidate": 808,
     "hiddenDetailsCount": 1,
     "reasons": {
       "ADULT_REJECTED": 1,
       "APPROVED": 153,
-      "CANDIDATE_NOT_APPROVED": 140,
+      "CANDIDATE_NOT_APPROVED": 141,
       "DMCA": 35,
       "HTTP_ONLY": 33,
       "INSECURE_REFERER": 0,
       "INVALID_STREAM_METADATA": 0,
       "INVALID_USER_AGENT": 0,
       "NO_HTTPS_STREAM": 1,
-      "NO_STREAMS": 737,
+      "NO_STREAMS": 736,
       "OTHER_EXCLUDED": 0,
       "SAFETY_QUARANTINED": 0,
       "USER_BLOCKLIST": 2
