@@ -1,15 +1,15 @@
 # MYTV Arab channel audit
 
-Generated: `2026-09-19T05:25:17Z`
+Generated: `2026-09-20T05:25:25Z`
 
 This report audits Arab-country channels from IPTV-org without exposing adult or safety-quarantined channel identities or stream URLs.
 
 ## Summary
 
 - Upstream Arab channels: **1102**
-- Eligible candidate channels: **294**
-- Currently approved channels from this upstream set: **153**
-- Excluded before candidate generation: **808**
+- Eligible candidate channels: **285**
+- Currently approved channels from this upstream set: **150**
+- Excluded before candidate generation: **817**
 - Hidden safety details: **1**
 
 ## Countries
@@ -18,11 +18,11 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | اليمن | 23 | 4 | 4 | 4 | 3 | 3 | 20 | 0 | 0 | 0 | 19 | 0 | 1 |
 | السعودية | 166 | 56 | 55 | 55 | 55 | 29 | 111 | 0 | 0 | 0 | 110 | 0 | 0 |
-| مصر | 117 | 18 | 16 | 16 | 16 | 15 | 101 | 0 | 0 | 2 | 99 | 0 | 0 |
+| مصر | 117 | 15 | 13 | 13 | 13 | 12 | 104 | 0 | 0 | 2 | 102 | 0 | 0 |
 | العراق | 138 | 56 | 53 | 53 | 52 | 2 | 86 | 0 | 0 | 3 | 82 | 0 | 1 |
 | الإمارات | 140 | 38 | 36 | 36 | 36 | 20 | 104 | 1 | 0 | 2 | 96 | 5 | 0 |
 | الكويت | 26 | 11 | 11 | 11 | 11 | 10 | 15 | 0 | 0 | 0 | 15 | 0 | 0 |
-| قطر | 86 | 23 | 23 | 23 | 23 | 15 | 63 | 0 | 0 | 0 | 33 | 30 | 0 |
+| قطر | 86 | 17 | 17 | 17 | 17 | 15 | 69 | 0 | 0 | 0 | 39 | 30 | 0 |
 | الأردن | 62 | 19 | 13 | 13 | 13 | 11 | 49 | 0 | 0 | 6 | 43 | 0 | 0 |
 | لبنان | 49 | 31 | 26 | 26 | 26 | 14 | 23 | 0 | 0 | 5 | 18 | 0 | 0 |
 | سوريا | 30 | 11 | 9 | 9 | 9 | 9 | 21 | 0 | 0 | 2 | 19 | 0 | 0 |
@@ -235,6 +235,9 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **Alkofiya TV** (`AlkofiyaTV.eg`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **AlShoub** (`AlShoub.eg`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **CAF TV** (`CAFTV.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **CBC** (`CBC.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **CBC Drama** (`CBCDrama.eg`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **CBC Sofra** (`CBCSofra.eg`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Cima** (`Cima.eg`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Cookies Kids** (`CookiesKids.eg`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **DMC** (`DMC.eg`); streams: 0, HTTPS: 0, valid: 0
@@ -593,13 +596,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 ### قطر (QA)
 
 - `CANDIDATE_NOT_APPROVED` — **Al Jazeera Documentary** (`AlJazeeraDocumentary.qa`); streams: 4, HTTPS: 4, valid: 4
-- `CANDIDATE_NOT_APPROVED` — **Alkass Four** (`AlkassFour.qa`); streams: 1, HTTPS: 1, valid: 1
-- `CANDIDATE_NOT_APPROVED` — **Alkass One** (`AlkassOne.qa`); streams: 1, HTTPS: 1, valid: 1
-- `CANDIDATE_NOT_APPROVED` — **Alkass SHOOF** (`AlkassSHOOF.qa`); streams: 1, HTTPS: 1, valid: 1
-- `CANDIDATE_NOT_APPROVED` — **Alkass SHOOF 2** (`AlkassSHOOF2.qa`); streams: 1, HTTPS: 1, valid: 1
-- `CANDIDATE_NOT_APPROVED` — **Alkass Six** (`AlkassSix.qa`); streams: 1, HTTPS: 1, valid: 1
-- `CANDIDATE_NOT_APPROVED` — **Alkass Three** (`AlkassThree.qa`); streams: 2, HTTPS: 2, valid: 2
-- `CANDIDATE_NOT_APPROVED` — **Alkass Two** (`AlkassTwo.qa`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Alkass Three** (`AlkassThree.qa`); streams: 1, HTTPS: 1, valid: 1
 - `DMCA` — **beIN Sports** (`beINSports.qa`); streams: 0, HTTPS: 0, valid: 0
 - `DMCA` — **beIN Sports 1** (`beINSports1.qa`); streams: 0, HTTPS: 0, valid: 0
 - `DMCA` — **beIN Sports 2** (`beINSports2.qa`); streams: 0, HTTPS: 0, valid: 0
@@ -634,9 +631,15 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **Alkass Eight** (`AlkassEight.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Alkass Eleven** (`AlkassEleven.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Alkass Five** (`AlkassFive.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alkass Four** (`AlkassFour.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Alkass Nine** (`AlkassNine.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alkass One** (`AlkassOne.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Alkass Seven** (`AlkassSeven.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alkass SHOOF** (`AlkassSHOOF.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alkass SHOOF 2** (`AlkassSHOOF2.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alkass Six** (`AlkassSix.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Alkass Ten** (`AlkassTen.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alkass Two** (`AlkassTwo.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Baraem** (`Baraem.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Be Junior** (`BeJunior.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **beIN 4K** (`beIN4K.qa`); streams: 0, HTTPS: 0, valid: 0

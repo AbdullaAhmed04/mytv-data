@@ -1315,14 +1315,14 @@
       "upstreamChannels": 166
     },
     {
-      "approvedCurrentChannels": 15,
-      "candidateChannels": 16,
-      "channelsWithAnyStream": 18,
-      "channelsWithHttpsStream": 16,
-      "channelsWithValidStream": 16,
+      "approvedCurrentChannels": 12,
+      "candidateChannels": 13,
+      "channelsWithAnyStream": 15,
+      "channelsWithHttpsStream": 13,
+      "channelsWithValidStream": 13,
       "country": "مصر",
       "countryCode": "EG",
-      "excludedBeforeCandidate": 101,
+      "excludedBeforeCandidate": 104,
       "hiddenDetailsCount": 0,
       "items": [
         {
@@ -1553,6 +1553,30 @@
           "channelId": "CAFTV.eg",
           "httpsStreamCount": 0,
           "name": "CAF TV",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "CBC.eg",
+          "httpsStreamCount": 0,
+          "name": "CBC",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "CBCDrama.eg",
+          "httpsStreamCount": 0,
+          "name": "CBC Drama",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "CBCSofra.eg",
+          "httpsStreamCount": 0,
+          "name": "CBC Sofra",
           "rawStreamCount": 0,
           "reason": "NO_STREAMS",
           "validStreamCount": 0
@@ -2144,7 +2168,7 @@
       ],
       "reasons": {
         "ADULT_REJECTED": 0,
-        "APPROVED": 15,
+        "APPROVED": 12,
         "CANDIDATE_NOT_APPROVED": 1,
         "DMCA": 0,
         "HTTP_ONLY": 2,
@@ -2152,7 +2176,7 @@
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 0,
-        "NO_STREAMS": 99,
+        "NO_STREAMS": 102,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 0
@@ -4416,13 +4440,13 @@
     },
     {
       "approvedCurrentChannels": 15,
-      "candidateChannels": 23,
-      "channelsWithAnyStream": 23,
-      "channelsWithHttpsStream": 23,
-      "channelsWithValidStream": 23,
+      "candidateChannels": 17,
+      "channelsWithAnyStream": 17,
+      "channelsWithHttpsStream": 17,
+      "channelsWithValidStream": 17,
       "country": "قطر",
       "countryCode": "QA",
-      "excludedBeforeCandidate": 63,
+      "excludedBeforeCandidate": 69,
       "hiddenDetailsCount": 0,
       "items": [
         {
@@ -4434,57 +4458,9 @@
           "validStreamCount": 4
         },
         {
-          "channelId": "AlkassFour.qa",
-          "httpsStreamCount": 1,
-          "name": "Alkass Four",
-          "rawStreamCount": 1,
-          "reason": "CANDIDATE_NOT_APPROVED",
-          "validStreamCount": 1
-        },
-        {
-          "channelId": "AlkassOne.qa",
-          "httpsStreamCount": 1,
-          "name": "Alkass One",
-          "rawStreamCount": 1,
-          "reason": "CANDIDATE_NOT_APPROVED",
-          "validStreamCount": 1
-        },
-        {
-          "channelId": "AlkassSHOOF.qa",
-          "httpsStreamCount": 1,
-          "name": "Alkass SHOOF",
-          "rawStreamCount": 1,
-          "reason": "CANDIDATE_NOT_APPROVED",
-          "validStreamCount": 1
-        },
-        {
-          "channelId": "AlkassSHOOF2.qa",
-          "httpsStreamCount": 1,
-          "name": "Alkass SHOOF 2",
-          "rawStreamCount": 1,
-          "reason": "CANDIDATE_NOT_APPROVED",
-          "validStreamCount": 1
-        },
-        {
-          "channelId": "AlkassSix.qa",
-          "httpsStreamCount": 1,
-          "name": "Alkass Six",
-          "rawStreamCount": 1,
-          "reason": "CANDIDATE_NOT_APPROVED",
-          "validStreamCount": 1
-        },
-        {
           "channelId": "AlkassThree.qa",
-          "httpsStreamCount": 2,
-          "name": "Alkass Three",
-          "rawStreamCount": 2,
-          "reason": "CANDIDATE_NOT_APPROVED",
-          "validStreamCount": 2
-        },
-        {
-          "channelId": "AlkassTwo.qa",
           "httpsStreamCount": 1,
-          "name": "Alkass Two",
+          "name": "Alkass Three",
           "rawStreamCount": 1,
           "reason": "CANDIDATE_NOT_APPROVED",
           "validStreamCount": 1
@@ -4762,9 +4738,25 @@
           "validStreamCount": 0
         },
         {
+          "channelId": "AlkassFour.qa",
+          "httpsStreamCount": 0,
+          "name": "Alkass Four",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
           "channelId": "AlkassNine.qa",
           "httpsStreamCount": 0,
           "name": "Alkass Nine",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "AlkassOne.qa",
+          "httpsStreamCount": 0,
+          "name": "Alkass One",
           "rawStreamCount": 0,
           "reason": "NO_STREAMS",
           "validStreamCount": 0
@@ -4778,9 +4770,41 @@
           "validStreamCount": 0
         },
         {
+          "channelId": "AlkassSHOOF.qa",
+          "httpsStreamCount": 0,
+          "name": "Alkass SHOOF",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "AlkassSHOOF2.qa",
+          "httpsStreamCount": 0,
+          "name": "Alkass SHOOF 2",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "AlkassSix.qa",
+          "httpsStreamCount": 0,
+          "name": "Alkass Six",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
           "channelId": "AlkassTen.qa",
           "httpsStreamCount": 0,
           "name": "Alkass Ten",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "AlkassTwo.qa",
+          "httpsStreamCount": 0,
+          "name": "Alkass Two",
           "rawStreamCount": 0,
           "reason": "NO_STREAMS",
           "validStreamCount": 0
@@ -4997,14 +5021,14 @@
       "reasons": {
         "ADULT_REJECTED": 0,
         "APPROVED": 15,
-        "CANDIDATE_NOT_APPROVED": 8,
+        "CANDIDATE_NOT_APPROVED": 2,
         "DMCA": 30,
         "HTTP_ONLY": 0,
         "INSECURE_REFERER": 0,
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 0,
-        "NO_STREAMS": 33,
+        "NO_STREAMS": 39,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 0
@@ -8223,29 +8247,29 @@
       "upstreamChannels": 27
     }
   ],
-  "generatedAt": "2026-09-19T05:25:17Z",
+  "generatedAt": "2026-09-20T05:25:25Z",
   "schemaVersion": 1,
   "scope": "ARAB_COUNTRIES",
   "source": "iptv-org",
   "summary": {
-    "approvedCurrentChannels": 153,
-    "candidateChannels": 294,
-    "channelsWithAnyStream": 330,
-    "channelsWithHttpsStream": 296,
-    "channelsWithValidStream": 296,
-    "excludedBeforeCandidate": 808,
+    "approvedCurrentChannels": 150,
+    "candidateChannels": 285,
+    "channelsWithAnyStream": 321,
+    "channelsWithHttpsStream": 287,
+    "channelsWithValidStream": 287,
+    "excludedBeforeCandidate": 817,
     "hiddenDetailsCount": 1,
     "reasons": {
       "ADULT_REJECTED": 1,
-      "APPROVED": 153,
-      "CANDIDATE_NOT_APPROVED": 141,
+      "APPROVED": 150,
+      "CANDIDATE_NOT_APPROVED": 135,
       "DMCA": 35,
       "HTTP_ONLY": 33,
       "INSECURE_REFERER": 0,
       "INVALID_STREAM_METADATA": 0,
       "INVALID_USER_AGENT": 0,
       "NO_HTTPS_STREAM": 1,
-      "NO_STREAMS": 736,
+      "NO_STREAMS": 745,
       "OTHER_EXCLUDED": 0,
       "SAFETY_QUARANTINED": 0,
       "USER_BLOCKLIST": 2
