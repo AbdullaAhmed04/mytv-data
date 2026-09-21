@@ -17638,7 +17638,7 @@
         "eng",
         "spa"
       ],
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/960px-QVC_logo_2019.svg.png",
+      "logo": "https://i.imgur.com/MfyRQCs.png",
       "name": "News of the World",
       "order": 394,
       "safety": {
@@ -18745,7 +18745,7 @@
         "man",
         "zho"
       ],
-      "logo": "https://i.imgur.com/qCJ9Poe.png",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NTD_Logo_with_symbol.svg/960px-NTD_Logo_with_symbol.svg.png",
       "name": "NTD TV English",
       "order": 416,
       "safety": {
@@ -18839,7 +18839,7 @@
       "languages": [
         "eng"
       ],
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Shop_LC_Logo.svg",
+      "logo": "https://i.imgur.com/T9VhMAD.png",
       "name": "OAN Plus",
       "order": 417,
       "safety": {
@@ -20094,7 +20094,7 @@
       "languages": [
         "eng"
       ],
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Defy_2024_logo.png",
+      "logo": "https://i.imgur.com/W0Jvi5o.png",
       "name": "Scripps News",
       "order": 437,
       "safety": {
@@ -23961,7 +23961,7 @@
     "SD",
     "TN"
   ],
-  "generatedAt": "2026-09-20T05:25:25Z",
+  "generatedAt": "2026-09-21T05:27:19Z",
   "schemaVersion": 1,
   "version": 10
 }
