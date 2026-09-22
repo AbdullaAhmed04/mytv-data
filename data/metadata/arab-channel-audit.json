@@ -3302,13 +3302,13 @@
     },
     {
       "approvedCurrentChannels": 20,
-      "candidateChannels": 36,
-      "channelsWithAnyStream": 38,
-      "channelsWithHttpsStream": 36,
-      "channelsWithValidStream": 36,
+      "candidateChannels": 35,
+      "channelsWithAnyStream": 37,
+      "channelsWithHttpsStream": 35,
+      "channelsWithValidStream": 35,
       "country": "الإمارات",
       "countryCode": "AE",
-      "excludedBeforeCandidate": 104,
+      "excludedBeforeCandidate": 105,
       "hiddenDetailsCount": 1,
       "items": [
         {
@@ -3427,14 +3427,6 @@
           "channelId": "WatarRadio.ae",
           "httpsStreamCount": 1,
           "name": "Watar Radio",
-          "rawStreamCount": 1,
-          "reason": "CANDIDATE_NOT_APPROVED",
-          "validStreamCount": 1
-        },
-        {
-          "channelId": "ZeeAlwan.ae",
-          "httpsStreamCount": 1,
-          "name": "Zee Alwan",
           "rawStreamCount": 1,
           "reason": "CANDIDATE_NOT_APPROVED",
           "validStreamCount": 1
@@ -4248,6 +4240,14 @@
           "validStreamCount": 0
         },
         {
+          "channelId": "ZeeAlwan.ae",
+          "httpsStreamCount": 0,
+          "name": "Zee Alwan",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
           "channelId": "ZeeTVMiddleEast.ae",
           "httpsStreamCount": 0,
           "name": "Zee TV Middle East",
@@ -4267,14 +4267,14 @@
       "reasons": {
         "ADULT_REJECTED": 1,
         "APPROVED": 20,
-        "CANDIDATE_NOT_APPROVED": 16,
+        "CANDIDATE_NOT_APPROVED": 15,
         "DMCA": 5,
         "HTTP_ONLY": 2,
         "INSECURE_REFERER": 0,
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 0,
-        "NO_STREAMS": 96,
+        "NO_STREAMS": 97,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 0
@@ -8247,29 +8247,29 @@
       "upstreamChannels": 27
     }
   ],
-  "generatedAt": "2026-09-21T05:27:19Z",
+  "generatedAt": "2026-09-22T05:26:51Z",
   "schemaVersion": 1,
   "scope": "ARAB_COUNTRIES",
   "source": "iptv-org",
   "summary": {
     "approvedCurrentChannels": 150,
-    "candidateChannels": 285,
-    "channelsWithAnyStream": 321,
-    "channelsWithHttpsStream": 287,
-    "channelsWithValidStream": 287,
-    "excludedBeforeCandidate": 817,
+    "candidateChannels": 284,
+    "channelsWithAnyStream": 320,
+    "channelsWithHttpsStream": 286,
+    "channelsWithValidStream": 286,
+    "excludedBeforeCandidate": 818,
     "hiddenDetailsCount": 1,
     "reasons": {
       "ADULT_REJECTED": 1,
       "APPROVED": 150,
-      "CANDIDATE_NOT_APPROVED": 135,
+      "CANDIDATE_NOT_APPROVED": 134,
       "DMCA": 35,
       "HTTP_ONLY": 33,
       "INSECURE_REFERER": 0,
       "INVALID_STREAM_METADATA": 0,
       "INVALID_USER_AGENT": 0,
       "NO_HTTPS_STREAM": 1,
-      "NO_STREAMS": 745,
+      "NO_STREAMS": 746,
       "OTHER_EXCLUDED": 0,
       "SAFETY_QUARANTINED": 0,
       "USER_BLOCKLIST": 2

@@ -1,15 +1,15 @@
 # MYTV Arab channel audit
 
-Generated: `2026-09-21T05:27:19Z`
+Generated: `2026-09-22T05:26:51Z`
 
 This report audits Arab-country channels from IPTV-org without exposing adult or safety-quarantined channel identities or stream URLs.
 
 ## Summary
 
 - Upstream Arab channels: **1102**
-- Eligible candidate channels: **285**
+- Eligible candidate channels: **284**
 - Currently approved channels from this upstream set: **150**
-- Excluded before candidate generation: **817**
+- Excluded before candidate generation: **818**
 - Hidden safety details: **1**
 
 ## Countries
@@ -20,7 +20,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 | السعودية | 166 | 56 | 55 | 55 | 55 | 29 | 111 | 0 | 0 | 0 | 110 | 0 | 0 |
 | مصر | 117 | 15 | 13 | 13 | 13 | 12 | 104 | 0 | 0 | 2 | 102 | 0 | 0 |
 | العراق | 138 | 56 | 53 | 53 | 52 | 2 | 86 | 0 | 0 | 3 | 82 | 0 | 1 |
-| الإمارات | 140 | 38 | 36 | 36 | 36 | 20 | 104 | 1 | 0 | 2 | 96 | 5 | 0 |
+| الإمارات | 140 | 37 | 35 | 35 | 35 | 20 | 105 | 1 | 0 | 2 | 97 | 5 | 0 |
 | الكويت | 26 | 11 | 11 | 11 | 11 | 10 | 15 | 0 | 0 | 0 | 15 | 0 | 0 |
 | قطر | 86 | 17 | 17 | 17 | 17 | 15 | 69 | 0 | 0 | 0 | 39 | 30 | 0 |
 | الأردن | 62 | 19 | 13 | 13 | 13 | 11 | 49 | 0 | 0 | 6 | 43 | 0 | 0 |
@@ -469,7 +469,6 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `CANDIDATE_NOT_APPROVED` — **Sharjah Sports** (`SharjahSports.ae`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Sharjah TV** (`SharjahTV.ae`); streams: 2, HTTPS: 2, valid: 2
 - `CANDIDATE_NOT_APPROVED` — **Watar Radio** (`WatarRadio.ae`); streams: 1, HTTPS: 1, valid: 1
-- `CANDIDATE_NOT_APPROVED` — **Zee Alwan** (`ZeeAlwan.ae`); streams: 1, HTTPS: 1, valid: 1
 - `DMCA` — **Cartoon Network Arabic** (`CartoonNetworkArabic.ae`); streams: 0, HTTPS: 0, valid: 0
 - `DMCA` — **CNN Arabic** (`CNNArabic.ae`); streams: 0, HTTPS: 0, valid: 0
 - `DMCA` — **DMAX MENA** (`DMAXMENA.ae`); streams: 0, HTTPS: 0, valid: 0
@@ -571,6 +570,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **Weyyak Smashi** (`WeyyakSmashi.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Yas TV** (`YasTV.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Zee Aflam** (`ZeeAflam.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Zee Alwan** (`ZeeAlwan.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Zee TV Middle East** (`ZeeTVMiddleEast.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Zorins TV** (`ZorinsTV.ae`); streams: 0, HTTPS: 0, valid: 0
 
