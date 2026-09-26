@@ -19099,9 +19099,9 @@
     },
     {
       "channelId": "USANetwork.us",
-      "detectedAt": "2026-09-22T05:26:51Z",
+      "detectedAt": "2026-09-26T05:26:18Z",
       "field": "channel",
-      "id": "chg-9aef80ff66c8cfbb3cedb949",
+      "id": "chg-b2a9a8179a6c74dcc2f02c89",
       "new": {
         "categories": [
           "SPORTS",
@@ -19117,7 +19117,7 @@
         "languages": [
           "eng"
         ],
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
+        "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/USA_Network_2025_logo.svg/960px-USA_Network_2025_logo.svg.png",
         "name": "USA Network",
         "order": 462,
         "safety": {
@@ -20829,7 +20829,7 @@
       "type": "ADD_CHANNEL"
     }
   ],
-  "generatedAt": "2026-09-25T05:27:02Z",
+  "generatedAt": "2026-09-26T05:26:18Z",
   "schemaVersion": 1,
   "summary": {
     "adultRejectedCount": 377,

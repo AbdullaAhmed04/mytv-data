@@ -21565,7 +21565,7 @@
       "languages": [
         "eng"
       ],
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
+      "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/USA_Network_2025_logo.svg/960px-USA_Network_2025_logo.svg.png",
       "name": "USA Network",
       "order": 462,
       "safety": {
@@ -23922,7 +23922,7 @@
     "SD",
     "TN"
   ],
-  "generatedAt": "2026-09-25T05:27:02Z",
+  "generatedAt": "2026-09-26T05:26:18Z",
   "schemaVersion": 1,
   "version": 10
 }
