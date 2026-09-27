@@ -4440,13 +4440,13 @@
     },
     {
       "approvedCurrentChannels": 15,
-      "candidateChannels": 17,
-      "channelsWithAnyStream": 17,
-      "channelsWithHttpsStream": 17,
-      "channelsWithValidStream": 17,
+      "candidateChannels": 16,
+      "channelsWithAnyStream": 16,
+      "channelsWithHttpsStream": 16,
+      "channelsWithValidStream": 16,
       "country": "قطر",
       "countryCode": "QA",
-      "excludedBeforeCandidate": 69,
+      "excludedBeforeCandidate": 70,
       "hiddenDetailsCount": 0,
       "items": [
         {
@@ -4456,14 +4456,6 @@
           "rawStreamCount": 4,
           "reason": "CANDIDATE_NOT_APPROVED",
           "validStreamCount": 4
-        },
-        {
-          "channelId": "AlkassThree.qa",
-          "httpsStreamCount": 1,
-          "name": "Alkass Three",
-          "rawStreamCount": 1,
-          "reason": "CANDIDATE_NOT_APPROVED",
-          "validStreamCount": 1
         },
         {
           "channelId": "beINSports.qa",
@@ -4802,6 +4794,14 @@
           "validStreamCount": 0
         },
         {
+          "channelId": "AlkassThree.qa",
+          "httpsStreamCount": 0,
+          "name": "Alkass Three",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
           "channelId": "AlkassTwo.qa",
           "httpsStreamCount": 0,
           "name": "Alkass Two",
@@ -5021,14 +5021,14 @@
       "reasons": {
         "ADULT_REJECTED": 0,
         "APPROVED": 15,
-        "CANDIDATE_NOT_APPROVED": 2,
+        "CANDIDATE_NOT_APPROVED": 1,
         "DMCA": 30,
         "HTTP_ONLY": 0,
         "INSECURE_REFERER": 0,
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 0,
-        "NO_STREAMS": 39,
+        "NO_STREAMS": 40,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 0
@@ -5782,14 +5782,14 @@
       "upstreamChannels": 49
     },
     {
-      "approvedCurrentChannels": 9,
-      "candidateChannels": 9,
-      "channelsWithAnyStream": 11,
-      "channelsWithHttpsStream": 9,
-      "channelsWithValidStream": 9,
+      "approvedCurrentChannels": 8,
+      "candidateChannels": 8,
+      "channelsWithAnyStream": 10,
+      "channelsWithHttpsStream": 8,
+      "channelsWithValidStream": 8,
       "country": "سوريا",
       "countryCode": "SY",
-      "excludedBeforeCandidate": 21,
+      "excludedBeforeCandidate": 22,
       "hiddenDetailsCount": 0,
       "items": [
         {
@@ -5836,6 +5836,14 @@
           "channelId": "ANN.sy",
           "httpsStreamCount": 0,
           "name": "ANN",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "DamascusRadio.sy",
+          "httpsStreamCount": 0,
+          "name": "Damascus Radio",
           "rawStreamCount": 0,
           "reason": "NO_STREAMS",
           "validStreamCount": 0
@@ -5963,7 +5971,7 @@
       ],
       "reasons": {
         "ADULT_REJECTED": 0,
-        "APPROVED": 9,
+        "APPROVED": 8,
         "CANDIDATE_NOT_APPROVED": 0,
         "DMCA": 0,
         "HTTP_ONLY": 2,
@@ -5971,7 +5979,7 @@
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 0,
-        "NO_STREAMS": 19,
+        "NO_STREAMS": 20,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 0
@@ -8247,29 +8255,29 @@
       "upstreamChannels": 27
     }
   ],
-  "generatedAt": "2026-09-26T05:26:18Z",
+  "generatedAt": "2026-09-27T10:34:19Z",
   "schemaVersion": 1,
   "scope": "ARAB_COUNTRIES",
   "source": "iptv-org",
   "summary": {
-    "approvedCurrentChannels": 150,
-    "candidateChannels": 284,
-    "channelsWithAnyStream": 320,
-    "channelsWithHttpsStream": 286,
-    "channelsWithValidStream": 286,
-    "excludedBeforeCandidate": 818,
+    "approvedCurrentChannels": 149,
+    "candidateChannels": 282,
+    "channelsWithAnyStream": 318,
+    "channelsWithHttpsStream": 284,
+    "channelsWithValidStream": 284,
+    "excludedBeforeCandidate": 820,
     "hiddenDetailsCount": 1,
     "reasons": {
       "ADULT_REJECTED": 1,
-      "APPROVED": 150,
-      "CANDIDATE_NOT_APPROVED": 134,
+      "APPROVED": 149,
+      "CANDIDATE_NOT_APPROVED": 133,
       "DMCA": 35,
       "HTTP_ONLY": 33,
       "INSECURE_REFERER": 0,
       "INVALID_STREAM_METADATA": 0,
       "INVALID_USER_AGENT": 0,
       "NO_HTTPS_STREAM": 1,
-      "NO_STREAMS": 746,
+      "NO_STREAMS": 748,
       "OTHER_EXCLUDED": 0,
       "SAFETY_QUARANTINED": 0,
       "USER_BLOCKLIST": 2

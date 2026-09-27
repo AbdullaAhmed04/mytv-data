@@ -1,15 +1,15 @@
 # MYTV Arab channel audit
 
-Generated: `2026-09-26T05:26:18Z`
+Generated: `2026-09-27T10:34:19Z`
 
 This report audits Arab-country channels from IPTV-org without exposing adult or safety-quarantined channel identities or stream URLs.
 
 ## Summary
 
 - Upstream Arab channels: **1102**
-- Eligible candidate channels: **284**
-- Currently approved channels from this upstream set: **150**
-- Excluded before candidate generation: **818**
+- Eligible candidate channels: **282**
+- Currently approved channels from this upstream set: **149**
+- Excluded before candidate generation: **820**
 - Hidden safety details: **1**
 
 ## Countries
@@ -22,10 +22,10 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 | العراق | 138 | 56 | 53 | 53 | 52 | 2 | 86 | 0 | 0 | 3 | 82 | 0 | 1 |
 | الإمارات | 140 | 37 | 35 | 35 | 35 | 20 | 105 | 1 | 0 | 2 | 97 | 5 | 0 |
 | الكويت | 26 | 11 | 11 | 11 | 11 | 10 | 15 | 0 | 0 | 0 | 15 | 0 | 0 |
-| قطر | 86 | 17 | 17 | 17 | 17 | 15 | 69 | 0 | 0 | 0 | 39 | 30 | 0 |
+| قطر | 86 | 16 | 16 | 16 | 16 | 15 | 70 | 0 | 0 | 0 | 40 | 30 | 0 |
 | الأردن | 62 | 19 | 13 | 13 | 13 | 11 | 49 | 0 | 0 | 6 | 43 | 0 | 0 |
 | لبنان | 49 | 31 | 26 | 26 | 26 | 14 | 23 | 0 | 0 | 5 | 18 | 0 | 0 |
-| سوريا | 30 | 11 | 9 | 9 | 9 | 9 | 21 | 0 | 0 | 2 | 19 | 0 | 0 |
+| سوريا | 30 | 10 | 8 | 8 | 8 | 8 | 22 | 0 | 0 | 2 | 20 | 0 | 0 |
 | فلسطين | 41 | 19 | 16 | 16 | 16 | 0 | 25 | 0 | 0 | 3 | 22 | 0 | 0 |
 | الجزائر | 47 | 7 | 4 | 4 | 4 | 2 | 43 | 0 | 0 | 3 | 40 | 0 | 0 |
 | البحرين | 6 | 5 | 5 | 5 | 5 | 5 | 1 | 0 | 0 | 0 | 1 | 0 | 0 |
@@ -596,7 +596,6 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 ### قطر (QA)
 
 - `CANDIDATE_NOT_APPROVED` — **Al Jazeera Documentary** (`AlJazeeraDocumentary.qa`); streams: 4, HTTPS: 4, valid: 4
-- `CANDIDATE_NOT_APPROVED` — **Alkass Three** (`AlkassThree.qa`); streams: 1, HTTPS: 1, valid: 1
 - `DMCA` — **beIN Sports** (`beINSports.qa`); streams: 0, HTTPS: 0, valid: 0
 - `DMCA` — **beIN Sports 1** (`beINSports1.qa`); streams: 0, HTTPS: 0, valid: 0
 - `DMCA` — **beIN Sports 2** (`beINSports2.qa`); streams: 0, HTTPS: 0, valid: 0
@@ -639,6 +638,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **Alkass SHOOF 2** (`AlkassSHOOF2.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Alkass Six** (`AlkassSix.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Alkass Ten** (`AlkassTen.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Alkass Three** (`AlkassThree.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Alkass Two** (`AlkassTwo.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Baraem** (`Baraem.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Be Junior** (`BeJunior.qa`); streams: 0, HTTPS: 0, valid: 0
@@ -767,6 +767,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **Almahaliya TV** (`AlmahaliyaTV.sy`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Alyaum Channel** (`AlyaumChannel.sy`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **ANN** (`ANN.sy`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Damascus Radio** (`DamascusRadio.sy`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Massaya TV** (`MassayaTV.sy`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Nour El-Sham** (`NourElSham.sy`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Radio Alkul TV** (`RadioAlkulTV.sy`); streams: 0, HTTPS: 0, valid: 0
