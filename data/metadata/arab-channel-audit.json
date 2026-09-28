@@ -6346,7 +6346,7 @@
     {
       "approvedCurrentChannels": 2,
       "candidateChannels": 4,
-      "channelsWithAnyStream": 7,
+      "channelsWithAnyStream": 8,
       "channelsWithHttpsStream": 4,
       "channelsWithValidStream": 4,
       "country": "الجزائر",
@@ -6382,6 +6382,14 @@
           "channelId": "TV2.dz",
           "httpsStreamCount": 0,
           "name": "TV2",
+          "rawStreamCount": 1,
+          "reason": "HTTP_ONLY",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "TV4.dz",
+          "httpsStreamCount": 0,
+          "name": "TV4",
           "rawStreamCount": 1,
           "reason": "HTTP_ONLY",
           "validStreamCount": 0
@@ -6659,14 +6667,6 @@
           "validStreamCount": 0
         },
         {
-          "channelId": "TV4.dz",
-          "httpsStreamCount": 0,
-          "name": "TV4",
-          "rawStreamCount": 0,
-          "reason": "NO_STREAMS",
-          "validStreamCount": 0
-        },
-        {
           "channelId": "TV5.dz",
           "httpsStreamCount": 0,
           "name": "TV5",
@@ -6720,12 +6720,12 @@
         "APPROVED": 2,
         "CANDIDATE_NOT_APPROVED": 2,
         "DMCA": 0,
-        "HTTP_ONLY": 3,
+        "HTTP_ONLY": 4,
         "INSECURE_REFERER": 0,
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 0,
-        "NO_STREAMS": 40,
+        "NO_STREAMS": 39,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 0
@@ -7114,15 +7114,23 @@
     },
     {
       "approvedCurrentChannels": 0,
-      "candidateChannels": 0,
-      "channelsWithAnyStream": 0,
-      "channelsWithHttpsStream": 0,
-      "channelsWithValidStream": 0,
+      "candidateChannels": 1,
+      "channelsWithAnyStream": 1,
+      "channelsWithHttpsStream": 1,
+      "channelsWithValidStream": 1,
       "country": "موريتانيا",
       "countryCode": "MR",
-      "excludedBeforeCandidate": 16,
+      "excludedBeforeCandidate": 15,
       "hiddenDetailsCount": 0,
       "items": [
+        {
+          "channelId": "Sahara24.mr",
+          "httpsStreamCount": 1,
+          "name": "Sahara 24",
+          "rawStreamCount": 1,
+          "reason": "CANDIDATE_NOT_APPROVED",
+          "validStreamCount": 1
+        },
         {
           "channelId": "AlBarlemania.mr",
           "httpsStreamCount": 0,
@@ -7236,14 +7244,6 @@
           "validStreamCount": 0
         },
         {
-          "channelId": "Sahara24.mr",
-          "httpsStreamCount": 0,
-          "name": "Sahara 24",
-          "rawStreamCount": 0,
-          "reason": "NO_STREAMS",
-          "validStreamCount": 0
-        },
-        {
           "channelId": "SahelTV.mr",
           "httpsStreamCount": 0,
           "name": "Sahel TV",
@@ -7255,14 +7255,14 @@
       "reasons": {
         "ADULT_REJECTED": 0,
         "APPROVED": 0,
-        "CANDIDATE_NOT_APPROVED": 0,
+        "CANDIDATE_NOT_APPROVED": 1,
         "DMCA": 0,
         "HTTP_ONLY": 0,
         "INSECURE_REFERER": 0,
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 0,
-        "NO_STREAMS": 16,
+        "NO_STREAMS": 15,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 0
@@ -8255,29 +8255,29 @@
       "upstreamChannels": 27
     }
   ],
-  "generatedAt": "2026-09-27T10:34:19Z",
+  "generatedAt": "2026-09-28T11:42:30Z",
   "schemaVersion": 1,
   "scope": "ARAB_COUNTRIES",
   "source": "iptv-org",
   "summary": {
     "approvedCurrentChannels": 149,
-    "candidateChannels": 282,
-    "channelsWithAnyStream": 318,
-    "channelsWithHttpsStream": 284,
-    "channelsWithValidStream": 284,
-    "excludedBeforeCandidate": 820,
+    "candidateChannels": 283,
+    "channelsWithAnyStream": 320,
+    "channelsWithHttpsStream": 285,
+    "channelsWithValidStream": 285,
+    "excludedBeforeCandidate": 819,
     "hiddenDetailsCount": 1,
     "reasons": {
       "ADULT_REJECTED": 1,
       "APPROVED": 149,
-      "CANDIDATE_NOT_APPROVED": 133,
+      "CANDIDATE_NOT_APPROVED": 134,
       "DMCA": 35,
-      "HTTP_ONLY": 33,
+      "HTTP_ONLY": 34,
       "INSECURE_REFERER": 0,
       "INVALID_STREAM_METADATA": 0,
       "INVALID_USER_AGENT": 0,
       "NO_HTTPS_STREAM": 1,
-      "NO_STREAMS": 748,
+      "NO_STREAMS": 746,
       "OTHER_EXCLUDED": 0,
       "SAFETY_QUARANTINED": 0,
       "USER_BLOCKLIST": 2

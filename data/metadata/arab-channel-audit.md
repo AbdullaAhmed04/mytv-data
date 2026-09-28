@@ -1,15 +1,15 @@
 # MYTV Arab channel audit
 
-Generated: `2026-09-27T10:34:19Z`
+Generated: `2026-09-28T11:42:30Z`
 
 This report audits Arab-country channels from IPTV-org without exposing adult or safety-quarantined channel identities or stream URLs.
 
 ## Summary
 
 - Upstream Arab channels: **1102**
-- Eligible candidate channels: **282**
+- Eligible candidate channels: **283**
 - Currently approved channels from this upstream set: **149**
-- Excluded before candidate generation: **820**
+- Excluded before candidate generation: **819**
 - Hidden safety details: **1**
 
 ## Countries
@@ -27,12 +27,12 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 | لبنان | 49 | 31 | 26 | 26 | 26 | 14 | 23 | 0 | 0 | 5 | 18 | 0 | 0 |
 | سوريا | 30 | 10 | 8 | 8 | 8 | 8 | 22 | 0 | 0 | 2 | 20 | 0 | 0 |
 | فلسطين | 41 | 19 | 16 | 16 | 16 | 0 | 25 | 0 | 0 | 3 | 22 | 0 | 0 |
-| الجزائر | 47 | 7 | 4 | 4 | 4 | 2 | 43 | 0 | 0 | 3 | 40 | 0 | 0 |
+| الجزائر | 47 | 8 | 4 | 4 | 4 | 2 | 43 | 0 | 0 | 4 | 39 | 0 | 0 |
 | البحرين | 6 | 5 | 5 | 5 | 5 | 5 | 1 | 0 | 0 | 0 | 1 | 0 | 0 |
 | جزر القمر | 2 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 2 | 0 | 0 |
 | جيبوتي | 8 | 0 | 0 | 0 | 0 | 0 | 8 | 0 | 0 | 0 | 8 | 0 | 0 |
 | ليبيا | 26 | 4 | 4 | 4 | 4 | 4 | 22 | 0 | 0 | 0 | 22 | 0 | 0 |
-| موريتانيا | 16 | 0 | 0 | 0 | 0 | 0 | 16 | 0 | 0 | 0 | 16 | 0 | 0 |
+| موريتانيا | 16 | 1 | 1 | 1 | 1 | 0 | 15 | 0 | 0 | 0 | 15 | 0 | 0 |
 | المغرب | 30 | 9 | 6 | 6 | 6 | 6 | 24 | 0 | 0 | 3 | 21 | 0 | 0 |
 | عُمان | 6 | 5 | 5 | 5 | 5 | 5 | 1 | 0 | 0 | 0 | 1 | 0 | 0 |
 | الصومال | 25 | 7 | 4 | 4 | 4 | 0 | 21 | 0 | 0 | 3 | 18 | 0 | 0 |
@@ -834,6 +834,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `CANDIDATE_NOT_APPROVED` — **Elwatania TV** (`ElwataniaTV.dz`); streams: 1, HTTPS: 1, valid: 1
 - `HTTP_ONLY` — **Amou Yazid TV** (`AmouYazidTV.dz`); streams: 1, HTTPS: 0, valid: 0
 - `HTTP_ONLY` — **TV2** (`TV2.dz`); streams: 1, HTTPS: 0, valid: 0
+- `HTTP_ONLY` — **TV4** (`TV4.dz`); streams: 1, HTTPS: 0, valid: 0
 - `HTTP_ONLY` — **TV7** (`TV7.dz`); streams: 1, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **4Kids TV** (`4KidsTV.dz`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Al Anis TV** (`AlAnisTV.dz`); streams: 0, HTTPS: 0, valid: 0
@@ -868,7 +869,6 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **Sport Plus HD** (`SportPlusHD.dz`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **TV1** (`TV1.dz`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **TV3** (`TV3.dz`); streams: 0, HTTPS: 0, valid: 0
-- `NO_STREAMS` — **TV4** (`TV4.dz`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **TV5** (`TV5.dz`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **TV6** (`TV6.dz`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **TV8** (`TV8.dz`); streams: 0, HTTPS: 0, valid: 0
@@ -923,6 +923,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 
 ### موريتانيا (MR)
 
+- `CANDIDATE_NOT_APPROVED` — **Sahara 24** (`Sahara24.mr`); streams: 1, HTTPS: 1, valid: 1
 - `NO_STREAMS` — **Al Barlemania** (`AlBarlemania.mr`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Arriadia** (`Arriadia.mr`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Athagavia** (`Athagavia.mr`); streams: 0, HTTPS: 0, valid: 0
@@ -937,7 +938,6 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **Elwataniya TV** (`ElwataniyaTV.mr`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Ghimem TV** (`GhimemTV.mr`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **HOLPAC TV** (`HOLPACTV.mr`); streams: 0, HTTPS: 0, valid: 0
-- `NO_STREAMS` — **Sahara 24** (`Sahara24.mr`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Sahel TV** (`SahelTV.mr`); streams: 0, HTTPS: 0, valid: 0
 
 ### المغرب (MA)
