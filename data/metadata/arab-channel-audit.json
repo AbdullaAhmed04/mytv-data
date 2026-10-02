@@ -1317,7 +1317,7 @@
     {
       "approvedCurrentChannels": 12,
       "candidateChannels": 13,
-      "channelsWithAnyStream": 15,
+      "channelsWithAnyStream": 16,
       "channelsWithHttpsStream": 13,
       "channelsWithValidStream": 13,
       "country": "مصر",
@@ -1345,6 +1345,14 @@
           "channelId": "Mazzika.eg",
           "httpsStreamCount": 0,
           "name": "Mazzika",
+          "rawStreamCount": 1,
+          "reason": "HTTP_ONLY",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "NileDrama.eg",
+          "httpsStreamCount": 0,
+          "name": "Nile Drama",
           "rawStreamCount": 1,
           "reason": "HTTP_ONLY",
           "validStreamCount": 0
@@ -1902,14 +1910,6 @@
           "validStreamCount": 0
         },
         {
-          "channelId": "NileDrama.eg",
-          "httpsStreamCount": 0,
-          "name": "Nile Drama",
-          "rawStreamCount": 0,
-          "reason": "NO_STREAMS",
-          "validStreamCount": 0
-        },
-        {
           "channelId": "NileEducationChannel.eg",
           "httpsStreamCount": 0,
           "name": "Nile Education Channel",
@@ -2171,12 +2171,12 @@
         "APPROVED": 12,
         "CANDIDATE_NOT_APPROVED": 1,
         "DMCA": 0,
-        "HTTP_ONLY": 2,
+        "HTTP_ONLY": 3,
         "INSECURE_REFERER": 0,
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 0,
-        "NO_STREAMS": 102,
+        "NO_STREAMS": 101,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 0
@@ -6346,7 +6346,7 @@
     {
       "approvedCurrentChannels": 2,
       "candidateChannels": 4,
-      "channelsWithAnyStream": 8,
+      "channelsWithAnyStream": 7,
       "channelsWithHttpsStream": 4,
       "channelsWithValidStream": 4,
       "country": "الجزائر",
@@ -6390,14 +6390,6 @@
           "channelId": "TV4.dz",
           "httpsStreamCount": 0,
           "name": "TV4",
-          "rawStreamCount": 1,
-          "reason": "HTTP_ONLY",
-          "validStreamCount": 0
-        },
-        {
-          "channelId": "TV7.dz",
-          "httpsStreamCount": 0,
-          "name": "TV7",
           "rawStreamCount": 1,
           "reason": "HTTP_ONLY",
           "validStreamCount": 0
@@ -6683,6 +6675,14 @@
           "validStreamCount": 0
         },
         {
+          "channelId": "TV7.dz",
+          "httpsStreamCount": 0,
+          "name": "TV7",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
           "channelId": "TV8.dz",
           "httpsStreamCount": 0,
           "name": "TV8",
@@ -6720,12 +6720,12 @@
         "APPROVED": 2,
         "CANDIDATE_NOT_APPROVED": 2,
         "DMCA": 0,
-        "HTTP_ONLY": 4,
+        "HTTP_ONLY": 3,
         "INSECURE_REFERER": 0,
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 0,
-        "NO_STREAMS": 39,
+        "NO_STREAMS": 40,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 0
@@ -8255,7 +8255,7 @@
       "upstreamChannels": 27
     }
   ],
-  "generatedAt": "2026-10-01T11:37:55Z",
+  "generatedAt": "2026-10-02T11:07:04Z",
   "schemaVersion": 1,
   "scope": "ARAB_COUNTRIES",
   "source": "iptv-org",

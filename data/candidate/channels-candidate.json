@@ -4842,7 +4842,7 @@
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8",
+          "url": "https://utviraqi-live.lg.mncdn.com/utviraqi-live/64c80359/index.m3u8",
           "userAgent": null
         }
       ],
@@ -9553,7 +9553,7 @@
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://mn-nl.mncdn.com/primetv/live/index.m3u8",
+          "url": "https://cdn.bestream.io/prime/prime.m3u8",
           "userAgent": null
         }
       ],
@@ -23743,7 +23743,7 @@
     "SD",
     "TN"
   ],
-  "generatedAt": "2026-10-01T11:37:55Z",
+  "generatedAt": "2026-10-02T11:07:04Z",
   "schemaVersion": 1,
   "version": 10
 }

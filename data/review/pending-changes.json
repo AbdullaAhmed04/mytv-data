@@ -14976,6 +14976,47 @@
       "type": "ADD_CHANNEL"
     },
     {
+      "channelId": "Prime.sy",
+      "detectedAt": "2026-10-02T11:07:04Z",
+      "field": "streams",
+      "id": "chg-1c8471b0756194325753167c",
+      "new": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://cdn.bestream.io/prime/prime.m3u8",
+          "userAgent": null
+        }
+      ],
+      "old": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://mn-nl.mncdn.com/primetv/live/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_STREAMS"
+    },
+    {
       "channelId": "Pulse95Radio.ae",
       "detectedAt": "2026-09-20T05:25:25Z",
       "field": "channel",
@@ -19307,9 +19348,9 @@
     },
     {
       "channelId": "UTV.iq",
-      "detectedAt": "2026-09-20T05:25:25Z",
+      "detectedAt": "2026-10-02T11:07:04Z",
       "field": "channel",
-      "id": "chg-e81edb5be4b1100cb29e01c9",
+      "id": "chg-e509246ef71d186801b536aa",
       "new": {
         "categories": [
           "OTHER"
@@ -19341,7 +19382,7 @@
             "quality": "1080p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8",
+            "url": "https://utviraqi-live.lg.mncdn.com/utviraqi-live/64c80359/index.m3u8",
             "userAgent": null
           }
         ],
@@ -20833,7 +20874,7 @@
       "type": "ADD_CHANNEL"
     }
   ],
-  "generatedAt": "2026-10-01T11:37:55Z",
+  "generatedAt": "2026-10-02T11:07:04Z",
   "schemaVersion": 1,
   "summary": {
     "adultRejectedCount": 377,
@@ -20841,11 +20882,11 @@
       "ADD_CHANNEL": 322,
       "CHANGE_GEO": 27,
       "CHANGE_LANGUAGES": 1,
-      "CHANGE_STREAMS": 12,
+      "CHANGE_STREAMS": 13,
       "LOGO_ONLY": 2,
       "UPSTREAM_MISSING": 7
     },
     "safetyQuarantinedCount": 0,
-    "totalPending": 369
+    "totalPending": 370
   }
 }
