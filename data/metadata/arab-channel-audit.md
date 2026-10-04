@@ -1,15 +1,15 @@
 # MYTV Arab channel audit
 
-Generated: `2026-10-03T10:25:27Z`
+Generated: `2026-10-04T11:07:11Z`
 
 This report audits Arab-country channels from IPTV-org without exposing adult or safety-quarantined channel identities or stream URLs.
 
 ## Summary
 
-- Upstream Arab channels: **1102**
+- Upstream Arab channels: **1103**
 - Eligible candidate channels: **283**
 - Currently approved channels from this upstream set: **149**
-- Excluded before candidate generation: **819**
+- Excluded before candidate generation: **820**
 - Hidden safety details: **1**
 
 ## Countries
@@ -19,7 +19,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 | اليمن | 23 | 4 | 4 | 4 | 3 | 3 | 20 | 0 | 0 | 0 | 19 | 0 | 1 |
 | السعودية | 166 | 56 | 55 | 55 | 55 | 29 | 111 | 0 | 0 | 0 | 110 | 0 | 0 |
 | مصر | 117 | 16 | 13 | 13 | 13 | 12 | 104 | 0 | 0 | 3 | 101 | 0 | 0 |
-| العراق | 138 | 56 | 53 | 53 | 52 | 2 | 86 | 0 | 0 | 3 | 82 | 0 | 1 |
+| العراق | 139 | 56 | 53 | 53 | 52 | 2 | 87 | 0 | 0 | 3 | 83 | 0 | 1 |
 | الإمارات | 140 | 37 | 35 | 35 | 35 | 20 | 105 | 1 | 0 | 2 | 97 | 5 | 0 |
 | الكويت | 26 | 11 | 11 | 11 | 11 | 10 | 15 | 0 | 0 | 0 | 15 | 0 | 0 |
 | قطر | 86 | 16 | 16 | 16 | 16 | 15 | 70 | 0 | 0 | 0 | 40 | 30 | 0 |
@@ -394,6 +394,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **Altaleaa TV** (`AltaleaaTV.iq`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Anbar TV Channel** (`AnbarTVChannel.iq`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Ava Entertainment** (`AvaEntertainment.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **AVA Media** (`AVAMedia.iq`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Babylon TV** (`BabylonTV.iq`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Bangawaz TV** (`BangawazTV.iq`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Bayyinat TV** (`BayyinatTV.iq`); streams: 0, HTTPS: 0, valid: 0

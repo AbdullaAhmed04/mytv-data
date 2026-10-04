@@ -2191,7 +2191,7 @@
       "channelsWithValidStream": 53,
       "country": "العراق",
       "countryCode": "IQ",
-      "excludedBeforeCandidate": 86,
+      "excludedBeforeCandidate": 87,
       "hiddenDetailsCount": 0,
       "items": [
         {
@@ -2835,6 +2835,14 @@
           "validStreamCount": 0
         },
         {
+          "channelId": "AVAMedia.iq",
+          "httpsStreamCount": 0,
+          "name": "AVA Media",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
           "channelId": "BabylonTV.iq",
           "httpsStreamCount": 0,
           "name": "Babylon TV",
@@ -3293,12 +3301,12 @@
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 0,
-        "NO_STREAMS": 82,
+        "NO_STREAMS": 83,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 1
       },
-      "upstreamChannels": 138
+      "upstreamChannels": 139
     },
     {
       "approvedCurrentChannels": 20,
@@ -8255,7 +8263,7 @@
       "upstreamChannels": 27
     }
   ],
-  "generatedAt": "2026-10-03T10:25:27Z",
+  "generatedAt": "2026-10-04T11:07:11Z",
   "schemaVersion": 1,
   "scope": "ARAB_COUNTRIES",
   "source": "iptv-org",
@@ -8265,7 +8273,7 @@
     "channelsWithAnyStream": 320,
     "channelsWithHttpsStream": 285,
     "channelsWithValidStream": 285,
-    "excludedBeforeCandidate": 819,
+    "excludedBeforeCandidate": 820,
     "hiddenDetailsCount": 1,
     "reasons": {
       "ADULT_REJECTED": 1,
@@ -8277,11 +8285,11 @@
       "INVALID_STREAM_METADATA": 0,
       "INVALID_USER_AGENT": 0,
       "NO_HTTPS_STREAM": 1,
-      "NO_STREAMS": 746,
+      "NO_STREAMS": 747,
       "OTHER_EXCLUDED": 0,
       "SAFETY_QUARANTINED": 0,
       "USER_BLOCKLIST": 2
     },
-    "upstreamChannels": 1102
+    "upstreamChannels": 1103
   }
 }
