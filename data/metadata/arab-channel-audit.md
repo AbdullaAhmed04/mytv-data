@@ -1,6 +1,6 @@
 # MYTV Arab channel audit
 
-Generated: `2026-10-04T11:07:11Z`
+Generated: `2026-10-05T12:17:43Z`
 
 This report audits Arab-country channels from IPTV-org without exposing adult or safety-quarantined channel identities or stream URLs.
 
