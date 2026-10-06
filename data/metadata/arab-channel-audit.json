@@ -2260,19 +2260,19 @@
         },
         {
           "channelId": "AlSharqiya.iq",
-          "httpsStreamCount": 1,
+          "httpsStreamCount": 2,
           "name": "Al Sharqiya",
-          "rawStreamCount": 2,
+          "rawStreamCount": 3,
           "reason": "CANDIDATE_NOT_APPROVED",
-          "validStreamCount": 1
+          "validStreamCount": 2
         },
         {
           "channelId": "AlSharqiyaNews.iq",
-          "httpsStreamCount": 1,
+          "httpsStreamCount": 2,
           "name": "Al Sharqiya News",
-          "rawStreamCount": 1,
+          "rawStreamCount": 2,
           "reason": "CANDIDATE_NOT_APPROVED",
-          "validStreamCount": 1
+          "validStreamCount": 2
         },
         {
           "channelId": "AlAimmaTV.iq",
@@ -3310,19 +3310,27 @@
     },
     {
       "approvedCurrentChannels": 20,
-      "candidateChannels": 35,
-      "channelsWithAnyStream": 37,
-      "channelsWithHttpsStream": 35,
-      "channelsWithValidStream": 35,
+      "candidateChannels": 36,
+      "channelsWithAnyStream": 38,
+      "channelsWithHttpsStream": 36,
+      "channelsWithValidStream": 36,
       "country": "الإمارات",
       "countryCode": "AE",
-      "excludedBeforeCandidate": 105,
+      "excludedBeforeCandidate": 104,
       "hiddenDetailsCount": 1,
       "items": [
         {
           "channelId": "AjmanTV.ae",
           "httpsStreamCount": 1,
           "name": "Ajman TV",
+          "rawStreamCount": 1,
+          "reason": "CANDIDATE_NOT_APPROVED",
+          "validStreamCount": 1
+        },
+        {
+          "channelId": "AlMashhad.ae",
+          "httpsStreamCount": 1,
+          "name": "Al Mashhad",
           "rawStreamCount": 1,
           "reason": "CANDIDATE_NOT_APPROVED",
           "validStreamCount": 1
@@ -3587,14 +3595,6 @@
           "channelId": "AlDafrahTV.ae",
           "httpsStreamCount": 0,
           "name": "Al Dafrah TV",
-          "rawStreamCount": 0,
-          "reason": "NO_STREAMS",
-          "validStreamCount": 0
-        },
-        {
-          "channelId": "AlMashhad.ae",
-          "httpsStreamCount": 0,
-          "name": "Al Mashhad",
           "rawStreamCount": 0,
           "reason": "NO_STREAMS",
           "validStreamCount": 0
@@ -4275,14 +4275,14 @@
       "reasons": {
         "ADULT_REJECTED": 1,
         "APPROVED": 20,
-        "CANDIDATE_NOT_APPROVED": 15,
+        "CANDIDATE_NOT_APPROVED": 16,
         "DMCA": 5,
         "HTTP_ONLY": 2,
         "INSECURE_REFERER": 0,
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 0,
-        "NO_STREAMS": 97,
+        "NO_STREAMS": 96,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 0
@@ -8263,29 +8263,29 @@
       "upstreamChannels": 27
     }
   ],
-  "generatedAt": "2026-10-05T12:17:43Z",
+  "generatedAt": "2026-10-06T12:02:29Z",
   "schemaVersion": 1,
   "scope": "ARAB_COUNTRIES",
   "source": "iptv-org",
   "summary": {
     "approvedCurrentChannels": 149,
-    "candidateChannels": 283,
-    "channelsWithAnyStream": 320,
-    "channelsWithHttpsStream": 285,
-    "channelsWithValidStream": 285,
-    "excludedBeforeCandidate": 820,
+    "candidateChannels": 284,
+    "channelsWithAnyStream": 321,
+    "channelsWithHttpsStream": 286,
+    "channelsWithValidStream": 286,
+    "excludedBeforeCandidate": 819,
     "hiddenDetailsCount": 1,
     "reasons": {
       "ADULT_REJECTED": 1,
       "APPROVED": 149,
-      "CANDIDATE_NOT_APPROVED": 134,
+      "CANDIDATE_NOT_APPROVED": 135,
       "DMCA": 35,
       "HTTP_ONLY": 34,
       "INSECURE_REFERER": 0,
       "INVALID_STREAM_METADATA": 0,
       "INVALID_USER_AGENT": 0,
       "NO_HTTPS_STREAM": 1,
-      "NO_STREAMS": 747,
+      "NO_STREAMS": 746,
       "OTHER_EXCLUDED": 0,
       "SAFETY_QUARANTINED": 0,
       "USER_BLOCKLIST": 2

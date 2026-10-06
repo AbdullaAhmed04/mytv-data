@@ -1,15 +1,15 @@
 # MYTV Arab channel audit
 
-Generated: `2026-10-05T12:17:43Z`
+Generated: `2026-10-06T12:02:29Z`
 
 This report audits Arab-country channels from IPTV-org without exposing adult or safety-quarantined channel identities or stream URLs.
 
 ## Summary
 
 - Upstream Arab channels: **1103**
-- Eligible candidate channels: **283**
+- Eligible candidate channels: **284**
 - Currently approved channels from this upstream set: **149**
-- Excluded before candidate generation: **820**
+- Excluded before candidate generation: **819**
 - Hidden safety details: **1**
 
 ## Countries
@@ -20,7 +20,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 | السعودية | 166 | 56 | 55 | 55 | 55 | 29 | 111 | 0 | 0 | 0 | 110 | 0 | 0 |
 | مصر | 117 | 16 | 13 | 13 | 13 | 12 | 104 | 0 | 0 | 3 | 101 | 0 | 0 |
 | العراق | 139 | 56 | 53 | 53 | 52 | 2 | 87 | 0 | 0 | 3 | 83 | 0 | 1 |
-| الإمارات | 140 | 37 | 35 | 35 | 35 | 20 | 105 | 1 | 0 | 2 | 97 | 5 | 0 |
+| الإمارات | 140 | 38 | 36 | 36 | 36 | 20 | 104 | 1 | 0 | 2 | 96 | 5 | 0 |
 | الكويت | 26 | 11 | 11 | 11 | 11 | 10 | 15 | 0 | 0 | 0 | 15 | 0 | 0 |
 | قطر | 86 | 16 | 16 | 16 | 16 | 15 | 70 | 0 | 0 | 0 | 40 | 30 | 0 |
 | الأردن | 62 | 19 | 13 | 13 | 13 | 11 | 49 | 0 | 0 | 6 | 43 | 0 | 0 |
@@ -322,8 +322,8 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `CANDIDATE_NOT_APPROVED` — **Al Iraqia Kurdish** (`AlIraqiaKurdish.iq`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Al Janoub TV** (`AlJanoubTV.iq`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Al Rasheed TV** (`AlRasheedTV.iq`); streams: 1, HTTPS: 1, valid: 1
-- `CANDIDATE_NOT_APPROVED` — **Al Sharqiya** (`AlSharqiya.iq`); streams: 2, HTTPS: 1, valid: 1
-- `CANDIDATE_NOT_APPROVED` — **Al Sharqiya News** (`AlSharqiyaNews.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Al Sharqiya** (`AlSharqiya.iq`); streams: 3, HTTPS: 2, valid: 2
+- `CANDIDATE_NOT_APPROVED` — **Al Sharqiya News** (`AlSharqiyaNews.iq`); streams: 2, HTTPS: 2, valid: 2
 - `CANDIDATE_NOT_APPROVED` — **Al-Aimma TV** (`AlAimmaTV.iq`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Al-Jawadain TV** (`AlJawadainTV.iq`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Alabbassia TV** (`AlabbassiaTV.iq`); streams: 1, HTTPS: 1, valid: 1
@@ -456,6 +456,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 
 - **1** item(s) are intentionally hidden because safety checks did not allow identity disclosure.
 - `CANDIDATE_NOT_APPROVED` — **Ajman TV** (`AjmanTV.ae`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Al Mashhad** (`AlMashhad.ae`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Fujairah TV** (`FujairahTV.ae`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **MBC FM** (`MBCFM.ae`); streams: 2, HTTPS: 2, valid: 2
 - `CANDIDATE_NOT_APPROVED` — **Peace TV Bangla** (`PeaceTVBangla.ae`); streams: 1, HTTPS: 1, valid: 1
@@ -489,7 +490,6 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **Ajman** (`Ajman.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Al Aan TV** (`AlAanTV.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Al Dafrah TV** (`AlDafrahTV.ae`); streams: 0, HTTPS: 0, valid: 0
-- `NO_STREAMS` — **Al Mashhad** (`AlMashhad.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Al Safwa** (`AlSafwa.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Al Yawm** (`AlYawm.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Alarabiya Portrait** (`AlarabiyaPortrait.ae`); streams: 0, HTTPS: 0, valid: 0
