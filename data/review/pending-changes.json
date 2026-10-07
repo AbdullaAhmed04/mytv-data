@@ -4665,9 +4665,9 @@
     },
     {
       "channelId": "BabyFirst.us",
-      "detectedAt": "2026-10-06T12:02:29Z",
+      "detectedAt": "2026-10-07T11:48:03Z",
       "field": "channel",
-      "id": "chg-055d4931f2122c21fcf017e4",
+      "id": "chg-7ccba0379830ebb39ff578fa",
       "new": {
         "categories": [
           "KIDS"
@@ -4742,20 +4742,6 @@
             "referer": null,
             "source": "iptv-org",
             "url": "https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8",
-            "userAgent": null
-          },
-          {
-            "geo": {
-              "allowedCountries": [],
-              "blockedCountries": [],
-              "isGeoBlocked": false,
-              "label": null
-            },
-            "priority": 3,
-            "quality": null,
-            "referer": null,
-            "source": "iptv-org",
-            "url": "https://xyktmobile00.s.gy/PPV915_BABYFIR",
             "userAgent": null
           }
         ],
@@ -10313,28 +10299,58 @@
     },
     {
       "channelId": "MBC3USA.us",
-      "detectedAt": "2026-09-05T05:25:09Z",
-      "field": "streams.geo",
-      "id": "chg-b14c60c935a8972a89fd0fa8",
+      "detectedAt": "2026-10-07T11:48:03Z",
+      "field": "streams",
+      "id": "chg-c0dafdf725be211536353bcd",
       "new": [
         {
-          "allowedCountries": [],
-          "blockedCountries": [],
-          "isGeoBlocked": false,
-          "label": null
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": "https://cdn.stmify.com/",
+          "source": "iptv-org",
+          "url": "https://sh.cdn1-stmify.workers.dev/out/v1/MBC_3_USA/index.m3u8",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
+          "userAgent": null
         }
       ],
       "old": [
         {
-          "allowedCountries": [],
-          "blockedCountries": [],
-          "isGeoBlocked": true,
-          "label": "Geo-blocked"
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": true,
+            "label": "Geo-blocked"
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
+          "userAgent": null
         }
       ],
       "requiresApproval": true,
       "status": "PENDING",
-      "type": "CHANGE_GEO"
+      "type": "CHANGE_STREAMS"
     },
     {
       "channelId": "MBCBollywood.ae",
@@ -21169,15 +21185,15 @@
       "type": "ADD_CHANNEL"
     }
   ],
-  "generatedAt": "2026-10-06T12:02:29Z",
+  "generatedAt": "2026-10-07T11:48:03Z",
   "schemaVersion": 1,
   "summary": {
     "adultRejectedCount": 377,
     "byType": {
       "ADD_CHANNEL": 322,
-      "CHANGE_GEO": 26,
+      "CHANGE_GEO": 25,
       "CHANGE_LANGUAGES": 1,
-      "CHANGE_STREAMS": 15,
+      "CHANGE_STREAMS": 16,
       "LOGO_ONLY": 2,
       "UPSTREAM_MISSING": 7
     },
