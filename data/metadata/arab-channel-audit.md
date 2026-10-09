@@ -1,6 +1,6 @@
 # MYTV Arab channel audit
 
-Generated: `2026-10-08T12:03:06Z`
+Generated: `2026-10-09T11:54:48Z`
 
 This report audits Arab-country channels from IPTV-org without exposing adult or safety-quarantined channel identities or stream URLs.
 
@@ -20,7 +20,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 | السعودية | 166 | 56 | 55 | 55 | 55 | 29 | 111 | 0 | 0 | 0 | 110 | 0 | 0 |
 | مصر | 117 | 16 | 13 | 13 | 13 | 12 | 104 | 0 | 0 | 3 | 101 | 0 | 0 |
 | العراق | 139 | 56 | 53 | 53 | 52 | 2 | 87 | 0 | 0 | 3 | 83 | 0 | 1 |
-| الإمارات | 140 | 38 | 36 | 36 | 36 | 20 | 104 | 1 | 0 | 2 | 96 | 5 | 0 |
+| الإمارات | 140 | 38 | 36 | 36 | 36 | 20 | 104 | 1 | 0 | 2 | 97 | 4 | 0 |
 | الكويت | 26 | 11 | 11 | 11 | 11 | 10 | 15 | 0 | 0 | 0 | 15 | 0 | 0 |
 | قطر | 86 | 16 | 16 | 16 | 16 | 15 | 70 | 0 | 0 | 0 | 40 | 30 | 0 |
 | الأردن | 62 | 19 | 13 | 13 | 13 | 11 | 49 | 0 | 0 | 6 | 43 | 0 | 0 |
@@ -473,7 +473,6 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `CANDIDATE_NOT_APPROVED` — **Watar Radio** (`WatarRadio.ae`); streams: 1, HTTPS: 1, valid: 1
 - `DMCA` — **Cartoon Network Arabic** (`CartoonNetworkArabic.ae`); streams: 0, HTTPS: 0, valid: 0
 - `DMCA` — **CNN Arabic** (`CNNArabic.ae`); streams: 0, HTTPS: 0, valid: 0
-- `DMCA` — **DMAX MENA** (`DMAXMENA.ae`); streams: 0, HTTPS: 0, valid: 0
 - `DMCA` — **Fatafeat** (`Fatafeat.ae`); streams: 0, HTTPS: 0, valid: 0
 - `DMCA` — **MBC Action** (`MBCAction.ae`); streams: 0, HTTPS: 0, valid: 0
 - `HTTP_ONLY` — **Dubai TV International** (`DubaiTVInternational.ae`); streams: 1, HTTPS: 0, valid: 0
@@ -505,6 +504,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **CNN Business Arabic** (`CNNBusinessArabic.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Damac Persian** (`DamacPersian.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **DKids** (`DKids.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **DMAX MENA** (`DMAXMENA.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Dubai One** (`DubaiOne.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Dubai Racing** (`DubaiRacing.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Dubai Racing 2** (`DubaiRacing2.ae`); streams: 0, HTTPS: 0, valid: 0
@@ -1036,7 +1036,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 
 ### تونس (TN)
 
-- `CANDIDATE_NOT_APPROVED` — **Jawhara TV** (`JawharaTV.tn`); streams: 2, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Jawhara TV** (`JawharaTV.tn`); streams: 1, HTTPS: 1, valid: 1
 - `NO_STREAMS` — **Al Insen TV** (`AlInsenTV.tn`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Al Janoubiya TV** (`AlJanoubiyaTV.tn`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Attessia TV** (`AttessiaTV.tn`); streams: 0, HTTPS: 0, valid: 0

@@ -3464,14 +3464,6 @@
           "validStreamCount": 0
         },
         {
-          "channelId": "DMAXMENA.ae",
-          "httpsStreamCount": 0,
-          "name": "DMAX MENA",
-          "rawStreamCount": 0,
-          "reason": "DMCA",
-          "validStreamCount": 0
-        },
-        {
           "channelId": "Fatafeat.ae",
           "httpsStreamCount": 0,
           "name": "Fatafeat",
@@ -3715,6 +3707,14 @@
           "channelId": "DKids.ae",
           "httpsStreamCount": 0,
           "name": "DKids",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "DMAXMENA.ae",
+          "httpsStreamCount": 0,
+          "name": "DMAX MENA",
           "rawStreamCount": 0,
           "reason": "NO_STREAMS",
           "validStreamCount": 0
@@ -4276,13 +4276,13 @@
         "ADULT_REJECTED": 1,
         "APPROVED": 20,
         "CANDIDATE_NOT_APPROVED": 16,
-        "DMCA": 5,
+        "DMCA": 4,
         "HTTP_ONLY": 2,
         "INSECURE_REFERER": 0,
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 0,
-        "NO_STREAMS": 96,
+        "NO_STREAMS": 97,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 0
@@ -8056,7 +8056,7 @@
           "channelId": "JawharaTV.tn",
           "httpsStreamCount": 1,
           "name": "Jawhara TV",
-          "rawStreamCount": 2,
+          "rawStreamCount": 1,
           "reason": "CANDIDATE_NOT_APPROVED",
           "validStreamCount": 1
         },
@@ -8263,7 +8263,7 @@
       "upstreamChannels": 27
     }
   ],
-  "generatedAt": "2026-10-08T12:03:06Z",
+  "generatedAt": "2026-10-09T11:54:48Z",
   "schemaVersion": 1,
   "scope": "ARAB_COUNTRIES",
   "source": "iptv-org",
@@ -8279,13 +8279,13 @@
       "ADULT_REJECTED": 1,
       "APPROVED": 149,
       "CANDIDATE_NOT_APPROVED": 135,
-      "DMCA": 35,
+      "DMCA": 34,
       "HTTP_ONLY": 34,
       "INSECURE_REFERER": 0,
       "INVALID_STREAM_METADATA": 0,
       "INVALID_USER_AGENT": 0,
       "NO_HTTPS_STREAM": 1,
-      "NO_STREAMS": 746,
+      "NO_STREAMS": 747,
       "OTHER_EXCLUDED": 0,
       "SAFETY_QUARANTINED": 0,
       "USER_BLOCKLIST": 2
