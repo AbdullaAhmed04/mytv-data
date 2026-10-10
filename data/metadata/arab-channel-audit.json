@@ -2260,19 +2260,19 @@
         },
         {
           "channelId": "AlSharqiya.iq",
-          "httpsStreamCount": 2,
+          "httpsStreamCount": 1,
           "name": "Al Sharqiya",
-          "rawStreamCount": 3,
+          "rawStreamCount": 2,
           "reason": "CANDIDATE_NOT_APPROVED",
-          "validStreamCount": 2
+          "validStreamCount": 1
         },
         {
           "channelId": "AlSharqiyaNews.iq",
-          "httpsStreamCount": 2,
+          "httpsStreamCount": 1,
           "name": "Al Sharqiya News",
-          "rawStreamCount": 2,
+          "rawStreamCount": 1,
           "reason": "CANDIDATE_NOT_APPROVED",
-          "validStreamCount": 2
+          "validStreamCount": 1
         },
         {
           "channelId": "AlAimmaTV.iq",
@@ -8043,23 +8043,15 @@
     },
     {
       "approvedCurrentChannels": 3,
-      "candidateChannels": 4,
-      "channelsWithAnyStream": 4,
-      "channelsWithHttpsStream": 4,
-      "channelsWithValidStream": 4,
+      "candidateChannels": 3,
+      "channelsWithAnyStream": 3,
+      "channelsWithHttpsStream": 3,
+      "channelsWithValidStream": 3,
       "country": "تونس",
       "countryCode": "TN",
-      "excludedBeforeCandidate": 23,
+      "excludedBeforeCandidate": 24,
       "hiddenDetailsCount": 0,
       "items": [
-        {
-          "channelId": "JawharaTV.tn",
-          "httpsStreamCount": 1,
-          "name": "Jawhara TV",
-          "rawStreamCount": 1,
-          "reason": "CANDIDATE_NOT_APPROVED",
-          "validStreamCount": 1
-        },
         {
           "channelId": "AlInsenTV.tn",
           "httpsStreamCount": 0,
@@ -8136,6 +8128,14 @@
           "channelId": "IFMTV.tn",
           "httpsStreamCount": 0,
           "name": "IFM TV",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "JawharaTV.tn",
+          "httpsStreamCount": 0,
+          "name": "Jawhara TV",
           "rawStreamCount": 0,
           "reason": "NO_STREAMS",
           "validStreamCount": 0
@@ -8248,14 +8248,14 @@
       "reasons": {
         "ADULT_REJECTED": 0,
         "APPROVED": 3,
-        "CANDIDATE_NOT_APPROVED": 1,
+        "CANDIDATE_NOT_APPROVED": 0,
         "DMCA": 0,
         "HTTP_ONLY": 0,
         "INSECURE_REFERER": 0,
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 0,
-        "NO_STREAMS": 23,
+        "NO_STREAMS": 24,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 0
@@ -8263,29 +8263,29 @@
       "upstreamChannels": 27
     }
   ],
-  "generatedAt": "2026-10-09T11:54:48Z",
+  "generatedAt": "2026-10-10T11:11:30Z",
   "schemaVersion": 1,
   "scope": "ARAB_COUNTRIES",
   "source": "iptv-org",
   "summary": {
     "approvedCurrentChannels": 149,
-    "candidateChannels": 284,
-    "channelsWithAnyStream": 321,
-    "channelsWithHttpsStream": 286,
-    "channelsWithValidStream": 286,
-    "excludedBeforeCandidate": 819,
+    "candidateChannels": 283,
+    "channelsWithAnyStream": 320,
+    "channelsWithHttpsStream": 285,
+    "channelsWithValidStream": 285,
+    "excludedBeforeCandidate": 820,
     "hiddenDetailsCount": 1,
     "reasons": {
       "ADULT_REJECTED": 1,
       "APPROVED": 149,
-      "CANDIDATE_NOT_APPROVED": 135,
+      "CANDIDATE_NOT_APPROVED": 134,
       "DMCA": 34,
       "HTTP_ONLY": 34,
       "INSECURE_REFERER": 0,
       "INVALID_STREAM_METADATA": 0,
       "INVALID_USER_AGENT": 0,
       "NO_HTTPS_STREAM": 1,
-      "NO_STREAMS": 747,
+      "NO_STREAMS": 748,
       "OTHER_EXCLUDED": 0,
       "SAFETY_QUARANTINED": 0,
       "USER_BLOCKLIST": 2

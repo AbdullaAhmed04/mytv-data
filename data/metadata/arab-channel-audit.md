@@ -1,15 +1,15 @@
 # MYTV Arab channel audit
 
-Generated: `2026-10-09T11:54:48Z`
+Generated: `2026-10-10T11:11:30Z`
 
 This report audits Arab-country channels from IPTV-org without exposing adult or safety-quarantined channel identities or stream URLs.
 
 ## Summary
 
 - Upstream Arab channels: **1103**
-- Eligible candidate channels: **284**
+- Eligible candidate channels: **283**
 - Currently approved channels from this upstream set: **149**
-- Excluded before candidate generation: **819**
+- Excluded before candidate generation: **820**
 - Hidden safety details: **1**
 
 ## Countries
@@ -37,7 +37,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 | عُمان | 6 | 5 | 5 | 5 | 5 | 5 | 1 | 0 | 0 | 0 | 1 | 0 | 0 |
 | الصومال | 25 | 7 | 4 | 4 | 4 | 0 | 21 | 0 | 0 | 3 | 18 | 0 | 0 |
 | السودان | 31 | 3 | 2 | 2 | 2 | 0 | 29 | 0 | 0 | 1 | 28 | 0 | 0 |
-| تونس | 27 | 4 | 4 | 4 | 4 | 3 | 23 | 0 | 0 | 0 | 23 | 0 | 0 |
+| تونس | 27 | 3 | 3 | 3 | 3 | 3 | 24 | 0 | 0 | 0 | 24 | 0 | 0 |
 
 ## Safe details by country
 
@@ -322,8 +322,8 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `CANDIDATE_NOT_APPROVED` — **Al Iraqia Kurdish** (`AlIraqiaKurdish.iq`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Al Janoub TV** (`AlJanoubTV.iq`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Al Rasheed TV** (`AlRasheedTV.iq`); streams: 1, HTTPS: 1, valid: 1
-- `CANDIDATE_NOT_APPROVED` — **Al Sharqiya** (`AlSharqiya.iq`); streams: 3, HTTPS: 2, valid: 2
-- `CANDIDATE_NOT_APPROVED` — **Al Sharqiya News** (`AlSharqiyaNews.iq`); streams: 2, HTTPS: 2, valid: 2
+- `CANDIDATE_NOT_APPROVED` — **Al Sharqiya** (`AlSharqiya.iq`); streams: 2, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Al Sharqiya News** (`AlSharqiyaNews.iq`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Al-Aimma TV** (`AlAimmaTV.iq`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Al-Jawadain TV** (`AlJawadainTV.iq`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Alabbassia TV** (`AlabbassiaTV.iq`); streams: 1, HTTPS: 1, valid: 1
@@ -1036,7 +1036,6 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 
 ### تونس (TN)
 
-- `CANDIDATE_NOT_APPROVED` — **Jawhara TV** (`JawharaTV.tn`); streams: 1, HTTPS: 1, valid: 1
 - `NO_STREAMS` — **Al Insen TV** (`AlInsenTV.tn`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Al Janoubiya TV** (`AlJanoubiyaTV.tn`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Attessia TV** (`AttessiaTV.tn`); streams: 0, HTTPS: 0, valid: 0
@@ -1047,6 +1046,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **Essaida TV** (`EssaidaTV.tn`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Hannibal TV** (`HannibalTV.tn`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **IFM TV** (`IFMTV.tn`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Jawhara TV** (`JawharaTV.tn`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Nefzawa TV** (`NefzawaTV.tn`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Nessma El Jadida** (`NessmaElJadida.tn`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Radio Nationale Visuelle** (`RadioNationaleVisuelle.tn`); streams: 0, HTTPS: 0, valid: 0
