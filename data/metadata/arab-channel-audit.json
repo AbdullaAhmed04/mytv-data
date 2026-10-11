@@ -2185,13 +2185,13 @@
     },
     {
       "approvedCurrentChannels": 2,
-      "candidateChannels": 52,
-      "channelsWithAnyStream": 56,
-      "channelsWithHttpsStream": 53,
-      "channelsWithValidStream": 53,
+      "candidateChannels": 53,
+      "channelsWithAnyStream": 57,
+      "channelsWithHttpsStream": 54,
+      "channelsWithValidStream": 54,
       "country": "العراق",
       "countryCode": "IQ",
-      "excludedBeforeCandidate": 87,
+      "excludedBeforeCandidate": 86,
       "hiddenDetailsCount": 0,
       "items": [
         {
@@ -2334,6 +2334,14 @@
           "channelId": "AnwarTV2.iq",
           "httpsStreamCount": 1,
           "name": "Anwar TV2",
+          "rawStreamCount": 1,
+          "reason": "CANDIDATE_NOT_APPROVED",
+          "validStreamCount": 1
+        },
+        {
+          "channelId": "AVAMedia.iq",
+          "httpsStreamCount": 1,
+          "name": "AVA Media",
           "rawStreamCount": 1,
           "reason": "CANDIDATE_NOT_APPROVED",
           "validStreamCount": 1
@@ -2835,14 +2843,6 @@
           "validStreamCount": 0
         },
         {
-          "channelId": "AVAMedia.iq",
-          "httpsStreamCount": 0,
-          "name": "AVA Media",
-          "rawStreamCount": 0,
-          "reason": "NO_STREAMS",
-          "validStreamCount": 0
-        },
-        {
           "channelId": "BabylonTV.iq",
           "httpsStreamCount": 0,
           "name": "Babylon TV",
@@ -3294,14 +3294,14 @@
       "reasons": {
         "ADULT_REJECTED": 0,
         "APPROVED": 2,
-        "CANDIDATE_NOT_APPROVED": 50,
+        "CANDIDATE_NOT_APPROVED": 51,
         "DMCA": 0,
         "HTTP_ONLY": 3,
         "INSECURE_REFERER": 0,
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 0,
-        "NO_STREAMS": 83,
+        "NO_STREAMS": 82,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 1
@@ -3446,30 +3446,6 @@
           "rawStreamCount": 1,
           "reason": "CANDIDATE_NOT_APPROVED",
           "validStreamCount": 1
-        },
-        {
-          "channelId": "CartoonNetworkArabic.ae",
-          "httpsStreamCount": 0,
-          "name": "Cartoon Network Arabic",
-          "rawStreamCount": 0,
-          "reason": "DMCA",
-          "validStreamCount": 0
-        },
-        {
-          "channelId": "CNNArabic.ae",
-          "httpsStreamCount": 0,
-          "name": "CNN Arabic",
-          "rawStreamCount": 0,
-          "reason": "DMCA",
-          "validStreamCount": 0
-        },
-        {
-          "channelId": "Fatafeat.ae",
-          "httpsStreamCount": 0,
-          "name": "Fatafeat",
-          "rawStreamCount": 0,
-          "reason": "DMCA",
-          "validStreamCount": 0
         },
         {
           "channelId": "MBCAction.ae",
@@ -3656,6 +3632,14 @@
           "validStreamCount": 0
         },
         {
+          "channelId": "CartoonNetworkArabic.ae",
+          "httpsStreamCount": 0,
+          "name": "Cartoon Network Arabic",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
           "channelId": "ChinaArabTV.ae",
           "httpsStreamCount": 0,
           "name": "China Arab TV",
@@ -3683,6 +3667,14 @@
           "channelId": "CitrussTV.ae",
           "httpsStreamCount": 0,
           "name": "Citruss TV",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "CNNArabic.ae",
+          "httpsStreamCount": 0,
+          "name": "CNN Arabic",
           "rawStreamCount": 0,
           "reason": "NO_STREAMS",
           "validStreamCount": 0
@@ -3811,6 +3803,14 @@
           "channelId": "Fann.ae",
           "httpsStreamCount": 0,
           "name": "Fann",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "Fatafeat.ae",
+          "httpsStreamCount": 0,
+          "name": "Fatafeat",
           "rawStreamCount": 0,
           "reason": "NO_STREAMS",
           "validStreamCount": 0
@@ -4276,13 +4276,13 @@
         "ADULT_REJECTED": 1,
         "APPROVED": 20,
         "CANDIDATE_NOT_APPROVED": 16,
-        "DMCA": 4,
+        "DMCA": 1,
         "HTTP_ONLY": 2,
         "INSECURE_REFERER": 0,
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 0,
-        "NO_STREAMS": 97,
+        "NO_STREAMS": 100,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 0
@@ -8263,29 +8263,29 @@
       "upstreamChannels": 27
     }
   ],
-  "generatedAt": "2026-10-10T11:11:30Z",
+  "generatedAt": "2026-10-11T11:24:49Z",
   "schemaVersion": 1,
   "scope": "ARAB_COUNTRIES",
   "source": "iptv-org",
   "summary": {
     "approvedCurrentChannels": 149,
-    "candidateChannels": 283,
-    "channelsWithAnyStream": 320,
-    "channelsWithHttpsStream": 285,
-    "channelsWithValidStream": 285,
-    "excludedBeforeCandidate": 820,
+    "candidateChannels": 284,
+    "channelsWithAnyStream": 321,
+    "channelsWithHttpsStream": 286,
+    "channelsWithValidStream": 286,
+    "excludedBeforeCandidate": 819,
     "hiddenDetailsCount": 1,
     "reasons": {
       "ADULT_REJECTED": 1,
       "APPROVED": 149,
-      "CANDIDATE_NOT_APPROVED": 134,
-      "DMCA": 34,
+      "CANDIDATE_NOT_APPROVED": 135,
+      "DMCA": 31,
       "HTTP_ONLY": 34,
       "INSECURE_REFERER": 0,
       "INVALID_STREAM_METADATA": 0,
       "INVALID_USER_AGENT": 0,
       "NO_HTTPS_STREAM": 1,
-      "NO_STREAMS": 748,
+      "NO_STREAMS": 750,
       "OTHER_EXCLUDED": 0,
       "SAFETY_QUARANTINED": 0,
       "USER_BLOCKLIST": 2
