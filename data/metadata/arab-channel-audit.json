@@ -4466,102 +4466,6 @@
           "validStreamCount": 4
         },
         {
-          "channelId": "beINSports.qa",
-          "httpsStreamCount": 0,
-          "name": "beIN Sports",
-          "rawStreamCount": 0,
-          "reason": "DMCA",
-          "validStreamCount": 0
-        },
-        {
-          "channelId": "beINSports1.qa",
-          "httpsStreamCount": 0,
-          "name": "beIN Sports 1",
-          "rawStreamCount": 0,
-          "reason": "DMCA",
-          "validStreamCount": 0
-        },
-        {
-          "channelId": "beINSports2.qa",
-          "httpsStreamCount": 0,
-          "name": "beIN Sports 2",
-          "rawStreamCount": 0,
-          "reason": "DMCA",
-          "validStreamCount": 0
-        },
-        {
-          "channelId": "beINSports3.qa",
-          "httpsStreamCount": 0,
-          "name": "beIN Sports 3",
-          "rawStreamCount": 0,
-          "reason": "DMCA",
-          "validStreamCount": 0
-        },
-        {
-          "channelId": "beINSports4.qa",
-          "httpsStreamCount": 0,
-          "name": "beIN Sports 4",
-          "rawStreamCount": 0,
-          "reason": "DMCA",
-          "validStreamCount": 0
-        },
-        {
-          "channelId": "beINSports5.qa",
-          "httpsStreamCount": 0,
-          "name": "beIN Sports 5",
-          "rawStreamCount": 0,
-          "reason": "DMCA",
-          "validStreamCount": 0
-        },
-        {
-          "channelId": "beINSports6.qa",
-          "httpsStreamCount": 0,
-          "name": "beIN Sports 6",
-          "rawStreamCount": 0,
-          "reason": "DMCA",
-          "validStreamCount": 0
-        },
-        {
-          "channelId": "beINSports7.qa",
-          "httpsStreamCount": 0,
-          "name": "beIN Sports 7",
-          "rawStreamCount": 0,
-          "reason": "DMCA",
-          "validStreamCount": 0
-        },
-        {
-          "channelId": "beINSports8.qa",
-          "httpsStreamCount": 0,
-          "name": "beIN Sports 8",
-          "rawStreamCount": 0,
-          "reason": "DMCA",
-          "validStreamCount": 0
-        },
-        {
-          "channelId": "beINSportsEnglish1.qa",
-          "httpsStreamCount": 0,
-          "name": "beIN Sports English 1",
-          "rawStreamCount": 0,
-          "reason": "DMCA",
-          "validStreamCount": 0
-        },
-        {
-          "channelId": "beINSportsEnglish2.qa",
-          "httpsStreamCount": 0,
-          "name": "beIN Sports English 2",
-          "rawStreamCount": 0,
-          "reason": "DMCA",
-          "validStreamCount": 0
-        },
-        {
-          "channelId": "beINSportsEnglish3.qa",
-          "httpsStreamCount": 0,
-          "name": "beIN Sports English 3",
-          "rawStreamCount": 0,
-          "reason": "DMCA",
-          "validStreamCount": 0
-        },
-        {
           "channelId": "beINSportsFrench1.qa",
           "httpsStreamCount": 0,
           "name": "beIN Sports French 1",
@@ -4922,9 +4826,81 @@
           "validStreamCount": 0
         },
         {
+          "channelId": "beINSports.qa",
+          "httpsStreamCount": 0,
+          "name": "beIN Sports",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "beINSports1.qa",
+          "httpsStreamCount": 0,
+          "name": "beIN Sports 1",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "beINSports2.qa",
+          "httpsStreamCount": 0,
+          "name": "beIN Sports 2",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "beINSports3.qa",
+          "httpsStreamCount": 0,
+          "name": "beIN Sports 3",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "beINSports4.qa",
+          "httpsStreamCount": 0,
+          "name": "beIN Sports 4",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
           "channelId": "beINSports4KHDR.qa",
           "httpsStreamCount": 0,
           "name": "beIN Sports 4K HDR",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "beINSports5.qa",
+          "httpsStreamCount": 0,
+          "name": "beIN Sports 5",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "beINSports6.qa",
+          "httpsStreamCount": 0,
+          "name": "beIN Sports 6",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "beINSports7.qa",
+          "httpsStreamCount": 0,
+          "name": "beIN Sports 7",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "beINSports8.qa",
+          "httpsStreamCount": 0,
+          "name": "beIN Sports 8",
           "rawStreamCount": 0,
           "reason": "NO_STREAMS",
           "validStreamCount": 0
@@ -4965,6 +4941,30 @@
           "channelId": "beINSportsenEspanol.qa",
           "httpsStreamCount": 0,
           "name": "beIN Sports en Espanol",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "beINSportsEnglish1.qa",
+          "httpsStreamCount": 0,
+          "name": "beIN Sports English 1",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "beINSportsEnglish2.qa",
+          "httpsStreamCount": 0,
+          "name": "beIN Sports English 2",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "beINSportsEnglish3.qa",
+          "httpsStreamCount": 0,
+          "name": "beIN Sports English 3",
           "rawStreamCount": 0,
           "reason": "NO_STREAMS",
           "validStreamCount": 0
@@ -5030,13 +5030,13 @@
         "ADULT_REJECTED": 0,
         "APPROVED": 15,
         "CANDIDATE_NOT_APPROVED": 1,
-        "DMCA": 30,
+        "DMCA": 18,
         "HTTP_ONLY": 0,
         "INSECURE_REFERER": 0,
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 0,
-        "NO_STREAMS": 40,
+        "NO_STREAMS": 52,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 0
@@ -8263,7 +8263,7 @@
       "upstreamChannels": 27
     }
   ],
-  "generatedAt": "2026-10-12T13:11:21Z",
+  "generatedAt": "2026-10-13T12:43:27Z",
   "schemaVersion": 1,
   "scope": "ARAB_COUNTRIES",
   "source": "iptv-org",
@@ -8279,13 +8279,13 @@
       "ADULT_REJECTED": 1,
       "APPROVED": 149,
       "CANDIDATE_NOT_APPROVED": 135,
-      "DMCA": 31,
+      "DMCA": 19,
       "HTTP_ONLY": 34,
       "INSECURE_REFERER": 0,
       "INVALID_STREAM_METADATA": 0,
       "INVALID_USER_AGENT": 0,
       "NO_HTTPS_STREAM": 1,
-      "NO_STREAMS": 750,
+      "NO_STREAMS": 762,
       "OTHER_EXCLUDED": 0,
       "SAFETY_QUARANTINED": 0,
       "USER_BLOCKLIST": 2
