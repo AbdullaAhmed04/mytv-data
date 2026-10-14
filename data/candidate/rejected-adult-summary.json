@@ -1,6 +1,6 @@
 {
-  "adultRejectedCount": 378,
-  "generatedAt": "2026-10-13T12:43:27Z",
+  "adultRejectedCount": 377,
+  "generatedAt": "2026-10-14T10:14:36Z",
   "items": [
     {
       "channelId": "21Sextury.us",
@@ -164,10 +164,6 @@
     },
     {
       "channelId": "AdultIPTVnetWoman.us",
-      "reason": "IPTV-org is_nsfw=true"
-    },
-    {
-      "channelId": "AdultSwim.fr",
       "reason": "IPTV-org is_nsfw=true"
     },
     {

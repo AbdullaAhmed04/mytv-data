@@ -21162,10 +21162,10 @@
       "type": "ADD_CHANNEL"
     }
   ],
-  "generatedAt": "2026-10-13T12:43:27Z",
+  "generatedAt": "2026-10-14T10:14:36Z",
   "schemaVersion": 1,
   "summary": {
-    "adultRejectedCount": 378,
+    "adultRejectedCount": 377,
     "byType": {
       "ADD_CHANNEL": 323,
       "CHANGE_GEO": 27,
