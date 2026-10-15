@@ -1,6 +1,6 @@
 # MYTV Arab channel audit
 
-Generated: `2026-10-14T10:14:36Z`
+Generated: `2026-10-15T09:56:32Z`
 
 This report audits Arab-country channels from IPTV-org without exposing adult or safety-quarantined channel identities or stream URLs.
 
@@ -22,7 +22,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 | العراق | 139 | 57 | 54 | 54 | 53 | 2 | 86 | 0 | 0 | 3 | 82 | 0 | 1 |
 | الإمارات | 140 | 38 | 36 | 36 | 36 | 20 | 104 | 1 | 0 | 2 | 100 | 1 | 0 |
 | الكويت | 26 | 11 | 11 | 11 | 11 | 10 | 15 | 0 | 0 | 0 | 15 | 0 | 0 |
-| قطر | 86 | 16 | 16 | 16 | 16 | 15 | 70 | 0 | 0 | 0 | 52 | 18 | 0 |
+| قطر | 86 | 16 | 16 | 16 | 16 | 15 | 70 | 0 | 0 | 0 | 55 | 15 | 0 |
 | الأردن | 62 | 19 | 13 | 13 | 13 | 11 | 49 | 0 | 0 | 6 | 43 | 0 | 0 |
 | لبنان | 49 | 31 | 26 | 26 | 26 | 14 | 23 | 0 | 0 | 5 | 18 | 0 | 0 |
 | سوريا | 30 | 10 | 8 | 8 | 8 | 8 | 22 | 0 | 0 | 2 | 20 | 0 | 0 |
@@ -600,9 +600,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `DMCA` — **beIN Sports French 1** (`beINSportsFrench1.qa`); streams: 0, HTTPS: 0, valid: 0
 - `DMCA` — **beIN Sports French 2** (`beINSportsFrench2.qa`); streams: 0, HTTPS: 0, valid: 0
 - `DMCA` — **beIN Sports French 3** (`beINSportsFrench3.qa`); streams: 0, HTTPS: 0, valid: 0
-- `DMCA` — **beIN Sports Max 1** (`beINSportsMax1.qa`); streams: 0, HTTPS: 0, valid: 0
 - `DMCA` — **beIN Sports Max 10** (`beINSportsMax10.qa`); streams: 0, HTTPS: 0, valid: 0
-- `DMCA` — **beIN Sports Max 2** (`beINSportsMax2.qa`); streams: 0, HTTPS: 0, valid: 0
 - `DMCA` — **beIN Sports Max 3** (`beINSportsMax3.qa`); streams: 0, HTTPS: 0, valid: 0
 - `DMCA` — **beIN Sports Max 4** (`beINSportsMax4.qa`); streams: 0, HTTPS: 0, valid: 0
 - `DMCA` — **beIN Sports Max 5** (`beINSportsMax5.qa`); streams: 0, HTTPS: 0, valid: 0
@@ -613,7 +611,6 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `DMCA` — **beIN Sports Premium 1** (`beINSportsPremium1.qa`); streams: 0, HTTPS: 0, valid: 0
 - `DMCA` — **beIN Sports Premium 2** (`beINSportsPremium2.qa`); streams: 0, HTTPS: 0, valid: 0
 - `DMCA` — **beIN Sports Premium 3** (`beINSportsPremium3.qa`); streams: 0, HTTPS: 0, valid: 0
-- `DMCA` — **beIN Sports Xtra 1** (`beINSportsXtra1.qa`); streams: 0, HTTPS: 0, valid: 0
 - `DMCA` — **beIN Sports Xtra 2** (`beINSportsXtra2.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Al Rassoul** (`AlRassoul.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Alkass Eight** (`AlkassEight.qa`); streams: 0, HTTPS: 0, valid: 0
@@ -660,8 +657,11 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **beIN Sports English 1** (`beINSportsEnglish1.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **beIN Sports English 2** (`beINSportsEnglish2.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **beIN Sports English 3** (`beINSportsEnglish3.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **beIN Sports Max 1** (`beINSportsMax1.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **beIN Sports Max 2** (`beINSportsMax2.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **beIN Sports NBA** (`beINSportsNBA.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **beIN Sports News** (`beINSportsNews.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **beIN Sports Xtra 1** (`beINSportsXtra1.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Dohat Alquran TV** (`DohatAlquranTV.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **JeemTV** (`JeemTV.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Qatar Today 1** (`QatarToday1.qa`); streams: 0, HTTPS: 0, valid: 0
