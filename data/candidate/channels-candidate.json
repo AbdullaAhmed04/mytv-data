@@ -22764,7 +22764,7 @@
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8",
+          "url": "https://freem3u.xyz/api/live/play.m3u8?vid=10007",
           "userAgent": null
         },
         {
@@ -22778,7 +22778,7 @@
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8",
+          "url": "https://freem3u.xyz/api/live/play.m3u8?vid=96",
           "userAgent": null
         },
         {
@@ -22792,7 +22792,7 @@
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8",
+          "url": "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8",
           "userAgent": null
         },
         {
@@ -22806,7 +22806,7 @@
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8",
+          "url": "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8",
           "userAgent": null
         },
         {
@@ -22820,7 +22820,7 @@
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8",
+          "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8",
           "userAgent": null
         },
         {
@@ -22834,7 +22834,7 @@
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8",
+          "url": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8",
           "userAgent": null
         }
       ],
@@ -23897,7 +23897,7 @@
     "SD",
     "TN"
   ],
-  "generatedAt": "2026-10-16T09:51:39Z",
+  "generatedAt": "2026-10-17T09:23:03Z",
   "schemaVersion": 1,
   "version": 10
 }

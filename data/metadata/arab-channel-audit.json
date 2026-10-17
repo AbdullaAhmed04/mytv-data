@@ -4449,12 +4449,12 @@
     {
       "approvedCurrentChannels": 15,
       "candidateChannels": 16,
-      "channelsWithAnyStream": 16,
+      "channelsWithAnyStream": 24,
       "channelsWithHttpsStream": 16,
       "channelsWithValidStream": 16,
       "country": "قطر",
       "countryCode": "QA",
-      "excludedBeforeCandidate": 70,
+      "excludedBeforeCandidate": 71,
       "hiddenDetailsCount": 0,
       "items": [
         {
@@ -4583,6 +4583,70 @@
           "name": "beIN Sports Xtra 2",
           "rawStreamCount": 0,
           "reason": "DMCA",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "beINSports1.qa",
+          "httpsStreamCount": 0,
+          "name": "beIN Sports 1",
+          "rawStreamCount": 1,
+          "reason": "HTTP_ONLY",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "beINSports2.qa",
+          "httpsStreamCount": 0,
+          "name": "beIN Sports 2",
+          "rawStreamCount": 1,
+          "reason": "HTTP_ONLY",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "beINSports3.qa",
+          "httpsStreamCount": 0,
+          "name": "beIN Sports 3",
+          "rawStreamCount": 1,
+          "reason": "HTTP_ONLY",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "beINSports4.qa",
+          "httpsStreamCount": 0,
+          "name": "beIN Sports 4",
+          "rawStreamCount": 1,
+          "reason": "HTTP_ONLY",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "beINSports5.qa",
+          "httpsStreamCount": 0,
+          "name": "beIN Sports 5",
+          "rawStreamCount": 1,
+          "reason": "HTTP_ONLY",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "beINSports6.qa",
+          "httpsStreamCount": 0,
+          "name": "beIN Sports 6",
+          "rawStreamCount": 1,
+          "reason": "HTTP_ONLY",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "beINSports7.qa",
+          "httpsStreamCount": 0,
+          "name": "beIN Sports 7",
+          "rawStreamCount": 1,
+          "reason": "HTTP_ONLY",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "beINSports8.qa",
+          "httpsStreamCount": 0,
+          "name": "beIN Sports 8",
+          "rawStreamCount": 1,
+          "reason": "HTTP_ONLY",
           "validStreamCount": 0
         },
         {
@@ -4810,38 +4874,6 @@
           "validStreamCount": 0
         },
         {
-          "channelId": "beINSports1.qa",
-          "httpsStreamCount": 0,
-          "name": "beIN Sports 1",
-          "rawStreamCount": 0,
-          "reason": "NO_STREAMS",
-          "validStreamCount": 0
-        },
-        {
-          "channelId": "beINSports2.qa",
-          "httpsStreamCount": 0,
-          "name": "beIN Sports 2",
-          "rawStreamCount": 0,
-          "reason": "NO_STREAMS",
-          "validStreamCount": 0
-        },
-        {
-          "channelId": "beINSports3.qa",
-          "httpsStreamCount": 0,
-          "name": "beIN Sports 3",
-          "rawStreamCount": 0,
-          "reason": "NO_STREAMS",
-          "validStreamCount": 0
-        },
-        {
-          "channelId": "beINSports4.qa",
-          "httpsStreamCount": 0,
-          "name": "beIN Sports 4",
-          "rawStreamCount": 0,
-          "reason": "NO_STREAMS",
-          "validStreamCount": 0
-        },
-        {
           "channelId": "beINSports4KHDR.qa",
           "httpsStreamCount": 0,
           "name": "beIN Sports 4K HDR",
@@ -4850,33 +4882,9 @@
           "validStreamCount": 0
         },
         {
-          "channelId": "beINSports5.qa",
+          "channelId": "beINSports9.qa",
           "httpsStreamCount": 0,
-          "name": "beIN Sports 5",
-          "rawStreamCount": 0,
-          "reason": "NO_STREAMS",
-          "validStreamCount": 0
-        },
-        {
-          "channelId": "beINSports6.qa",
-          "httpsStreamCount": 0,
-          "name": "beIN Sports 6",
-          "rawStreamCount": 0,
-          "reason": "NO_STREAMS",
-          "validStreamCount": 0
-        },
-        {
-          "channelId": "beINSports7.qa",
-          "httpsStreamCount": 0,
-          "name": "beIN Sports 7",
-          "rawStreamCount": 0,
-          "reason": "NO_STREAMS",
-          "validStreamCount": 0
-        },
-        {
-          "channelId": "beINSports8.qa",
-          "httpsStreamCount": 0,
-          "name": "beIN Sports 8",
+          "name": "beIN Sports 9",
           "rawStreamCount": 0,
           "reason": "NO_STREAMS",
           "validStreamCount": 0
@@ -5031,17 +5039,17 @@
         "APPROVED": 15,
         "CANDIDATE_NOT_APPROVED": 1,
         "DMCA": 15,
-        "HTTP_ONLY": 0,
+        "HTTP_ONLY": 8,
         "INSECURE_REFERER": 0,
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 0,
-        "NO_STREAMS": 55,
+        "NO_STREAMS": 48,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 0
       },
-      "upstreamChannels": 86
+      "upstreamChannels": 87
     },
     {
       "approvedCurrentChannels": 11,
@@ -8263,33 +8271,33 @@
       "upstreamChannels": 27
     }
   ],
-  "generatedAt": "2026-10-16T09:51:39Z",
+  "generatedAt": "2026-10-17T09:23:03Z",
   "schemaVersion": 1,
   "scope": "ARAB_COUNTRIES",
   "source": "iptv-org",
   "summary": {
     "approvedCurrentChannels": 149,
     "candidateChannels": 284,
-    "channelsWithAnyStream": 321,
+    "channelsWithAnyStream": 329,
     "channelsWithHttpsStream": 286,
     "channelsWithValidStream": 286,
-    "excludedBeforeCandidate": 819,
+    "excludedBeforeCandidate": 820,
     "hiddenDetailsCount": 1,
     "reasons": {
       "ADULT_REJECTED": 1,
       "APPROVED": 149,
       "CANDIDATE_NOT_APPROVED": 135,
       "DMCA": 16,
-      "HTTP_ONLY": 34,
+      "HTTP_ONLY": 42,
       "INSECURE_REFERER": 0,
       "INVALID_STREAM_METADATA": 0,
       "INVALID_USER_AGENT": 0,
       "NO_HTTPS_STREAM": 1,
-      "NO_STREAMS": 765,
+      "NO_STREAMS": 758,
       "OTHER_EXCLUDED": 0,
       "SAFETY_QUARANTINED": 0,
       "USER_BLOCKLIST": 2
     },
-    "upstreamChannels": 1103
+    "upstreamChannels": 1104
   }
 }
