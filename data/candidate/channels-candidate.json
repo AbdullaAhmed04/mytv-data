@@ -15120,6 +15120,20 @@
           "source": "iptv-org",
           "url": "https://tvsen6.aynaott.com/cnn/index.m3u8",
           "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": null,
+          "referer": "https://usnewson.com",
+          "source": "iptv-org",
+          "url": "https://p13.usnlive.com/stream/cnn.m3u8",
+          "userAgent": null
         }
       ],
       "upstreamId": "CNN.us",
@@ -15857,6 +15871,20 @@
           "referer": null,
           "source": "iptv-org",
           "url": "https://tvsen6.aynaott.com/foxnews/index.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": null,
+          "referer": "https://usnewson.com/",
+          "source": "iptv-org",
+          "url": "https://p14.usnlive.com/stream/foxnews.m3u8",
           "userAgent": null
         }
       ],
@@ -17034,6 +17062,20 @@
             "label": null
           },
           "priority": 0,
+          "quality": null,
+          "referer": "https://usnewson.com/",
+          "source": "iptv-org",
+          "url": "https://p13.usnlive.com/stream/msnbc.m3u8",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0"
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
           "quality": "432p",
           "referer": null,
           "source": "iptv-org",
@@ -18907,6 +18949,20 @@
           "source": "iptv-org",
           "url": "https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8",
           "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": null,
+          "referer": "https://usnewson.com/",
+          "source": "iptv-org",
+          "url": "https://p14.usnlive.com/stream/oann.m3u8",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0"
         }
       ],
       "upstreamId": "OneAmericaNewsNetwork.us",
@@ -23897,7 +23953,7 @@
     "SD",
     "TN"
   ],
-  "generatedAt": "2026-10-17T09:23:03Z",
+  "generatedAt": "2026-10-18T09:38:49Z",
   "schemaVersion": 1,
   "version": 10
 }

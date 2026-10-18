@@ -6374,9 +6374,9 @@
     },
     {
       "channelId": "CNN.us",
-      "detectedAt": "2026-10-13T12:43:27Z",
+      "detectedAt": "2026-10-18T09:38:49Z",
       "field": "channel",
-      "id": "chg-9515910afb8c0164f136b309",
+      "id": "chg-e24ae10f9fb22901b98b73d0",
       "new": {
         "categories": [
           "NEWS"
@@ -6409,6 +6409,20 @@
             "referer": null,
             "source": "iptv-org",
             "url": "https://tvsen6.aynaott.com/cnn/index.m3u8",
+            "userAgent": null
+          },
+          {
+            "geo": {
+              "allowedCountries": [],
+              "blockedCountries": [],
+              "isGeoBlocked": false,
+              "label": null
+            },
+            "priority": 1,
+            "quality": null,
+            "referer": "https://usnewson.com",
+            "source": "iptv-org",
+            "url": "https://p13.usnlive.com/stream/cnn.m3u8",
             "userAgent": null
           }
         ],
@@ -8101,9 +8115,9 @@
     },
     {
       "channelId": "FoxNewsChannel.us",
-      "detectedAt": "2026-10-13T12:43:27Z",
+      "detectedAt": "2026-10-18T09:38:49Z",
       "field": "channel",
-      "id": "chg-ef2e149160e84854dbf3d348",
+      "id": "chg-d772c0d65b9236a08f1c6ca1",
       "new": {
         "categories": [
           "NEWS"
@@ -8136,6 +8150,20 @@
             "referer": null,
             "source": "iptv-org",
             "url": "https://tvsen6.aynaott.com/foxnews/index.m3u8",
+            "userAgent": null
+          },
+          {
+            "geo": {
+              "allowedCountries": [],
+              "blockedCountries": [],
+              "isGeoBlocked": false,
+              "label": null
+            },
+            "priority": 1,
+            "quality": null,
+            "referer": "https://usnewson.com/",
+            "source": "iptv-org",
+            "url": "https://p14.usnlive.com/stream/foxnews.m3u8",
             "userAgent": null
           }
         ],
@@ -10610,9 +10638,9 @@
     },
     {
       "channelId": "MSNOW.us",
-      "detectedAt": "2026-10-15T09:56:32Z",
+      "detectedAt": "2026-10-18T09:38:49Z",
       "field": "channel",
-      "id": "chg-b02de307aa59a177d1973519",
+      "id": "chg-b47f841531de5216121f3d85",
       "new": {
         "categories": [
           "NEWS"
@@ -10641,6 +10669,20 @@
               "label": null
             },
             "priority": 0,
+            "quality": null,
+            "referer": "https://usnewson.com/",
+            "source": "iptv-org",
+            "url": "https://p13.usnlive.com/stream/msnbc.m3u8",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0"
+          },
+          {
+            "geo": {
+              "allowedCountries": [],
+              "blockedCountries": [],
+              "isGeoBlocked": false,
+              "label": null
+            },
+            "priority": 1,
             "quality": "432p",
             "referer": null,
             "source": "iptv-org",
@@ -14082,9 +14124,9 @@
     },
     {
       "channelId": "OneAmericaNewsNetwork.us",
-      "detectedAt": "2026-10-15T09:56:32Z",
+      "detectedAt": "2026-10-18T09:38:49Z",
       "field": "channel",
-      "id": "chg-70228c5b6e27915111182b6f",
+      "id": "chg-9ef6895724417e92d9869b86",
       "new": {
         "categories": [
           "NEWS"
@@ -14118,6 +14160,20 @@
             "source": "iptv-org",
             "url": "https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8",
             "userAgent": null
+          },
+          {
+            "geo": {
+              "allowedCountries": [],
+              "blockedCountries": [],
+              "isGeoBlocked": false,
+              "label": null
+            },
+            "priority": 1,
+            "quality": null,
+            "referer": "https://usnewson.com/",
+            "source": "iptv-org",
+            "url": "https://p14.usnlive.com/stream/oann.m3u8",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0"
           }
         ],
         "upstreamId": "OneAmericaNewsNetwork.us",
@@ -21320,7 +21376,7 @@
       "type": "ADD_CHANNEL"
     }
   ],
-  "generatedAt": "2026-10-17T09:23:03Z",
+  "generatedAt": "2026-10-18T09:38:49Z",
   "schemaVersion": 1,
   "summary": {
     "adultRejectedCount": 377,
