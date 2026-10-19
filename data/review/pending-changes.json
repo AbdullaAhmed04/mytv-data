@@ -1359,54 +1359,6 @@
       "type": "ADD_CHANNEL"
     },
     {
-      "channelId": "AlAlam.ir",
-      "detectedAt": "2026-10-16T09:51:39Z",
-      "field": "channel",
-      "id": "chg-5249cdea9873e9e92a1cba05",
-      "new": {
-        "categories": [
-          "NEWS"
-        ],
-        "country": "Iran",
-        "countryCode": "IR",
-        "description": null,
-        "enabled": true,
-        "id": "AlAlam.ir",
-        "languages": [
-          "ara"
-        ],
-        "logo": "https://i.imgur.com/Zdi31dy.png",
-        "name": "Al Alam",
-        "order": 472,
-        "safety": {
-          "isNsfw": false,
-          "reviewed": true
-        },
-        "streams": [
-          {
-            "geo": {
-              "allowedCountries": [],
-              "blockedCountries": [],
-              "isGeoBlocked": false,
-              "label": null
-            },
-            "priority": 0,
-            "quality": "360p",
-            "referer": null,
-            "source": "iptv-org",
-            "url": "https://live2.alalam.ir/alalam.m3u8",
-            "userAgent": null
-          }
-        ],
-        "upstreamId": "AlAlam.ir",
-        "website": "https://www.alalam.ir/"
-      },
-      "old": null,
-      "requiresApproval": true,
-      "status": "PENDING",
-      "type": "ADD_CHANNEL"
-    },
-    {
       "channelId": "AlAlamAlYawm.sa",
       "detectedAt": "2026-09-03T05:45:32Z",
       "field": "channel",
@@ -2460,9 +2412,9 @@
     },
     {
       "channelId": "AlRafidainTV.tr",
-      "detectedAt": "2026-10-16T09:51:39Z",
+      "detectedAt": "2026-10-19T10:47:28Z",
       "field": "channel",
-      "id": "chg-c6ef456a798d426d75f93417",
+      "id": "chg-674594a393998384da14d9ca",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -2477,7 +2429,7 @@
         ],
         "logo": "https://i.imgur.com/rjXDCN5.png",
         "name": "Al-Rafidain TV",
-        "order": 474,
+        "order": 473,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -2831,9 +2783,9 @@
     },
     {
       "channelId": "AlWilayah.ir",
-      "detectedAt": "2026-10-16T09:51:39Z",
+      "detectedAt": "2026-10-19T10:47:28Z",
       "field": "channel",
-      "id": "chg-f38cdbe78f5f8f19b21400fa",
+      "id": "chg-df49868866380a6c6c1b05e9",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -2848,7 +2800,7 @@
         ],
         "logo": "https://i.imgur.com/OI1HQv5.png",
         "name": "Al Wilayah",
-        "order": 473,
+        "order": 472,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -3567,9 +3519,9 @@
     },
     {
       "channelId": "AlmahriahTV.tr",
-      "detectedAt": "2026-10-16T09:51:39Z",
+      "detectedAt": "2026-10-19T10:47:28Z",
       "field": "channel",
-      "id": "chg-88420deb4e43e11c192bbf29",
+      "id": "chg-b84a33ea4205d0fec01afb7a",
       "new": {
         "categories": [
           "NEWS"
@@ -3584,7 +3536,7 @@
         ],
         "logo": "https://i.imgur.com/GgEeTNr.png",
         "name": "Almahriah TV",
-        "order": 475,
+        "order": 474,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -4049,9 +4001,9 @@
     },
     {
       "channelId": "AsilTV.ir",
-      "detectedAt": "2026-10-16T09:51:39Z",
+      "detectedAt": "2026-10-19T10:47:28Z",
       "field": "channel",
-      "id": "chg-4f9b0d8a9bf9503c59b7644a",
+      "id": "chg-b20559989e2b99cae97589dc",
       "new": {
         "categories": [
           "OTHER"
@@ -4066,7 +4018,7 @@
         ],
         "logo": "https://i.imgur.com/gROQqFD.png",
         "name": "Asil TV",
-        "order": 476,
+        "order": 475,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -4097,9 +4049,9 @@
     },
     {
       "channelId": "AssiratTV.ir",
-      "detectedAt": "2026-10-16T09:51:39Z",
+      "detectedAt": "2026-10-19T10:47:28Z",
       "field": "channel",
-      "id": "chg-fd7e419884cbec8243c628b0",
+      "id": "chg-8714a4839b35429e134f8c1c",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -4114,7 +4066,7 @@
         ],
         "logo": "https://i.imgur.com/ps4Gtj0.png",
         "name": "Assirat TV",
-        "order": 477,
+        "order": 476,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -6172,9 +6124,9 @@
     },
     {
       "channelId": "CGTNArabic.cn",
-      "detectedAt": "2026-10-16T09:51:39Z",
+      "detectedAt": "2026-10-19T10:47:28Z",
       "field": "channel",
-      "id": "chg-d647022670e8327c18539760",
+      "id": "chg-710c69dbc0a06eb54c657168",
       "new": {
         "categories": [
           "NEWS"
@@ -6189,7 +6141,7 @@
         ],
         "logo": "https://i.imgur.com/AkFFrS7.png",
         "name": "CGTN Arabic",
-        "order": 478,
+        "order": 477,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -6436,9 +6388,9 @@
     },
     {
       "channelId": "CNNInternational.us",
-      "detectedAt": "2026-10-12T13:11:21Z",
+      "detectedAt": "2026-10-19T10:47:28Z",
       "field": "channel",
-      "id": "chg-9181dfe73206364d52a53aa2",
+      "id": "chg-aa1f5412033f9f73bbf4008a",
       "new": {
         "categories": [
           "NEWS"
@@ -6453,7 +6405,7 @@
           "kor",
           "spa"
         ],
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/CNN.png",
+        "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/960px-CNN-International-Logo.svg.png",
         "name": "CNN International",
         "order": 347,
         "safety": {
@@ -6823,9 +6775,9 @@
     },
     {
       "channelId": "DW.de",
-      "detectedAt": "2026-10-16T09:51:39Z",
+      "detectedAt": "2026-10-19T10:47:28Z",
       "field": "channel",
-      "id": "chg-e8927ffb62c0c96e67ed834c",
+      "id": "chg-be77fe2ac655f5148941f1e3",
       "new": {
         "categories": [
           "NEWS"
@@ -6844,7 +6796,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/960px-Deutsche_Welle_symbol_2012.svg.png",
         "name": "DW",
-        "order": 479,
+        "order": 478,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -7279,9 +7231,9 @@
     },
     {
       "channelId": "ERiTV1.er",
-      "detectedAt": "2026-10-16T09:51:39Z",
+      "detectedAt": "2026-10-19T10:47:28Z",
       "field": "channel",
-      "id": "chg-b0a7861ba9889c6d5763971a",
+      "id": "chg-a556892280cfc483dd0a91c8",
       "new": {
         "categories": [
           "GENERAL"
@@ -7299,7 +7251,7 @@
         ],
         "logo": "https://i.imgur.com/bTR0Huw.png",
         "name": "ERi-TV 1",
-        "order": 481,
+        "order": 480,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -7378,9 +7330,9 @@
     },
     {
       "channelId": "ElsharqTV.tr",
-      "detectedAt": "2026-10-16T09:51:39Z",
+      "detectedAt": "2026-10-19T10:47:28Z",
       "field": "channel",
-      "id": "chg-c011c5bc6e765f2b88af4233",
+      "id": "chg-a8e437d97959538c26ef48cf",
       "new": {
         "categories": [
           "GENERAL"
@@ -7395,7 +7347,7 @@
         ],
         "logo": "https://i.imgur.com/8vmfZb5.png",
         "name": "Elsharq TV",
-        "order": 480,
+        "order": 479,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -8321,9 +8273,9 @@
     },
     {
       "channelId": "France24.fr",
-      "detectedAt": "2026-10-17T09:23:03Z",
+      "detectedAt": "2026-10-19T10:47:28Z",
       "field": "channel",
-      "id": "chg-960cea39cd4af873a81c01bd",
+      "id": "chg-7883e50455e844058f605e8e",
       "new": {
         "categories": [
           "NEWS"
@@ -8341,7 +8293,7 @@
         ],
         "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/France%2024.png",
         "name": "France 24",
-        "order": 482,
+        "order": 481,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -8691,9 +8643,9 @@
     },
     {
       "channelId": "GodStandsKidsClubTV.pk",
-      "detectedAt": "2026-10-16T09:51:39Z",
+      "detectedAt": "2026-10-19T10:47:28Z",
       "field": "channel",
-      "id": "chg-296be4e2bfaafef6a67c7ee6",
+      "id": "chg-7cd1b4006ffc68e75cb26bc3",
       "new": {
         "categories": [
           "KIDS",
@@ -8712,7 +8664,7 @@
         ],
         "logo": "https://i.imgur.com/FxDBbpz.jpeg",
         "name": "God Stands Kids Club TV",
-        "order": 483,
+        "order": 482,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -8785,9 +8737,9 @@
     },
     {
       "channelId": "GodStandsTV.pk",
-      "detectedAt": "2026-10-16T09:51:39Z",
+      "detectedAt": "2026-10-19T10:47:28Z",
       "field": "channel",
-      "id": "chg-015acf88d241d7c31834ac70",
+      "id": "chg-b7d29bd3553000ff5ef05920",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -8808,7 +8760,7 @@
         ],
         "logo": "https://i.imgur.com/EO6cYUI.png",
         "name": "God Stands TV",
-        "order": 484,
+        "order": 483,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -8937,9 +8889,9 @@
     },
     {
       "channelId": "HabibTV.ir",
-      "detectedAt": "2026-10-16T09:51:39Z",
+      "detectedAt": "2026-10-19T10:47:28Z",
       "field": "channel",
-      "id": "chg-cb55c01babda5ea834fd13c9",
+      "id": "chg-5b99483a16dd531ad4534956",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -8955,7 +8907,7 @@
         ],
         "logo": "https://i.ibb.co/spZRy7mg/habib.png",
         "name": "Habib TV",
-        "order": 485,
+        "order": 484,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -9035,9 +8987,9 @@
     },
     {
       "channelId": "HalaTV.il",
-      "detectedAt": "2026-10-16T09:51:39Z",
+      "detectedAt": "2026-10-19T10:47:28Z",
       "field": "channel",
-      "id": "chg-fc218c42fe31132005f96047",
+      "id": "chg-e1f5f0ddf77c7d111a6e7995",
       "new": {
         "categories": [
           "GENERAL"
@@ -9052,7 +9004,7 @@
         ],
         "logo": "https://i.imgur.com/028M4Ew.png",
         "name": "Hala TV",
-        "order": 486,
+        "order": 485,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -10260,9 +10212,9 @@
     },
     {
       "channelId": "LoveWorldArabic.ng",
-      "detectedAt": "2026-10-16T09:51:39Z",
+      "detectedAt": "2026-10-19T10:47:28Z",
       "field": "channel",
-      "id": "chg-c9445189c644e3419fdbbf31",
+      "id": "chg-03fa1deb209ee6d855b18996",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -10277,7 +10229,7 @@
         ],
         "logo": "https://i.imgur.com/KYMjRjK.png",
         "name": "LoveWorld Arabic",
-        "order": 489,
+        "order": 488,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -11060,9 +11012,9 @@
     },
     {
       "channelId": "Makan33.il",
-      "detectedAt": "2026-10-16T09:51:39Z",
+      "detectedAt": "2026-10-19T10:47:28Z",
       "field": "channel",
-      "id": "chg-a69ff80d937b3ae6e9def760",
+      "id": "chg-2b223704b70a5f100a65fbea",
       "new": {
         "categories": [
           "NEWS"
@@ -11077,7 +11029,7 @@
         ],
         "logo": "https://i.imgur.com/RVtQTed.png",
         "name": "Makan 33",
-        "order": 490,
+        "order": 489,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -11434,9 +11386,9 @@
     },
     {
       "channelId": "MekameleenTV.tr",
-      "detectedAt": "2026-10-16T09:51:39Z",
+      "detectedAt": "2026-10-19T10:47:28Z",
       "field": "channel",
-      "id": "chg-7a255d5e3672e806ad6465ca",
+      "id": "chg-247caadf062866e94126e7fa",
       "new": {
         "categories": [
           "NEWS"
@@ -11451,7 +11403,7 @@
         ],
         "logo": "https://i.imgur.com/q7iVchl.png",
         "name": "Mekameleen TV",
-        "order": 491,
+        "order": 490,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -11507,9 +11459,9 @@
     },
     {
       "channelId": "MiracleChannel.se",
-      "detectedAt": "2026-10-16T09:51:39Z",
+      "detectedAt": "2026-10-19T10:47:28Z",
       "field": "channel",
-      "id": "chg-2989eb8f3ef972963a23c347",
+      "id": "chg-521479c5a46220d48069a5c0",
       "new": {
         "categories": [
           "NEWS"
@@ -11524,7 +11476,7 @@
         ],
         "logo": "https://i.imgur.com/rc68GZJ.png",
         "name": "Miracle Channel",
-        "order": 492,
+        "order": 491,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -11555,9 +11507,9 @@
     },
     {
       "channelId": "MissionAsia.au",
-      "detectedAt": "2026-10-16T09:51:39Z",
+      "detectedAt": "2026-10-19T10:47:28Z",
       "field": "channel",
-      "id": "chg-a6c7f30efce04eff0d297e20",
+      "id": "chg-232b76da1c65a00ba2e4d268",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -11573,7 +11525,7 @@
         ],
         "logo": "https://i.imgur.com/B5mKwF6.png",
         "name": "Mission Asia",
-        "order": 493,
+        "order": 492,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -14893,9 +14845,9 @@
     },
     {
       "channelId": "Palestinetv.ir",
-      "detectedAt": "2026-10-16T09:51:39Z",
+      "detectedAt": "2026-10-19T10:47:28Z",
       "field": "channel",
-      "id": "chg-a001c97b2ade65915a4ce1e6",
+      "id": "chg-6f5053241cd9eab27e01738d",
       "new": {
         "categories": [
           "GENERAL"
@@ -14911,7 +14863,7 @@
         ],
         "logo": "https://i.ibb.co/svrZNZTX/Palestine.png",
         "name": "Palestinetv",
-        "order": 494,
+        "order": 493,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -15506,9 +15458,9 @@
     },
     {
       "channelId": "QafTV.tr",
-      "detectedAt": "2026-10-16T09:51:39Z",
+      "detectedAt": "2026-10-19T10:47:28Z",
       "field": "channel",
-      "id": "chg-e205d455de5ebe91e095cbe0",
+      "id": "chg-f7a3770e2d36b0222268fafe",
       "new": {
         "categories": [
           "OTHER"
@@ -15523,7 +15475,7 @@
         ],
         "logo": "https://i.imgur.com/hrk7Uce.png",
         "name": "Qaf TV",
-        "order": 495,
+        "order": 494,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -15554,9 +15506,9 @@
     },
     {
       "channelId": "RASDTV.eh",
-      "detectedAt": "2026-10-16T09:51:39Z",
+      "detectedAt": "2026-10-19T10:47:28Z",
       "field": "channel",
-      "id": "chg-52063bd95fda3d8d8e3871b6",
+      "id": "chg-69bfd2bd10219a419b1290d9",
       "new": {
         "categories": [
           "GENERAL"
@@ -15572,7 +15524,7 @@
         ],
         "logo": "https://i.imgur.com/9Pb8806.png",
         "name": "RASD TV",
-        "order": 496,
+        "order": 495,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -15695,9 +15647,9 @@
     },
     {
       "channelId": "RTArabic.ru",
-      "detectedAt": "2026-10-16T09:51:39Z",
+      "detectedAt": "2026-10-19T10:47:28Z",
       "field": "channel",
-      "id": "chg-45fc79521efa6fa527ae3458",
+      "id": "chg-283c7924a82c49fec909355e",
       "new": {
         "categories": [
           "NEWS"
@@ -15712,7 +15664,7 @@
         ],
         "logo": "https://i.imgur.com/G8vGrn1.png",
         "name": "RT Arabic",
-        "order": 497,
+        "order": 496,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -17122,9 +17074,9 @@
     },
     {
       "channelId": "Sat7Arabic.cy",
-      "detectedAt": "2026-10-16T09:51:39Z",
+      "detectedAt": "2026-10-19T10:47:28Z",
       "field": "channel",
-      "id": "chg-c8a96f6e2b04861e24340e1e",
+      "id": "chg-bd74a76f20c6f10f1b94384f",
       "new": {
         "categories": [
           "OTHER"
@@ -17139,7 +17091,7 @@
         ],
         "logo": "https://i.imgur.com/BzDjQeQ.png",
         "name": "Sat 7 Arabic",
-        "order": 498,
+        "order": 497,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -17170,9 +17122,9 @@
     },
     {
       "channelId": "Sat7Kids.cy",
-      "detectedAt": "2026-10-16T09:51:39Z",
+      "detectedAt": "2026-10-19T10:47:28Z",
       "field": "channel",
-      "id": "chg-6f0f289a1ae8e18e3961d823",
+      "id": "chg-a5780e2f718a656591821840",
       "new": {
         "categories": [
           "KIDS",
@@ -17188,7 +17140,7 @@
         ],
         "logo": "https://i.imgur.com/M0ik0i2.png",
         "name": "Sat 7 Kids",
-        "order": 499,
+        "order": 498,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -18521,9 +18473,9 @@
     },
     {
       "channelId": "TRTArabi.tr",
-      "detectedAt": "2026-10-16T09:51:39Z",
+      "detectedAt": "2026-10-19T10:47:28Z",
       "field": "channel",
-      "id": "chg-6235c66a7d2fe3f0bf7a7566",
+      "id": "chg-600aef155991965a73f8ef70",
       "new": {
         "categories": [
           "NEWS"
@@ -18539,7 +18491,7 @@
         ],
         "logo": "https://i.imgur.com/dEfI2M9.png",
         "name": "TRT Arabi",
-        "order": 501,
+        "order": 500,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -19043,9 +18995,9 @@
     },
     {
       "channelId": "TeleTchad.td",
-      "detectedAt": "2026-10-16T09:51:39Z",
+      "detectedAt": "2026-10-19T10:47:28Z",
       "field": "channel",
-      "id": "chg-e3b556c621800645890e8b2f",
+      "id": "chg-fcfbea1db82456c113d89d4b",
       "new": {
         "categories": [
           "GENERAL"
@@ -19061,7 +19013,7 @@
         ],
         "logo": "https://i.imgur.com/udSzfHD.png",
         "name": "Tele Tchad",
-        "order": 500,
+        "order": 499,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -19534,9 +19486,9 @@
     },
     {
       "channelId": "Turkmenistan.tm",
-      "detectedAt": "2026-10-16T09:51:39Z",
+      "detectedAt": "2026-10-19T10:47:28Z",
       "field": "channel",
-      "id": "chg-1e4c3b06cdf9319843f31345",
+      "id": "chg-1f98b5d86b2097b50958161a",
       "new": {
         "categories": [
           "GENERAL"
@@ -19556,7 +19508,7 @@
         ],
         "logo": "https://i.imgur.com/iBBpBx4.png",
         "name": "Turkmenistan",
-        "order": 502,
+        "order": 501,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -19974,9 +19926,9 @@
     },
     {
       "channelId": "VilayetTV.az",
-      "detectedAt": "2026-10-16T09:51:39Z",
+      "detectedAt": "2026-10-19T10:47:28Z",
       "field": "channel",
-      "id": "chg-71f7409cad07f91b6884d7d8",
+      "id": "chg-798bfd9a3297a451e6ed2438",
       "new": {
         "categories": [
           "GENERAL"
@@ -19992,7 +19944,7 @@
         ],
         "logo": "https://vilayet.tv/wp-content/uploads/elementor/thumbs/logo-q3w2md1u47q39x7d0004wqzz74xdv1glw356ex6ph0.png",
         "name": "Vilayet TV",
-        "order": 503,
+        "order": 502,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -21109,9 +21061,9 @@
     },
     {
       "channelId": "i24NEWSArabic.il",
-      "detectedAt": "2026-10-16T09:51:39Z",
+      "detectedAt": "2026-10-19T10:47:28Z",
       "field": "channel",
-      "id": "chg-6576397ccd2e40adaac176c6",
+      "id": "chg-c238ef12d5d3215335fe9f98",
       "new": {
         "categories": [
           "NEWS"
@@ -21126,7 +21078,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
         "name": "i24NEWS Arabic",
-        "order": 487,
+        "order": 486,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -21171,9 +21123,9 @@
     },
     {
       "channelId": "iFilmArabic.ir",
-      "detectedAt": "2026-10-16T09:51:39Z",
+      "detectedAt": "2026-10-19T10:47:28Z",
       "field": "channel",
-      "id": "chg-bb87d1b0276ce565375f819d",
+      "id": "chg-8497bc3187319b56a6c7668c",
       "new": {
         "categories": [
           "MOVIES"
@@ -21188,7 +21140,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
         "name": "iFilm Arabic",
-        "order": 488,
+        "order": 487,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -21376,12 +21328,12 @@
       "type": "ADD_CHANNEL"
     }
   ],
-  "generatedAt": "2026-10-18T09:38:49Z",
+  "generatedAt": "2026-10-19T10:47:28Z",
   "schemaVersion": 1,
   "summary": {
     "adultRejectedCount": 377,
     "byType": {
-      "ADD_CHANNEL": 326,
+      "ADD_CHANNEL": 325,
       "CHANGE_GEO": 27,
       "CHANGE_LANGUAGES": 1,
       "CHANGE_STREAMS": 14,
@@ -21390,6 +21342,6 @@
       "UPSTREAM_MISSING": 7
     },
     "safetyQuarantinedCount": 0,
-    "totalPending": 376
+    "totalPending": 375
   }
 }
