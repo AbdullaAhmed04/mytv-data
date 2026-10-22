@@ -3311,7 +3311,7 @@
     {
       "approvedCurrentChannels": 20,
       "candidateChannels": 36,
-      "channelsWithAnyStream": 38,
+      "channelsWithAnyStream": 39,
       "channelsWithHttpsStream": 36,
       "channelsWithValidStream": 36,
       "country": "الإمارات",
@@ -3453,6 +3453,14 @@
           "name": "MBC Action",
           "rawStreamCount": 0,
           "reason": "DMCA",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "CartoonNetworkArabic.ae",
+          "httpsStreamCount": 0,
+          "name": "Cartoon Network Arabic",
+          "rawStreamCount": 1,
+          "reason": "HTTP_ONLY",
           "validStreamCount": 0
         },
         {
@@ -3627,14 +3635,6 @@
           "channelId": "ButterflyHDTV.ae",
           "httpsStreamCount": 0,
           "name": "Butterfly HDTV",
-          "rawStreamCount": 0,
-          "reason": "NO_STREAMS",
-          "validStreamCount": 0
-        },
-        {
-          "channelId": "CartoonNetworkArabic.ae",
-          "httpsStreamCount": 0,
-          "name": "Cartoon Network Arabic",
           "rawStreamCount": 0,
           "reason": "NO_STREAMS",
           "validStreamCount": 0
@@ -4277,12 +4277,12 @@
         "APPROVED": 20,
         "CANDIDATE_NOT_APPROVED": 16,
         "DMCA": 1,
-        "HTTP_ONLY": 2,
+        "HTTP_ONLY": 3,
         "INSECURE_REFERER": 0,
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 0,
-        "NO_STREAMS": 100,
+        "NO_STREAMS": 99,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 0
@@ -8271,14 +8271,14 @@
       "upstreamChannels": 27
     }
   ],
-  "generatedAt": "2026-10-21T10:10:31Z",
+  "generatedAt": "2026-10-22T10:12:40Z",
   "schemaVersion": 1,
   "scope": "ARAB_COUNTRIES",
   "source": "iptv-org",
   "summary": {
     "approvedCurrentChannels": 149,
     "candidateChannels": 284,
-    "channelsWithAnyStream": 330,
+    "channelsWithAnyStream": 331,
     "channelsWithHttpsStream": 286,
     "channelsWithValidStream": 286,
     "excludedBeforeCandidate": 820,
@@ -8288,12 +8288,12 @@
       "APPROVED": 149,
       "CANDIDATE_NOT_APPROVED": 135,
       "DMCA": 15,
-      "HTTP_ONLY": 43,
+      "HTTP_ONLY": 44,
       "INSECURE_REFERER": 0,
       "INVALID_STREAM_METADATA": 0,
       "INVALID_USER_AGENT": 0,
       "NO_HTTPS_STREAM": 1,
-      "NO_STREAMS": 758,
+      "NO_STREAMS": 757,
       "OTHER_EXCLUDED": 0,
       "SAFETY_QUARANTINED": 0,
       "USER_BLOCKLIST": 2

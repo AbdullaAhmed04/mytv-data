@@ -1,6 +1,6 @@
 # MYTV Arab channel audit
 
-Generated: `2026-10-21T10:10:31Z`
+Generated: `2026-10-22T10:12:40Z`
 
 This report audits Arab-country channels from IPTV-org without exposing adult or safety-quarantined channel identities or stream URLs.
 
@@ -20,7 +20,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 | السعودية | 166 | 56 | 55 | 55 | 55 | 29 | 111 | 0 | 0 | 0 | 110 | 0 | 0 |
 | مصر | 117 | 16 | 13 | 13 | 13 | 12 | 104 | 0 | 0 | 3 | 101 | 0 | 0 |
 | العراق | 139 | 57 | 54 | 54 | 53 | 2 | 86 | 0 | 0 | 3 | 82 | 0 | 1 |
-| الإمارات | 140 | 38 | 36 | 36 | 36 | 20 | 104 | 1 | 0 | 2 | 100 | 1 | 0 |
+| الإمارات | 140 | 39 | 36 | 36 | 36 | 20 | 104 | 1 | 0 | 3 | 99 | 1 | 0 |
 | الكويت | 26 | 11 | 11 | 11 | 11 | 10 | 15 | 0 | 0 | 0 | 15 | 0 | 0 |
 | قطر | 87 | 25 | 16 | 16 | 16 | 15 | 71 | 0 | 0 | 9 | 48 | 14 | 0 |
 | الأردن | 62 | 19 | 13 | 13 | 13 | 11 | 49 | 0 | 0 | 6 | 43 | 0 | 0 |
@@ -472,6 +472,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `CANDIDATE_NOT_APPROVED` — **Sharjah TV** (`SharjahTV.ae`); streams: 2, HTTPS: 2, valid: 2
 - `CANDIDATE_NOT_APPROVED` — **Watar Radio** (`WatarRadio.ae`); streams: 1, HTTPS: 1, valid: 1
 - `DMCA` — **MBC Action** (`MBCAction.ae`); streams: 0, HTTPS: 0, valid: 0
+- `HTTP_ONLY` — **Cartoon Network Arabic** (`CartoonNetworkArabic.ae`); streams: 1, HTTPS: 0, valid: 0
 - `HTTP_ONLY` — **Dubai TV International** (`DubaiTVInternational.ae`); streams: 1, HTTPS: 0, valid: 0
 - `HTTP_ONLY` — **OSN Movies Action** (`OSNMoviesAction.ae`); streams: 1, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **3eesh Al Aan TV** (`3eeshAlAanTV.ae`); streams: 0, HTTPS: 0, valid: 0
@@ -494,7 +495,6 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **Baynounah TV** (`BaynounahTV.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Bee Theater** (`BeeTheater.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Butterfly HDTV** (`ButterflyHDTV.ae`); streams: 0, HTTPS: 0, valid: 0
-- `NO_STREAMS` — **Cartoon Network Arabic** (`CartoonNetworkArabic.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **China Arab TV** (`ChinaArabTV.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Cinema 1** (`Cinema1.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Cinema 2** (`Cinema2.ae`); streams: 0, HTTPS: 0, valid: 0

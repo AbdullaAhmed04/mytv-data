@@ -13223,6 +13223,20 @@
           "source": "iptv-org",
           "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993042/hls/master.m3u8?ads.xumo_channelId=99993042&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=lgchannels_us_nbcuamericanninjawarrior_ssai_cro&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99993042",
           "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8",
+          "userAgent": null
         }
       ],
       "upstreamId": "AmericanNinjaWarrior.us",
@@ -15924,20 +15938,6 @@
           "source": "iptv-org",
           "url": "https://tvsen6.aynaott.com/foxnews/index.m3u8",
           "userAgent": null
-        },
-        {
-          "geo": {
-            "allowedCountries": [],
-            "blockedCountries": [],
-            "isGeoBlocked": false,
-            "label": null
-          },
-          "priority": 1,
-          "quality": null,
-          "referer": "https://usnewson.com/",
-          "source": "iptv-org",
-          "url": "https://p14.usnlive.com/stream/foxnews.m3u8",
-          "userAgent": null
         }
       ],
       "upstreamId": "FoxNewsChannel.us",
@@ -15983,6 +15983,82 @@
     },
     {
       "categories": [
+        "SPORTS"
+      ],
+      "country": "الولايات المتحدة",
+      "countryCode": "US",
+      "description": null,
+      "enabled": true,
+      "id": "FoxSports1.us",
+      "languages": [
+        "eng"
+      ],
+      "logo": "https://i.imgur.com/O9BapV9.png",
+      "name": "Fox Sports 1",
+      "order": 363,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://tvsen7.aynascope.net/foxsports1/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "FoxSports1.us",
+      "website": "https://www.foxsports.com/"
+    },
+    {
+      "categories": [
+        "SPORTS"
+      ],
+      "country": "الولايات المتحدة",
+      "countryCode": "US",
+      "description": null,
+      "enabled": true,
+      "id": "FoxSports2.us",
+      "languages": [
+        "eng"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/960px-FS2_logo_2015.svg.png",
+      "name": "Fox Sports 2",
+      "order": 364,
+      "safety": {
+        "isNsfw": false,
+        "reviewed": true
+      },
+      "streams": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8",
+          "userAgent": null
+        }
+      ],
+      "upstreamId": "FoxSports2.us",
+      "website": "https://www.foxsports.com/"
+    },
+    {
+      "categories": [
         "NEWS"
       ],
       "country": "الولايات المتحدة",
@@ -15995,7 +16071,7 @@
       ],
       "logo": "https://i.imgur.com/Qq6heRq.png",
       "name": "Free Speech TV",
-      "order": 363,
+      "order": 365,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -16033,7 +16109,7 @@
       ],
       "logo": "https://i.imgur.com/yvUjOI3.png",
       "name": "FTF Sports",
-      "order": 364,
+      "order": 366,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -16101,7 +16177,7 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Fubo_Sports_Network_2023_Logo.webp/960px-Fubo_Sports_Network_2023_Logo.webp.png",
       "name": "Fubo Sports Network",
-      "order": 365,
+      "order": 367,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -16167,7 +16243,7 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/960px-GB_News_Logo.svg.png",
       "name": "GB News",
-      "order": 366,
+      "order": 368,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -16304,7 +16380,7 @@
       ],
       "logo": "https://i.imgur.com/tS7Ub7i.png",
       "name": "Glory Kickboxing",
-      "order": 367,
+      "order": 369,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -16342,7 +16418,7 @@
       ],
       "logo": "https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG_1731835813404.png",
       "name": "Golazo Network",
-      "order": 368,
+      "order": 370,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -16381,7 +16457,7 @@
       ],
       "logo": "https://i.imgur.com/bM4VZDH.png",
       "name": "Hala London",
-      "order": 369,
+      "order": 371,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -16420,7 +16496,7 @@
       ],
       "logo": "https://i.imgur.com/oVNjFoj.png",
       "name": "HollyWire",
-      "order": 370,
+      "order": 372,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -16472,7 +16548,7 @@
       ],
       "logo": "https://yt3.googleusercontent.com/ytc/AIdro_m_xSJFydxZ9QBU-85OuchjmzS0Bo0_Tukmk7to8hBfyl8=s512-c-k-c0x00ffffff-no-rj",
       "name": "Lacrosse TV",
-      "order": 371,
+      "order": 373,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -16510,7 +16586,7 @@
       ],
       "logo": "https://ml.globenewswire.com/Resource/Download/93a3878f-0cee-4b51-b851-bd519049af8d",
       "name": "Lindell TV",
-      "order": 372,
+      "order": 374,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -16562,7 +16638,7 @@
       ],
       "logo": "https://i.imgur.com/1JnyzHv.png",
       "name": "LiveNOW from FOX",
-      "order": 373,
+      "order": 375,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -16642,7 +16718,7 @@
       ],
       "logo": "https://i.imgur.com/fbrQpC4.png",
       "name": "LLBN TV Arabic",
-      "order": 374,
+      "order": 376,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -16680,7 +16756,7 @@
       ],
       "logo": "https://i.imgur.com/h8DioXU.png",
       "name": "Logos TV",
-      "order": 375,
+      "order": 377,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -16733,7 +16809,7 @@
       ],
       "logo": "https://platform-iuoamc.uk/storage/tv/branding/mca-tv-official-logo.png",
       "name": "Master Chefs Academy TV",
-      "order": 376,
+      "order": 378,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -16772,7 +16848,7 @@
       ],
       "logo": "https://i.imgur.com/CiA3plN.png",
       "name": "MBC 1 USA",
-      "order": 377,
+      "order": 379,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -16811,7 +16887,7 @@
       ],
       "logo": "https://i.imgur.com/PVt8OPN.png",
       "name": "MBC 3 USA",
-      "order": 378,
+      "order": 380,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -16849,7 +16925,7 @@
       ],
       "logo": "https://i.imgur.com/g5PWnqp.png",
       "name": "MBC Drama USA",
-      "order": 379,
+      "order": 381,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -16887,7 +16963,7 @@
       ],
       "logo": "https://i.imgur.com/o2elx0u.png",
       "name": "MBC Masr USA",
-      "order": 380,
+      "order": 382,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -16925,7 +17001,7 @@
       ],
       "logo": "https://i.imgur.com/ym3su2J.png",
       "name": "MLB",
-      "order": 381,
+      "order": 383,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -16992,7 +17068,7 @@
       ],
       "logo": "https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png",
       "name": "Monster Jam",
-      "order": 382,
+      "order": 384,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -17100,7 +17176,7 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/960px-MS_NOW_logo.svg.png",
       "name": "MS NOW",
-      "order": 383,
+      "order": 385,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -17157,7 +17233,7 @@
       ],
       "logo": "https://i.imgur.com/bYiRfAg.png",
       "name": "MTA1 World",
-      "order": 384,
+      "order": 386,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -17201,7 +17277,7 @@
       ],
       "logo": "https://i.imgur.com/aVts0sz.png",
       "name": "MTA2 Europe",
-      "order": 385,
+      "order": 387,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -17239,7 +17315,7 @@
       ],
       "logo": "https://i.imgur.com/m3PEldJ.png",
       "name": "MTA3 Al-Arabia",
-      "order": 386,
+      "order": 388,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -17282,7 +17358,7 @@
       ],
       "logo": "https://i.imgur.com/nhCNPJI.png",
       "name": "MTA6 Asia",
-      "order": 387,
+      "order": 389,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -17326,7 +17402,7 @@
       ],
       "logo": "https://i.imgur.com/3Nl8Tpu.png",
       "name": "MTA7 Asia",
-      "order": 388,
+      "order": 390,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -17365,7 +17441,7 @@
       ],
       "logo": null,
       "name": "Muslim Network TV",
-      "order": 389,
+      "order": 391,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -17403,7 +17479,7 @@
       ],
       "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png",
       "name": "MUTV",
-      "order": 390,
+      "order": 392,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -17441,7 +17517,7 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png",
       "name": "NBA TV",
-      "order": 391,
+      "order": 393,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -17493,7 +17569,7 @@
       ],
       "logo": "https://i.imgur.com/lw2THVt.png",
       "name": "NBC News NOW",
-      "order": 392,
+      "order": 394,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -17615,7 +17691,7 @@
       ],
       "logo": "https://i.imgur.com/EzNf2Yx.png",
       "name": "NBC Sports NOW",
-      "order": 393,
+      "order": 395,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -17697,7 +17773,7 @@
       ],
       "logo": "https://i.imgur.com/MfyRQCs.png",
       "name": "News of the World",
-      "order": 394,
+      "order": 396,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -17777,7 +17853,7 @@
       ],
       "logo": "https://i.imgur.com/d6xQiaf.png",
       "name": "News12 Bronx",
-      "order": 395,
+      "order": 397,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -17815,7 +17891,7 @@
       ],
       "logo": "https://i.imgur.com/fvcOzzK.png",
       "name": "News12 Brooklyn",
-      "order": 396,
+      "order": 398,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -17853,7 +17929,7 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
       "name": "News12 Conneticut",
-      "order": 397,
+      "order": 399,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -17891,7 +17967,7 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
       "name": "News12 Hudson Valley",
-      "order": 398,
+      "order": 400,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -17929,7 +18005,7 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
       "name": "News12 Long Island",
-      "order": 399,
+      "order": 401,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -17967,7 +18043,7 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
       "name": "News12 New Jersey",
-      "order": 400,
+      "order": 402,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -18005,7 +18081,7 @@
       ],
       "logo": "https://i.imgur.com/Ez7qAZP.png",
       "name": "News12 New York",
-      "order": 401,
+      "order": 403,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -18057,7 +18133,7 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
       "name": "News12 Westchester",
-      "order": 402,
+      "order": 404,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -18095,7 +18171,7 @@
       ],
       "logo": "https://i.ibb.co/n8m2mcsV/news12plus-CT.jpg",
       "name": "News12+ Connecticut",
-      "order": 403,
+      "order": 405,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -18133,7 +18209,7 @@
       ],
       "logo": "https://i.ibb.co/cKkdC203/news12plus-HV.jpg",
       "name": "News12+ Hudson Valley",
-      "order": 404,
+      "order": 406,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -18171,7 +18247,7 @@
       ],
       "logo": "https://i.ibb.co/p6FPNcCk/news12plus-LI.jpg",
       "name": "News12+ Long Island",
-      "order": 405,
+      "order": 407,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -18223,7 +18299,7 @@
       ],
       "logo": "https://i.ibb.co/qYCVcWDV/news12plus-NJ.jpg",
       "name": "News12+ New Jersey",
-      "order": 406,
+      "order": 408,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -18261,7 +18337,7 @@
       ],
       "logo": "https://i.ibb.co/tThKYM09/news12plus-NYC.jpg",
       "name": "News12+ New York",
-      "order": 407,
+      "order": 409,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -18299,7 +18375,7 @@
       ],
       "logo": "https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png",
       "name": "Newsmax 2",
-      "order": 408,
+      "order": 410,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -18435,7 +18511,7 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png",
       "name": "Newsmax TV",
-      "order": 409,
+      "order": 411,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -18515,7 +18591,7 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/960px-Newsy_2021.svg.png",
       "name": "Newsy",
-      "order": 410,
+      "order": 412,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -18567,7 +18643,7 @@
       ],
       "logo": "https://i.imgur.com/mPGtwAP.png",
       "name": "NFL Channel",
-      "order": 411,
+      "order": 413,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -18619,7 +18695,7 @@
       ],
       "logo": "https://i.imgur.com/UNZ8bef.png",
       "name": "NHL Network",
-      "order": 412,
+      "order": 414,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -18671,7 +18747,7 @@
       ],
       "logo": "https://i.imgur.com/jZgcm4k.png",
       "name": "NHRA TV",
-      "order": 413,
+      "order": 415,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -18725,7 +18801,7 @@
       ],
       "logo": "https://i.imgur.com/8m8gy0n.png",
       "name": "NowMedia Television",
-      "order": 414,
+      "order": 416,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -18780,7 +18856,7 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NTD_Logo_with_symbol.svg/960px-NTD_Logo_with_symbol.svg.png",
       "name": "NTD TV English",
-      "order": 415,
+      "order": 417,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -18874,7 +18950,7 @@
       ],
       "logo": "https://i.imgur.com/T9VhMAD.png",
       "name": "OAN Plus",
-      "order": 416,
+      "order": 418,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -18982,7 +19058,7 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/960px-One_America_News_Network_logo.svg.png",
       "name": "One America News Network",
-      "order": 417,
+      "order": 419,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -19034,7 +19110,7 @@
       ],
       "logo": "https://i.imgur.com/9S9k4IK.png",
       "name": "Overtime",
-      "order": 418,
+      "order": 420,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -19072,7 +19148,7 @@
       ],
       "logo": "https://i.imgur.com/736QREy.png",
       "name": "Pac-12 Insider",
-      "order": 419,
+      "order": 421,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -19152,7 +19228,7 @@
       ],
       "logo": "https://i.imgur.com/A4gqEmG.png",
       "name": "Payvand TV",
-      "order": 420,
+      "order": 422,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -19204,7 +19280,7 @@
       ],
       "logo": "https://i.imgur.com/gUxH97E.png",
       "name": "PBR RidePass",
-      "order": 421,
+      "order": 423,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -19242,7 +19318,7 @@
       ],
       "logo": "https://provider-static.plex.tv/epg/cms/production/96dd0531-b500-4bd4-93ca-763cbf46defe/1500x1000_PFL_SHIELD_DARK_BG_-_Allie_Dinsmore.png",
       "name": "PFL MMA",
-      "order": 422,
+      "order": 424,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -19322,7 +19398,7 @@
       ],
       "logo": "https://i.imgur.com/J0TY9dG.png",
       "name": "PGA Tour",
-      "order": 423,
+      "order": 425,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -19458,7 +19534,7 @@
       ],
       "logo": "https://images.pluto.tv/channels/603fde9026ecbf0007752c2c/colorLogoPNG.png",
       "name": "Pluto TV Competition",
-      "order": 424,
+      "order": 426,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -19496,7 +19572,7 @@
       ],
       "logo": "https://images.pluto.tv/channels/639b4f75d3d35c0007d37b30/colorLogoPNG_1759333260607.png",
       "name": "Pluto TV Snooker 900",
-      "order": 425,
+      "order": 427,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -19534,7 +19610,7 @@
       ],
       "logo": "https://i.imgur.com/1603HED.png",
       "name": "PokerGo",
-      "order": 426,
+      "order": 428,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -19572,7 +19648,7 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/en/7/74/Racer_Network.jpg",
       "name": "Racer Network",
-      "order": 427,
+      "order": 429,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -19638,7 +19714,7 @@
       ],
       "logo": "https://i.imgur.com/CurtYvn.png",
       "name": "Racer Select",
-      "order": 428,
+      "order": 430,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -19690,7 +19766,7 @@
       ],
       "logo": "https://i.postimg.cc/WtLq2C7c/logo-Rally-Tv1.png",
       "name": "Rally TV",
-      "order": 429,
+      "order": 431,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -19770,7 +19846,7 @@
       ],
       "logo": "https://i.imgur.com/6eQ2nCJ.png",
       "name": "Reuters TV",
-      "order": 430,
+      "order": 432,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -19852,7 +19928,7 @@
       ],
       "logo": "https://i.imgur.com/xsm8mMd.png",
       "name": "REV'N Action",
-      "order": 431,
+      "order": 433,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -19905,7 +19981,7 @@
       ],
       "logo": "https://i.imgur.com/OxbIla4.png",
       "name": "Right Now TV",
-      "order": 432,
+      "order": 434,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -19958,7 +20034,7 @@
       ],
       "logo": "https://image.roku.com/developer_channels/prod/8389e15af8fe49ac7c36d201c24ebf62fbe5b22897c2879ca26ae936e0ed308d.png",
       "name": "Safeer TV",
-      "order": 433,
+      "order": 435,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -19996,7 +20072,7 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/5/53/KTSF_Channel_26_logo.png",
       "name": "Salem News Channel",
-      "order": 434,
+      "order": 436,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -20105,7 +20181,7 @@
       ],
       "logo": "https://i.imgur.com/8FZsNyK.png",
       "name": "SC Currents",
-      "order": 435,
+      "order": 437,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -20143,7 +20219,7 @@
       ],
       "logo": "https://i.imgur.com/W0Jvi5o.png",
       "name": "Scripps News",
-      "order": 436,
+      "order": 438,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -20223,7 +20299,7 @@
       ],
       "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png",
       "name": "Sky Sports F1",
-      "order": 437,
+      "order": 439,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -20261,7 +20337,7 @@
       ],
       "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1333.png",
       "name": "Sky Sports NFL",
-      "order": 438,
+      "order": 440,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -20299,7 +20375,7 @@
       ],
       "logo": "https://i.imgur.com/8bzAfgK.png",
       "name": "Slopes TV",
-      "order": 439,
+      "order": 441,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -20337,7 +20413,7 @@
       ],
       "logo": "https://i.imgur.com/ulGKX30.png",
       "name": "SportsGrid",
-      "order": 440,
+      "order": 442,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -20431,7 +20507,7 @@
       ],
       "logo": "https://i.imgur.com/SnZOiER.png",
       "name": "Stadium",
-      "order": 441,
+      "order": 443,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -20484,7 +20560,7 @@
       ],
       "logo": "https://i.imgur.com/bVQBF6R.png",
       "name": "Strongman",
-      "order": 442,
+      "order": 444,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -20550,7 +20626,7 @@
       ],
       "logo": "https://provider-static.plex.tv/epg/cms/production/80fb7204-c306-4759-a0d7-c4e829650c22/StrongmanChampionsLeague_Channel-Logo-Light-1500px.png",
       "name": "Strongman Champions League",
-      "order": 443,
+      "order": 445,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -20686,7 +20762,7 @@
       ],
       "logo": "https://i.imgur.com/eFZh7aG.png",
       "name": "Swerve Combat",
-      "order": 444,
+      "order": 446,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -20766,7 +20842,7 @@
       ],
       "logo": "https://i.imgur.com/GT0Yi2T.png",
       "name": "Swerve Sports",
-      "order": 445,
+      "order": 447,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -20818,7 +20894,7 @@
       ],
       "logo": "https://i.imgur.com/Cvnps2J.jpg",
       "name": "Takbeer TV",
-      "order": 446,
+      "order": 448,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -20856,7 +20932,7 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/en/9/9d/Talksport_logo.png",
       "name": "talkSPORT",
-      "order": 447,
+      "order": 449,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -20908,7 +20984,7 @@
       ],
       "logo": "https://i.imgur.com/tsljAnY.png",
       "name": "Tennis Channel",
-      "order": 448,
+      "order": 450,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21044,7 +21120,7 @@
       ],
       "logo": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png",
       "name": "Tennis Channel 2",
-      "order": 449,
+      "order": 451,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21082,7 +21158,7 @@
       ],
       "logo": "https://i.imgur.com/rOSlp93.png",
       "name": "The First TV",
-      "order": 450,
+      "order": 452,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21162,7 +21238,7 @@
       ],
       "logo": "https://i.imgur.com/XDNXJCl.png",
       "name": "The Young Turks",
-      "order": 451,
+      "order": 453,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21214,7 +21290,7 @@
       ],
       "logo": "https://i.imgur.com/LhbQ8Mr.png",
       "name": "TODAY All Day",
-      "order": 452,
+      "order": 454,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21280,7 +21356,7 @@
       ],
       "logo": "https://i.imgur.com/UfN6aAi.png",
       "name": "Top Stories by Newsy",
-      "order": 453,
+      "order": 455,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21318,7 +21394,7 @@
       ],
       "logo": "https://www.watchyour.tv/channels/logo/tvs-bowling-network.jpg",
       "name": "TVS Bowling Network",
-      "order": 454,
+      "order": 456,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21356,7 +21432,7 @@
       ],
       "logo": "https://i.imgur.com/30ZoF75.png",
       "name": "TVS Boxing",
-      "order": 455,
+      "order": 457,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21394,7 +21470,7 @@
       ],
       "logo": "https://i.imgur.com/auR0Mi6.png",
       "name": "TVS Classic Sports",
-      "order": 456,
+      "order": 458,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21432,7 +21508,7 @@
       ],
       "logo": "https://i.imgur.com/Lwwq62E.png",
       "name": "TVS Sports",
-      "order": 457,
+      "order": 459,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21470,7 +21546,7 @@
       ],
       "logo": null,
       "name": "TVS Sports Bureau",
-      "order": 458,
+      "order": 460,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21508,7 +21584,7 @@
       ],
       "logo": "https://i.imgur.com/7zYIbU1.png",
       "name": "TVS Turbo",
-      "order": 459,
+      "order": 461,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21546,7 +21622,7 @@
       ],
       "logo": "https://i.imgur.com/8hC4PfF.png",
       "name": "TVS Women Sports",
-      "order": 460,
+      "order": 462,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21584,7 +21660,7 @@
       ],
       "logo": "https://i.imgur.com/UcAwBep.png",
       "name": "UN Web TV",
-      "order": 461,
+      "order": 463,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21622,7 +21698,7 @@
       ],
       "logo": "https://i.imgur.com/LmkNt3v.png",
       "name": "Unbeaten",
-      "order": 462,
+      "order": 464,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21688,7 +21764,7 @@
       ],
       "logo": "https://i.imgur.com/37K0AZX.png",
       "name": "USA TODAY",
-      "order": 463,
+      "order": 465,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21782,7 +21858,7 @@
       ],
       "logo": "https://i.imgur.com/rtRnlqN.png",
       "name": "VoA TV",
-      "order": 464,
+      "order": 466,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21820,7 +21896,7 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png",
       "name": "W14DK-D 14.2",
-      "order": 465,
+      "order": 467,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21858,7 +21934,7 @@
       ],
       "logo": "https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png",
       "name": "Willow",
-      "order": 466,
+      "order": 468,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -21910,7 +21986,7 @@
       ],
       "logo": "https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png",
       "name": "Willow Sports",
-      "order": 467,
+      "order": 469,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22022,7 +22098,7 @@
       ],
       "logo": "https://i.imgur.com/98kLMjj.png",
       "name": "World Poker Tour",
-      "order": 468,
+      "order": 470,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22158,7 +22234,7 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/WPLG_Local_10_%282014%2C_without_ABC_logo%29.svg/500px-WPLG_Local_10_%282014%2C_without_ABC_logo%29.svg.png",
       "name": "WPLG 10.1",
-      "order": 469,
+      "order": 471,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22196,7 +22272,7 @@
       ],
       "logo": "https://i.imgur.com/tUb1mdc.png",
       "name": "WSOC Now",
-      "order": 470,
+      "order": 472,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22234,7 +22310,7 @@
       ],
       "logo": "https://i.imgur.com/LcfzmG0.png",
       "name": "XFC TV",
-      "order": 471,
+      "order": 473,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22273,7 +22349,7 @@
       ],
       "logo": null,
       "name": "Zarin TV",
-      "order": 472,
+      "order": 474,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22311,7 +22387,7 @@
       ],
       "logo": "https://i.imgur.com/OI1HQv5.png",
       "name": "Al Wilayah",
-      "order": 473,
+      "order": 475,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22349,7 +22425,7 @@
       ],
       "logo": "https://i.imgur.com/rjXDCN5.png",
       "name": "Al-Rafidain TV",
-      "order": 474,
+      "order": 476,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22387,7 +22463,7 @@
       ],
       "logo": "https://i.imgur.com/GgEeTNr.png",
       "name": "Almahriah TV",
-      "order": 475,
+      "order": 477,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22425,7 +22501,7 @@
       ],
       "logo": "https://i.imgur.com/gROQqFD.png",
       "name": "Asil TV",
-      "order": 476,
+      "order": 478,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22463,7 +22539,7 @@
       ],
       "logo": "https://i.imgur.com/ps4Gtj0.png",
       "name": "Assirat TV",
-      "order": 477,
+      "order": 479,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22501,7 +22577,7 @@
       ],
       "logo": "https://i.imgur.com/AkFFrS7.png",
       "name": "CGTN Arabic",
-      "order": 478,
+      "order": 480,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22571,7 +22647,7 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/960px-Deutsche_Welle_symbol_2012.svg.png",
       "name": "DW",
-      "order": 479,
+      "order": 481,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22707,7 +22783,7 @@
       ],
       "logo": "https://i.imgur.com/8vmfZb5.png",
       "name": "Elsharq TV",
-      "order": 480,
+      "order": 482,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22748,7 +22824,7 @@
       ],
       "logo": "https://i.imgur.com/bTR0Huw.png",
       "name": "ERi-TV 1",
-      "order": 481,
+      "order": 483,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22789,7 +22865,7 @@
       ],
       "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/France%2024.png",
       "name": "France 24",
-      "order": 482,
+      "order": 484,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -22929,7 +23005,7 @@
       ],
       "logo": "https://i.imgur.com/FxDBbpz.jpeg",
       "name": "God Stands Kids Club TV",
-      "order": 483,
+      "order": 485,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -23015,7 +23091,7 @@
       ],
       "logo": "https://i.imgur.com/EO6cYUI.png",
       "name": "God Stands TV",
-      "order": 484,
+      "order": 486,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -23152,7 +23228,7 @@
       ],
       "logo": "https://i.ibb.co/spZRy7mg/habib.png",
       "name": "Habib TV",
-      "order": 485,
+      "order": 487,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -23190,7 +23266,7 @@
       ],
       "logo": "https://i.imgur.com/028M4Ew.png",
       "name": "Hala TV",
-      "order": 486,
+      "order": 488,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -23228,7 +23304,7 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
       "name": "i24NEWS Arabic",
-      "order": 487,
+      "order": 489,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -23280,7 +23356,7 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
       "name": "iFilm Arabic",
-      "order": 488,
+      "order": 490,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -23318,7 +23394,7 @@
       ],
       "logo": "https://i.imgur.com/KYMjRjK.png",
       "name": "LoveWorld Arabic",
-      "order": 489,
+      "order": 491,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -23356,7 +23432,7 @@
       ],
       "logo": "https://i.imgur.com/RVtQTed.png",
       "name": "Makan 33",
-      "order": 490,
+      "order": 492,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -23394,7 +23470,7 @@
       ],
       "logo": "https://i.imgur.com/q7iVchl.png",
       "name": "Mekameleen TV",
-      "order": 491,
+      "order": 493,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -23432,7 +23508,7 @@
       ],
       "logo": "https://i.imgur.com/rc68GZJ.png",
       "name": "Miracle Channel",
-      "order": 492,
+      "order": 494,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -23471,7 +23547,7 @@
       ],
       "logo": "https://i.imgur.com/B5mKwF6.png",
       "name": "Mission Asia",
-      "order": 493,
+      "order": 495,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -23510,7 +23586,7 @@
       ],
       "logo": "https://i.ibb.co/svrZNZTX/Palestine.png",
       "name": "Palestinetv",
-      "order": 494,
+      "order": 496,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -23548,7 +23624,7 @@
       ],
       "logo": "https://i.imgur.com/hrk7Uce.png",
       "name": "Qaf TV",
-      "order": 495,
+      "order": 497,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -23587,7 +23663,7 @@
       ],
       "logo": "https://i.imgur.com/9Pb8806.png",
       "name": "RASD TV",
-      "order": 496,
+      "order": 498,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -23653,7 +23729,7 @@
       ],
       "logo": "https://i.imgur.com/G8vGrn1.png",
       "name": "RT Arabic",
-      "order": 497,
+      "order": 499,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -23705,7 +23781,7 @@
       ],
       "logo": "https://i.imgur.com/BzDjQeQ.png",
       "name": "Sat 7 Arabic",
-      "order": 498,
+      "order": 500,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -23744,7 +23820,7 @@
       ],
       "logo": "https://i.imgur.com/M0ik0i2.png",
       "name": "Sat 7 Kids",
-      "order": 499,
+      "order": 501,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -23783,7 +23859,7 @@
       ],
       "logo": "https://i.imgur.com/udSzfHD.png",
       "name": "Tele Tchad",
-      "order": 500,
+      "order": 502,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -23822,7 +23898,7 @@
       ],
       "logo": "https://i.imgur.com/dEfI2M9.png",
       "name": "TRT Arabi",
-      "order": 501,
+      "order": 503,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -23865,7 +23941,7 @@
       ],
       "logo": "https://i.imgur.com/iBBpBx4.png",
       "name": "Turkmenistan",
-      "order": 502,
+      "order": 504,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -23918,7 +23994,7 @@
       ],
       "logo": "https://vilayet.tv/wp-content/uploads/elementor/thumbs/logo-q3w2md1u47q39x7d0004wqzz74xdv1glw356ex6ph0.png",
       "name": "Vilayet TV",
-      "order": 503,
+      "order": 505,
       "safety": {
         "isNsfw": false,
         "reviewed": true
@@ -23967,7 +24043,7 @@
     "SD",
     "TN"
   ],
-  "generatedAt": "2026-10-21T10:10:31Z",
+  "generatedAt": "2026-10-22T10:12:40Z",
   "schemaVersion": 1,
   "version": 10
 }
