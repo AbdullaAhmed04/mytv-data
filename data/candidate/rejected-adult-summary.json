@@ -1,6 +1,6 @@
 {
-  "adultRejectedCount": 377,
-  "generatedAt": "2026-10-22T10:12:40Z",
+  "adultRejectedCount": 378,
+  "generatedAt": "2026-10-23T10:05:14Z",
   "items": [
     {
       "channelId": "21Sextury.us",
@@ -1321,6 +1321,10 @@
     {
       "channelId": "SkinemaxHD.ca",
       "reason": "IPTV-org is_nsfw=true"
+    },
+    {
+      "channelId": "Soblazn.ru",
+      "reason": "Explicit adult category"
     },
     {
       "channelId": "SonseeTV1.tw",
