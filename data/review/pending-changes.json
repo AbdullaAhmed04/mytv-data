@@ -8252,6 +8252,17 @@
       "type": "ADD_CHANNEL"
     },
     {
+      "channelId": "FoxSports1.us",
+      "detectedAt": "2026-10-24T09:32:58Z",
+      "field": "logo",
+      "id": "chg-5ff84405a5b4c905398d8475",
+      "new": "https://images.fubo.tv/channel-config-ui/station-logos/on-white/fs1_logo_2015_blue-4k_2.png",
+      "old": "https://i.imgur.com/O9BapV9.png",
+      "requiresApproval": false,
+      "status": "AUTO_APPROVED",
+      "type": "LOGO_ONLY"
+    },
+    {
       "channelId": "France24.fr",
       "detectedAt": "2026-10-22T10:12:40Z",
       "field": "channel",
@@ -21308,17 +21319,17 @@
       "type": "ADD_CHANNEL"
     }
   ],
-  "generatedAt": "2026-10-23T10:05:14Z",
+  "generatedAt": "2026-10-24T09:32:58Z",
   "schemaVersion": 1,
   "summary": {
-    "adultRejectedCount": 378,
+    "adultRejectedCount": 379,
     "byType": {
       "ADD_CHANNEL": 326,
       "CHANGE_GEO": 27,
       "CHANGE_LANGUAGES": 1,
       "CHANGE_STREAMS": 14,
       "CHANGE_STREAM_HEADERS": 1,
-      "LOGO_ONLY": 2,
+      "LOGO_ONLY": 3,
       "UPSTREAM_MISSING": 5
     },
     "safetyQuarantinedCount": 0,

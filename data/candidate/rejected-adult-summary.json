@@ -1,6 +1,6 @@
 {
-  "adultRejectedCount": 378,
-  "generatedAt": "2026-10-23T10:05:14Z",
+  "adultRejectedCount": 379,
+  "generatedAt": "2026-10-24T09:32:58Z",
   "items": [
     {
       "channelId": "21Sextury.us",
@@ -1324,7 +1324,7 @@
     },
     {
       "channelId": "Soblazn.ru",
-      "reason": "Explicit adult category"
+      "reason": "IPTV-org NSFW blocklist"
     },
     {
       "channelId": "SonseeTV1.tw",
@@ -1369,6 +1369,10 @@
     {
       "channelId": "TarotVision.es",
       "reason": "IPTV-org NSFW blocklist"
+    },
+    {
+      "channelId": "TelePosadas.ar",
+      "reason": "IPTV-org is_nsfw=true"
     },
     {
       "channelId": "TelevisionX.uk",
