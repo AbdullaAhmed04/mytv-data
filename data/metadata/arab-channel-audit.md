@@ -1,15 +1,15 @@
 # MYTV Arab channel audit
 
-Generated: `2026-10-24T09:32:58Z`
+Generated: `2026-10-25T09:49:28Z`
 
 This report audits Arab-country channels from IPTV-org without exposing adult or safety-quarantined channel identities or stream URLs.
 
 ## Summary
 
 - Upstream Arab channels: **1105**
-- Eligible candidate channels: **284**
+- Eligible candidate channels: **285**
 - Currently approved channels from this upstream set: **149**
-- Excluded before candidate generation: **821**
+- Excluded before candidate generation: **820**
 - Hidden safety details: **1**
 
 ## Countries
@@ -37,7 +37,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 | عُمان | 6 | 5 | 5 | 5 | 5 | 5 | 1 | 0 | 0 | 0 | 1 | 0 | 0 |
 | الصومال | 25 | 7 | 4 | 4 | 4 | 0 | 21 | 0 | 0 | 3 | 18 | 0 | 0 |
 | السودان | 31 | 3 | 2 | 2 | 2 | 0 | 29 | 0 | 0 | 1 | 28 | 0 | 0 |
-| تونس | 28 | 3 | 3 | 3 | 3 | 3 | 25 | 0 | 0 | 0 | 25 | 0 | 0 |
+| تونس | 28 | 4 | 4 | 4 | 4 | 3 | 24 | 0 | 0 | 0 | 24 | 0 | 0 |
 
 ## Safe details by country
 
@@ -1037,6 +1037,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 
 ### تونس (TN)
 
+- `CANDIDATE_NOT_APPROVED` — **Elyssa TV** (`ElyssaTV.tn`); streams: 1, HTTPS: 1, valid: 1
 - `NO_STREAMS` — **Al Insen TV** (`AlInsenTV.tn`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Al Janoubiya TV** (`AlJanoubiyaTV.tn`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Attessia TV** (`AttessiaTV.tn`); streams: 0, HTTPS: 0, valid: 0
@@ -1044,7 +1045,6 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **Carthage+** (`CarthagePlus.tn`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **CNB TV** (`CNBTV.tn`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Elhiwar Ettounsi TV** (`ElhiwarEttounsiTV.tn`); streams: 0, HTTPS: 0, valid: 0
-- `NO_STREAMS` — **Elyssa TV** (`ElyssaTV.tn`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Essaida TV** (`EssaidaTV.tn`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Hannibal TV** (`HannibalTV.tn`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **IFM TV** (`IFMTV.tn`); streams: 0, HTTPS: 0, valid: 0

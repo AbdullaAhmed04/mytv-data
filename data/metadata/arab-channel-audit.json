@@ -8051,15 +8051,23 @@
     },
     {
       "approvedCurrentChannels": 3,
-      "candidateChannels": 3,
-      "channelsWithAnyStream": 3,
-      "channelsWithHttpsStream": 3,
-      "channelsWithValidStream": 3,
+      "candidateChannels": 4,
+      "channelsWithAnyStream": 4,
+      "channelsWithHttpsStream": 4,
+      "channelsWithValidStream": 4,
       "country": "تونس",
       "countryCode": "TN",
-      "excludedBeforeCandidate": 25,
+      "excludedBeforeCandidate": 24,
       "hiddenDetailsCount": 0,
       "items": [
+        {
+          "channelId": "ElyssaTV.tn",
+          "httpsStreamCount": 1,
+          "name": "Elyssa TV",
+          "rawStreamCount": 1,
+          "reason": "CANDIDATE_NOT_APPROVED",
+          "validStreamCount": 1
+        },
         {
           "channelId": "AlInsenTV.tn",
           "httpsStreamCount": 0,
@@ -8112,14 +8120,6 @@
           "channelId": "ElhiwarEttounsiTV.tn",
           "httpsStreamCount": 0,
           "name": "Elhiwar Ettounsi TV",
-          "rawStreamCount": 0,
-          "reason": "NO_STREAMS",
-          "validStreamCount": 0
-        },
-        {
-          "channelId": "ElyssaTV.tn",
-          "httpsStreamCount": 0,
-          "name": "Elyssa TV",
           "rawStreamCount": 0,
           "reason": "NO_STREAMS",
           "validStreamCount": 0
@@ -8264,14 +8264,14 @@
       "reasons": {
         "ADULT_REJECTED": 0,
         "APPROVED": 3,
-        "CANDIDATE_NOT_APPROVED": 0,
+        "CANDIDATE_NOT_APPROVED": 1,
         "DMCA": 0,
         "HTTP_ONLY": 0,
         "INSECURE_REFERER": 0,
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 0,
-        "NO_STREAMS": 25,
+        "NO_STREAMS": 24,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 0
@@ -8279,29 +8279,29 @@
       "upstreamChannels": 28
     }
   ],
-  "generatedAt": "2026-10-24T09:32:58Z",
+  "generatedAt": "2026-10-25T09:49:28Z",
   "schemaVersion": 1,
   "scope": "ARAB_COUNTRIES",
   "source": "iptv-org",
   "summary": {
     "approvedCurrentChannels": 149,
-    "candidateChannels": 284,
-    "channelsWithAnyStream": 331,
-    "channelsWithHttpsStream": 286,
-    "channelsWithValidStream": 286,
-    "excludedBeforeCandidate": 821,
+    "candidateChannels": 285,
+    "channelsWithAnyStream": 332,
+    "channelsWithHttpsStream": 287,
+    "channelsWithValidStream": 287,
+    "excludedBeforeCandidate": 820,
     "hiddenDetailsCount": 1,
     "reasons": {
       "ADULT_REJECTED": 1,
       "APPROVED": 149,
-      "CANDIDATE_NOT_APPROVED": 135,
+      "CANDIDATE_NOT_APPROVED": 136,
       "DMCA": 15,
       "HTTP_ONLY": 44,
       "INSECURE_REFERER": 0,
       "INVALID_STREAM_METADATA": 0,
       "INVALID_USER_AGENT": 0,
       "NO_HTTPS_STREAM": 1,
-      "NO_STREAMS": 758,
+      "NO_STREAMS": 757,
       "OTHER_EXCLUDED": 0,
       "SAFETY_QUARANTINED": 0,
       "USER_BLOCKLIST": 2
