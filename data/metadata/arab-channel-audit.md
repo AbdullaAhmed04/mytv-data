@@ -1,15 +1,15 @@
 # MYTV Arab channel audit
 
-Generated: `2026-10-27T10:36:02Z`
+Generated: `2026-10-28T11:21:12Z`
 
 This report audits Arab-country channels from IPTV-org without exposing adult or safety-quarantined channel identities or stream URLs.
 
 ## Summary
 
-- Upstream Arab channels: **1105**
+- Upstream Arab channels: **1106**
 - Eligible candidate channels: **285**
 - Currently approved channels from this upstream set: **149**
-- Excluded before candidate generation: **820**
+- Excluded before candidate generation: **821**
 - Hidden safety details: **1**
 
 ## Countries
@@ -19,10 +19,10 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 | اليمن | 23 | 4 | 4 | 4 | 3 | 3 | 20 | 0 | 0 | 0 | 19 | 0 | 1 |
 | السعودية | 166 | 56 | 55 | 55 | 55 | 29 | 111 | 0 | 0 | 0 | 110 | 0 | 0 |
 | مصر | 117 | 16 | 13 | 13 | 13 | 12 | 104 | 0 | 0 | 3 | 101 | 0 | 0 |
-| العراق | 139 | 57 | 54 | 54 | 53 | 2 | 86 | 0 | 0 | 3 | 82 | 0 | 1 |
+| العراق | 140 | 57 | 54 | 54 | 53 | 2 | 87 | 0 | 0 | 3 | 83 | 0 | 1 |
 | الإمارات | 140 | 39 | 36 | 36 | 36 | 20 | 104 | 1 | 0 | 3 | 99 | 1 | 0 |
 | الكويت | 26 | 11 | 11 | 11 | 11 | 10 | 15 | 0 | 0 | 0 | 15 | 0 | 0 |
-| قطر | 87 | 25 | 16 | 16 | 16 | 15 | 71 | 0 | 0 | 9 | 48 | 14 | 0 |
+| قطر | 87 | 16 | 16 | 16 | 16 | 15 | 71 | 0 | 0 | 0 | 57 | 14 | 0 |
 | الأردن | 62 | 19 | 13 | 13 | 13 | 11 | 49 | 0 | 0 | 6 | 43 | 0 | 0 |
 | لبنان | 49 | 31 | 26 | 26 | 26 | 14 | 23 | 0 | 0 | 5 | 18 | 0 | 0 |
 | سوريا | 30 | 10 | 8 | 8 | 8 | 8 | 22 | 0 | 0 | 2 | 20 | 0 | 0 |
@@ -430,6 +430,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **KurdMax Music** (`KurdMaxMusic.iq`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **KurdMax Show** (`KurdMaxShow.iq`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **KurdMax Sorani** (`KurdMaxSorani.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **MahdawiounTV** (`MahdawiounTV.iq`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Net TV** (`NetTV.iq`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **NRT** (`NRT.iq`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **NRT 2** (`NRT2.iq`); streams: 0, HTTPS: 0, valid: 0
@@ -611,15 +612,6 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `DMCA` — **beIN Sports Premium 1** (`beINSportsPremium1.qa`); streams: 0, HTTPS: 0, valid: 0
 - `DMCA` — **beIN Sports Premium 2** (`beINSportsPremium2.qa`); streams: 0, HTTPS: 0, valid: 0
 - `DMCA` — **beIN Sports Premium 3** (`beINSportsPremium3.qa`); streams: 0, HTTPS: 0, valid: 0
-- `HTTP_ONLY` — **beIN Sports 1** (`beINSports1.qa`); streams: 1, HTTPS: 0, valid: 0
-- `HTTP_ONLY` — **beIN Sports 2** (`beINSports2.qa`); streams: 1, HTTPS: 0, valid: 0
-- `HTTP_ONLY` — **beIN Sports 3** (`beINSports3.qa`); streams: 1, HTTPS: 0, valid: 0
-- `HTTP_ONLY` — **beIN Sports 4** (`beINSports4.qa`); streams: 1, HTTPS: 0, valid: 0
-- `HTTP_ONLY` — **beIN Sports 5** (`beINSports5.qa`); streams: 1, HTTPS: 0, valid: 0
-- `HTTP_ONLY` — **beIN Sports 6** (`beINSports6.qa`); streams: 1, HTTPS: 0, valid: 0
-- `HTTP_ONLY` — **beIN Sports 7** (`beINSports7.qa`); streams: 1, HTTPS: 0, valid: 0
-- `HTTP_ONLY` — **beIN Sports 8** (`beINSports8.qa`); streams: 1, HTTPS: 0, valid: 0
-- `HTTP_ONLY` — **beIN Sports 9** (`beINSports9.qa`); streams: 1, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Al Rassoul** (`AlRassoul.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Alkass Eight** (`AlkassEight.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Alkass Eleven** (`AlkassEleven.qa`); streams: 0, HTTPS: 0, valid: 0
@@ -648,7 +640,16 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **beIN Series 1** (`beINSeries1.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **beIN Series 2** (`beINSeries2.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **beIN Sports** (`beINSports.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **beIN Sports 1** (`beINSports1.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **beIN Sports 2** (`beINSports2.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **beIN Sports 3** (`beINSports3.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **beIN Sports 4** (`beINSports4.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **beIN Sports 4K HDR** (`beINSports4KHDR.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **beIN Sports 5** (`beINSports5.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **beIN Sports 6** (`beINSports6.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **beIN Sports 7** (`beINSports7.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **beIN Sports 8** (`beINSports8.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **beIN Sports 9** (`beINSports9.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **beIN Sports AFC** (`beINSportsAFC.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **beIN Sports AFC 1** (`beINSportsAFC1.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **beIN Sports AFC 2** (`beINSportsAFC2.qa`); streams: 0, HTTPS: 0, valid: 0
