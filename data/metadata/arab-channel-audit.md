@@ -1,15 +1,15 @@
 # MYTV Arab channel audit
 
-Generated: `2026-10-28T11:21:12Z`
+Generated: `2026-10-29T11:32:06Z`
 
 This report audits Arab-country channels from IPTV-org without exposing adult or safety-quarantined channel identities or stream URLs.
 
 ## Summary
 
 - Upstream Arab channels: **1106**
-- Eligible candidate channels: **285**
+- Eligible candidate channels: **287**
 - Currently approved channels from this upstream set: **149**
-- Excluded before candidate generation: **821**
+- Excluded before candidate generation: **819**
 - Hidden safety details: **1**
 
 ## Countries
@@ -18,8 +18,8 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | اليمن | 23 | 4 | 4 | 4 | 3 | 3 | 20 | 0 | 0 | 0 | 19 | 0 | 1 |
 | السعودية | 166 | 56 | 55 | 55 | 55 | 29 | 111 | 0 | 0 | 0 | 110 | 0 | 0 |
-| مصر | 117 | 16 | 13 | 13 | 13 | 12 | 104 | 0 | 0 | 3 | 101 | 0 | 0 |
-| العراق | 140 | 57 | 54 | 54 | 53 | 2 | 87 | 0 | 0 | 3 | 83 | 0 | 1 |
+| مصر | 117 | 17 | 14 | 14 | 14 | 12 | 103 | 0 | 0 | 3 | 100 | 0 | 0 |
+| العراق | 140 | 58 | 55 | 55 | 54 | 2 | 86 | 0 | 0 | 3 | 82 | 0 | 1 |
 | الإمارات | 140 | 39 | 36 | 36 | 36 | 20 | 104 | 1 | 0 | 3 | 99 | 1 | 0 |
 | الكويت | 26 | 11 | 11 | 11 | 11 | 10 | 15 | 0 | 0 | 0 | 15 | 0 | 0 |
 | قطر | 87 | 16 | 16 | 16 | 16 | 15 | 71 | 0 | 0 | 0 | 57 | 14 | 0 |
@@ -206,6 +206,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 
 ### مصر (EG)
 
+- `CANDIDATE_NOT_APPROVED` — **Hya TV** (`HyaTV.eg`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Rotana Cinema Egypt** (`RotanaCinemaEgypt.eg`); streams: 1, HTTPS: 1, valid: 1
 - `HTTP_ONLY` — **Al Masriyah** (`AlMasriyah.eg`); streams: 1, HTTPS: 0, valid: 0
 - `HTTP_ONLY` — **Mazzika** (`Mazzika.eg`); streams: 1, HTTPS: 0, valid: 0
@@ -263,7 +264,6 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **Free TV** (`FreeTV.eg`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **GUC TV** (`GUCTV.eg`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **HBC** (`HBC.eg`); streams: 0, HTTPS: 0, valid: 0
-- `NO_STREAMS` — **Hya TV** (`HyaTV.eg`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Madrasetna 1** (`Madrasetna1.eg`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Madrasetna 2** (`Madrasetna2.eg`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Madrasetna 3** (`Madrasetna3.eg`); streams: 0, HTTPS: 0, valid: 0
@@ -352,6 +352,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `CANDIDATE_NOT_APPROVED` — **Kurdistan TV** (`KurdistanTV.iq`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Kurdsat** (`Kurdsat.iq`); streams: 2, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Kurdsat News** (`KurdsatNews.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **MahdawiounTV** (`MahdawiounTV.iq`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Manu Chat** (`ManuChat.iq`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Marjaeyat TV Arabic** (`MarjaeyatTVArabic.iq`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Marjaeyat TV English** (`MarjaeyatTVEnglish.iq`); streams: 1, HTTPS: 1, valid: 1
@@ -430,7 +431,6 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **KurdMax Music** (`KurdMaxMusic.iq`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **KurdMax Show** (`KurdMaxShow.iq`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **KurdMax Sorani** (`KurdMaxSorani.iq`); streams: 0, HTTPS: 0, valid: 0
-- `NO_STREAMS` — **MahdawiounTV** (`MahdawiounTV.iq`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Net TV** (`NetTV.iq`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **NRT** (`NRT.iq`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **NRT 2** (`NRT2.iq`); streams: 0, HTTPS: 0, valid: 0
