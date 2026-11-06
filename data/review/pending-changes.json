@@ -2266,9 +2266,9 @@
     },
     {
       "channelId": "AlMashhad.ae",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-06T12:57:54Z",
       "field": "channel",
-      "id": "chg-f4cd0c7f17ba72b785f6db5d",
+      "id": "chg-2748de8acf3edeadae57b54c",
       "new": {
         "categories": [
           "NEWS"
@@ -2300,7 +2300,7 @@
             "quality": "1080p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://amg30483-amg30483c23-amgplt0794.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30483-amg30483c23-amgplt0794/playlist.m3u8?ads.appversion=[APP_VERSION]&ads.devicemodel=[DEVICE_MODEL]&ads.lat=[LMT]&ads.bundleid=[APP_BUNDLE]&ads.donotsell=[DNS]&ads.ifa=[IFA]&ads.targetad=[TARGETAD_ALLOWED]&ads.appstoreurl=[APP_STOREURL]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicetype=[DEVICE_TYPE]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.appname=[APP_NAME]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.givn=[NONCE]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.viewsize=[VIEWSIZE]&ads.coppa=0&ads.ic=[IC]&ads.network_name=[networkname]",
+            "url": "https://amg30483-amg30483c23-amgplt0794.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30483-amg30483c23-amgplt0794/playlist.m3u8?ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.appversion=[APP_VERSION]&ads.bundleid=[APP_BUNDLE]&ads.coppa=0&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.devicetype=[DEVICE_TYPE]&ads.donotsell=[DNS]&ads.fck=[FCK]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.givn=[NONCE]&ads.ic=[IC]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.lat=[LMT]&ads.network_name=[networkname]&ads.targetad=[TARGETAD_ALLOWED]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.viewsize=[VIEWSIZE]",
             "userAgent": null
           }
         ],
@@ -2879,9 +2879,9 @@
     },
     {
       "channelId": "AlawlaTV.iq",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-06T12:57:54Z",
       "field": "channel",
-      "id": "chg-c5e8ff8e72cb393c19d56243",
+      "id": "chg-7c2925e672333f933d2d44d4",
       "new": {
         "categories": [
           "GENERAL"
@@ -2910,7 +2910,7 @@
               "label": null
             },
             "priority": 0,
-            "quality": null,
+            "quality": "720p",
             "referer": null,
             "source": "iptv-org",
             "url": "https://live.alawla.tv/hls/stream.m3u8",
@@ -3663,9 +3663,9 @@
     },
     {
       "channelId": "AmericanNinjaWarrior.us",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-06T12:57:54Z",
       "field": "channel",
-      "id": "chg-ab610fd5d96d568a7e0a0dd7",
+      "id": "chg-e44100f37a16b6dba97569db",
       "new": {
         "categories": [
           "SPORTS"
@@ -3697,7 +3697,7 @@
             "quality": "1080p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads.xumo_channelId=99951318&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99951318",
+            "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_coppa=0&ads._fw_deviceMake=GitHubAction&ads._fw_deviceType=3-Connected_TV&ads._fw_device_model=PythonScript&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads.afid=405342864&ads.appName=XumoPlay&ads.appVersion=1.0.0&ads.asnw=169843&ads.channelId=99951318&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads.sfid=19647852&ads.xumo_channelId=99951318&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior",
             "userAgent": null
           },
           {
@@ -3711,7 +3711,7 @@
             "quality": "1080p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993042/hls/master.m3u8?ads.xumo_channelId=99993042&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=lgchannels_us_nbcuamericanninjawarrior_ssai_cro&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99993042",
+            "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993042/hls/master.m3u8?ads.afid=405342864&ads.asnw=169843&ads.channelId=99993042&ads.csid=lgchannels_us_nbcuamericanninjawarrior_ssai_cro&ads.sfid=19647852&ads.xumo_channelId=99993042&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior",
             "userAgent": null
           },
           {
@@ -12830,9 +12830,9 @@
     },
     {
       "channelId": "News12Bronx.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-06T12:57:54Z",
       "field": "channel",
-      "id": "chg-77861eac3074932881bee5fb",
+      "id": "chg-4e1caaeedd783fa5ebf5c363",
       "new": {
         "categories": [
           "NEWS"
@@ -12861,7 +12861,7 @@
               "label": null
             },
             "priority": 0,
-            "quality": null,
+            "quality": "1080p",
             "referer": null,
             "source": "iptv-org",
             "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https",
@@ -12878,9 +12878,9 @@
     },
     {
       "channelId": "News12Brooklyn.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-06T12:57:54Z",
       "field": "channel",
-      "id": "chg-d011fac470e8e816f4dede41",
+      "id": "chg-4b25c92337b40843662d111a",
       "new": {
         "categories": [
           "NEWS"
@@ -12909,7 +12909,7 @@
               "label": null
             },
             "priority": 0,
-            "quality": null,
+            "quality": "720p",
             "referer": null,
             "source": "iptv-org",
             "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https",
@@ -12974,9 +12974,9 @@
     },
     {
       "channelId": "News12HudsonValley.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-06T12:57:54Z",
       "field": "channel",
-      "id": "chg-d35d09d89dce7b259519c491",
+      "id": "chg-e3dcd51d57687bceb74239b8",
       "new": {
         "categories": [
           "NEWS"
@@ -13005,7 +13005,7 @@
               "label": null
             },
             "priority": 0,
-            "quality": null,
+            "quality": "1080p",
             "referer": null,
             "source": "iptv-org",
             "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https",
@@ -13070,9 +13070,9 @@
     },
     {
       "channelId": "News12NewJersey.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-06T12:57:54Z",
       "field": "channel",
-      "id": "chg-9a289bbf94d0e8e1e610f63c",
+      "id": "chg-164cbe86abbf8d6459d9cce8",
       "new": {
         "categories": [
           "NEWS"
@@ -13101,7 +13101,7 @@
               "label": null
             },
             "priority": 0,
-            "quality": null,
+            "quality": "1080p",
             "referer": null,
             "source": "iptv-org",
             "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https",
@@ -13434,9 +13434,9 @@
     },
     {
       "channelId": "News12Westchester.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-06T12:57:54Z",
       "field": "channel",
-      "id": "chg-4b0dd78c51f38dfcc9fe1b7f",
+      "id": "chg-39a72ce333a6fc779525d82e",
       "new": {
         "categories": [
           "NEWS"
@@ -13465,7 +13465,7 @@
               "label": null
             },
             "priority": 0,
-            "quality": null,
+            "quality": "1080p",
             "referer": null,
             "source": "iptv-org",
             "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https",
@@ -16835,9 +16835,9 @@
     },
     {
       "channelId": "SCCurrents.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-06T12:57:54Z",
       "field": "channel",
-      "id": "chg-78f30ecf10a58939fb70d991",
+      "id": "chg-54f6db9d31fd83883edb4e50",
       "new": {
         "categories": [
           "NEWS"
@@ -16867,7 +16867,7 @@
               "label": null
             },
             "priority": 0,
-            "quality": null,
+            "quality": "1080p",
             "referer": null,
             "source": "iptv-org",
             "url": "https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8",
@@ -18391,6 +18391,243 @@
       "requiresApproval": true,
       "status": "PENDING",
       "type": "ADD_CHANNEL"
+    },
+    {
+      "channelId": "StrongmanChampionsLeague.uk",
+      "detectedAt": "2026-11-06T12:57:54Z",
+      "field": "streams",
+      "id": "chg-b579ad3b82766a637fabeb6a",
+      "new": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "1080p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://rightsboosterltd-scl-1-us.xumo.wurl.tv/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://cb4748b76e2c4b11bb5790666256964b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_StrongmanChampionsLeague/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 3,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://rightsboosterltd-scl-1-dk.samsung.wurl.tv/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 4,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://rightsboosterltd-scl-1-fi.samsung.wurl.tv/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 5,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 6,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://rightsboosterltd-scl-1-no.samsung.wurl.tv/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 7,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "old": [
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 0,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 1,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://rightsboosterltd-scl-1-dk.samsung.wurl.tv/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 2,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://rightsboosterltd-scl-1-fi.samsung.wurl.tv/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 3,
+          "quality": "720p",
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://rightsboosterltd-scl-1-no.samsung.wurl.tv/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 4,
+          "quality": null,
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://cb4748b76e2c4b11bb5790666256964b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_StrongmanChampionsLeague/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 5,
+          "quality": null,
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 6,
+          "quality": null,
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8",
+          "userAgent": null
+        },
+        {
+          "geo": {
+            "allowedCountries": [],
+            "blockedCountries": [],
+            "isGeoBlocked": false,
+            "label": null
+          },
+          "priority": 7,
+          "quality": null,
+          "referer": null,
+          "source": "iptv-org",
+          "url": "https://rightsboosterltd-scl-1-us.xumo.wurl.tv/playlist.m3u8",
+          "userAgent": null
+        }
+      ],
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "CHANGE_STREAMS"
     },
     {
       "channelId": "SudanTV.sd",
@@ -20268,9 +20505,9 @@
     },
     {
       "channelId": "W14DKD142.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-06T12:57:54Z",
       "field": "channel",
-      "id": "chg-07b717375ad0331238629853",
+      "id": "chg-6dc419be5b9a6f5cc5dd40d9",
       "new": {
         "categories": [
           "NEWS"
@@ -20299,7 +20536,7 @@
               "label": null
             },
             "priority": 0,
-            "quality": null,
+            "quality": "720p",
             "referer": null,
             "source": "iptv-org",
             "url": "https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8",
@@ -21573,7 +21810,7 @@
       "type": "ADD_CHANNEL"
     }
   ],
-  "generatedAt": "2026-11-05T13:13:10Z",
+  "generatedAt": "2026-11-06T12:57:54Z",
   "schemaVersion": 1,
   "summary": {
     "adultRejectedCount": 378,
@@ -21581,12 +21818,12 @@
       "ADD_CHANNEL": 331,
       "CHANGE_GEO": 27,
       "CHANGE_LANGUAGES": 1,
-      "CHANGE_STREAMS": 14,
+      "CHANGE_STREAMS": 15,
       "CHANGE_STREAM_HEADERS": 1,
       "LOGO_ONLY": 3,
       "UPSTREAM_MISSING": 5
     },
     "safetyQuarantinedCount": 0,
-    "totalPending": 379
+    "totalPending": 380
   }
 }

@@ -3493,7 +3493,7 @@
             "label": null
           },
           "priority": 0,
-          "quality": null,
+          "quality": "720p",
           "referer": null,
           "source": "iptv-org",
           "url": "https://live.alawla.tv/hls/stream.m3u8",
@@ -5214,7 +5214,7 @@
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://amg30483-amg30483c23-amgplt0794.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30483-amg30483c23-amgplt0794/playlist.m3u8?ads.appversion=[APP_VERSION]&ads.devicemodel=[DEVICE_MODEL]&ads.lat=[LMT]&ads.bundleid=[APP_BUNDLE]&ads.donotsell=[DNS]&ads.ifa=[IFA]&ads.targetad=[TARGETAD_ALLOWED]&ads.appstoreurl=[APP_STOREURL]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicetype=[DEVICE_TYPE]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.appname=[APP_NAME]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.givn=[NONCE]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.viewsize=[VIEWSIZE]&ads.coppa=0&ads.ic=[IC]&ads.network_name=[networkname]",
+          "url": "https://amg30483-amg30483c23-amgplt0794.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30483-amg30483c23-amgplt0794/playlist.m3u8?ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.appversion=[APP_VERSION]&ads.bundleid=[APP_BUNDLE]&ads.coppa=0&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.devicetype=[DEVICE_TYPE]&ads.donotsell=[DNS]&ads.fck=[FCK]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.givn=[NONCE]&ads.ic=[IC]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.lat=[LMT]&ads.network_name=[networkname]&ads.targetad=[TARGETAD_ALLOWED]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.viewsize=[VIEWSIZE]",
           "userAgent": null
         }
       ],
@@ -13321,7 +13321,7 @@
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads.xumo_channelId=99951318&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99951318",
+          "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_coppa=0&ads._fw_deviceMake=GitHubAction&ads._fw_deviceType=3-Connected_TV&ads._fw_device_model=PythonScript&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads.afid=405342864&ads.appName=XumoPlay&ads.appVersion=1.0.0&ads.asnw=169843&ads.channelId=99951318&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads.sfid=19647852&ads.xumo_channelId=99951318&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior",
           "userAgent": null
         },
         {
@@ -13335,7 +13335,7 @@
           "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993042/hls/master.m3u8?ads.xumo_channelId=99993042&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=lgchannels_us_nbcuamericanninjawarrior_ssai_cro&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99993042",
+          "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993042/hls/master.m3u8?ads.afid=405342864&ads.asnw=169843&ads.channelId=99993042&ads.csid=lgchannels_us_nbcuamericanninjawarrior_ssai_cro&ads.sfid=19647852&ads.xumo_channelId=99993042&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior",
           "userAgent": null
         },
         {
@@ -18085,7 +18085,7 @@
             "label": null
           },
           "priority": 0,
-          "quality": null,
+          "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
           "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https",
@@ -18123,7 +18123,7 @@
             "label": null
           },
           "priority": 0,
-          "quality": null,
+          "quality": "720p",
           "referer": null,
           "source": "iptv-org",
           "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https",
@@ -18199,7 +18199,7 @@
             "label": null
           },
           "priority": 0,
-          "quality": null,
+          "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
           "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https",
@@ -18275,7 +18275,7 @@
             "label": null
           },
           "priority": 0,
-          "quality": null,
+          "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
           "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https",
@@ -18365,7 +18365,7 @@
             "label": null
           },
           "priority": 0,
-          "quality": null,
+          "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
           "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https",
@@ -20413,7 +20413,7 @@
             "label": null
           },
           "priority": 0,
-          "quality": null,
+          "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
           "url": "https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8",
@@ -20858,10 +20858,10 @@
             "label": null
           },
           "priority": 0,
-          "quality": "720p",
+          "quality": "1080p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8",
+          "url": "https://rightsboosterltd-scl-1-us.xumo.wurl.tv/playlist.m3u8",
           "userAgent": null
         },
         {
@@ -20875,7 +20875,7 @@
           "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://rightsboosterltd-scl-1-dk.samsung.wurl.tv/playlist.m3u8",
+          "url": "https://cb4748b76e2c4b11bb5790666256964b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_StrongmanChampionsLeague/playlist.m3u8",
           "userAgent": null
         },
         {
@@ -20889,7 +20889,7 @@
           "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://rightsboosterltd-scl-1-fi.samsung.wurl.tv/playlist.m3u8",
+          "url": "https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8",
           "userAgent": null
         },
         {
@@ -20903,7 +20903,7 @@
           "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://rightsboosterltd-scl-1-no.samsung.wurl.tv/playlist.m3u8",
+          "url": "https://rightsboosterltd-scl-1-dk.samsung.wurl.tv/playlist.m3u8",
           "userAgent": null
         },
         {
@@ -20914,10 +20914,10 @@
             "label": null
           },
           "priority": 4,
-          "quality": null,
+          "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://cb4748b76e2c4b11bb5790666256964b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_StrongmanChampionsLeague/playlist.m3u8",
+          "url": "https://rightsboosterltd-scl-1-fi.samsung.wurl.tv/playlist.m3u8",
           "userAgent": null
         },
         {
@@ -20928,7 +20928,7 @@
             "label": null
           },
           "priority": 5,
-          "quality": null,
+          "quality": "720p",
           "referer": null,
           "source": "iptv-org",
           "url": "https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8",
@@ -20942,10 +20942,10 @@
             "label": null
           },
           "priority": 6,
-          "quality": null,
+          "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8",
+          "url": "https://rightsboosterltd-scl-1-no.samsung.wurl.tv/playlist.m3u8",
           "userAgent": null
         },
         {
@@ -20956,10 +20956,10 @@
             "label": null
           },
           "priority": 7,
-          "quality": null,
+          "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://rightsboosterltd-scl-1-us.xumo.wurl.tv/playlist.m3u8",
+          "url": "https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8",
           "userAgent": null
         }
       ],
@@ -22128,7 +22128,7 @@
             "label": null
           },
           "priority": 0,
-          "quality": null,
+          "quality": "720p",
           "referer": null,
           "source": "iptv-org",
           "url": "https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8",
@@ -24261,7 +24261,7 @@
     "SD",
     "TN"
   ],
-  "generatedAt": "2026-11-05T13:13:10Z",
+  "generatedAt": "2026-11-06T12:57:54Z",
   "schemaVersion": 1,
   "version": 10
 }
