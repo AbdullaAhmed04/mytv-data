@@ -1,6 +1,6 @@
 # MYTV Arab channel audit
 
-Generated: `2026-11-06T12:57:54Z`
+Generated: `2026-11-07T11:44:25Z`
 
 This report audits Arab-country channels from IPTV-org without exposing adult or safety-quarantined channel identities or stream URLs.
 
@@ -460,7 +460,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `CANDIDATE_NOT_APPROVED` — **Al Mashhad** (`AlMashhad.ae`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Fujairah TV** (`FujairahTV.ae`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **MBC FM** (`MBCFM.ae`); streams: 2, HTTPS: 2, valid: 2
-- `CANDIDATE_NOT_APPROVED` — **Peace TV Bangla** (`PeaceTVBangla.ae`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Peace TV Bangla** (`PeaceTVBangla.ae`); streams: 2, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Peace TV Chinese** (`PeaceTVChinese.ae`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Peace TV English** (`PeaceTVEnglish.ae`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Peace TV Urdu** (`PeaceTVUrdu.ae`); streams: 1, HTTPS: 1, valid: 1
