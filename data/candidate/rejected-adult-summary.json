@@ -1,6 +1,6 @@
 {
-  "adultRejectedCount": 378,
-  "generatedAt": "2026-11-11T12:43:50Z",
+  "adultRejectedCount": 379,
+  "generatedAt": "2026-11-12T13:47:04Z",
   "items": [
     {
       "channelId": "21Sextury.us",
@@ -232,6 +232,10 @@
     },
     {
       "channelId": "AssholeFever.uk",
+      "reason": "IPTV-org is_nsfw=true"
+    },
+    {
+      "channelId": "AtlanticTV.tt",
       "reason": "IPTV-org is_nsfw=true"
     },
     {
