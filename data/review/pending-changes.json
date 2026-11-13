@@ -4,9 +4,9 @@
   "changes": [
     {
       "channelId": "30AGeorgiaHollywoodReview.us",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-b0a9be9b86509c326fcd80cf",
+      "id": "chg-0cff8486d71dac09c3fd2a3a",
       "new": {
         "categories": [
           "NEWS",
@@ -22,7 +22,7 @@
         ],
         "logo": "https://images.axios.com/JiG3RuYBwpU_WZFeU6HHjt03FAU=/111x0:1191x1080/320x320/2023/11/09/1699558891265.jpg",
         "name": "30A Georgia Hollywood Review",
-        "order": 287,
+        "order": 288,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -53,9 +53,9 @@
     },
     {
       "channelId": "30AGolfKingdom.us",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-37eb06dbe0b139698130e13a",
+      "id": "chg-962f5aa88a4b073788f630ac",
       "new": {
         "categories": [
           "SPORTS"
@@ -70,7 +70,7 @@
         ],
         "logo": "https://i.imgur.com/Lv53nh4.png",
         "name": "30A Golf Kingdom",
-        "order": 288,
+        "order": 289,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -101,9 +101,9 @@
     },
     {
       "channelId": "30ALionelNation.us",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-4aad2f23b6a385100a372afc",
+      "id": "chg-3d95f055d7e597d368facd7d",
       "new": {
         "categories": [
           "NEWS"
@@ -118,7 +118,7 @@
         ],
         "logo": "https://m.media-amazon.com/images/I/71dgsQwVcNL.png",
         "name": "30A Lionel Nation",
-        "order": 289,
+        "order": 290,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -149,9 +149,9 @@
     },
     {
       "channelId": "30ALoomeredTV.us",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-e2400d0cac1c57114d893005",
+      "id": "chg-96ad9fc4a489c18712b5b0fc",
       "new": {
         "categories": [
           "NEWS",
@@ -167,7 +167,7 @@
         ],
         "logo": "https://cbs12.com/resources/media/0c1ecad8-fb09-4bb2-beaa-fc561dfe624a-small21x9_LoomerStill.jpg?1603419052801",
         "name": "30A Loomered TV",
-        "order": 290,
+        "order": 291,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -295,9 +295,9 @@
     },
     {
       "channelId": "ABCNewsLive1.us",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-16ca7d507bdc1aaa955c2b4d",
+      "id": "chg-e2fadd6c2e7beb879170cbc6",
       "new": {
         "categories": [
           "NEWS"
@@ -312,7 +312,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
         "name": "ABC News Live 1",
-        "order": 292,
+        "order": 293,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -343,9 +343,9 @@
     },
     {
       "channelId": "ABCNewsLive10.us",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-d468a4aec9d87603880fa3a0",
+      "id": "chg-10add0e97619fa5fc142cf3c",
       "new": {
         "categories": [
           "NEWS"
@@ -360,7 +360,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
         "name": "ABC News Live 10",
-        "order": 293,
+        "order": 294,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -391,9 +391,9 @@
     },
     {
       "channelId": "ABCNewsLive2.us",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-98361d348978c0a101b87ebd",
+      "id": "chg-9a4cf886fb91871d52e975ca",
       "new": {
         "categories": [
           "NEWS"
@@ -408,7 +408,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
         "name": "ABC News Live 2",
-        "order": 294,
+        "order": 295,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -439,9 +439,9 @@
     },
     {
       "channelId": "ABCNewsLive3.us",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-d7906a6496d425e68e4e31a3",
+      "id": "chg-6f5a7e14c71b9eccb81a7cde",
       "new": {
         "categories": [
           "NEWS"
@@ -456,7 +456,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
         "name": "ABC News Live 3",
-        "order": 295,
+        "order": 296,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -487,9 +487,9 @@
     },
     {
       "channelId": "ABCNewsLive4.us",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-78497fc7978e0164c4ea6c08",
+      "id": "chg-e955823fd6452091cf8b7d90",
       "new": {
         "categories": [
           "NEWS"
@@ -504,7 +504,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
         "name": "ABC News Live 4",
-        "order": 296,
+        "order": 297,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -535,9 +535,9 @@
     },
     {
       "channelId": "ABCNewsLive5.us",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-89ecf6f8780f7afd54acbe06",
+      "id": "chg-512246838018a04abf4c032c",
       "new": {
         "categories": [
           "NEWS"
@@ -552,7 +552,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
         "name": "ABC News Live 5",
-        "order": 297,
+        "order": 298,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -583,9 +583,9 @@
     },
     {
       "channelId": "ABCNewsLive6.us",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-50f1abb9ed841ee0a83cad08",
+      "id": "chg-8383003280ab7d9020a39500",
       "new": {
         "categories": [
           "NEWS"
@@ -600,7 +600,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
         "name": "ABC News Live 6",
-        "order": 298,
+        "order": 299,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -631,9 +631,9 @@
     },
     {
       "channelId": "ABCNewsLive7.us",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-bc48277a4ca850d2da1e9357",
+      "id": "chg-403dec740bc9f297edce403e",
       "new": {
         "categories": [
           "NEWS"
@@ -648,7 +648,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
         "name": "ABC News Live 7",
-        "order": 299,
+        "order": 300,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -679,9 +679,9 @@
     },
     {
       "channelId": "ABCNewsLive8.us",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-9150681dcec7d20fa2f9b637",
+      "id": "chg-e215c6604dd441ce1d5beb94",
       "new": {
         "categories": [
           "NEWS"
@@ -696,7 +696,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
         "name": "ABC News Live 8",
-        "order": 300,
+        "order": 301,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -727,9 +727,9 @@
     },
     {
       "channelId": "ABCNewsLive9.us",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-ffa990efb119624bffedbfe5",
+      "id": "chg-1961e974ab05a2b7d8428a53",
       "new": {
         "categories": [
           "NEWS"
@@ -744,7 +744,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
         "name": "ABC News Live 9",
-        "order": 301,
+        "order": 302,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -823,9 +823,9 @@
     },
     {
       "channelId": "ACCDigitalNetwork.us",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-5b9e11ee23fe9250833b84d8",
+      "id": "chg-4cfa816f0d2790e30caef8ac",
       "new": {
         "categories": [
           "SPORTS"
@@ -840,7 +840,7 @@
         ],
         "logo": "https://i.imgur.com/V6Kaqha.png",
         "name": "ACC Digital Network",
-        "order": 302,
+        "order": 303,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -899,9 +899,9 @@
     },
     {
       "channelId": "ATVSat.us",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-c808a25dcb1b2d5cea9cbd26",
+      "id": "chg-d565495263adb0211da6fcc3",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -916,7 +916,7 @@
         ],
         "logo": "https://i.imgur.com/pwM5txv.png",
         "name": "ATVSat",
-        "order": 319,
+        "order": 320,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -1188,9 +1188,9 @@
     },
     {
       "channelId": "AfghanistanInternational.uk",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-1614ee3aeaff54e19046e225",
+      "id": "chg-1a68cb982959ab81693091bb",
       "new": {
         "categories": [
           "NEWS"
@@ -1207,7 +1207,7 @@
         ],
         "logo": "https://i.imgur.com/r8MmFRX.png",
         "name": "Afghanistan International",
-        "order": 303,
+        "order": 304,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -1408,9 +1408,9 @@
     },
     {
       "channelId": "AlFadyTV.us",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-d7669b1f6aec27c04a2e8586",
+      "id": "chg-1f2dda29366910ee49224ea6",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -1425,7 +1425,7 @@
         ],
         "logo": "https://i.imgur.com/7L0l0iY.png",
         "name": "Al-Fady TV",
-        "order": 306,
+        "order": 307,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -1505,9 +1505,9 @@
     },
     {
       "channelId": "AlHayatTV.us",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-f97eada6445a15a73ff40b60",
+      "id": "chg-d52638cd57b13cc09772b9a6",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -1522,7 +1522,7 @@
         ],
         "logo": "https://i.imgur.com/M8ZuzeB.png",
         "name": "Al Hayat TV",
-        "order": 304,
+        "order": 305,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -1699,9 +1699,9 @@
     },
     {
       "channelId": "AlIttihadTV.lb",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-0aeb9cdd5b532dab5dc52b91",
+      "id": "chg-957f8f518cef411bea8b4043",
       "new": {
         "categories": [
           "GENERAL"
@@ -1716,7 +1716,7 @@
         ],
         "logo": "https://i.imgur.com/QMUjPXx.png",
         "name": "Al Ittihad TV",
-        "order": 203,
+        "order": 204,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -2170,9 +2170,9 @@
     },
     {
       "channelId": "AlMadina.ps",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-085ff582b82f17edfc6dd3ca",
+      "id": "chg-7d15f96db1b1730d9b0ff5ea",
       "new": {
         "categories": [
           "OTHER"
@@ -2187,7 +2187,7 @@
         ],
         "logo": "https://i.imgur.com/NVOeM3P.png",
         "name": "Al Madina",
-        "order": 236,
+        "order": 237,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -2218,9 +2218,9 @@
     },
     {
       "channelId": "AlManar.lb",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-2fe30cc6d095ec0c20dc9329",
+      "id": "chg-812ca05bc8d466a0d2c40531",
       "new": {
         "categories": [
           "NEWS"
@@ -2235,7 +2235,7 @@
         ],
         "logo": "https://i.imgur.com/sOQLV7L.png",
         "name": "Al-Manar",
-        "order": 206,
+        "order": 207,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -2339,9 +2339,9 @@
     },
     {
       "channelId": "AlNajahNews.ps",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-e1e2bde2045a5b0936a2979e",
+      "id": "chg-e2d653839e1e1ce7649f8186",
       "new": {
         "categories": [
           "NEWS"
@@ -2356,7 +2356,7 @@
         ],
         "logo": "https://i.imgur.com/c2bwn4G.png",
         "name": "Al Najah News",
-        "order": 237,
+        "order": 238,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -2412,9 +2412,9 @@
     },
     {
       "channelId": "AlRafidainTV.tr",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-62d3041e7ae0cbb81199cd42",
+      "id": "chg-805cbc593fab377595286fc5",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -2429,7 +2429,7 @@
         ],
         "logo": "https://i.imgur.com/rjXDCN5.png",
         "name": "Al-Rafidain TV",
-        "order": 486,
+        "order": 487,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -2783,9 +2783,9 @@
     },
     {
       "channelId": "AlWilayah.ir",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-2026be5f359f8011a491f4d1",
+      "id": "chg-8b3d7756ba40dc56befe3956",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -2800,7 +2800,7 @@
         ],
         "logo": "https://i.imgur.com/OI1HQv5.png",
         "name": "Al Wilayah",
-        "order": 485,
+        "order": 486,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -2975,9 +2975,9 @@
     },
     {
       "channelId": "AlhaqeqaAldawlia.jo",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-ed3242cd462249a0c3a3d00c",
+      "id": "chg-0dd76fd4018033b550604260",
       "new": {
         "categories": [
           "NEWS"
@@ -2992,7 +2992,7 @@
         ],
         "logo": null,
         "name": "Alhaqeqa Aldawlia",
-        "order": 189,
+        "order": 190,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -3023,9 +3023,9 @@
     },
     {
       "channelId": "AlkarmaTVAustralia.us",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-76eed2de13768cc44cdfd659",
+      "id": "chg-7c3e274a596f6be0b3c76ea6",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -3040,7 +3040,7 @@
         ],
         "logo": "https://i.imgur.com/90ykspa.png",
         "name": "Alkarma TV Australia",
-        "order": 307,
+        "order": 308,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -3085,9 +3085,9 @@
     },
     {
       "channelId": "AlkarmaTVFamily.us",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-87a5d413a0d2229a61ffb324",
+      "id": "chg-ac2a09985651258dda7823dc",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -3102,7 +3102,7 @@
         ],
         "logo": "https://i.imgur.com/yUEuQA2.png",
         "name": "Alkarma TV Family",
-        "order": 308,
+        "order": 309,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -3133,9 +3133,9 @@
     },
     {
       "channelId": "AlkarmaTVMiddleEast.us",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-05ab2f0d273cd9d46ae2f43d",
+      "id": "chg-db1062526dd3d8d64aa630c1",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -3150,7 +3150,7 @@
         ],
         "logo": "https://i.imgur.com/6OmNw5A.png",
         "name": "Alkarma TV Middle East",
-        "order": 309,
+        "order": 310,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -3181,9 +3181,9 @@
     },
     {
       "channelId": "AlkarmaTVNorthAmericaCanada.us",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-3458461df855fce538021097",
+      "id": "chg-46f677e06e7e80b6edea388a",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -3198,7 +3198,7 @@
         ],
         "logo": "https://i.imgur.com/pnm60bq.png",
         "name": "Alkarma TV North America & Canada",
-        "order": 310,
+        "order": 311,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -3229,9 +3229,9 @@
     },
     {
       "channelId": "AlkarmaTVPraise.us",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-6be5e5ab9ac8dac5829eb9dc",
+      "id": "chg-45b42e7a11c75542f7793b60",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -3246,7 +3246,7 @@
         ],
         "logo": "https://i.imgur.com/bJLKkou.png",
         "name": "Alkarma TV Praise",
-        "order": 311,
+        "order": 312,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -3277,9 +3277,9 @@
     },
     {
       "channelId": "AlkarmaTVTalmazaDiscipleship.us",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-89c999d4f64735381a71784b",
+      "id": "chg-91aaa2ee1c755de4e968e17c",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -3294,7 +3294,7 @@
         ],
         "logo": "https://i.imgur.com/t2ZkRbr.png",
         "name": "Alkarma TV Talmaza Discipleship",
-        "order": 312,
+        "order": 313,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -3325,9 +3325,9 @@
     },
     {
       "channelId": "AlkarmaTVYouthEnglish.us",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-0a55b43529dd8e688f8df26f",
+      "id": "chg-43ca2d479b1e27f95490e80e",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -3342,7 +3342,7 @@
         ],
         "logo": "https://i.imgur.com/kpuO8m7.png",
         "name": "Alkarma TV Youth & English",
-        "order": 313,
+        "order": 314,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -3421,9 +3421,9 @@
     },
     {
       "channelId": "AlmagdTVMiddleEast.us",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-ab9f95387d2e1a00d5f5f5c6",
+      "id": "chg-b7c14f9193d75a2f80910309",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -3439,7 +3439,7 @@
         ],
         "logo": "https://i.imgur.com/3pUik3b.png",
         "name": "Almagd TV Middle East",
-        "order": 314,
+        "order": 315,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -3470,9 +3470,9 @@
     },
     {
       "channelId": "AlmagdTVNorthAmerica.us",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-7d83d4992ecc48ea054e1eaa",
+      "id": "chg-9eb779e2e656d71992924d96",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -3488,7 +3488,7 @@
         ],
         "logo": "https://i.imgur.com/3pUik3b.png",
         "name": "Almagd TV North America",
-        "order": 315,
+        "order": 316,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -3519,9 +3519,9 @@
     },
     {
       "channelId": "AlmahriahTV.tr",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-0a4a19e23f0777a3f10b90a4",
+      "id": "chg-b7742cb4aeae85b0c9437fda",
       "new": {
         "categories": [
           "NEWS"
@@ -3536,7 +3536,7 @@
         ],
         "logo": "https://i.imgur.com/GgEeTNr.png",
         "name": "Almahriah TV",
-        "order": 487,
+        "order": 488,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -3663,9 +3663,9 @@
     },
     {
       "channelId": "AmericanNinjaWarrior.us",
-      "detectedAt": "2026-11-06T12:57:54Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-e44100f37a16b6dba97569db",
+      "id": "chg-c7b6f499e845c615fb7c0f73",
       "new": {
         "categories": [
           "SPORTS"
@@ -3680,7 +3680,7 @@
         ],
         "logo": "https://raw.githubusercontent.com/RoqueDJ/iptv-svg/main/1792421696158.png",
         "name": "American Ninja Warrior",
-        "order": 318,
+        "order": 319,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -3739,9 +3739,9 @@
     },
     {
       "channelId": "AmericasVoice.us",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-3c286bc002e64822f04d6e7e",
+      "id": "chg-a58bf9def0f7a7b4983d0767",
       "new": {
         "categories": [
           "NEWS"
@@ -3757,7 +3757,7 @@
         ],
         "logo": null,
         "name": "America's Voice",
-        "order": 316,
+        "order": 317,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -3788,9 +3788,9 @@
     },
     {
       "channelId": "AmericasVoiceNews.us",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-9b000868c5001739b72f1764",
+      "id": "chg-de60e44be22a84aa5eb8bfc7",
       "new": {
         "categories": [
           "NEWS"
@@ -3805,7 +3805,7 @@
         ],
         "logo": "https://i.imgur.com/C4w0eYC.png",
         "name": "America's Voice News",
-        "order": 317,
+        "order": 318,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -3932,9 +3932,9 @@
     },
     {
       "channelId": "ArlaadiTV.so",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-1162b6ded537937ccc2c1af8",
+      "id": "chg-8c278f3ac41067f10aa64d97",
       "new": {
         "categories": [
           "GENERAL"
@@ -3949,7 +3949,7 @@
         ],
         "logo": "https://i.imgur.com/2tlFMXF.png",
         "name": "Arlaadi TV",
-        "order": 277,
+        "order": 278,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -4077,9 +4077,9 @@
     },
     {
       "channelId": "AsilTV.ir",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-7e36168d2fe3fdbeb6974361",
+      "id": "chg-1e1497123e400657c87fef0c",
       "new": {
         "categories": [
           "OTHER"
@@ -4094,7 +4094,7 @@
         ],
         "logo": "https://i.imgur.com/gROQqFD.png",
         "name": "Asil TV",
-        "order": 488,
+        "order": 489,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -4125,9 +4125,9 @@
     },
     {
       "channelId": "AssiratTV.ir",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-25a2d9c1fe3823e6bbafff70",
+      "id": "chg-604e58e8d4fcce48050646c7",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -4142,7 +4142,7 @@
         ],
         "logo": "https://i.imgur.com/ps4Gtj0.png",
         "name": "Assirat TV",
-        "order": 489,
+        "order": 490,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -4458,9 +4458,9 @@
     },
     {
       "channelId": "BEKNews.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-b2800db2c351201ca78cc4ef",
+      "id": "chg-b996723da54adb2d657f97e8",
       "new": {
         "categories": [
           "NEWS"
@@ -4475,7 +4475,7 @@
         ],
         "logo": "https://i.imgur.com/m80uxdz.png",
         "name": "BEK News",
-        "order": 326,
+        "order": 327,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -4506,9 +4506,9 @@
     },
     {
       "channelId": "BEKSports.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-4f744ad871dc5e32e6be7084",
+      "id": "chg-293ba7003a2d66d1a067092c",
       "new": {
         "categories": [
           "SPORTS"
@@ -4523,7 +4523,7 @@
         ],
         "logo": "https://i.imgur.com/1l3t5jd.png",
         "name": "BEK Sports",
-        "order": 327,
+        "order": 328,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -4554,9 +4554,9 @@
     },
     {
       "channelId": "BXInform.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-fe4d766c0383e1a266958529",
+      "id": "chg-a8b43c5200f3f58fb84e0aef",
       "new": {
         "categories": [
           "NEWS",
@@ -4572,7 +4572,7 @@
         ],
         "logo": "https://i.imgur.com/PF71rdZ.png",
         "name": "BX Inform",
-        "order": 332,
+        "order": 333,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -4603,9 +4603,9 @@
     },
     {
       "channelId": "BabyFirst.us",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-ca31a7afc150a5acb46977d7",
+      "id": "chg-8f03872ef5fa93ce9419b985",
       "new": {
         "categories": [
           "KIDS"
@@ -4634,7 +4634,7 @@
         ],
         "logo": "https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png/revision/latest?cb=20260612182539",
         "name": "BabyFirst",
-        "order": 320,
+        "order": 321,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -4866,9 +4866,9 @@
     },
     {
       "channelId": "BellatorMMA.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-300646fe261a2b80dd18ac43",
+      "id": "chg-e9391c6c948381b660d6b219",
       "new": {
         "categories": [
           "SPORTS"
@@ -4883,7 +4883,7 @@
         ],
         "logo": "https://i.imgur.com/VBKoLHk.png",
         "name": "Bellator MMA",
-        "order": 328,
+        "order": 329,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -4939,9 +4939,9 @@
     },
     {
       "channelId": "BlackNewsChannel.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-6f284d0649ba95f35c925055",
+      "id": "chg-6c808ee9e097a122cb7baa91",
       "new": {
         "categories": [
           "NEWS"
@@ -4956,7 +4956,7 @@
         ],
         "logo": "https://i.imgur.com/oX5oR4d.png",
         "name": "Black News Channel",
-        "order": 330,
+        "order": 331,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -5015,9 +5015,9 @@
     },
     {
       "channelId": "BlazeLive.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-2e6d17575d1a494ff24eca34",
+      "id": "chg-d0abfa2ef5ecc6cdb8a34e2f",
       "new": {
         "categories": [
           "NEWS"
@@ -5032,7 +5032,7 @@
         ],
         "logo": "https://i.imgur.com/GwxneSQ.png",
         "name": "Blaze Live",
-        "order": 331,
+        "order": 332,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -5207,9 +5207,9 @@
     },
     {
       "channelId": "CBSNewsBaltimore.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-1fe0ca1d65290c1067bc9516",
+      "id": "chg-64f6e8aa7695212dea0e1894",
       "new": {
         "categories": [
           "NEWS"
@@ -5224,7 +5224,7 @@
         ],
         "logo": "https://i.imgur.com/jy3UfCe.png",
         "name": "CBS News Baltimore",
-        "order": 334,
+        "order": 335,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -5269,9 +5269,9 @@
     },
     {
       "channelId": "CBSNewsBayArea.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-abe8f84506b3159462581362",
+      "id": "chg-fdade941e936614480654326",
       "new": {
         "categories": [
           "NEWS"
@@ -5286,7 +5286,7 @@
         ],
         "logo": "https://static.wikia.nocookie.net/logopedia/images/1/1a/Logo-cbsn-bayarea-1920x1080.jpg/revision/latest/scale-to-width-down/512",
         "name": "CBS News Bay Area",
-        "order": 335,
+        "order": 336,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -5331,9 +5331,9 @@
     },
     {
       "channelId": "CBSNewsBoston.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-bc8834ec7819bdb375cf75cc",
+      "id": "chg-6cc0ee42f605c725267f6cbd",
       "new": {
         "categories": [
           "NEWS"
@@ -5348,7 +5348,7 @@
         ],
         "logo": "https://i.imgur.com/9un7R3N.png",
         "name": "CBS News Boston",
-        "order": 336,
+        "order": 337,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -5407,9 +5407,9 @@
     },
     {
       "channelId": "CBSNewsChicago.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-8297b91eaa2a37584a454572",
+      "id": "chg-9305763337199753ea17da87",
       "new": {
         "categories": [
           "NEWS"
@@ -5424,7 +5424,7 @@
         ],
         "logo": "https://i.imgur.com/qGbVQir.png",
         "name": "CBS News Chicago",
-        "order": 337,
+        "order": 338,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -5469,9 +5469,9 @@
     },
     {
       "channelId": "CBSNewsColorado.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-36f086a80f25afb7663c079a",
+      "id": "chg-aa48e3e351a502a0c9a3cbb6",
       "new": {
         "categories": [
           "NEWS"
@@ -5486,7 +5486,7 @@
         ],
         "logo": "https://i.imgur.com/2oyYwBw.png",
         "name": "CBS News Colorado",
-        "order": 338,
+        "order": 339,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -5531,9 +5531,9 @@
     },
     {
       "channelId": "CBSNewsDetroit.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-a65a93b5933692789ba97876",
+      "id": "chg-b75266b90a42c9ec2ef2d536",
       "new": {
         "categories": [
           "NEWS"
@@ -5548,7 +5548,7 @@
         ],
         "logo": "https://i.imgur.com/cMels2Y.png",
         "name": "CBS News Detroit",
-        "order": 339,
+        "order": 340,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -5593,9 +5593,9 @@
     },
     {
       "channelId": "CBSNewsLosAngeles.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-7f9f06732ae8dfbc6d08df08",
+      "id": "chg-531d0542f111dd29d2c0564a",
       "new": {
         "categories": [
           "NEWS"
@@ -5610,7 +5610,7 @@
         ],
         "logo": "https://i.imgur.com/klULxMV.png",
         "name": "CBS News Los Angeles",
-        "order": 340,
+        "order": 341,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -5683,9 +5683,9 @@
     },
     {
       "channelId": "CBSNewsMiami.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-9d800efc9cdf6880f7e7e727",
+      "id": "chg-2fc4aee3377347bafcc2643f",
       "new": {
         "categories": [
           "NEWS"
@@ -5700,7 +5700,7 @@
         ],
         "logo": "https://i.imgur.com/DExbVa9.png",
         "name": "CBS News Miami",
-        "order": 341,
+        "order": 342,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -5759,9 +5759,9 @@
     },
     {
       "channelId": "CBSNewsMinnesota.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-56545de8f8537e4b815c0702",
+      "id": "chg-33f4489b27f315221285ef6c",
       "new": {
         "categories": [
           "NEWS"
@@ -5776,7 +5776,7 @@
         ],
         "logo": "https://i.imgur.com/ubxwfMY.png",
         "name": "CBS News Minnesota",
-        "order": 342,
+        "order": 343,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -5821,9 +5821,9 @@
     },
     {
       "channelId": "CBSNewsNewYork.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-cc10d7e6c1572f9da1ec929d",
+      "id": "chg-c0baa92a45b861ed008e1dc7",
       "new": {
         "categories": [
           "NEWS"
@@ -5838,7 +5838,7 @@
         ],
         "logo": "https://i.imgur.com/bpc4v0u.png",
         "name": "CBS News New York",
-        "order": 343,
+        "order": 344,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -5897,9 +5897,9 @@
     },
     {
       "channelId": "CBSNewsPhilly.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-50738184986aa1b56101444b",
+      "id": "chg-3198525e146abffd947d2c76",
       "new": {
         "categories": [
           "NEWS"
@@ -5914,7 +5914,7 @@
         ],
         "logo": "https://i.imgur.com/FmtTbNY.png",
         "name": "CBS News Philly",
-        "order": 344,
+        "order": 345,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -5945,9 +5945,9 @@
     },
     {
       "channelId": "CBSNewsPittsburgh.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-355fc813ca775597c08dcbf3",
+      "id": "chg-53f4828107410e39c37645fd",
       "new": {
         "categories": [
           "NEWS"
@@ -5962,7 +5962,7 @@
         ],
         "logo": "https://i.imgur.com/Un9IrUh.png",
         "name": "CBS News Pittsburgh",
-        "order": 345,
+        "order": 346,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -6007,9 +6007,9 @@
     },
     {
       "channelId": "CBSNewsSacramento.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-b168ff4b5021d844c65fc536",
+      "id": "chg-92f5eb536ea0b613043ff601",
       "new": {
         "categories": [
           "NEWS"
@@ -6024,7 +6024,7 @@
         ],
         "logo": "https://i.imgur.com/0e1kSGX.png",
         "name": "CBS News Sacramento",
-        "order": 346,
+        "order": 347,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -6069,9 +6069,9 @@
     },
     {
       "channelId": "CBSSportsGolazoNetwork.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-c99eb82737f41a15501d10be",
+      "id": "chg-165f8d2a712ed46c1e1b4cfd",
       "new": {
         "categories": [
           "SPORTS"
@@ -6086,7 +6086,7 @@
         ],
         "logo": "https://i.imgur.com/eMjutHS.png",
         "name": "CBS Sports Golazo Network",
-        "order": 347,
+        "order": 348,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -6200,9 +6200,9 @@
     },
     {
       "channelId": "CGTNArabic.cn",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-a90be322a7576f1e7e329b39",
+      "id": "chg-77ee535eb60361e75991e460",
       "new": {
         "categories": [
           "NEWS"
@@ -6217,7 +6217,7 @@
         ],
         "logo": "https://i.imgur.com/AkFFrS7.png",
         "name": "CGTN Arabic",
-        "order": 490,
+        "order": 491,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -6276,9 +6276,9 @@
     },
     {
       "channelId": "CNA.dz",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-aae525e8f7a82234eb725239",
+      "id": "chg-24b3ebc08e93ee51631c398c",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -6294,7 +6294,7 @@
         ],
         "logo": "https://i.imgur.com/Ki3ySUE.png",
         "name": "CNA",
-        "order": 253,
+        "order": 254,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -6339,9 +6339,9 @@
     },
     {
       "channelId": "CNBCUK.uk",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-4a1e32545ef4590938ad4a58",
+      "id": "chg-6cddc0c545edb358a00e0445",
       "new": {
         "categories": [
           "NEWS",
@@ -6357,7 +6357,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png",
         "name": "CNBC UK",
-        "order": 350,
+        "order": 351,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -6402,9 +6402,9 @@
     },
     {
       "channelId": "CNN.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-9a3ef9c3fe37ebc0f24fb387",
+      "id": "chg-64a960d8403770bad640e2ac",
       "new": {
         "categories": [
           "NEWS"
@@ -6419,7 +6419,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/960px-CNN.svg.png",
         "name": "CNN",
-        "order": 351,
+        "order": 352,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -6464,9 +6464,9 @@
     },
     {
       "channelId": "CNNInternational.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-7fae7b361ee144213733db15",
+      "id": "chg-3b43307b4779e2dda1fc2d7d",
       "new": {
         "categories": [
           "NEWS"
@@ -6483,7 +6483,7 @@
         ],
         "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/960px-CNN-International-Logo.svg.png",
         "name": "CNN International",
-        "order": 352,
+        "order": 353,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -6542,9 +6542,9 @@
     },
     {
       "channelId": "CNNOriginals.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-b7d126d7b2ca111c0321714d",
+      "id": "chg-c86bf2aba9a9368991826c5d",
       "new": {
         "categories": [
           "NEWS"
@@ -6559,7 +6559,7 @@
         ],
         "logo": "https://provider-static.plex.tv/epg/cms/production/f351d697-1e1f-4e7d-86c7-5995698e593f/CNN_Originals_ChannelLogo_Dark_1500x1000_2025_-_Grace_Hartwig.png",
         "name": "CNN Originals",
-        "order": 353,
+        "order": 354,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -6640,9 +6640,9 @@
     },
     {
       "channelId": "CharityTV.lb",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-7e99d328cef5531994e2c1f4",
+      "id": "chg-ecd6c177559a85448eb091e8",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -6657,7 +6657,7 @@
         ],
         "logo": "https://i.imgur.com/U9z8WBY.png",
         "name": "Charity TV",
-        "order": 207,
+        "order": 208,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -6688,9 +6688,9 @@
     },
     {
       "channelId": "CheddarNews.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-f14e4f81759592015eff2f9f",
+      "id": "chg-d8987538c8b6fde553bc5b48",
       "new": {
         "categories": [
           "NEWS"
@@ -6705,7 +6705,7 @@
         ],
         "logo": "https://i.imgur.com/tuP9GW8.png",
         "name": "Cheddar News",
-        "order": 349,
+        "order": 350,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -6775,9 +6775,9 @@
     },
     {
       "channelId": "DAZNCombat.uk",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-1618daa96e63770fd0bf8116",
+      "id": "chg-60adc6a9f040b9e2cdb489b4",
       "new": {
         "categories": [
           "SPORTS"
@@ -6792,7 +6792,7 @@
         ],
         "logo": "https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png",
         "name": "DAZN Combat",
-        "order": 354,
+        "order": 355,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -6865,9 +6865,9 @@
     },
     {
       "channelId": "DW.de",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-1c5104d0b02ad147aead15f5",
+      "id": "chg-8ff6b46fa74e0cd5d05d021b",
       "new": {
         "categories": [
           "NEWS"
@@ -6886,7 +6886,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/960px-Deutsche_Welle_symbol_2012.svg.png",
         "name": "DW",
-        "order": 491,
+        "order": 492,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -7015,9 +7015,9 @@
     },
     {
       "channelId": "DabangaTV.sd",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-b4e9620c1d48234235a0ba78",
+      "id": "chg-f520f19ee4d20d3550c74e1f",
       "new": {
         "categories": [
           "NEWS",
@@ -7033,7 +7033,7 @@
         ],
         "logo": "https://i.imgur.com/BH1N6TA.png",
         "name": "Dabanga TV",
-        "order": 281,
+        "order": 282,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -7210,9 +7210,9 @@
     },
     {
       "channelId": "DraftKingsNetwork.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-4ba352eebde9f39dd3c37ae3",
+      "id": "chg-d9111c5340c63a29a13a288d",
       "new": {
         "categories": [
           "SPORTS"
@@ -7227,7 +7227,7 @@
         ],
         "logo": "https://i.imgur.com/SFYhgrt.png",
         "name": "DraftKings Network",
-        "order": 355,
+        "order": 356,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -7272,9 +7272,9 @@
     },
     {
       "channelId": "DunyaNewsUK.uk",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-c17d75b65987ed88eb49f5ae",
+      "id": "chg-caa9efeba1c1a6be3a097f98",
       "new": {
         "categories": [
           "NEWS"
@@ -7290,7 +7290,7 @@
         ],
         "logo": "https://i.imgur.com/dtrTfZC.png",
         "name": "Dunya News UK",
-        "order": 356,
+        "order": 357,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -7321,9 +7321,9 @@
     },
     {
       "channelId": "ERiTV1.er",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-8340239b3bb7216fe904d372",
+      "id": "chg-6c8ca1fdaa133bfb6a83ddff",
       "new": {
         "categories": [
           "GENERAL"
@@ -7341,7 +7341,7 @@
         ],
         "logo": "https://i.imgur.com/bTR0Huw.png",
         "name": "ERi-TV 1",
-        "order": 493,
+        "order": 494,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -7372,9 +7372,9 @@
     },
     {
       "channelId": "ESPN8TheOcho.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-035347a4ac6ad00a7132478c",
+      "id": "chg-2f8dfa409f4050cdda3eefb9",
       "new": {
         "categories": [
           "SPORTS"
@@ -7389,7 +7389,7 @@
         ],
         "logo": "https://images.fubo.tv/channel-config-ui/station-logos/on-dark/espn_8_the_ocho_bw.png",
         "name": "ESPN8: The Ocho",
-        "order": 358,
+        "order": 359,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -7420,9 +7420,9 @@
     },
     {
       "channelId": "ElsharqTV.tr",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-2d1b3aa4ebb0e85b5b3d5a85",
+      "id": "chg-650f7add948a9c61bd855a74",
       "new": {
         "categories": [
           "GENERAL"
@@ -7437,7 +7437,7 @@
         ],
         "logo": "https://i.imgur.com/8vmfZb5.png",
         "name": "Elsharq TV",
-        "order": 492,
+        "order": 493,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -7468,9 +7468,9 @@
     },
     {
       "channelId": "ElwataniaTV.dz",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-0cd8d506ac21d859373297e5",
+      "id": "chg-f5c853e513e3a1b5f0015d30",
       "new": {
         "categories": [
           "GENERAL"
@@ -7485,7 +7485,7 @@
         ],
         "logo": "https://i.imgur.com/NKR8WFq.png",
         "name": "Elwatania TV",
-        "order": 255,
+        "order": 256,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -7516,9 +7516,9 @@
     },
     {
       "channelId": "ElyssaTV.tn",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-aae431254e6aef873a482200",
+      "id": "chg-878e67f68ffd2594a3bb947d",
       "new": {
         "categories": [
           "NEWS"
@@ -7533,7 +7533,7 @@
         ],
         "logo": "https://tv.elyssatv.com/logo.png",
         "name": "Elyssa TV",
-        "order": 285,
+        "order": 286,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -7612,9 +7612,9 @@
     },
     {
       "channelId": "EntertainmentTonight.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-44de72d365ebc01d64250eb0",
+      "id": "chg-536c38c9622c25c194c448fc",
       "new": {
         "categories": [
           "NEWS",
@@ -7630,7 +7630,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Entertainment_Tonight_2021.svg/960px-Entertainment_Tonight_2021.svg.png",
         "name": "Entertainment Tonight",
-        "order": 357,
+        "order": 358,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -7675,9 +7675,9 @@
     },
     {
       "channelId": "EurovisionSport.uk",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-4d24a06d0f1201d23ff835c9",
+      "id": "chg-9e512bb982fd9c2b93439572",
       "new": {
         "categories": [
           "SPORTS"
@@ -7692,7 +7692,7 @@
         ],
         "logo": "https://images.ctfassets.net/2b1dkanupt14/1A1Z8Gcn2NkbJRzTjxuj6h/2c14436cdc5b78e746a256e9f0c11a70/eurovision-icon.png",
         "name": "Eurovision Sport",
-        "order": 359,
+        "order": 360,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -7723,9 +7723,9 @@
     },
     {
       "channelId": "FIFAPlus.uk",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-8b1a14c057127e32a5c9fd98",
+      "id": "chg-0aeff6e69b8f3ea8b31a9d8f",
       "new": {
         "categories": [
           "SPORTS"
@@ -7745,7 +7745,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
         "name": "FIFA+",
-        "order": 360,
+        "order": 361,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -7874,9 +7874,9 @@
     },
     {
       "channelId": "FIFAPlusWomen.uk",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-36aaa5b29594b9c3315626ea",
+      "id": "chg-b3b03470d7184af8ace2527a",
       "new": {
         "categories": [
           "SPORTS"
@@ -7891,7 +7891,7 @@
         ],
         "logo": "https://i.ibb.co/LhpwRm8V/GB3800009-F0-20251028-T010335-SQUARE.png",
         "name": "FIFA+ Women",
-        "order": 361,
+        "order": 362,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -7922,9 +7922,9 @@
     },
     {
       "channelId": "FITE247.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-80f109881a432adc935d4c44",
+      "id": "chg-1be68c0745b7350f2988fa1e",
       "new": {
         "categories": [
           "SPORTS"
@@ -7939,7 +7939,7 @@
         ],
         "logo": "https://i.imgur.com/ESV6qgH.png",
         "name": "FITE 24/7",
-        "order": 362,
+        "order": 363,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -7984,9 +7984,9 @@
     },
     {
       "channelId": "FTFSports.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-b55f36d9d5c01cea20706aaf",
+      "id": "chg-e0926cf38f71ed528de6d88b",
       "new": {
         "categories": [
           "SPORTS"
@@ -8001,7 +8001,7 @@
         ],
         "logo": "https://i.imgur.com/yvUjOI3.png",
         "name": "FTF Sports",
-        "order": 371,
+        "order": 372,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -8060,9 +8060,9 @@
     },
     {
       "channelId": "FalastiniTV.ps",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-70d1751f497ffae872aae2a9",
+      "id": "chg-72641180f8b2901e3031ab51",
       "new": {
         "categories": [
           "MUSIC"
@@ -8077,7 +8077,7 @@
         ],
         "logo": "https://i.imgur.com/6B3Cims.png",
         "name": "Falastini TV",
-        "order": 238,
+        "order": 239,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -8156,9 +8156,9 @@
     },
     {
       "channelId": "FloHockey.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-6c49a9ca65df6066610dde5d",
+      "id": "chg-cbe7bb4a794391b40682af5a",
       "new": {
         "categories": [
           "SPORTS"
@@ -8173,7 +8173,7 @@
         ],
         "logo": "https://images.fubo.tv/channel-config-ui/station-logos/on-dark/flohockey-white.png",
         "name": "FloHockey",
-        "order": 363,
+        "order": 364,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -8204,9 +8204,9 @@
     },
     {
       "channelId": "FoxDeportes.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-e0e46eaa0884fdd3f9f2efb4",
+      "id": "chg-3369719deb1240e83cdf08c7",
       "new": {
         "categories": [
           "SPORTS"
@@ -8222,7 +8222,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png",
         "name": "Fox Deportes",
-        "order": 365,
+        "order": 366,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -8253,9 +8253,9 @@
     },
     {
       "channelId": "FoxNewsChannel.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-62524f84f83a517837e87b2e",
+      "id": "chg-7ea408ebb4b88ab083631967",
       "new": {
         "categories": [
           "NEWS"
@@ -8270,7 +8270,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
         "name": "Fox News Channel",
-        "order": 366,
+        "order": 367,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -8315,9 +8315,9 @@
     },
     {
       "channelId": "FoxNewsRadio.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-45c22342a5f196be16999bd0",
+      "id": "chg-3ad9352209958f0489aa8e48",
       "new": {
         "categories": [
           "NEWS"
@@ -8332,7 +8332,7 @@
         ],
         "logo": "https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png",
         "name": "Fox News Radio",
-        "order": 367,
+        "order": 368,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -8374,9 +8374,9 @@
     },
     {
       "channelId": "France24.fr",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-ca637c994511d07ba2ed814b",
+      "id": "chg-7035c4955025586b8ccf7846",
       "new": {
         "categories": [
           "NEWS"
@@ -8394,7 +8394,7 @@
         ],
         "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/France%2024.png",
         "name": "France 24",
-        "order": 494,
+        "order": 495,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -8523,9 +8523,9 @@
     },
     {
       "channelId": "FreeSpeechTV.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-5a694860b0b0877ccdb6a809",
+      "id": "chg-8a766efd2eabf0ccd01afecd",
       "new": {
         "categories": [
           "NEWS"
@@ -8540,7 +8540,7 @@
         ],
         "logo": "https://i.imgur.com/Qq6heRq.png",
         "name": "Free Speech TV",
-        "order": 370,
+        "order": 371,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -8744,9 +8744,9 @@
     },
     {
       "channelId": "GodStandsKidsClubTV.pk",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-a4a816433592d9354604628e",
+      "id": "chg-98e326d326d9627208ecf450",
       "new": {
         "categories": [
           "KIDS",
@@ -8765,7 +8765,7 @@
         ],
         "logo": "https://i.imgur.com/FxDBbpz.jpeg",
         "name": "God Stands Kids Club TV",
-        "order": 495,
+        "order": 496,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -8838,9 +8838,9 @@
     },
     {
       "channelId": "GodStandsTV.pk",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-fa7022501e29fef0e3b02f56",
+      "id": "chg-767bae4d6611161d308a2c76",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -8861,7 +8861,7 @@
         ],
         "logo": "https://i.imgur.com/EO6cYUI.png",
         "name": "God Stands TV",
-        "order": 496,
+        "order": 497,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -8990,9 +8990,9 @@
     },
     {
       "channelId": "GolfChannel.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-a198d8b548bf02b3dc8a8eaf",
+      "id": "chg-ba7864362c429083cac5b08a",
       "new": {
         "categories": [
           "SPORTS"
@@ -9007,7 +9007,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Golf_Channel_logo_2025.svg/960px-Golf_Channel_logo_2025.svg.png",
         "name": "Golf Channel",
-        "order": 376,
+        "order": 377,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -9038,9 +9038,9 @@
     },
     {
       "channelId": "HBCUGOSports.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-4488834984c446c3d9cc5234",
+      "id": "chg-a509b6998dbec5fd9c67a5a2",
       "new": {
         "categories": [
           "SPORTS"
@@ -9055,7 +9055,7 @@
         ],
         "logo": "https://i.imgur.com/TY6sx5W.png",
         "name": "HBCU-GO Sports",
-        "order": 378,
+        "order": 379,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -9086,9 +9086,9 @@
     },
     {
       "channelId": "HabibTV.ir",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-652ae4f4520ed98208fb0db8",
+      "id": "chg-7b9668a9ffc14273e3ce1735",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -9104,7 +9104,7 @@
         ],
         "logo": "https://i.ibb.co/spZRy7mg/habib.png",
         "name": "Habib TV",
-        "order": 497,
+        "order": 498,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -9135,9 +9135,9 @@
     },
     {
       "channelId": "HalaLondon.uk",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-1ab17900b459fa0e735ebf1f",
+      "id": "chg-1891dfc42786b9d9cee607c9",
       "new": {
         "categories": [
           "GENERAL"
@@ -9153,7 +9153,7 @@
         ],
         "logo": "https://i.imgur.com/bM4VZDH.png",
         "name": "Hala London",
-        "order": 377,
+        "order": 378,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -9184,9 +9184,9 @@
     },
     {
       "channelId": "HalaTV.il",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-662abb5b47c25a9d7da0c04e",
+      "id": "chg-d5e30dfd8520c5867de86d9b",
       "new": {
         "categories": [
           "GENERAL"
@@ -9201,7 +9201,7 @@
         ],
         "logo": "https://i.imgur.com/028M4Ew.png",
         "name": "Hala TV",
-        "order": 498,
+        "order": 499,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -9232,9 +9232,9 @@
     },
     {
       "channelId": "HollyWire.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-1eb10cc23ca660fb73ed98d4",
+      "id": "chg-68757937c7653443353615cf",
       "new": {
         "categories": [
           "NEWS",
@@ -9250,7 +9250,7 @@
         ],
         "logo": "https://i.imgur.com/oVNjFoj.png",
         "name": "HollyWire",
-        "order": 379,
+        "order": 380,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -9807,9 +9807,9 @@
     },
     {
       "channelId": "KolalnasTV.ps",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-dcf06b4894bbfc530faff568",
+      "id": "chg-fb0732ee29a88a387ee35153",
       "new": {
         "categories": [
           "NEWS"
@@ -9824,7 +9824,7 @@
         ],
         "logo": "https://i.imgur.com/OyMxcRG.png",
         "name": "Kolalnas TV",
-        "order": 239,
+        "order": 240,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -10147,9 +10147,9 @@
     },
     {
       "channelId": "LLBNTVArabic.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-708a8ae08cb2435a75a449d5",
+      "id": "chg-8fde3f56f2d7ff02d1fbe44a",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -10164,7 +10164,7 @@
         ],
         "logo": "https://i.imgur.com/fbrQpC4.png",
         "name": "LLBN TV Arabic",
-        "order": 383,
+        "order": 384,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -10195,9 +10195,9 @@
     },
     {
       "channelId": "LacrosseTV.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-5346330e5e587763fc215db0",
+      "id": "chg-de8ed9d35d9dcf6bedd05cc7",
       "new": {
         "categories": [
           "SPORTS"
@@ -10212,7 +10212,7 @@
         ],
         "logo": "https://yt3.googleusercontent.com/ytc/AIdro_m_xSJFydxZ9QBU-85OuchjmzS0Bo0_Tukmk7to8hBfyl8=s512-c-k-c0x00ffffff-no-rj",
         "name": "Lacrosse TV",
-        "order": 380,
+        "order": 381,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -10243,9 +10243,9 @@
     },
     {
       "channelId": "LindellTV.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-888654c57933228433fb7343",
+      "id": "chg-00614deb67fb08f186dca728",
       "new": {
         "categories": [
           "NEWS"
@@ -10260,7 +10260,7 @@
         ],
         "logo": "https://ml.globenewswire.com/Resource/Download/93a3878f-0cee-4b51-b851-bd519049af8d",
         "name": "Lindell TV",
-        "order": 381,
+        "order": 382,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -10305,9 +10305,9 @@
     },
     {
       "channelId": "LiveNOWfromFOX.us",
-      "detectedAt": "2026-11-12T13:47:04Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-a003b83fb12b9c472c2ef8d9",
+      "id": "chg-7d1d9bf7259a8a9cd9a708c0",
       "new": {
         "categories": [
           "NEWS"
@@ -10322,7 +10322,7 @@
         ],
         "logo": "https://i.imgur.com/1JnyzHv.png",
         "name": "LiveNOW from FOX",
-        "order": 382,
+        "order": 383,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -10437,9 +10437,9 @@
     },
     {
       "channelId": "LogosTV.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-d1039fd43abd8e4f662e6249",
+      "id": "chg-c74f79fe4b848e500f99742e",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -10454,7 +10454,7 @@
         ],
         "logo": "https://i.imgur.com/h8DioXU.png",
         "name": "Logos TV",
-        "order": 384,
+        "order": 385,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -10499,9 +10499,9 @@
     },
     {
       "channelId": "LoveWorldArabic.ng",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-3988c5b3055b101de80751b0",
+      "id": "chg-abeb94492e1a21e688f7c7fe",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -10516,7 +10516,7 @@
         ],
         "logo": "https://i.imgur.com/KYMjRjK.png",
         "name": "LoveWorld Arabic",
-        "order": 501,
+        "order": 502,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -10877,9 +10877,9 @@
     },
     {
       "channelId": "MSNOW.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-8a86aaef7270ece928026f54",
+      "id": "chg-23359af5e766f6a4ce01f0de",
       "new": {
         "categories": [
           "NEWS"
@@ -10894,7 +10894,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/960px-MS_NOW_logo.svg.png",
         "name": "MS NOW",
-        "order": 393,
+        "order": 394,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -10939,9 +10939,9 @@
     },
     {
       "channelId": "MTA1World.uk",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-e20d36bf1690db0321946506",
+      "id": "chg-030db3f2ea710f7e8455956b",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -10961,7 +10961,7 @@
         ],
         "logo": "https://i.imgur.com/bYiRfAg.png",
         "name": "MTA1 World",
-        "order": 394,
+        "order": 395,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -10992,9 +10992,9 @@
     },
     {
       "channelId": "MTA2Europe.uk",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-fe646370c8a79a2cb4ee12ea",
+      "id": "chg-40394604a81da7ea8a518370",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -11015,7 +11015,7 @@
         ],
         "logo": "https://i.imgur.com/aVts0sz.png",
         "name": "MTA2 Europe",
-        "order": 395,
+        "order": 396,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -11046,9 +11046,9 @@
     },
     {
       "channelId": "MTA3AlArabia.uk",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-4895ee282c2219111fe5ee34",
+      "id": "chg-e5dbe8157eb4f4c6712ae849",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -11063,7 +11063,7 @@
         ],
         "logo": "https://i.imgur.com/m3PEldJ.png",
         "name": "MTA3 Al-Arabia",
-        "order": 396,
+        "order": 397,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -11094,9 +11094,9 @@
     },
     {
       "channelId": "MTA6Asia.uk",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-dae975f53d018096ebea9ed3",
+      "id": "chg-14363a63603ebd6016eb5983",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -11116,7 +11116,7 @@
         ],
         "logo": "https://i.imgur.com/nhCNPJI.png",
         "name": "MTA6 Asia",
-        "order": 397,
+        "order": 398,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -11147,9 +11147,9 @@
     },
     {
       "channelId": "MTA7Asia.uk",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-c957e53e55e32beb0061aa29",
+      "id": "chg-aa2e13676e63b4c44fffe235",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -11170,7 +11170,7 @@
         ],
         "logo": "https://i.imgur.com/3Nl8Tpu.png",
         "name": "MTA7 Asia",
-        "order": 398,
+        "order": 399,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -11201,9 +11201,9 @@
     },
     {
       "channelId": "MUTV.uk",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-528da94d15341fec8160e8e7",
+      "id": "chg-a45860736b412b0d002b56df",
       "new": {
         "categories": [
           "SPORTS"
@@ -11218,7 +11218,7 @@
         ],
         "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png",
         "name": "MUTV",
-        "order": 400,
+        "order": 401,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -11249,9 +11249,9 @@
     },
     {
       "channelId": "MaanTV.ps",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-1d4183f31db580804cfb4e8d",
+      "id": "chg-f690926a3e287b7efe5f3bbf",
       "new": {
         "categories": [
           "NEWS"
@@ -11268,7 +11268,7 @@
         ],
         "logo": "https://i.imgur.com/hRFa03k.png",
         "name": "Ma'an TV",
-        "order": 240,
+        "order": 241,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -11347,9 +11347,9 @@
     },
     {
       "channelId": "Makan33.il",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-8b35a59075d34258605d5d90",
+      "id": "chg-530f5121c5c53679ead22414",
       "new": {
         "categories": [
           "NEWS"
@@ -11364,7 +11364,7 @@
         ],
         "logo": "https://i.imgur.com/RVtQTed.png",
         "name": "Makan 33",
-        "order": 502,
+        "order": 503,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -11672,9 +11672,9 @@
     },
     {
       "channelId": "MarqueeSportsNetwork.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-832fde8f5211c0be5ae62a92",
+      "id": "chg-d31b9d67444103d83de1c3b3",
       "new": {
         "categories": [
           "SPORTS"
@@ -11689,7 +11689,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/960px-Marquee_Sports_Network_Logo.svg.png",
         "name": "Marquee Sports Network",
-        "order": 385,
+        "order": 386,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -11720,9 +11720,9 @@
     },
     {
       "channelId": "MasterChefsAcademyTV.uk",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-3181f4b87892ff9804e6dda3",
+      "id": "chg-2343c3896c812b476736ef3a",
       "new": {
         "categories": [
           "OTHER"
@@ -11738,7 +11738,7 @@
         ],
         "logo": "https://platform-iuoamc.uk/storage/tv/branding/mca-tv-official-logo.png",
         "name": "Master Chefs Academy TV",
-        "order": 386,
+        "order": 387,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -11769,9 +11769,9 @@
     },
     {
       "channelId": "MekameleenTV.tr",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-180506b6bf3c66ff796e0116",
+      "id": "chg-3f86c6420b1d67a581eb5a3c",
       "new": {
         "categories": [
           "NEWS"
@@ -11786,7 +11786,7 @@
         ],
         "logo": "https://i.imgur.com/q7iVchl.png",
         "name": "Mekameleen TV",
-        "order": 503,
+        "order": 504,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -11842,9 +11842,9 @@
     },
     {
       "channelId": "MiracleChannel.se",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-511b68c0e9f668170de0db5d",
+      "id": "chg-51911e9ab51dc041f02e6c73",
       "new": {
         "categories": [
           "NEWS"
@@ -11859,7 +11859,7 @@
         ],
         "logo": "https://i.imgur.com/rc68GZJ.png",
         "name": "Miracle Channel",
-        "order": 504,
+        "order": 505,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -11890,9 +11890,9 @@
     },
     {
       "channelId": "MissionAsia.au",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-2db8f0f494ea9e674063a751",
+      "id": "chg-98f4951cf3f1e720e6387ea4",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -11908,7 +11908,7 @@
         ],
         "logo": "https://i.imgur.com/B5mKwF6.png",
         "name": "Mission Asia",
-        "order": 505,
+        "order": 506,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -12035,9 +12035,9 @@
     },
     {
       "channelId": "MonsterJam.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-bb40980777d29619b61be586",
+      "id": "chg-5abb3662c1b63a8b0c8fc518",
       "new": {
         "categories": [
           "SPORTS",
@@ -12053,7 +12053,7 @@
         ],
         "logo": "https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png",
         "name": "Monster Jam",
-        "order": 392,
+        "order": 393,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -12203,9 +12203,9 @@
     },
     {
       "channelId": "MusawaChannel.ps",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-1c6ed72e0302e30652836947",
+      "id": "chg-0bacf792f949c9d274d9c2cf",
       "new": {
         "categories": [
           "GENERAL"
@@ -12220,7 +12220,7 @@
         ],
         "logo": "https://i.imgur.com/GB2Q9kl.png",
         "name": "Musawa Channel",
-        "order": 241,
+        "order": 242,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -12251,9 +12251,9 @@
     },
     {
       "channelId": "MuslimNetworkTV.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-2db0b00e5d0be6528def2884",
+      "id": "chg-fcf870531be8bbc7fb91bd8f",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -12269,7 +12269,7 @@
         ],
         "logo": null,
         "name": "Muslim Network TV",
-        "order": 399,
+        "order": 400,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -12675,9 +12675,9 @@
     },
     {
       "channelId": "NFLNetwork.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-47546bad02db7205cd31c1ee",
+      "id": "chg-288c6ed9b3c2ba6973fa9969",
       "new": {
         "categories": [
           "SPORTS"
@@ -12692,7 +12692,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png",
         "name": "NFL Network",
-        "order": 422,
+        "order": 423,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -12723,9 +12723,9 @@
     },
     {
       "channelId": "NHLNetwork.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-529befb4302c90416ef4cc83",
+      "id": "chg-534f187e04afd635c1ca31bb",
       "new": {
         "categories": [
           "SPORTS"
@@ -12740,7 +12740,7 @@
         ],
         "logo": "https://i.imgur.com/UNZ8bef.png",
         "name": "NHL Network",
-        "order": 423,
+        "order": 424,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -12785,9 +12785,9 @@
     },
     {
       "channelId": "NHRATV.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-fe5a0e8a0cd044d3a62d29ad",
+      "id": "chg-5f5fce36f5acbab15543213a",
       "new": {
         "categories": [
           "SPORTS"
@@ -12802,7 +12802,7 @@
         ],
         "logo": "https://i.imgur.com/jZgcm4k.png",
         "name": "NHRA TV",
-        "order": 424,
+        "order": 425,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -12895,9 +12895,9 @@
     },
     {
       "channelId": "NTDTVEnglish.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-ebba2a6792b0811695c70cce",
+      "id": "chg-87d1b7586171c72810c838b6",
       "new": {
         "categories": [
           "NEWS",
@@ -12915,7 +12915,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NTD_Logo_with_symbol.svg/960px-NTD_Logo_with_symbol.svg.png",
         "name": "NTD TV English",
-        "order": 426,
+        "order": 427,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -13002,9 +13002,9 @@
     },
     {
       "channelId": "NabaaTV.lb",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-f6b6b7c9f6cd15ffe00caa06",
+      "id": "chg-2fe7612fd166b5f0352db307",
       "new": {
         "categories": [
           "NEWS"
@@ -13019,7 +13019,7 @@
         ],
         "logo": "https://i.imgur.com/p8eRgSs.png",
         "name": "Nabaa TV",
-        "order": 212,
+        "order": 213,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -13064,9 +13064,9 @@
     },
     {
       "channelId": "News12Bronx.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-ac75b14d58eac63ae281c84c",
+      "id": "chg-2dd6cbb96e22a1c783b7ee48",
       "new": {
         "categories": [
           "NEWS"
@@ -13081,7 +13081,7 @@
         ],
         "logo": "https://i.imgur.com/d6xQiaf.png",
         "name": "News12 Bronx",
-        "order": 405,
+        "order": 406,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -13112,9 +13112,9 @@
     },
     {
       "channelId": "News12Brooklyn.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-4e4e11981970c36354a707ae",
+      "id": "chg-974e77b03cc0d0a50935881f",
       "new": {
         "categories": [
           "NEWS"
@@ -13129,7 +13129,7 @@
         ],
         "logo": "https://i.imgur.com/fvcOzzK.png",
         "name": "News12 Brooklyn",
-        "order": 406,
+        "order": 407,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -13160,9 +13160,9 @@
     },
     {
       "channelId": "News12Conneticut.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-eb3f1e42ff4871c165503bf4",
+      "id": "chg-c0af246b5ad91be3b58d27b1",
       "new": {
         "categories": [
           "NEWS"
@@ -13177,7 +13177,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
         "name": "News12 Conneticut",
-        "order": 407,
+        "order": 408,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -13208,9 +13208,9 @@
     },
     {
       "channelId": "News12HudsonValley.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-92835c2857218f78ab415989",
+      "id": "chg-4bc3581176e2131678a8c3f7",
       "new": {
         "categories": [
           "NEWS"
@@ -13225,7 +13225,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
         "name": "News12 Hudson Valley",
-        "order": 408,
+        "order": 409,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -13256,9 +13256,9 @@
     },
     {
       "channelId": "News12LongIsland.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-6d0fc6ee6323762de498b8d9",
+      "id": "chg-093a1701548947f0caadd561",
       "new": {
         "categories": [
           "NEWS"
@@ -13273,7 +13273,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
         "name": "News12 Long Island",
-        "order": 409,
+        "order": 410,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -13304,9 +13304,9 @@
     },
     {
       "channelId": "News12NewJersey.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-8ae6f2e18748bde61eeaecfb",
+      "id": "chg-b76dbb0b82fcc8e6a4737141",
       "new": {
         "categories": [
           "NEWS"
@@ -13321,7 +13321,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
         "name": "News12 New Jersey",
-        "order": 410,
+        "order": 411,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -13352,9 +13352,9 @@
     },
     {
       "channelId": "News12NewYork.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-0eead6f2ef6bbcd14ef24b8f",
+      "id": "chg-90863c4926f712da4ea043fc",
       "new": {
         "categories": [
           "NEWS"
@@ -13369,7 +13369,7 @@
         ],
         "logo": "https://i.imgur.com/Ez7qAZP.png",
         "name": "News12 New York",
-        "order": 411,
+        "order": 412,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -13414,9 +13414,9 @@
     },
     {
       "channelId": "News12PlusConnecticut.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-da63ae69c2fd040319a08b81",
+      "id": "chg-2672b7b9365bac3406b260d9",
       "new": {
         "categories": [
           "NEWS"
@@ -13431,7 +13431,7 @@
         ],
         "logo": "https://i.ibb.co/n8m2mcsV/news12plus-CT.jpg",
         "name": "News12+ Connecticut",
-        "order": 413,
+        "order": 414,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -13462,9 +13462,9 @@
     },
     {
       "channelId": "News12PlusHudsonValley.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-23ddd5e2b8c0dafef8ff604d",
+      "id": "chg-c3dfa66e134c7731998dfadd",
       "new": {
         "categories": [
           "NEWS"
@@ -13479,7 +13479,7 @@
         ],
         "logo": "https://i.ibb.co/cKkdC203/news12plus-HV.jpg",
         "name": "News12+ Hudson Valley",
-        "order": 414,
+        "order": 415,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -13510,9 +13510,9 @@
     },
     {
       "channelId": "News12PlusLongIsland.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-d6e64b69f575b64e96f7d293",
+      "id": "chg-9eab93558d45234fd0c37cf0",
       "new": {
         "categories": [
           "NEWS"
@@ -13527,7 +13527,7 @@
         ],
         "logo": "https://i.ibb.co/p6FPNcCk/news12plus-LI.jpg",
         "name": "News12+ Long Island",
-        "order": 415,
+        "order": 416,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -13572,9 +13572,9 @@
     },
     {
       "channelId": "News12PlusNewJersey.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-d17199c1b366b62aee83b437",
+      "id": "chg-40e6cd6da9c2124711fade63",
       "new": {
         "categories": [
           "NEWS"
@@ -13589,7 +13589,7 @@
         ],
         "logo": "https://i.ibb.co/qYCVcWDV/news12plus-NJ.jpg",
         "name": "News12+ New Jersey",
-        "order": 416,
+        "order": 417,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -13620,9 +13620,9 @@
     },
     {
       "channelId": "News12PlusNewYork.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-013691519178274322966a65",
+      "id": "chg-44e89d9213df182e5d415931",
       "new": {
         "categories": [
           "NEWS"
@@ -13637,7 +13637,7 @@
         ],
         "logo": "https://i.ibb.co/tThKYM09/news12plus-NYC.jpg",
         "name": "News12+ New York",
-        "order": 417,
+        "order": 418,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -13668,9 +13668,9 @@
     },
     {
       "channelId": "News12Westchester.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-f2e9ed78d7e0077a5ecaa8f0",
+      "id": "chg-211244cb7c955a8c431b3e2f",
       "new": {
         "categories": [
           "NEWS"
@@ -13685,7 +13685,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
         "name": "News12 Westchester",
-        "order": 412,
+        "order": 413,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -13716,9 +13716,9 @@
     },
     {
       "channelId": "Newsmax2.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-ef30be0e56a6f19391b0162c",
+      "id": "chg-25bc4f7488a54de4a5a72e70",
       "new": {
         "categories": [
           "NEWS"
@@ -13733,7 +13733,7 @@
         ],
         "logo": "https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png",
         "name": "Newsmax 2",
-        "order": 418,
+        "order": 419,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -13862,9 +13862,9 @@
     },
     {
       "channelId": "NewsmaxTV.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-5d741a2dba7edc260bcf0f78",
+      "id": "chg-9e30c3aa4323c09e8902844e",
       "new": {
         "categories": [
           "NEWS"
@@ -13879,7 +13879,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png",
         "name": "Newsmax TV",
-        "order": 419,
+        "order": 420,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -13952,9 +13952,9 @@
     },
     {
       "channelId": "NewsoftheWorld.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-93e569c39d97d49cecd58ee0",
+      "id": "chg-70d4d20e0cda527ecc56fcf4",
       "new": {
         "categories": [
           "NEWS"
@@ -13971,7 +13971,7 @@
         ],
         "logo": "https://i.imgur.com/MfyRQCs.png",
         "name": "News of the World",
-        "order": 404,
+        "order": 405,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -14044,9 +14044,9 @@
     },
     {
       "channelId": "Newsy.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-4cdfac348635d3ab69d449db",
+      "id": "chg-a083a918076763c883388c15",
       "new": {
         "categories": [
           "NEWS"
@@ -14061,7 +14061,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/960px-Newsy_2021.svg.png",
         "name": "Newsy",
-        "order": 420,
+        "order": 421,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -14204,9 +14204,9 @@
     },
     {
       "channelId": "NourElShabeb.lb",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-4d024361da79e8dc7a21dd1f",
+      "id": "chg-5fd45f615312b15cf01be43d",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -14221,7 +14221,7 @@
         ],
         "logo": "https://i.imgur.com/cNr0vl1.png",
         "name": "Nour El Shabeb",
-        "order": 215,
+        "order": 216,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -14252,9 +14252,9 @@
     },
     {
       "channelId": "NourMariam.lb",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-d203ca7bea7ec0e5fcdf8612",
+      "id": "chg-8d1cc1c824c1960127d2f4dc",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -14269,7 +14269,7 @@
         ],
         "logo": "https://i.imgur.com/Ow5Lqh6.jpg",
         "name": "Nour Mariam",
-        "order": 216,
+        "order": 217,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -14300,9 +14300,9 @@
     },
     {
       "channelId": "NowMediaTelevision.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-ee09d38a1e99e587643bd35e",
+      "id": "chg-86e2d17fc6a4c8b4456203c5",
       "new": {
         "categories": [
           "NEWS",
@@ -14319,7 +14319,7 @@
         ],
         "logo": "https://i.imgur.com/8m8gy0n.png",
         "name": "NowMedia Television",
-        "order": 425,
+        "order": 426,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -14364,9 +14364,9 @@
     },
     {
       "channelId": "OANPlus.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-0322ca9be550b158961a4ec7",
+      "id": "chg-03f56d22514b1ed17bb6dad2",
       "new": {
         "categories": [
           "NEWS"
@@ -14381,7 +14381,7 @@
         ],
         "logo": "https://i.imgur.com/T9VhMAD.png",
         "name": "OAN Plus",
-        "order": 427,
+        "order": 428,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -14507,9 +14507,9 @@
     },
     {
       "channelId": "OneAmericaNewsNetwork.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-408851d90cd2aeb61e13efc6",
+      "id": "chg-2bcfa02642908306ccf9ac75",
       "new": {
         "categories": [
           "NEWS"
@@ -14524,7 +14524,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/960px-One_America_News_Network_logo.svg.png",
         "name": "One America News Network",
-        "order": 428,
+        "order": 429,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -14569,9 +14569,9 @@
     },
     {
       "channelId": "OneFM.lb",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-6272bfb3ca1171f544cb7cfc",
+      "id": "chg-1d2a7b2e410555fa599b95b7",
       "new": {
         "categories": [
           "MUSIC"
@@ -14586,7 +14586,7 @@
         ],
         "logo": "https://i.ibb.co/Vp2G9wTz/onefmlb.png",
         "name": "OneFM",
-        "order": 220,
+        "order": 221,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -14642,9 +14642,9 @@
     },
     {
       "channelId": "PBRRidePass.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-3380e769a24a165bc481434f",
+      "id": "chg-4d678b56d9889579f1cbc8fb",
       "new": {
         "categories": [
           "SPORTS"
@@ -14659,7 +14659,7 @@
         ],
         "logo": "https://i.imgur.com/gUxH97E.png",
         "name": "PBR RidePass",
-        "order": 432,
+        "order": 433,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -14690,9 +14690,9 @@
     },
     {
       "channelId": "PGATour.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-a746d3b91f0b35fe382826ac",
+      "id": "chg-077499b2a2fc9ae972444732",
       "new": {
         "categories": [
           "SPORTS"
@@ -14707,7 +14707,7 @@
         ],
         "logo": "https://i.imgur.com/J0TY9dG.png",
         "name": "PGA Tour",
-        "order": 434,
+        "order": 435,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -14932,9 +14932,9 @@
     },
     {
       "channelId": "Pac12Insider.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-6ca4d16d4c8352166dfd7e71",
+      "id": "chg-86ec162bdd22ecbfcb2807a0",
       "new": {
         "categories": [
           "SPORTS"
@@ -14949,7 +14949,7 @@
         ],
         "logo": "https://i.imgur.com/736QREy.png",
         "name": "Pac-12 Insider",
-        "order": 430,
+        "order": 431,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -15022,9 +15022,9 @@
     },
     {
       "channelId": "PalestineAlYawm.lb",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-282f72c7b44f689e717e1574",
+      "id": "chg-d3174784e50b4391326edbfc",
       "new": {
         "categories": [
           "NEWS"
@@ -15039,7 +15039,7 @@
         ],
         "logo": "https://i.imgur.com/n8dSgx4.png",
         "name": "Palestine Al Yawm",
-        "order": 222,
+        "order": 223,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -15070,9 +15070,9 @@
     },
     {
       "channelId": "PalestineEdu.ps",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-7507306b236fa8193aa83fe1",
+      "id": "chg-6f151b2b57fbd5802455f94c",
       "new": {
         "categories": [
           "OTHER"
@@ -15087,7 +15087,7 @@
         ],
         "logo": "https://i.imgur.com/AwVHXyC.png",
         "name": "Palestine Edu",
-        "order": 242,
+        "order": 243,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -15118,9 +15118,9 @@
     },
     {
       "channelId": "PalestineMubasher.ps",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-56c5f5bfd43a9f5f3f291b34",
+      "id": "chg-2c7b8927aec59123b7f734e7",
       "new": {
         "categories": [
           "GENERAL"
@@ -15135,7 +15135,7 @@
         ],
         "logo": "https://i.imgur.com/68llVTZ.png",
         "name": "Palestine Mubasher",
-        "order": 243,
+        "order": 244,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -15166,9 +15166,9 @@
     },
     {
       "channelId": "PalestineSatelliteChannel.ps",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-0c986498dc3ac5c85ac68f3b",
+      "id": "chg-ddd9c551034e02e2e771377f",
       "new": {
         "categories": [
           "GENERAL"
@@ -15183,7 +15183,7 @@
         ],
         "logo": "https://i.imgur.com/4B5FvmX.png",
         "name": "Palestine Satellite Channel",
-        "order": 244,
+        "order": 245,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -15228,9 +15228,9 @@
     },
     {
       "channelId": "PalestineToday.ps",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-c299d05687c5a3880c591646",
+      "id": "chg-91558da6160391e490449f6b",
       "new": {
         "categories": [
           "NEWS"
@@ -15245,7 +15245,7 @@
         ],
         "logo": "https://i.imgur.com/BS8XXug.png",
         "name": "Palestine Today",
-        "order": 245,
+        "order": 246,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -15276,9 +15276,9 @@
     },
     {
       "channelId": "Palestinetv.ir",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-7c99ce6ff181bf5b4f11e8dc",
+      "id": "chg-71d8ac3630a38d4e6aa63e3f",
       "new": {
         "categories": [
           "GENERAL"
@@ -15294,7 +15294,7 @@
         ],
         "logo": "https://i.ibb.co/svrZNZTX/Palestine.png",
         "name": "Palestinetv",
-        "order": 506,
+        "order": 507,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -15449,9 +15449,9 @@
     },
     {
       "channelId": "PayvandTV.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-f04e460faedb87e729cc5439",
+      "id": "chg-c1354554805b2b7414adc1ca",
       "new": {
         "categories": [
           "NEWS"
@@ -15466,7 +15466,7 @@
         ],
         "logo": "https://i.imgur.com/A4gqEmG.png",
         "name": "Payvand TV",
-        "order": 431,
+        "order": 432,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -15703,9 +15703,9 @@
     },
     {
       "channelId": "PlutoTVCompetition.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-cec7d63d5dba23025f9e594d",
+      "id": "chg-f1408c070bef3e96ef590e06",
       "new": {
         "categories": [
           "SPORTS"
@@ -15720,7 +15720,7 @@
         ],
         "logo": "https://images.pluto.tv/channels/603fde9026ecbf0007752c2c/colorLogoPNG.png",
         "name": "Pluto TV Competition",
-        "order": 435,
+        "order": 436,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -15751,9 +15751,9 @@
     },
     {
       "channelId": "PokerGo.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-397391a06dd4337c965a42f2",
+      "id": "chg-a711be1178bdcaa5aa7f047d",
       "new": {
         "categories": [
           "SPORTS"
@@ -15768,7 +15768,7 @@
         ],
         "logo": "https://i.imgur.com/1603HED.png",
         "name": "PokerGo",
-        "order": 437,
+        "order": 438,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -15889,9 +15889,9 @@
     },
     {
       "channelId": "QafTV.tr",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-ba8093a1249558fef38318b5",
+      "id": "chg-f1151228fdb6872155f1c4dd",
       "new": {
         "categories": [
           "OTHER"
@@ -15906,7 +15906,7 @@
         ],
         "logo": "https://i.imgur.com/hrk7Uce.png",
         "name": "Qaf TV",
-        "order": 507,
+        "order": 508,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -15937,9 +15937,9 @@
     },
     {
       "channelId": "RASDTV.eh",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-98dee4590b208cd08f784a1f",
+      "id": "chg-e6b7b6946da8daf80eef4726",
       "new": {
         "categories": [
           "GENERAL"
@@ -15955,7 +15955,7 @@
         ],
         "logo": "https://i.imgur.com/9Pb8806.png",
         "name": "RASD TV",
-        "order": 508,
+        "order": 509,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -16014,9 +16014,9 @@
     },
     {
       "channelId": "REVNAction.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-8831ed09da75574e345bb23b",
+      "id": "chg-22717f59c6fa3e8994b92b36",
       "new": {
         "categories": [
           "SPORTS",
@@ -16033,7 +16033,7 @@
         ],
         "logo": "https://i.imgur.com/xsm8mMd.png",
         "name": "REV'N Action",
-        "order": 442,
+        "order": 443,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -16078,9 +16078,9 @@
     },
     {
       "channelId": "RTArabic.ru",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-68eeea6102e7497c7fecbfb2",
+      "id": "chg-5fd169aa3400e39dba9c48b1",
       "new": {
         "categories": [
           "NEWS"
@@ -16095,7 +16095,7 @@
         ],
         "logo": "https://i.imgur.com/G8vGrn1.png",
         "name": "RT Arabic",
-        "order": 509,
+        "order": 510,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -16140,9 +16140,9 @@
     },
     {
       "channelId": "RacerNetwork.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-47e5a83a38305761fed3802b",
+      "id": "chg-9f587662ed816fef9aac8152",
       "new": {
         "categories": [
           "SPORTS"
@@ -16157,7 +16157,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/en/7/74/Racer_Network.jpg",
         "name": "Racer Network",
-        "order": 438,
+        "order": 439,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -16216,9 +16216,9 @@
     },
     {
       "channelId": "RacerSelect.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-01877d5fa95176150c4eb173",
+      "id": "chg-89129e3158b7978e92fed43d",
       "new": {
         "categories": [
           "SPORTS"
@@ -16233,7 +16233,7 @@
         ],
         "logo": "https://i.imgur.com/CurtYvn.png",
         "name": "Racer Select",
-        "order": 439,
+        "order": 440,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -16278,9 +16278,9 @@
     },
     {
       "channelId": "RadioAlbaladTV.ps",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-54247c6df439b40993a11faa",
+      "id": "chg-2480bfa220fc2159d645040e",
       "new": {
         "categories": [
           "GENERAL"
@@ -16295,7 +16295,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png",
         "name": "Radio Albalad TV",
-        "order": 246,
+        "order": 247,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -16326,9 +16326,9 @@
     },
     {
       "channelId": "RajeenTV.ps",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-784515d1e91b7e9703b9c197",
+      "id": "chg-99c3f1250c66fa5f2e8e75b0",
       "new": {
         "categories": [
           "OTHER"
@@ -16343,7 +16343,7 @@
         ],
         "logo": "https://i.imgur.com/6Cx22ya.png",
         "name": "Rajeen TV",
-        "order": 247,
+        "order": 248,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -16422,9 +16422,9 @@
     },
     {
       "channelId": "ReutersTV.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-d1e5844cde2049819644420a",
+      "id": "chg-07372eb66c9ba204d4cc159e",
       "new": {
         "categories": [
           "NEWS"
@@ -16439,7 +16439,7 @@
         ],
         "logo": "https://i.imgur.com/6eQ2nCJ.png",
         "name": "Reuters TV",
-        "order": 441,
+        "order": 442,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -16512,9 +16512,9 @@
     },
     {
       "channelId": "RightNowTV.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-7a781183d3a97ee0d33ca46e",
+      "id": "chg-61c0962f3c2cdc76c62c27ef",
       "new": {
         "categories": [
           "SPORTS",
@@ -16530,7 +16530,7 @@
         ],
         "logo": "https://i.imgur.com/OxbIla4.png",
         "name": "Right Now TV",
-        "order": 443,
+        "order": 444,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -16959,9 +16959,9 @@
     },
     {
       "channelId": "RoyaTV.jo",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-14eb5ae743853db11bd63aad",
+      "id": "chg-8b2dc607e6dcb417b76f7232",
       "new": {
         "categories": [
           "GENERAL"
@@ -16976,7 +16976,7 @@
         ],
         "logo": "https://i.imgur.com/WX80rty.png",
         "name": "Roya TV",
-        "order": 201,
+        "order": 202,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -17069,9 +17069,9 @@
     },
     {
       "channelId": "SCCurrents.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-bc4d5e80c604b4f4253d976e",
+      "id": "chg-ee95764a0e0722545355cadf",
       "new": {
         "categories": [
           "NEWS"
@@ -17087,7 +17087,7 @@
         ],
         "logo": "https://i.imgur.com/8FZsNyK.png",
         "name": "SC Currents",
-        "order": 446,
+        "order": 447,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -17118,9 +17118,9 @@
     },
     {
       "channelId": "SNTVDaljir.so",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-ceea15c4d6c8220c5b74cf91",
+      "id": "chg-a2ac567bfa733153272a0973",
       "new": {
         "categories": [
           "GENERAL"
@@ -17135,7 +17135,7 @@
         ],
         "logo": "https://i.imgur.com/zmVKI26.jpg",
         "name": "SNTV Daljir",
-        "order": 279,
+        "order": 280,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -17166,9 +17166,9 @@
     },
     {
       "channelId": "SaabTV.so",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-2ee42b5a0bfd46714e1f55ce",
+      "id": "chg-0c811a4cbc9b78c6c72acf38",
       "new": {
         "categories": [
           "GENERAL"
@@ -17183,7 +17183,7 @@
         ],
         "logo": "https://i.imgur.com/JEC1J89.png",
         "name": "Saab TV",
-        "order": 278,
+        "order": 279,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -17228,9 +17228,9 @@
     },
     {
       "channelId": "SafeerTV.uk",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-4fde6919931d42d89eb4b19e",
+      "id": "chg-c2d035cfc707fd8f840b6b7e",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -17246,7 +17246,7 @@
         ],
         "logo": "https://image.roku.com/developer_channels/prod/8389e15af8fe49ac7c36d201c24ebf62fbe5b22897c2879ca26ae936e0ed308d.png",
         "name": "Safeer TV",
-        "order": 444,
+        "order": 445,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -17277,9 +17277,9 @@
     },
     {
       "channelId": "Sahara24.mr",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-14bc7704794c0e6087103629",
+      "id": "chg-808ab18dfd1c1424abbc1cbb",
       "new": {
         "categories": [
           "NEWS"
@@ -17294,7 +17294,7 @@
         ],
         "logo": "https://i.imgur.com/pnzWYwT.png",
         "name": "Sahara 24",
-        "order": 265,
+        "order": 266,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -17325,9 +17325,9 @@
     },
     {
       "channelId": "SalemNewsChannel.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-9e9eb2b3b800abb21076caf2",
+      "id": "chg-e15cc7a3465b71c0a748f109",
       "new": {
         "categories": [
           "NEWS"
@@ -17342,7 +17342,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/5/53/KTSF_Channel_26_logo.png",
         "name": "Salem News Channel",
-        "order": 445,
+        "order": 446,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -17505,9 +17505,9 @@
     },
     {
       "channelId": "Sat7Arabic.cy",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-e93ea7880f69bb7c0dd8a97c",
+      "id": "chg-2e4cb261e1f35b5306e51fbd",
       "new": {
         "categories": [
           "OTHER"
@@ -17522,7 +17522,7 @@
         ],
         "logo": "https://i.imgur.com/BzDjQeQ.png",
         "name": "Sat 7 Arabic",
-        "order": 510,
+        "order": 511,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -17553,9 +17553,9 @@
     },
     {
       "channelId": "Sat7Kids.cy",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-f0c41e12b5055fc8e525c775",
+      "id": "chg-721ca40371014a6d080a9975",
       "new": {
         "categories": [
           "KIDS",
@@ -17571,7 +17571,7 @@
         ],
         "logo": "https://i.imgur.com/M0ik0i2.png",
         "name": "Sat 7 Kids",
-        "order": 511,
+        "order": 512,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -17650,9 +17650,9 @@
     },
     {
       "channelId": "ScrippsNews.us",
-      "detectedAt": "2026-11-12T13:47:04Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-157828c9473d4d56ed7b82c2",
+      "id": "chg-f14a8e0a686cf39506793d82",
       "new": {
         "categories": [
           "NEWS"
@@ -17667,7 +17667,7 @@
         ],
         "logo": "https://i.imgur.com/W0Jvi5o.png",
         "name": "Scripps News",
-        "order": 447,
+        "order": 448,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -17754,9 +17754,9 @@
     },
     {
       "channelId": "SerajTV.ps",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-1c2d5fb5158c6f3de9c3630d",
+      "id": "chg-2cea536748cbf437e52c1d8c",
       "new": {
         "categories": [
           "NEWS",
@@ -17772,7 +17772,7 @@
         ],
         "logo": "https://i.imgur.com/1d25a9Q.png",
         "name": "Seraj TV",
-        "order": 248,
+        "order": 249,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -17803,9 +17803,9 @@
     },
     {
       "channelId": "ShababFM.ps",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-a82e81b58f80c5ef54eea6e5",
+      "id": "chg-0e3e3e04da4d1719831671b1",
       "new": {
         "categories": [
           "OTHER"
@@ -17820,7 +17820,7 @@
         ],
         "logo": "https://i.imgur.com/4Cyz4Bn.png",
         "name": "Shabab FM",
-        "order": 249,
+        "order": 250,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -18192,9 +18192,9 @@
     },
     {
       "channelId": "SkySportsF1.uk",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-ce236d66acbca0be88976165",
+      "id": "chg-e95ecf5ef83c356637ddb553",
       "new": {
         "categories": [
           "SPORTS"
@@ -18209,7 +18209,7 @@
         ],
         "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png",
         "name": "Sky Sports F1",
-        "order": 448,
+        "order": 449,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -18240,9 +18240,9 @@
     },
     {
       "channelId": "SkySportsNFL.uk",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-78da9a889fa8919840a8ca4d",
+      "id": "chg-0bfb799f0e88f5473579c6af",
       "new": {
         "categories": [
           "SPORTS"
@@ -18257,7 +18257,7 @@
         ],
         "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1333.png",
         "name": "Sky Sports NFL",
-        "order": 450,
+        "order": 451,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -18288,9 +18288,9 @@
     },
     {
       "channelId": "SkySportsNews.uk",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-6b35677e423549a986d55085",
+      "id": "chg-16fc9338dfab4cd1f5c4ab2e",
       "new": {
         "categories": [
           "SPORTS"
@@ -18305,7 +18305,7 @@
         ],
         "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1314.png",
         "name": "Sky Sports News",
-        "order": 449,
+        "order": 450,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -18336,9 +18336,9 @@
     },
     {
       "channelId": "SlopesTV.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-9cd91d2a79eae62f3e43c7e7",
+      "id": "chg-db9c1f24279d682c4ceccd0c",
       "new": {
         "categories": [
           "SPORTS"
@@ -18353,7 +18353,7 @@
         ],
         "logo": "https://i.imgur.com/8bzAfgK.png",
         "name": "Slopes TV",
-        "order": 451,
+        "order": 452,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -18384,9 +18384,9 @@
     },
     {
       "channelId": "SomaliNationalTV.so",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-bfe0b6f7777d122264f6287c",
+      "id": "chg-5274d15f2dcd9a2af57efecc",
       "new": {
         "categories": [
           "GENERAL"
@@ -18401,7 +18401,7 @@
         ],
         "logo": "https://i.imgur.com/2y8gv7V.png",
         "name": "Somali National TV",
-        "order": 280,
+        "order": 281,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -18447,9 +18447,9 @@
     },
     {
       "channelId": "SportsGrid.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-2e3176a1bedd51d5c62b44dc",
+      "id": "chg-ad42970594eb471b81e30767",
       "new": {
         "categories": [
           "SPORTS"
@@ -18464,7 +18464,7 @@
         ],
         "logo": "https://i.imgur.com/ulGKX30.png",
         "name": "SportsGrid",
-        "order": 452,
+        "order": 453,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -18551,9 +18551,9 @@
     },
     {
       "channelId": "Stadium.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-e15a416dd6098b97196114ac",
+      "id": "chg-2a493a276b70757b6ab5cc2e",
       "new": {
         "categories": [
           "SPORTS"
@@ -18568,7 +18568,7 @@
         ],
         "logo": "https://i.imgur.com/SnZOiER.png",
         "name": "Stadium",
-        "order": 453,
+        "order": 454,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -18613,9 +18613,9 @@
     },
     {
       "channelId": "Strongman.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-386eaeff80c2afb339b965e7",
+      "id": "chg-8850bd48e65c34c817e3ff33",
       "new": {
         "categories": [
           "SPORTS"
@@ -18631,7 +18631,7 @@
         ],
         "logo": "https://i.imgur.com/bVQBF6R.png",
         "name": "Strongman",
-        "order": 454,
+        "order": 455,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -18927,9 +18927,9 @@
     },
     {
       "channelId": "SudanTV.sd",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-040bbc93951ba36ece38ea79",
+      "id": "chg-2018f34e0ec751e934dc102e",
       "new": {
         "categories": [
           "OTHER"
@@ -18944,7 +18944,7 @@
         ],
         "logo": "https://i.imgur.com/XUPAYAA.png",
         "name": "Sudan TV",
-        "order": 282,
+        "order": 283,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -18975,9 +18975,9 @@
     },
     {
       "channelId": "SwerveCombat.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-2a1d35c16c025f6b132221c8",
+      "id": "chg-0f21dd036da0eade33ffcc3a",
       "new": {
         "categories": [
           "SPORTS"
@@ -18992,7 +18992,7 @@
         ],
         "logo": "https://i.imgur.com/eFZh7aG.png",
         "name": "Swerve Combat",
-        "order": 456,
+        "order": 457,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -19065,9 +19065,9 @@
     },
     {
       "channelId": "SwerveSports.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-09afc80f62dedbfbae600810",
+      "id": "chg-5431edaa909f3c90d0b2b202",
       "new": {
         "categories": [
           "SPORTS"
@@ -19082,7 +19082,7 @@
         ],
         "logo": "https://i.imgur.com/GT0Yi2T.png",
         "name": "Swerve Sports",
-        "order": 457,
+        "order": 458,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -19127,9 +19127,9 @@
     },
     {
       "channelId": "TODAYAllDay.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-1f3c1268fcefe956a2ed68a8",
+      "id": "chg-ae04b2c6dc6525776423c322",
       "new": {
         "categories": [
           "NEWS"
@@ -19144,7 +19144,7 @@
         ],
         "logo": "https://i.imgur.com/LhbQ8Mr.png",
         "name": "TODAY All Day",
-        "order": 464,
+        "order": 465,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -19203,9 +19203,9 @@
     },
     {
       "channelId": "TRTArabi.tr",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-424852b1af1e613e1ba0c97e",
+      "id": "chg-c670442e3ccf4d212b373f49",
       "new": {
         "categories": [
           "NEWS"
@@ -19221,7 +19221,7 @@
         ],
         "logo": "https://i.imgur.com/dEfI2M9.png",
         "name": "TRT Arabi",
-        "order": 513,
+        "order": 514,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -19252,9 +19252,9 @@
     },
     {
       "channelId": "TVSBowlingNetwork.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-b881c90e0ad6793a1cd45866",
+      "id": "chg-25e133d7158ca6ec071c6e50",
       "new": {
         "categories": [
           "SPORTS"
@@ -19269,7 +19269,7 @@
         ],
         "logo": "https://www.watchyour.tv/channels/logo/tvs-bowling-network.jpg",
         "name": "TVS Bowling Network",
-        "order": 466,
+        "order": 467,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -19300,9 +19300,9 @@
     },
     {
       "channelId": "TVSBoxing.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-ace4d75e74c90f4c773975cf",
+      "id": "chg-bf067c47fddfef32e8d316ed",
       "new": {
         "categories": [
           "SPORTS"
@@ -19317,7 +19317,7 @@
         ],
         "logo": "https://i.imgur.com/30ZoF75.png",
         "name": "TVS Boxing",
-        "order": 467,
+        "order": 468,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -19348,9 +19348,9 @@
     },
     {
       "channelId": "TVSClassicSports.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-ed519b333f1bf0770b328691",
+      "id": "chg-d769fb2c0fed5e71584514f8",
       "new": {
         "categories": [
           "SPORTS"
@@ -19365,7 +19365,7 @@
         ],
         "logo": "https://i.imgur.com/auR0Mi6.png",
         "name": "TVS Classic Sports",
-        "order": 468,
+        "order": 469,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -19396,9 +19396,9 @@
     },
     {
       "channelId": "TVSSports.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-c74eb8d7c005fc1e479c90b7",
+      "id": "chg-1b516f1f3f362ccc0676b1b9",
       "new": {
         "categories": [
           "SPORTS"
@@ -19413,7 +19413,7 @@
         ],
         "logo": "https://i.imgur.com/Lwwq62E.png",
         "name": "TVS Sports",
-        "order": 469,
+        "order": 470,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -19444,9 +19444,9 @@
     },
     {
       "channelId": "TVSSportsBureau.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-af6a421017c69749dfd08fed",
+      "id": "chg-37b019949a6958a44f477804",
       "new": {
         "categories": [
           "SPORTS"
@@ -19461,7 +19461,7 @@
         ],
         "logo": null,
         "name": "TVS Sports Bureau",
-        "order": 470,
+        "order": 471,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -19492,9 +19492,9 @@
     },
     {
       "channelId": "TVSTurbo.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-caf3463daf6e69f52f8f7c77",
+      "id": "chg-f4403577c6a4ecff9e9561ae",
       "new": {
         "categories": [
           "SPORTS"
@@ -19509,7 +19509,7 @@
         ],
         "logo": "https://i.imgur.com/7zYIbU1.png",
         "name": "TVS Turbo",
-        "order": 471,
+        "order": 472,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -19540,9 +19540,9 @@
     },
     {
       "channelId": "TVSWomenSports.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-6feebb363703de252b4d5e57",
+      "id": "chg-b6f745b6a11d95b94824c584",
       "new": {
         "categories": [
           "SPORTS"
@@ -19557,7 +19557,7 @@
         ],
         "logo": "https://i.imgur.com/8hC4PfF.png",
         "name": "TVS Women Sports",
-        "order": 472,
+        "order": 473,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -19588,9 +19588,9 @@
     },
     {
       "channelId": "TakbeerTV.uk",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-875bead37b42f5478e7b44bc",
+      "id": "chg-1f5b93883a42d2b430d28ca9",
       "new": {
         "categories": [
           "OTHER"
@@ -19605,7 +19605,7 @@
         ],
         "logo": "https://i.imgur.com/Cvnps2J.jpg",
         "name": "Takbeer TV",
-        "order": 458,
+        "order": 459,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -19677,9 +19677,9 @@
     },
     {
       "channelId": "TeleLiban.lb",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-6f84791e20f653343e3badb6",
+      "id": "chg-7629f4df7e514def9c6c17df",
       "new": {
         "categories": [
           "GENERAL"
@@ -19694,7 +19694,7 @@
         ],
         "logo": "https://i.imgur.com/5VPYxJi.png",
         "name": "Tele Liban",
-        "order": 225,
+        "order": 226,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -19725,9 +19725,9 @@
     },
     {
       "channelId": "TeleTchad.td",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-2a88f67e313ee39ab45f04e6",
+      "id": "chg-cfaf1fa061a6c2193bd59e5e",
       "new": {
         "categories": [
           "GENERAL"
@@ -19743,7 +19743,7 @@
         ],
         "logo": "https://i.imgur.com/udSzfHD.png",
         "name": "Tele Tchad",
-        "order": 512,
+        "order": 513,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -19774,9 +19774,9 @@
     },
     {
       "channelId": "TennisChannel.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-ef493fc3bf7cfae0780de9f1",
+      "id": "chg-6d832fb5fd595e5db94d6238",
       "new": {
         "categories": [
           "SPORTS"
@@ -19791,7 +19791,7 @@
         ],
         "logo": "https://i.imgur.com/tsljAnY.png",
         "name": "Tennis Channel",
-        "order": 460,
+        "order": 461,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -19920,9 +19920,9 @@
     },
     {
       "channelId": "TennisChannel2.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-486fedf358be2c36e8dc3be2",
+      "id": "chg-5b6f2c0efe90a8529fab8896",
       "new": {
         "categories": [
           "SPORTS"
@@ -19937,7 +19937,7 @@
         ],
         "logo": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png",
         "name": "Tennis Channel 2",
-        "order": 461,
+        "order": 462,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -19968,9 +19968,9 @@
     },
     {
       "channelId": "TheFirstTV.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-62d118f9db9e9a8198e15a0b",
+      "id": "chg-c6bf0670cc542ad34bc1dc58",
       "new": {
         "categories": [
           "NEWS"
@@ -19985,7 +19985,7 @@
         ],
         "logo": "https://i.imgur.com/rOSlp93.png",
         "name": "The First TV",
-        "order": 462,
+        "order": 463,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -20058,9 +20058,9 @@
     },
     {
       "channelId": "TheYoungTurks.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-f28340fad7d284c2d4fa3085",
+      "id": "chg-227dc590170a61b51c06566f",
       "new": {
         "categories": [
           "NEWS"
@@ -20075,7 +20075,7 @@
         ],
         "logo": "https://i.imgur.com/XDNXJCl.png",
         "name": "The Young Turks",
-        "order": 463,
+        "order": 464,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -20168,9 +20168,9 @@
     },
     {
       "channelId": "TopStoriesbyNewsy.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-d27d07a647a1e844ac2338a5",
+      "id": "chg-4e6ff7b12b82cd1afa8fa77a",
       "new": {
         "categories": [
           "NEWS"
@@ -20185,7 +20185,7 @@
         ],
         "logo": "https://i.imgur.com/UfN6aAi.png",
         "name": "Top Stories by Newsy",
-        "order": 465,
+        "order": 466,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -20216,9 +20216,9 @@
     },
     {
       "channelId": "Turkmenistan.tm",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-a27c1058c3bdff79344d0cc6",
+      "id": "chg-e51dd9fe0058f6f837889f61",
       "new": {
         "categories": [
           "GENERAL"
@@ -20238,7 +20238,7 @@
         ],
         "logo": "https://i.imgur.com/iBBpBx4.png",
         "name": "Turkmenistan",
-        "order": 514,
+        "order": 515,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -20283,9 +20283,9 @@
     },
     {
       "channelId": "UNWebTV.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-5c0af7114d51455f22615076",
+      "id": "chg-128a2089d98871a84b8fbd56",
       "new": {
         "categories": [
           "NEWS"
@@ -20300,7 +20300,7 @@
         ],
         "logo": "https://i.imgur.com/UcAwBep.png",
         "name": "UN Web TV",
-        "order": 473,
+        "order": 474,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -20331,9 +20331,9 @@
     },
     {
       "channelId": "UNews.lb",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-3e3fe8675143f1e400f18c8b",
+      "id": "chg-41b75a2024db7aed776718e8",
       "new": {
         "categories": [
           "NEWS"
@@ -20348,7 +20348,7 @@
         ],
         "logo": null,
         "name": "UNews",
-        "order": 226,
+        "order": 227,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -20580,9 +20580,9 @@
     },
     {
       "channelId": "Unbeaten.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-433a92db20552da7f137e54e",
+      "id": "chg-5b8d8fab777255179eade6c4",
       "new": {
         "categories": [
           "SPORTS"
@@ -20597,7 +20597,7 @@
         ],
         "logo": "https://i.imgur.com/LmkNt3v.png",
         "name": "Unbeaten",
-        "order": 474,
+        "order": 475,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -20656,9 +20656,9 @@
     },
     {
       "channelId": "VilayetTV.az",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-c33aad24a80f249003d2a9c5",
+      "id": "chg-6a711b0a4da40af4eed0708d",
       "new": {
         "categories": [
           "GENERAL"
@@ -20674,7 +20674,7 @@
         ],
         "logo": "https://vilayet.tv/wp-content/uploads/elementor/thumbs/logo-q3w2md1u47q39x7d0004wqzz74xdv1glw356ex6ph0.png",
         "name": "Vilayet TV",
-        "order": 515,
+        "order": 516,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -20705,9 +20705,9 @@
     },
     {
       "channelId": "VoATV.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-5f0559389561c266e732f353",
+      "id": "chg-bf859dc6422c173f81df1a36",
       "new": {
         "categories": [
           "NEWS"
@@ -20722,7 +20722,7 @@
         ],
         "logo": "https://i.imgur.com/rtRnlqN.png",
         "name": "VoA TV",
-        "order": 476,
+        "order": 477,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -20753,9 +20753,9 @@
     },
     {
       "channelId": "VoiceofLebanon.lb",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-4d5f44feffc87ec9254e0c40",
+      "id": "chg-e75d895e62b4c1dff377129d",
       "new": {
         "categories": [
           "NEWS"
@@ -20770,7 +20770,7 @@
         ],
         "logo": "https://i.imgur.com/f8WcqRY.png",
         "name": "Voice of Lebanon",
-        "order": 227,
+        "order": 228,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -20801,9 +20801,9 @@
     },
     {
       "channelId": "W14DKD142.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-874b64492a2d1dd8d357a642",
+      "id": "chg-ee566c7dd72c6a2cb11a04d8",
       "new": {
         "categories": [
           "NEWS"
@@ -20818,7 +20818,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png",
         "name": "W14DK-D 14.2",
-        "order": 477,
+        "order": 478,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -20849,9 +20849,9 @@
     },
     {
       "channelId": "WPLG101.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-52740b25b7bc93bd4654d07c",
+      "id": "chg-f81b99003217a6a7ccc9c220",
       "new": {
         "categories": [
           "NEWS"
@@ -20866,7 +20866,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/WPLG_Local_10_%282014%2C_without_ABC_logo%29.svg/500px-WPLG_Local_10_%282014%2C_without_ABC_logo%29.svg.png",
         "name": "WPLG 10.1",
-        "order": 481,
+        "order": 482,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -20897,9 +20897,9 @@
     },
     {
       "channelId": "WSOCNow.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-f82b8a72a9b140529d5acceb",
+      "id": "chg-daca3bba794728229d0cdd5c",
       "new": {
         "categories": [
           "NEWS"
@@ -20914,7 +20914,7 @@
         ],
         "logo": "https://i.imgur.com/tUb1mdc.png",
         "name": "WSOC Now",
-        "order": 482,
+        "order": 483,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -21055,9 +21055,9 @@
     },
     {
       "channelId": "WatarTV.ps",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-21f73aa5512c03c833466db5",
+      "id": "chg-b19205e2176ab53dbc51fdc3",
       "new": {
         "categories": [
           "GENERAL"
@@ -21072,7 +21072,7 @@
         ],
         "logo": "https://i.imgur.com/jdr22Sk.jpeg",
         "name": "Watar TV",
-        "order": 250,
+        "order": 251,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -21103,9 +21103,9 @@
     },
     {
       "channelId": "WattanTV.ps",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-a7837cfafb258415de0afd95",
+      "id": "chg-d385fddc7fc56f6afd718966",
       "new": {
         "categories": [
           "OTHER"
@@ -21120,7 +21120,7 @@
         ],
         "logo": "https://i.imgur.com/sf2A9vT.png",
         "name": "Wattan TV",
-        "order": 251,
+        "order": 252,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -21151,9 +21151,9 @@
     },
     {
       "channelId": "Willow.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-1e489864618d439e97928a79",
+      "id": "chg-134eb38ad3bd4b3db5a4021e",
       "new": {
         "categories": [
           "SPORTS"
@@ -21168,7 +21168,7 @@
         ],
         "logo": "https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png",
         "name": "Willow",
-        "order": 478,
+        "order": 479,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -21394,9 +21394,9 @@
     },
     {
       "channelId": "WorldPokerTour.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-7a8f3f5f43676dc9957bcdf4",
+      "id": "chg-99c726e6c3a0125946ca985f",
       "new": {
         "categories": [
           "SPORTS"
@@ -21415,7 +21415,7 @@
         ],
         "logo": "https://i.imgur.com/98kLMjj.png",
         "name": "World Poker Tour",
-        "order": 480,
+        "order": 481,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -21544,9 +21544,9 @@
     },
     {
       "channelId": "XFCTV.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-bbc508080733c944049a2af3",
+      "id": "chg-67c93a6368bfe49f8604e56f",
       "new": {
         "categories": [
           "SPORTS"
@@ -21561,7 +21561,7 @@
         ],
         "logo": "https://i.imgur.com/LcfzmG0.png",
         "name": "XFC TV",
-        "order": 483,
+        "order": 484,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -21654,9 +21654,9 @@
     },
     {
       "channelId": "ZarinTV.us",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-2ca868896618d1fe50699bd0",
+      "id": "chg-3e300634fe7c252581e2b713",
       "new": {
         "categories": [
           "GENERAL"
@@ -21672,7 +21672,7 @@
         ],
         "logo": null,
         "name": "Zarin TV",
-        "order": 484,
+        "order": 485,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -21714,9 +21714,9 @@
     },
     {
       "channelId": "beINSPORTSXTRAenEspanol.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-0516ea439e571e953fdf1052",
+      "id": "chg-3ae026ab4a8ff3a737a31704",
       "new": {
         "categories": [
           "SPORTS"
@@ -21732,7 +21732,7 @@
         ],
         "logo": "https://i.imgur.com/V562tpO.png",
         "name": "beIN SPORTS XTRA en Espanol",
-        "order": 325,
+        "order": 326,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -21790,10 +21790,62 @@
       "type": "ADD_CHANNEL"
     },
     {
-      "channelId": "beINSportsUSA.us",
-      "detectedAt": "2026-11-05T13:13:10Z",
+      "channelId": "beINSports1.qa",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-1e484185b71c90734075d853",
+      "id": "chg-5daf28fff2359dc10eeb7371",
+      "new": {
+        "categories": [
+          "SPORTS"
+        ],
+        "country": "قطر",
+        "countryCode": "QA",
+        "description": null,
+        "enabled": true,
+        "id": "beINSports1.qa",
+        "languages": [
+          "ara",
+          "eng",
+          "fra",
+          "msa",
+          "tur"
+        ],
+        "logo": "https://i.imgur.com/Vtk2cGI.png",
+        "name": "beIN Sports 1",
+        "order": 184,
+        "safety": {
+          "isNsfw": false,
+          "reviewed": true
+        },
+        "streams": [
+          {
+            "geo": {
+              "allowedCountries": [],
+              "blockedCountries": [],
+              "isGeoBlocked": false,
+              "label": null
+            },
+            "priority": 0,
+            "quality": null,
+            "referer": null,
+            "source": "iptv-org",
+            "url": "https://vg162.adcdsd123321.shop/7.m3u8",
+            "userAgent": null
+          }
+        ],
+        "upstreamId": "beINSports1.qa",
+        "website": null
+      },
+      "old": null,
+      "requiresApproval": true,
+      "status": "PENDING",
+      "type": "ADD_CHANNEL"
+    },
+    {
+      "channelId": "beINSportsUSA.us",
+      "detectedAt": "2026-11-13T13:07:52Z",
+      "field": "channel",
+      "id": "chg-d9a8a70e25320336a9aa0dc0",
       "new": {
         "categories": [
           "SPORTS"
@@ -21808,7 +21860,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg/960px-BeIN_Sports_logo_%28horizontal_version%29.svg.png",
         "name": "beIN Sports USA",
-        "order": 323,
+        "order": 324,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -21839,9 +21891,9 @@
     },
     {
       "channelId": "i24NEWSArabic.il",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-0c751a1a9d1930ffa8c437a2",
+      "id": "chg-f3fbcdeee446a5f7314fd0b0",
       "new": {
         "categories": [
           "NEWS"
@@ -21856,7 +21908,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
         "name": "i24NEWS Arabic",
-        "order": 499,
+        "order": 500,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -21901,9 +21953,9 @@
     },
     {
       "channelId": "iFilmArabic.ir",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-cf27f1fd5f580bd988356ff2",
+      "id": "chg-1306f9bd0335c23ad2316a76",
       "new": {
         "categories": [
           "MOVIES"
@@ -21918,7 +21970,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
         "name": "iFilm Arabic",
-        "order": 500,
+        "order": 501,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -21949,9 +22001,9 @@
     },
     {
       "channelId": "mfm.lb",
-      "detectedAt": "2026-10-29T11:32:06Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-9d81111353ae60a184eab887",
+      "id": "chg-6f03d2112c7c10ac14e6a16e",
       "new": {
         "categories": [
           "MUSIC"
@@ -21966,7 +22018,7 @@
         ],
         "logo": "https://www.mtv.com.lb/images/header/mfm-logo.svg",
         "name": "mfm",
-        "order": 210,
+        "order": 211,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -22045,9 +22097,9 @@
     },
     {
       "channelId": "talkSPORT.uk",
-      "detectedAt": "2026-11-11T12:43:50Z",
+      "detectedAt": "2026-11-13T13:07:52Z",
       "field": "channel",
-      "id": "chg-49e20a553863f05193355e93",
+      "id": "chg-bd7fc058d66d9b2fb50a7e66",
       "new": {
         "categories": [
           "SPORTS"
@@ -22062,7 +22114,7 @@
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/en/9/9d/Talksport_logo.png",
         "name": "talkSPORT",
-        "order": 459,
+        "order": 460,
         "safety": {
           "isNsfw": false,
           "reviewed": true
@@ -22106,12 +22158,12 @@
       "type": "ADD_CHANNEL"
     }
   ],
-  "generatedAt": "2026-11-12T13:47:04Z",
+  "generatedAt": "2026-11-13T13:07:52Z",
   "schemaVersion": 1,
   "summary": {
     "adultRejectedCount": 379,
     "byType": {
-      "ADD_CHANNEL": 336,
+      "ADD_CHANNEL": 337,
       "CHANGE_GEO": 27,
       "CHANGE_LANGUAGES": 1,
       "CHANGE_STREAMS": 15,
@@ -22120,6 +22172,6 @@
       "UPSTREAM_MISSING": 5
     },
     "safetyQuarantinedCount": 0,
-    "totalPending": 385
+    "totalPending": 386
   }
 }

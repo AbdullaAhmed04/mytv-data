@@ -1,15 +1,15 @@
 # MYTV Arab channel audit
 
-Generated: `2026-11-12T13:47:04Z`
+Generated: `2026-11-13T13:07:52Z`
 
 This report audits Arab-country channels from IPTV-org without exposing adult or safety-quarantined channel identities or stream URLs.
 
 ## Summary
 
 - Upstream Arab channels: **1106**
-- Eligible candidate channels: **287**
+- Eligible candidate channels: **288**
 - Currently approved channels from this upstream set: **149**
-- Excluded before candidate generation: **819**
+- Excluded before candidate generation: **818**
 - Hidden safety details: **1**
 
 ## Countries
@@ -22,7 +22,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 | العراق | 140 | 58 | 55 | 55 | 54 | 2 | 86 | 0 | 0 | 3 | 82 | 0 | 1 |
 | الإمارات | 140 | 39 | 36 | 36 | 36 | 20 | 104 | 1 | 0 | 3 | 99 | 1 | 0 |
 | الكويت | 26 | 11 | 11 | 11 | 11 | 10 | 15 | 0 | 0 | 0 | 15 | 0 | 0 |
-| قطر | 87 | 16 | 16 | 16 | 16 | 15 | 71 | 0 | 0 | 0 | 57 | 14 | 0 |
+| قطر | 87 | 17 | 17 | 17 | 17 | 15 | 70 | 0 | 0 | 0 | 56 | 14 | 0 |
 | الأردن | 62 | 19 | 13 | 13 | 13 | 11 | 49 | 0 | 0 | 6 | 43 | 0 | 0 |
 | لبنان | 49 | 31 | 26 | 26 | 26 | 14 | 23 | 0 | 0 | 5 | 18 | 0 | 0 |
 | سوريا | 30 | 10 | 8 | 8 | 8 | 8 | 22 | 0 | 0 | 2 | 20 | 0 | 0 |
@@ -598,6 +598,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 ### قطر (QA)
 
 - `CANDIDATE_NOT_APPROVED` — **Al Jazeera Documentary** (`AlJazeeraDocumentary.qa`); streams: 4, HTTPS: 4, valid: 4
+- `CANDIDATE_NOT_APPROVED` — **beIN Sports 1** (`beINSports1.qa`); streams: 1, HTTPS: 1, valid: 1
 - `DMCA` — **beIN Sports French 1** (`beINSportsFrench1.qa`); streams: 0, HTTPS: 0, valid: 0
 - `DMCA` — **beIN Sports French 2** (`beINSportsFrench2.qa`); streams: 0, HTTPS: 0, valid: 0
 - `DMCA` — **beIN Sports French 3** (`beINSportsFrench3.qa`); streams: 0, HTTPS: 0, valid: 0
@@ -640,7 +641,6 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **beIN Series 1** (`beINSeries1.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **beIN Series 2** (`beINSeries2.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **beIN Sports** (`beINSports.qa`); streams: 0, HTTPS: 0, valid: 0
-- `NO_STREAMS` — **beIN Sports 1** (`beINSports1.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **beIN Sports 2** (`beINSports2.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **beIN Sports 3** (`beINSports3.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **beIN Sports 4** (`beINSports4.qa`); streams: 0, HTTPS: 0, valid: 0
