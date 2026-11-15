@@ -3319,7 +3319,7 @@
     {
       "approvedCurrentChannels": 20,
       "candidateChannels": 36,
-      "channelsWithAnyStream": 39,
+      "channelsWithAnyStream": 41,
       "channelsWithHttpsStream": 36,
       "channelsWithValidStream": 36,
       "country": "الإمارات",
@@ -3480,9 +3480,25 @@
           "validStreamCount": 0
         },
         {
+          "channelId": "NickelodeonArabia.ae",
+          "httpsStreamCount": 0,
+          "name": "Nickelodeon Arabia",
+          "rawStreamCount": 1,
+          "reason": "HTTP_ONLY",
+          "validStreamCount": 0
+        },
+        {
           "channelId": "OSNMoviesAction.ae",
           "httpsStreamCount": 0,
           "name": "OSN Movies Action",
+          "rawStreamCount": 1,
+          "reason": "HTTP_ONLY",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "StarWorldMiddleEast.ae",
+          "httpsStreamCount": 0,
+          "name": "Star World Middle East",
           "rawStreamCount": 1,
           "reason": "HTTP_ONLY",
           "validStreamCount": 0
@@ -3944,14 +3960,6 @@
           "validStreamCount": 0
         },
         {
-          "channelId": "NickelodeonArabia.ae",
-          "httpsStreamCount": 0,
-          "name": "Nickelodeon Arabia",
-          "rawStreamCount": 0,
-          "reason": "NO_STREAMS",
-          "validStreamCount": 0
-        },
-        {
           "channelId": "NicktoonsArabia.ae",
           "httpsStreamCount": 0,
           "name": "Nicktoons Arabia",
@@ -4152,14 +4160,6 @@
           "validStreamCount": 0
         },
         {
-          "channelId": "StarWorldMiddleEast.ae",
-          "httpsStreamCount": 0,
-          "name": "Star World Middle East",
-          "rawStreamCount": 0,
-          "reason": "NO_STREAMS",
-          "validStreamCount": 0
-        },
-        {
           "channelId": "TeenNickArabia.ae",
           "httpsStreamCount": 0,
           "name": "TeenNick Arabia",
@@ -4285,12 +4285,12 @@
         "APPROVED": 20,
         "CANDIDATE_NOT_APPROVED": 16,
         "DMCA": 1,
-        "HTTP_ONLY": 3,
+        "HTTP_ONLY": 5,
         "INSECURE_REFERER": 0,
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 0,
-        "NO_STREAMS": 99,
+        "NO_STREAMS": 97,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 0
@@ -8287,14 +8287,14 @@
       "upstreamChannels": 28
     }
   ],
-  "generatedAt": "2026-11-14T12:11:54Z",
+  "generatedAt": "2026-11-15T12:45:10Z",
   "schemaVersion": 1,
   "scope": "ARAB_COUNTRIES",
   "source": "iptv-org",
   "summary": {
     "approvedCurrentChannels": 149,
     "candidateChannels": 288,
-    "channelsWithAnyStream": 326,
+    "channelsWithAnyStream": 328,
     "channelsWithHttpsStream": 290,
     "channelsWithValidStream": 290,
     "excludedBeforeCandidate": 818,
@@ -8304,12 +8304,12 @@
       "APPROVED": 149,
       "CANDIDATE_NOT_APPROVED": 139,
       "DMCA": 15,
-      "HTTP_ONLY": 35,
+      "HTTP_ONLY": 37,
       "INSECURE_REFERER": 0,
       "INVALID_STREAM_METADATA": 0,
       "INVALID_USER_AGENT": 0,
       "NO_HTTPS_STREAM": 1,
-      "NO_STREAMS": 764,
+      "NO_STREAMS": 762,
       "OTHER_EXCLUDED": 0,
       "SAFETY_QUARANTINED": 0,
       "USER_BLOCKLIST": 2

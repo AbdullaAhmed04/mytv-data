@@ -1,6 +1,6 @@
 # MYTV Arab channel audit
 
-Generated: `2026-11-14T12:11:54Z`
+Generated: `2026-11-15T12:45:10Z`
 
 This report audits Arab-country channels from IPTV-org without exposing adult or safety-quarantined channel identities or stream URLs.
 
@@ -20,7 +20,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 | السعودية | 166 | 56 | 55 | 55 | 55 | 29 | 111 | 0 | 0 | 0 | 110 | 0 | 0 |
 | مصر | 117 | 17 | 14 | 14 | 14 | 12 | 103 | 0 | 0 | 3 | 100 | 0 | 0 |
 | العراق | 140 | 58 | 55 | 55 | 54 | 2 | 86 | 0 | 0 | 3 | 82 | 0 | 1 |
-| الإمارات | 140 | 39 | 36 | 36 | 36 | 20 | 104 | 1 | 0 | 3 | 99 | 1 | 0 |
+| الإمارات | 140 | 41 | 36 | 36 | 36 | 20 | 104 | 1 | 0 | 5 | 97 | 1 | 0 |
 | الكويت | 26 | 11 | 11 | 11 | 11 | 10 | 15 | 0 | 0 | 0 | 15 | 0 | 0 |
 | قطر | 87 | 17 | 17 | 17 | 17 | 15 | 70 | 0 | 0 | 0 | 56 | 14 | 0 |
 | الأردن | 62 | 19 | 13 | 13 | 13 | 11 | 49 | 0 | 0 | 6 | 43 | 0 | 0 |
@@ -475,7 +475,9 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `DMCA` — **MBC Action** (`MBCAction.ae`); streams: 0, HTTPS: 0, valid: 0
 - `HTTP_ONLY` — **Cartoon Network Arabic** (`CartoonNetworkArabic.ae`); streams: 1, HTTPS: 0, valid: 0
 - `HTTP_ONLY` — **Dubai TV International** (`DubaiTVInternational.ae`); streams: 1, HTTPS: 0, valid: 0
+- `HTTP_ONLY` — **Nickelodeon Arabia** (`NickelodeonArabia.ae`); streams: 1, HTTPS: 0, valid: 0
 - `HTTP_ONLY` — **OSN Movies Action** (`OSNMoviesAction.ae`); streams: 1, HTTPS: 0, valid: 0
+- `HTTP_ONLY` — **Star World Middle East** (`StarWorldMiddleEast.ae`); streams: 1, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **3eesh Al Aan TV** (`3eeshAlAanTV.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Abu Dhabi Drama** (`AbuDhabiDrama.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Abu Dhabi Emirates** (`AbuDhabiEmirates.ae`); streams: 0, HTTPS: 0, valid: 0
@@ -533,7 +535,6 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **Nat Geo Kids Abu Dhabi** (`NatGeoKidsAbuDhabi.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **National Geographic Abu Dhabi** (`NationalGeographicAbuDhabi.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Nick Jr. Arabia** (`NickJrArabia.ae`); streams: 0, HTTPS: 0, valid: 0
-- `NO_STREAMS` — **Nickelodeon Arabia** (`NickelodeonArabia.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Nicktoons Arabia** (`NicktoonsArabia.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Nojoum TV** (`NojoumTV.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Noor Dubai** (`NoorDubai.ae`); streams: 0, HTTPS: 0, valid: 0
@@ -559,7 +560,6 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **Sama Dubai** (`SamaDubai.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Sony Max UAE** (`SonyMaxUAE.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Star Movies Middle East** (`StarMoviesMiddleEast.ae`); streams: 0, HTTPS: 0, valid: 0
-- `NO_STREAMS` — **Star World Middle East** (`StarWorldMiddleEast.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **TeenNick Arabia** (`TeenNickArabia.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Towheed TV** (`TowheedTV.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **U Toon** (`UToon.ae`); streams: 0, HTTPS: 0, valid: 0
