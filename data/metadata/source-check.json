@@ -1,7 +1,7 @@
 {
   "adultRejectedCount": 379,
   "candidateChannels": 516,
-  "checkedAt": "2026-11-15T12:45:10Z",
+  "checkedAt": "2026-11-16T13:40:06Z",
   "pendingChanges": 388,
   "policyRejectedCount": 385,
   "safetyQuarantinedCount": 0,
@@ -20,7 +20,7 @@
     "channels": 31843,
     "countries": 250,
     "feeds": 45514,
-    "logos": 35711,
+    "logos": 35713,
     "streams": 18689
   }
 }
