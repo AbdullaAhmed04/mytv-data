@@ -4221,9 +4221,9 @@
     },
     {
       "channelId": "BBCNews.uk",
-      "detectedAt": "2026-10-15T09:56:32Z",
+      "detectedAt": "2026-11-17T14:25:46Z",
       "field": "streams",
-      "id": "chg-38874f04992d88172913d06a",
+      "id": "chg-faf1b91b26ae0fd4898840ec",
       "new": [
         {
           "geo": {
@@ -4292,7 +4292,7 @@
           "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd",
+          "url": "https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_news/live.livx/playlist.m3u8",
           "userAgent": null
         },
         {
@@ -4306,7 +4306,7 @@
           "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd",
+          "url": "https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd",
           "userAgent": null
         },
         {
@@ -4320,7 +4320,7 @@
           "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8",
+          "url": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd",
           "userAgent": null
         },
         {
@@ -4334,7 +4334,7 @@
           "quality": "720p",
           "referer": null,
           "source": "iptv-org",
-          "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8",
+          "url": "https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8",
           "userAgent": null
         }
       ],
@@ -22082,7 +22082,7 @@
       "type": "ADD_CHANNEL"
     }
   ],
-  "generatedAt": "2026-11-16T13:40:06Z",
+  "generatedAt": "2026-11-17T14:25:46Z",
   "schemaVersion": 1,
   "summary": {
     "adultRejectedCount": 379,
