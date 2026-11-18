@@ -6018,7 +6018,7 @@
       "channelsWithValidStream": 16,
       "country": "فلسطين",
       "countryCode": "PS",
-      "excludedBeforeCandidate": 25,
+      "excludedBeforeCandidate": 26,
       "hiddenDetailsCount": 0,
       "items": [
         {
@@ -6318,6 +6318,14 @@
           "validStreamCount": 0
         },
         {
+          "channelId": "QudsunaTV.ps",
+          "httpsStreamCount": 0,
+          "name": "Qudsuna TV",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
           "channelId": "Raya1.ps",
           "httpsStreamCount": 0,
           "name": "Raya 1",
@@ -6360,12 +6368,12 @@
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 0,
-        "NO_STREAMS": 22,
+        "NO_STREAMS": 23,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 0
       },
-      "upstreamChannels": 41
+      "upstreamChannels": 42
     },
     {
       "approvedCurrentChannels": 2,
@@ -8287,7 +8295,7 @@
       "upstreamChannels": 28
     }
   ],
-  "generatedAt": "2026-11-17T14:25:46Z",
+  "generatedAt": "2026-11-18T13:59:42Z",
   "schemaVersion": 1,
   "scope": "ARAB_COUNTRIES",
   "source": "iptv-org",
@@ -8297,7 +8305,7 @@
     "channelsWithAnyStream": 328,
     "channelsWithHttpsStream": 290,
     "channelsWithValidStream": 290,
-    "excludedBeforeCandidate": 818,
+    "excludedBeforeCandidate": 819,
     "hiddenDetailsCount": 1,
     "reasons": {
       "ADULT_REJECTED": 1,
@@ -8309,11 +8317,11 @@
       "INVALID_STREAM_METADATA": 0,
       "INVALID_USER_AGENT": 0,
       "NO_HTTPS_STREAM": 1,
-      "NO_STREAMS": 762,
+      "NO_STREAMS": 763,
       "OTHER_EXCLUDED": 0,
       "SAFETY_QUARANTINED": 0,
       "USER_BLOCKLIST": 2
     },
-    "upstreamChannels": 1106
+    "upstreamChannels": 1107
   }
 }

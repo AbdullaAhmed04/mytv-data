@@ -6564,9 +6564,9 @@
     },
     {
       "channelId": "CharityTV.lb",
-      "detectedAt": "2026-11-13T13:07:52Z",
+      "detectedAt": "2026-11-18T13:59:42Z",
       "field": "channel",
-      "id": "chg-ecd6c177559a85448eb091e8",
+      "id": "chg-215cf5a6f437fd489688a73a",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -6595,7 +6595,7 @@
               "label": null
             },
             "priority": 0,
-            "quality": null,
+            "quality": "1080p",
             "referer": null,
             "source": "iptv-org",
             "url": "https://652930de05533.streamlock.net/live/ngrp:livestream_all/playlist.m3u8",
@@ -14288,9 +14288,9 @@
     },
     {
       "channelId": "OANPlus.us",
-      "detectedAt": "2026-11-15T12:45:10Z",
+      "detectedAt": "2026-11-18T13:59:42Z",
       "field": "channel",
-      "id": "chg-0322ca9be550b158961a4ec7",
+      "id": "chg-00f5e19e01cd5b3122b29a8f",
       "new": {
         "categories": [
           "NEWS"
@@ -14322,7 +14322,7 @@
             "quality": "1080p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://oan-plus-tcl.amagi.tv/playlist.m3u8",
+            "url": "https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8",
             "userAgent": null
           },
           {
@@ -14336,7 +14336,7 @@
             "quality": "1080p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://oneamericanews-roku-us.amagi.tv/playlist.m3u8",
+            "url": "https://oan-plus-tcl.amagi.tv/playlist.m3u8",
             "userAgent": null
           },
           {
@@ -14347,10 +14347,10 @@
               "label": null
             },
             "priority": 2,
-            "quality": "720p",
+            "quality": "1080p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8",
+            "url": "https://oneamericanews-roku-us.amagi.tv/playlist.m3u8",
             "userAgent": null
           },
           {
@@ -14364,7 +14364,7 @@
             "quality": "720p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://a-cdn.klowdtv.com/live1/oane/playlist.m3u8",
+            "url": "https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8",
             "userAgent": null
           },
           {
@@ -14378,7 +14378,7 @@
             "quality": "720p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://jmp2.uk/plu-5e7cf6c7b156d500078c5f44.m3u8",
+            "url": "https://a-cdn.klowdtv.com/live1/oane/playlist.m3u8",
             "userAgent": null
           },
           {
@@ -14389,10 +14389,10 @@
               "label": null
             },
             "priority": 5,
-            "quality": null,
+            "quality": "720p",
             "referer": null,
             "source": "iptv-org",
-            "url": "https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8",
+            "url": "https://jmp2.uk/plu-5e7cf6c7b156d500078c5f44.m3u8",
             "userAgent": null
           }
         ],
@@ -21027,9 +21027,9 @@
     },
     {
       "channelId": "WattanTV.ps",
-      "detectedAt": "2026-11-13T13:07:52Z",
+      "detectedAt": "2026-11-18T13:59:42Z",
       "field": "channel",
-      "id": "chg-d385fddc7fc56f6afd718966",
+      "id": "chg-ea2b8de1f1285f4b3ea3a335",
       "new": {
         "categories": [
           "OTHER"
@@ -21058,7 +21058,7 @@
               "label": null
             },
             "priority": 0,
-            "quality": null,
+            "quality": "720p",
             "referer": null,
             "source": "iptv-org",
             "url": "https://htvmada.mada.ps:4443/wattan/index.m3u8",
@@ -22082,7 +22082,7 @@
       "type": "ADD_CHANNEL"
     }
   ],
-  "generatedAt": "2026-11-17T14:25:46Z",
+  "generatedAt": "2026-11-18T13:59:42Z",
   "schemaVersion": 1,
   "summary": {
     "adultRejectedCount": 379,

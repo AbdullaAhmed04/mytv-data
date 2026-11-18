@@ -1,15 +1,15 @@
 # MYTV Arab channel audit
 
-Generated: `2026-11-17T14:25:46Z`
+Generated: `2026-11-18T13:59:42Z`
 
 This report audits Arab-country channels from IPTV-org without exposing adult or safety-quarantined channel identities or stream URLs.
 
 ## Summary
 
-- Upstream Arab channels: **1106**
+- Upstream Arab channels: **1107**
 - Eligible candidate channels: **288**
 - Currently approved channels from this upstream set: **149**
-- Excluded before candidate generation: **818**
+- Excluded before candidate generation: **819**
 - Hidden safety details: **1**
 
 ## Countries
@@ -26,7 +26,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 | الأردن | 62 | 19 | 13 | 13 | 13 | 11 | 49 | 0 | 0 | 6 | 43 | 0 | 0 |
 | لبنان | 49 | 31 | 26 | 26 | 26 | 14 | 23 | 0 | 0 | 5 | 18 | 0 | 0 |
 | سوريا | 30 | 10 | 8 | 8 | 8 | 8 | 22 | 0 | 0 | 2 | 20 | 0 | 0 |
-| فلسطين | 41 | 19 | 16 | 16 | 16 | 0 | 25 | 0 | 0 | 3 | 22 | 0 | 0 |
+| فلسطين | 42 | 19 | 16 | 16 | 16 | 0 | 26 | 0 | 0 | 3 | 23 | 0 | 0 |
 | الجزائر | 47 | 7 | 4 | 4 | 4 | 2 | 43 | 0 | 0 | 3 | 40 | 0 | 0 |
 | البحرين | 6 | 5 | 5 | 5 | 5 | 5 | 1 | 0 | 0 | 0 | 1 | 0 | 0 |
 | جزر القمر | 2 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 2 | 0 | 0 |
@@ -826,6 +826,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **Palestine News Network** (`PalestineNewsNetwork.ps`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Palestine Sport** (`PalestineSport.ps`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Palestine TV** (`PalestineTV.ps`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **Qudsuna TV** (`QudsunaTV.ps`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Raya 1** (`Raya1.ps`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Raya 2** (`Raya2.ps`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Raya 3** (`Raya3.ps`); streams: 0, HTTPS: 0, valid: 0
