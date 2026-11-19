@@ -6012,13 +6012,13 @@
     },
     {
       "approvedCurrentChannels": 0,
-      "candidateChannels": 16,
-      "channelsWithAnyStream": 19,
-      "channelsWithHttpsStream": 16,
-      "channelsWithValidStream": 16,
+      "candidateChannels": 17,
+      "channelsWithAnyStream": 20,
+      "channelsWithHttpsStream": 17,
+      "channelsWithValidStream": 17,
       "country": "فلسطين",
       "countryCode": "PS",
-      "excludedBeforeCandidate": 26,
+      "excludedBeforeCandidate": 25,
       "hiddenDetailsCount": 0,
       "items": [
         {
@@ -6097,6 +6097,14 @@
           "channelId": "PalestineToday.ps",
           "httpsStreamCount": 1,
           "name": "Palestine Today",
+          "rawStreamCount": 1,
+          "reason": "CANDIDATE_NOT_APPROVED",
+          "validStreamCount": 1
+        },
+        {
+          "channelId": "QudsunaTV.ps",
+          "httpsStreamCount": 1,
+          "name": "Qudsuna TV",
           "rawStreamCount": 1,
           "reason": "CANDIDATE_NOT_APPROVED",
           "validStreamCount": 1
@@ -6318,14 +6326,6 @@
           "validStreamCount": 0
         },
         {
-          "channelId": "QudsunaTV.ps",
-          "httpsStreamCount": 0,
-          "name": "Qudsuna TV",
-          "rawStreamCount": 0,
-          "reason": "NO_STREAMS",
-          "validStreamCount": 0
-        },
-        {
           "channelId": "Raya1.ps",
           "httpsStreamCount": 0,
           "name": "Raya 1",
@@ -6361,14 +6361,14 @@
       "reasons": {
         "ADULT_REJECTED": 0,
         "APPROVED": 0,
-        "CANDIDATE_NOT_APPROVED": 16,
+        "CANDIDATE_NOT_APPROVED": 17,
         "DMCA": 0,
         "HTTP_ONLY": 3,
         "INSECURE_REFERER": 0,
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 0,
-        "NO_STREAMS": 23,
+        "NO_STREAMS": 22,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 0
@@ -8295,29 +8295,29 @@
       "upstreamChannels": 28
     }
   ],
-  "generatedAt": "2026-11-18T13:59:42Z",
+  "generatedAt": "2026-11-19T14:26:55Z",
   "schemaVersion": 1,
   "scope": "ARAB_COUNTRIES",
   "source": "iptv-org",
   "summary": {
     "approvedCurrentChannels": 149,
-    "candidateChannels": 288,
-    "channelsWithAnyStream": 328,
-    "channelsWithHttpsStream": 290,
-    "channelsWithValidStream": 290,
-    "excludedBeforeCandidate": 819,
+    "candidateChannels": 289,
+    "channelsWithAnyStream": 329,
+    "channelsWithHttpsStream": 291,
+    "channelsWithValidStream": 291,
+    "excludedBeforeCandidate": 818,
     "hiddenDetailsCount": 1,
     "reasons": {
       "ADULT_REJECTED": 1,
       "APPROVED": 149,
-      "CANDIDATE_NOT_APPROVED": 139,
+      "CANDIDATE_NOT_APPROVED": 140,
       "DMCA": 15,
       "HTTP_ONLY": 37,
       "INSECURE_REFERER": 0,
       "INVALID_STREAM_METADATA": 0,
       "INVALID_USER_AGENT": 0,
       "NO_HTTPS_STREAM": 1,
-      "NO_STREAMS": 763,
+      "NO_STREAMS": 762,
       "OTHER_EXCLUDED": 0,
       "SAFETY_QUARANTINED": 0,
       "USER_BLOCKLIST": 2
