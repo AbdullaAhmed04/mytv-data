@@ -16130,9 +16130,9 @@
     },
     {
       "channelId": "QudsunaTV.ps",
-      "detectedAt": "2026-11-19T14:26:55Z",
+      "detectedAt": "2026-11-21T13:28:47Z",
       "field": "channel",
-      "id": "chg-2ad256c0b17d4c448778b7df",
+      "id": "chg-bdb851bd2dfa30f6e6905427",
       "new": {
         "categories": [
           "GENERAL"
@@ -16145,7 +16145,7 @@
         "languages": [
           "arb"
         ],
-        "logo": "https://drive.google.com/file/d/1LEl-AhX5HZmP05kfBk4fwSmtJyPjVT3x/view?usp=drive_link",
+        "logo": "https://i.imgur.com/rzRs0ed.png",
         "name": "Qudsuna TV",
         "order": 247,
         "safety": {
@@ -22545,7 +22545,7 @@
       "type": "ADD_CHANNEL"
     }
   ],
-  "generatedAt": "2026-11-20T14:01:35Z",
+  "generatedAt": "2026-11-21T13:28:47Z",
   "schemaVersion": 1,
   "summary": {
     "adultRejectedCount": 379,
