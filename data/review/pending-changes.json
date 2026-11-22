@@ -6138,9 +6138,9 @@
     },
     {
       "channelId": "CGTNArabic.cn",
-      "detectedAt": "2026-11-20T14:01:35Z",
+      "detectedAt": "2026-11-22T13:22:11Z",
       "field": "channel",
-      "id": "chg-96c6117f05e9e848aac0a794",
+      "id": "chg-5ee5ab8f4499f85a3c3a48e4",
       "new": {
         "categories": [
           "NEWS"
@@ -6169,20 +6169,6 @@
               "label": null
             },
             "priority": 0,
-            "quality": "1080p",
-            "referer": null,
-            "source": "iptv-org",
-            "url": "https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8",
-            "userAgent": null
-          },
-          {
-            "geo": {
-              "allowedCountries": [],
-              "blockedCountries": [],
-              "isGeoBlocked": false,
-              "label": null
-            },
-            "priority": 1,
             "quality": null,
             "referer": null,
             "source": "iptv-org",
@@ -6196,7 +6182,7 @@
               "isGeoBlocked": false,
               "label": null
             },
-            "priority": 2,
+            "priority": 1,
             "quality": "576p",
             "referer": null,
             "source": "iptv-org",
@@ -20994,55 +20980,6 @@
       "type": "ADD_CHANNEL"
     },
     {
-      "channelId": "VilayetTV.az",
-      "detectedAt": "2026-11-20T14:01:35Z",
-      "field": "channel",
-      "id": "chg-b8379d872d7e917e80322fee",
-      "new": {
-        "categories": [
-          "GENERAL"
-        ],
-        "country": "Azerbaijan",
-        "countryCode": "AZ",
-        "description": null,
-        "enabled": true,
-        "id": "VilayetTV.az",
-        "languages": [
-          "ara",
-          "aze"
-        ],
-        "logo": "https://vilayet.tv/wp-content/uploads/elementor/thumbs/logo-q3w2md1u47q39x7d0004wqzz74xdv1glw356ex6ph0.png",
-        "name": "Vilayet TV",
-        "order": 520,
-        "safety": {
-          "isNsfw": false,
-          "reviewed": true
-        },
-        "streams": [
-          {
-            "geo": {
-              "allowedCountries": [],
-              "blockedCountries": [],
-              "isGeoBlocked": false,
-              "label": null
-            },
-            "priority": 0,
-            "quality": null,
-            "referer": null,
-            "source": "iptv-org",
-            "url": "https://nl.livekadeh.com/hls2/vilayet.m3u8",
-            "userAgent": null
-          }
-        ],
-        "upstreamId": "VilayetTV.az",
-        "website": "https://vilayet.tv/"
-      },
-      "old": null,
-      "requiresApproval": true,
-      "status": "PENDING",
-      "type": "ADD_CHANNEL"
-    },
-    {
       "channelId": "VoATV.us",
       "detectedAt": "2026-11-20T14:01:35Z",
       "field": "channel",
@@ -22545,12 +22482,12 @@
       "type": "ADD_CHANNEL"
     }
   ],
-  "generatedAt": "2026-11-21T13:28:47Z",
+  "generatedAt": "2026-11-22T13:22:11Z",
   "schemaVersion": 1,
   "summary": {
-    "adultRejectedCount": 379,
+    "adultRejectedCount": 378,
     "byType": {
-      "ADD_CHANNEL": 341,
+      "ADD_CHANNEL": 340,
       "CHANGE_GEO": 27,
       "CHANGE_LANGUAGES": 1,
       "CHANGE_STREAMS": 16,
@@ -22559,6 +22496,6 @@
       "UPSTREAM_MISSING": 5
     },
     "safetyQuarantinedCount": 0,
-    "totalPending": 391
+    "totalPending": 390
   }
 }
