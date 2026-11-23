@@ -1,15 +1,15 @@
 # MYTV Arab channel audit
 
-Generated: `2026-11-22T13:22:11Z`
+Generated: `2026-11-23T15:59:28Z`
 
 This report audits Arab-country channels from IPTV-org without exposing adult or safety-quarantined channel identities or stream URLs.
 
 ## Summary
 
-- Upstream Arab channels: **1107**
+- Upstream Arab channels: **1108**
 - Eligible candidate channels: **289**
 - Currently approved channels from this upstream set: **149**
-- Excluded before candidate generation: **818**
+- Excluded before candidate generation: **819**
 - Hidden safety details: **1**
 
 ## Countries
@@ -19,7 +19,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 | اليمن | 23 | 4 | 4 | 4 | 3 | 3 | 20 | 0 | 0 | 0 | 19 | 0 | 1 |
 | السعودية | 166 | 56 | 55 | 55 | 55 | 29 | 111 | 0 | 0 | 0 | 110 | 0 | 0 |
 | مصر | 117 | 17 | 14 | 14 | 14 | 12 | 103 | 0 | 0 | 3 | 100 | 0 | 0 |
-| العراق | 140 | 58 | 55 | 55 | 54 | 2 | 86 | 0 | 0 | 3 | 82 | 0 | 1 |
+| العراق | 141 | 58 | 55 | 55 | 54 | 2 | 87 | 0 | 0 | 3 | 83 | 0 | 1 |
 | الإمارات | 140 | 41 | 36 | 36 | 36 | 20 | 104 | 1 | 0 | 5 | 97 | 1 | 0 |
 | الكويت | 26 | 11 | 11 | 11 | 11 | 10 | 15 | 0 | 0 | 0 | 15 | 0 | 0 |
 | قطر | 87 | 17 | 17 | 17 | 17 | 15 | 70 | 0 | 0 | 0 | 56 | 14 | 0 |
@@ -436,6 +436,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **NRT 2** (`NRT2.iq`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **NRT 3 Kids** (`NRT3Kids.iq`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **NRT 4** (`NRT4.iq`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **NRT Sport** (`NRTSport.iq`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **NUBAR Plus +** (`NUBARPlusPlus.iq`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **NUBAR tv** (`NUBARtv.iq`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Parwardayi TV** (`ParwardayiTV.iq`); streams: 0, HTTPS: 0, valid: 0

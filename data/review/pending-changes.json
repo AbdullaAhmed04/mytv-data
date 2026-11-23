@@ -6138,9 +6138,9 @@
     },
     {
       "channelId": "CGTNArabic.cn",
-      "detectedAt": "2026-11-22T13:22:11Z",
+      "detectedAt": "2026-11-23T15:59:28Z",
       "field": "channel",
-      "id": "chg-5ee5ab8f4499f85a3c3a48e4",
+      "id": "chg-5bf2b11a96a0ac59e953f98f",
       "new": {
         "categories": [
           "NEWS"
@@ -6169,6 +6169,20 @@
               "label": null
             },
             "priority": 0,
+            "quality": "1080p",
+            "referer": null,
+            "source": "iptv-org",
+            "url": "https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8",
+            "userAgent": null
+          },
+          {
+            "geo": {
+              "allowedCountries": [],
+              "blockedCountries": [],
+              "isGeoBlocked": false,
+              "label": null
+            },
+            "priority": 1,
             "quality": null,
             "referer": null,
             "source": "iptv-org",
@@ -6182,7 +6196,7 @@
               "isGeoBlocked": false,
               "label": null
             },
-            "priority": 1,
+            "priority": 2,
             "quality": "576p",
             "referer": null,
             "source": "iptv-org",
@@ -9072,9 +9086,9 @@
     },
     {
       "channelId": "HabibTV.ir",
-      "detectedAt": "2026-11-20T14:01:35Z",
+      "detectedAt": "2026-11-23T15:59:28Z",
       "field": "channel",
-      "id": "chg-8c8da92ec6f2380e3e488547",
+      "id": "chg-771ac473c8337acab9b8f25a",
       "new": {
         "categories": [
           "RELIGIOUS"
@@ -9104,7 +9118,7 @@
               "label": null
             },
             "priority": 0,
-            "quality": null,
+            "quality": "720p",
             "referer": null,
             "source": "iptv-org",
             "url": "https://ncdn.telewebion.ir/habib/live/playlist.m3u8",
@@ -13208,9 +13222,9 @@
     },
     {
       "channelId": "News12Conneticut.us",
-      "detectedAt": "2026-11-20T14:01:35Z",
+      "detectedAt": "2026-11-23T15:59:28Z",
       "field": "channel",
-      "id": "chg-9a73da62087f4cd4075e319a",
+      "id": "chg-6824f6d84a129bac08bc2501",
       "new": {
         "categories": [
           "NEWS"
@@ -13239,7 +13253,7 @@
               "label": null
             },
             "priority": 0,
-            "quality": null,
+            "quality": "1080p",
             "referer": null,
             "source": "iptv-org",
             "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https",
@@ -15407,9 +15421,9 @@
     },
     {
       "channelId": "Palestinetv.ir",
-      "detectedAt": "2026-11-20T14:01:35Z",
+      "detectedAt": "2026-11-23T15:59:28Z",
       "field": "channel",
-      "id": "chg-543fc5f0674cf20769b6cb50",
+      "id": "chg-ec8a7b04b9227aeb8bfc38c5",
       "new": {
         "categories": [
           "GENERAL"
@@ -15439,7 +15453,7 @@
               "label": null
             },
             "priority": 0,
-            "quality": null,
+            "quality": "720p",
             "referer": null,
             "source": "iptv-org",
             "url": "https://ncdn.telewebion.ir/palestine/live/playlist.m3u8",
@@ -22482,7 +22496,7 @@
       "type": "ADD_CHANNEL"
     }
   ],
-  "generatedAt": "2026-11-22T13:22:11Z",
+  "generatedAt": "2026-11-23T15:59:28Z",
   "schemaVersion": 1,
   "summary": {
     "adultRejectedCount": 378,
