@@ -1,15 +1,15 @@
 # MYTV Arab channel audit
 
-Generated: `2026-11-23T15:59:28Z`
+Generated: `2026-11-24T15:53:54Z`
 
 This report audits Arab-country channels from IPTV-org without exposing adult or safety-quarantined channel identities or stream URLs.
 
 ## Summary
 
-- Upstream Arab channels: **1108**
-- Eligible candidate channels: **289**
+- Upstream Arab channels: **1110**
+- Eligible candidate channels: **293**
 - Currently approved channels from this upstream set: **149**
-- Excluded before candidate generation: **819**
+- Excluded before candidate generation: **817**
 - Hidden safety details: **1**
 
 ## Countries
@@ -17,17 +17,17 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 | Country | Source | Any stream | HTTPS | Valid stream | Candidate | Approved | Excluded | +18 | Safety quarantine | HTTP only | No streams | DMCA | User block |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | اليمن | 23 | 4 | 4 | 4 | 3 | 3 | 20 | 0 | 0 | 0 | 19 | 0 | 1 |
-| السعودية | 166 | 56 | 55 | 55 | 55 | 29 | 111 | 0 | 0 | 0 | 110 | 0 | 0 |
+| السعودية | 167 | 56 | 55 | 55 | 55 | 29 | 112 | 0 | 0 | 0 | 111 | 0 | 0 |
 | مصر | 117 | 17 | 14 | 14 | 14 | 12 | 103 | 0 | 0 | 3 | 100 | 0 | 0 |
-| العراق | 141 | 58 | 55 | 55 | 54 | 2 | 87 | 0 | 0 | 3 | 83 | 0 | 1 |
-| الإمارات | 140 | 41 | 36 | 36 | 36 | 20 | 104 | 1 | 0 | 5 | 97 | 1 | 0 |
+| العراق | 141 | 59 | 56 | 56 | 55 | 2 | 86 | 0 | 0 | 3 | 82 | 0 | 1 |
+| الإمارات | 141 | 41 | 36 | 36 | 36 | 20 | 105 | 1 | 0 | 5 | 98 | 1 | 0 |
 | الكويت | 26 | 11 | 11 | 11 | 11 | 10 | 15 | 0 | 0 | 0 | 15 | 0 | 0 |
 | قطر | 87 | 17 | 17 | 17 | 17 | 15 | 70 | 0 | 0 | 0 | 56 | 14 | 0 |
 | الأردن | 62 | 19 | 13 | 13 | 13 | 11 | 49 | 0 | 0 | 6 | 43 | 0 | 0 |
-| لبنان | 49 | 31 | 26 | 26 | 26 | 14 | 23 | 0 | 0 | 5 | 18 | 0 | 0 |
+| لبنان | 49 | 31 | 27 | 27 | 27 | 14 | 22 | 0 | 0 | 4 | 18 | 0 | 0 |
 | سوريا | 30 | 10 | 8 | 8 | 8 | 8 | 22 | 0 | 0 | 2 | 20 | 0 | 0 |
-| فلسطين | 42 | 20 | 17 | 17 | 17 | 0 | 25 | 0 | 0 | 3 | 22 | 0 | 0 |
-| الجزائر | 47 | 7 | 4 | 4 | 4 | 2 | 43 | 0 | 0 | 3 | 40 | 0 | 0 |
+| فلسطين | 42 | 21 | 18 | 18 | 18 | 0 | 24 | 0 | 0 | 3 | 21 | 0 | 0 |
+| الجزائر | 47 | 7 | 5 | 5 | 5 | 2 | 42 | 0 | 0 | 2 | 40 | 0 | 0 |
 | البحرين | 6 | 5 | 5 | 5 | 5 | 5 | 1 | 0 | 0 | 0 | 1 | 0 | 0 |
 | جزر القمر | 2 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 2 | 0 | 0 |
 | جيبوتي | 8 | 0 | 0 | 0 | 0 | 0 | 8 | 0 | 0 | 0 | 8 | 0 | 0 |
@@ -75,7 +75,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `CANDIDATE_NOT_APPROVED` — **Asharq Discovery** (`AsharqDiscovery.sa`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Asharq Documentary** (`AsharqDocumentary.sa`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Dr Pal TV** (`DrPalTV.sa`); streams: 1, HTTPS: 1, valid: 1
-- `CANDIDATE_NOT_APPROVED` — **LBC** (`LBC.sa`); streams: 2, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **LBC** (`LBC.sa`); streams: 3, HTTPS: 2, valid: 2
 - `CANDIDATE_NOT_APPROVED` — **MBC Loud** (`MBCLoud.sa`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **MBC+ Drama** (`MBCPlusDrama.sa`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Mohammed Abdo** (`MohammedAbdo.sa`); streams: 1, HTTPS: 1, valid: 1
@@ -83,17 +83,18 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `CANDIDATE_NOT_APPROVED` — **Nidae AlIslam Radio** (`NidaeAlIslamRadio.sa`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Panorama FM** (`PanoramaFM.sa`); streams: 2, HTTPS: 2, valid: 2
 - `CANDIDATE_NOT_APPROVED` — **Rashid AlMajed** (`RashidAlMajed.sa`); streams: 1, HTTPS: 1, valid: 1
-- `CANDIDATE_NOT_APPROVED` — **Rotana Cinema KSA** (`RotanaCinemaKSA.sa`); streams: 1, HTTPS: 1, valid: 1
-- `CANDIDATE_NOT_APPROVED` — **Rotana Classic** (`RotanaClassic.sa`); streams: 1, HTTPS: 1, valid: 1
-- `CANDIDATE_NOT_APPROVED` — **Rotana Clip** (`RotanaClip.sa`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Rotana Cinema KSA** (`RotanaCinemaKSA.sa`); streams: 2, HTTPS: 2, valid: 2
+- `CANDIDATE_NOT_APPROVED` — **Rotana Classic** (`RotanaClassic.sa`); streams: 2, HTTPS: 2, valid: 2
+- `CANDIDATE_NOT_APPROVED` — **Rotana Clip** (`RotanaClip.sa`); streams: 2, HTTPS: 2, valid: 2
 - `CANDIDATE_NOT_APPROVED` — **Rotana Comedy** (`RotanaComedy.sa`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Rotana Drama** (`RotanaDrama.sa`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Rotana Khalijia** (`RotanaKhalijia.sa`); streams: 1, HTTPS: 1, valid: 1
-- `CANDIDATE_NOT_APPROVED` — **Rotana Music** (`RotanaMusic.sa`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Rotana Music** (`RotanaMusic.sa`); streams: 2, HTTPS: 2, valid: 2
 - `CANDIDATE_NOT_APPROVED` — **Saudia Radio** (`SaudiaRadio.sa`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Thikrayat TV** (`ThikrayatTV.sa`); streams: 1, HTTPS: 1, valid: 1
 - `NO_HTTPS_STREAM` — **Rotana FM KSA** (`RotanaFMKSA.sa`); streams: 1, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **22 Arab TV** (`22ArabTV.sa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **3.16 Channel** (`316Channel.sa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **7lim BIGOTV** (`7limBIGOTV.sa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Ahl-Alquran TV** (`AhlAlquranTV.sa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Ahlu Al Quran TV** (`AhluAlQuranTV.sa`); streams: 0, HTTPS: 0, valid: 0
@@ -358,10 +359,11 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `CANDIDATE_NOT_APPROVED` — **Marjaeyat TV English** (`MarjaeyatTVEnglish.iq`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Marjaeyat TV Persian** (`MarjaeyatTVPersian.iq`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Mixkurdy** (`Mixkurdy.iq`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **NRT Sport** (`NRTSport.iq`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **NRT TV** (`NRTTV.iq`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Payam TV** (`PayamTV.iq`); streams: 2, HTTPS: 2, valid: 2
 - `CANDIDATE_NOT_APPROVED` — **Rudaw TV** (`RudawTV.iq`); streams: 2, HTTPS: 2, valid: 2
-- `CANDIDATE_NOT_APPROVED` — **Samarra TV** (`SamarraTV.iq`); streams: 2, HTTPS: 2, valid: 2
+- `CANDIDATE_NOT_APPROVED` — **Samarra TV** (`SamarraTV.iq`); streams: 3, HTTPS: 3, valid: 3
 - `CANDIDATE_NOT_APPROVED` — **Shams TV** (`ShamsTV.iq`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **UTV** (`UTV.iq`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Waar TV** (`WaarTV.iq`); streams: 2, HTTPS: 2, valid: 2
@@ -436,7 +438,6 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **NRT 2** (`NRT2.iq`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **NRT 3 Kids** (`NRT3Kids.iq`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **NRT 4** (`NRT4.iq`); streams: 0, HTTPS: 0, valid: 0
-- `NO_STREAMS` — **NRT Sport** (`NRTSport.iq`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **NUBAR Plus +** (`NUBARPlusPlus.iq`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **NUBAR tv** (`NUBARtv.iq`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Parwardayi TV** (`ParwardayiTV.iq`); streams: 0, HTTPS: 0, valid: 0
@@ -461,7 +462,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `CANDIDATE_NOT_APPROVED` — **Al Mashhad** (`AlMashhad.ae`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Fujairah TV** (`FujairahTV.ae`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **MBC FM** (`MBCFM.ae`); streams: 2, HTTPS: 2, valid: 2
-- `CANDIDATE_NOT_APPROVED` — **Peace TV Bangla** (`PeaceTVBangla.ae`); streams: 2, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Peace TV Bangla** (`PeaceTVBangla.ae`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Peace TV Chinese** (`PeaceTVChinese.ae`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Peace TV English** (`PeaceTVEnglish.ae`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Peace TV Urdu** (`PeaceTVUrdu.ae`); streams: 1, HTTPS: 1, valid: 1
@@ -540,6 +541,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **Nojoum TV** (`NojoumTV.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Noor Dubai** (`NoorDubai.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **NTV** (`NTV.ae`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **NTV UAE HD** (`NTVUAEHD.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **OSN Comedy** (`OSNComedy.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **OSN Family** (`OSNFamily.ae`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **OSN Kids** (`OSNKids.ae`); streams: 0, HTTPS: 0, valid: 0
@@ -728,6 +730,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 ### لبنان (LB)
 
 - `CANDIDATE_NOT_APPROVED` — **Al Ittihad TV** (`AlIttihadTV.lb`); streams: 2, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Al Jadeed** (`AlJadeed.lb`); streams: 2, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Al-Manar** (`AlManar.lb`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Charity TV** (`CharityTV.lb`); streams: 2, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **mfm** (`mfm.lb`); streams: 1, HTTPS: 1, valid: 1
@@ -739,7 +742,6 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `CANDIDATE_NOT_APPROVED` — **Tele Liban** (`TeleLiban.lb`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **UNews** (`UNews.lb`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Voice of Lebanon** (`VoiceofLebanon.lb`); streams: 1, HTTPS: 1, valid: 1
-- `HTTP_ONLY` — **Al Jadeed** (`AlJadeed.lb`); streams: 1, HTTPS: 0, valid: 0
 - `HTTP_ONLY` — **ALWifak News TV** (`ALWifakNewsTV.lb`); streams: 1, HTTPS: 0, valid: 0
 - `HTTP_ONLY` — **Arabica TV** (`ArabicaTV.lb`); streams: 1, HTTPS: 0, valid: 0
 - `HTTP_ONLY` — **LBC International** (`LBCInternational.lb`); streams: 1, HTTPS: 0, valid: 0
@@ -792,6 +794,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 
 - `CANDIDATE_NOT_APPROVED` — **Al Madina** (`AlMadina.ps`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Al Najah News** (`AlNajahNews.ps`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Fajer TV 1** (`FajerTV1.ps`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Falastini TV** (`FalastiniTV.ps`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Kolalnas TV** (`KolalnasTV.ps`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Ma'an TV** (`MaanTV.ps`); streams: 1, HTTPS: 1, valid: 1
@@ -816,7 +819,6 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **Al-Quds Open University** (`AlQudsOpenUniversity.ps`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Awdah TV** (`AwdahTV.ps`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Baladna** (`Baladna.ps`); streams: 0, HTTPS: 0, valid: 0
-- `NO_STREAMS` — **Fajer TV 1** (`FajerTV1.ps`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Fajer TV 2** (`FajerTV2.ps`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Hala Ramallah** (`HalaRamallah.ps`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Hebron Sat** (`HebronSat.ps`); streams: 0, HTTPS: 0, valid: 0
@@ -837,8 +839,8 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 
 - `CANDIDATE_NOT_APPROVED` — **CNA** (`CNA.dz`); streams: 2, HTTPS: 2, valid: 2
 - `CANDIDATE_NOT_APPROVED` — **Elwatania TV** (`ElwataniaTV.dz`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **TV2** (`TV2.dz`); streams: 2, HTTPS: 1, valid: 1
 - `HTTP_ONLY` — **Amou Yazid TV** (`AmouYazidTV.dz`); streams: 1, HTTPS: 0, valid: 0
-- `HTTP_ONLY` — **TV2** (`TV2.dz`); streams: 1, HTTPS: 0, valid: 0
 - `HTTP_ONLY` — **TV4** (`TV4.dz`); streams: 1, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **4Kids TV** (`4KidsTV.dz`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **Al Anis TV** (`AlAnisTV.dz`); streams: 0, HTTPS: 0, valid: 0

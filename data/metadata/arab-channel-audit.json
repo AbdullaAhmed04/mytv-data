@@ -197,7 +197,7 @@
       "channelsWithValidStream": 55,
       "country": "السعودية",
       "countryCode": "SA",
-      "excludedBeforeCandidate": 111,
+      "excludedBeforeCandidate": 112,
       "hiddenDetailsCount": 0,
       "items": [
         {
@@ -274,11 +274,11 @@
         },
         {
           "channelId": "LBC.sa",
-          "httpsStreamCount": 1,
+          "httpsStreamCount": 2,
           "name": "LBC",
-          "rawStreamCount": 2,
+          "rawStreamCount": 3,
           "reason": "CANDIDATE_NOT_APPROVED",
-          "validStreamCount": 1
+          "validStreamCount": 2
         },
         {
           "channelId": "MBCLoud.sa",
@@ -338,27 +338,27 @@
         },
         {
           "channelId": "RotanaCinemaKSA.sa",
-          "httpsStreamCount": 1,
+          "httpsStreamCount": 2,
           "name": "Rotana Cinema KSA",
-          "rawStreamCount": 1,
+          "rawStreamCount": 2,
           "reason": "CANDIDATE_NOT_APPROVED",
-          "validStreamCount": 1
+          "validStreamCount": 2
         },
         {
           "channelId": "RotanaClassic.sa",
-          "httpsStreamCount": 1,
+          "httpsStreamCount": 2,
           "name": "Rotana Classic",
-          "rawStreamCount": 1,
+          "rawStreamCount": 2,
           "reason": "CANDIDATE_NOT_APPROVED",
-          "validStreamCount": 1
+          "validStreamCount": 2
         },
         {
           "channelId": "RotanaClip.sa",
-          "httpsStreamCount": 1,
+          "httpsStreamCount": 2,
           "name": "Rotana Clip",
-          "rawStreamCount": 1,
+          "rawStreamCount": 2,
           "reason": "CANDIDATE_NOT_APPROVED",
-          "validStreamCount": 1
+          "validStreamCount": 2
         },
         {
           "channelId": "RotanaComedy.sa",
@@ -386,11 +386,11 @@
         },
         {
           "channelId": "RotanaMusic.sa",
-          "httpsStreamCount": 1,
+          "httpsStreamCount": 2,
           "name": "Rotana Music",
-          "rawStreamCount": 1,
+          "rawStreamCount": 2,
           "reason": "CANDIDATE_NOT_APPROVED",
-          "validStreamCount": 1
+          "validStreamCount": 2
         },
         {
           "channelId": "SaudiaRadio.sa",
@@ -420,6 +420,14 @@
           "channelId": "22ArabTV.sa",
           "httpsStreamCount": 0,
           "name": "22 Arab TV",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
+          "channelId": "316Channel.sa",
+          "httpsStreamCount": 0,
+          "name": "3.16 Channel",
           "rawStreamCount": 0,
           "reason": "NO_STREAMS",
           "validStreamCount": 0
@@ -1307,12 +1315,12 @@
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 1,
-        "NO_STREAMS": 110,
+        "NO_STREAMS": 111,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 0
       },
-      "upstreamChannels": 166
+      "upstreamChannels": 167
     },
     {
       "approvedCurrentChannels": 12,
@@ -2185,13 +2193,13 @@
     },
     {
       "approvedCurrentChannels": 2,
-      "candidateChannels": 54,
-      "channelsWithAnyStream": 58,
-      "channelsWithHttpsStream": 55,
-      "channelsWithValidStream": 55,
+      "candidateChannels": 55,
+      "channelsWithAnyStream": 59,
+      "channelsWithHttpsStream": 56,
+      "channelsWithValidStream": 56,
       "country": "العراق",
       "countryCode": "IQ",
-      "excludedBeforeCandidate": 87,
+      "excludedBeforeCandidate": 86,
       "hiddenDetailsCount": 0,
       "items": [
         {
@@ -2547,6 +2555,14 @@
           "validStreamCount": 1
         },
         {
+          "channelId": "NRTSport.iq",
+          "httpsStreamCount": 1,
+          "name": "NRT Sport",
+          "rawStreamCount": 1,
+          "reason": "CANDIDATE_NOT_APPROVED",
+          "validStreamCount": 1
+        },
+        {
           "channelId": "NRTTV.iq",
           "httpsStreamCount": 1,
           "name": "NRT TV",
@@ -2572,11 +2588,11 @@
         },
         {
           "channelId": "SamarraTV.iq",
-          "httpsStreamCount": 2,
+          "httpsStreamCount": 3,
           "name": "Samarra TV",
-          "rawStreamCount": 2,
+          "rawStreamCount": 3,
           "reason": "CANDIDATE_NOT_APPROVED",
-          "validStreamCount": 2
+          "validStreamCount": 3
         },
         {
           "channelId": "ShamsTV.iq",
@@ -3171,14 +3187,6 @@
           "validStreamCount": 0
         },
         {
-          "channelId": "NRTSport.iq",
-          "httpsStreamCount": 0,
-          "name": "NRT Sport",
-          "rawStreamCount": 0,
-          "reason": "NO_STREAMS",
-          "validStreamCount": 0
-        },
-        {
           "channelId": "NUBARPlusPlus.iq",
           "httpsStreamCount": 0,
           "name": "NUBAR Plus +",
@@ -3310,14 +3318,14 @@
       "reasons": {
         "ADULT_REJECTED": 0,
         "APPROVED": 2,
-        "CANDIDATE_NOT_APPROVED": 52,
+        "CANDIDATE_NOT_APPROVED": 53,
         "DMCA": 0,
         "HTTP_ONLY": 3,
         "INSECURE_REFERER": 0,
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 0,
-        "NO_STREAMS": 83,
+        "NO_STREAMS": 82,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 1
@@ -3332,7 +3340,7 @@
       "channelsWithValidStream": 36,
       "country": "الإمارات",
       "countryCode": "AE",
-      "excludedBeforeCandidate": 104,
+      "excludedBeforeCandidate": 105,
       "hiddenDetailsCount": 1,
       "items": [
         {
@@ -3371,7 +3379,7 @@
           "channelId": "PeaceTVBangla.ae",
           "httpsStreamCount": 1,
           "name": "Peace TV Bangla",
-          "rawStreamCount": 2,
+          "rawStreamCount": 1,
           "reason": "CANDIDATE_NOT_APPROVED",
           "validStreamCount": 1
         },
@@ -4000,6 +4008,14 @@
           "validStreamCount": 0
         },
         {
+          "channelId": "NTVUAEHD.ae",
+          "httpsStreamCount": 0,
+          "name": "NTV UAE HD",
+          "rawStreamCount": 0,
+          "reason": "NO_STREAMS",
+          "validStreamCount": 0
+        },
+        {
           "channelId": "OSNComedy.ae",
           "httpsStreamCount": 0,
           "name": "OSN Comedy",
@@ -4298,12 +4314,12 @@
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 0,
-        "NO_STREAMS": 97,
+        "NO_STREAMS": 98,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 0
       },
-      "upstreamChannels": 140
+      "upstreamChannels": 141
     },
     {
       "approvedCurrentChannels": 10,
@@ -5506,19 +5522,27 @@
     },
     {
       "approvedCurrentChannels": 14,
-      "candidateChannels": 26,
+      "candidateChannels": 27,
       "channelsWithAnyStream": 31,
-      "channelsWithHttpsStream": 26,
-      "channelsWithValidStream": 26,
+      "channelsWithHttpsStream": 27,
+      "channelsWithValidStream": 27,
       "country": "لبنان",
       "countryCode": "LB",
-      "excludedBeforeCandidate": 23,
+      "excludedBeforeCandidate": 22,
       "hiddenDetailsCount": 0,
       "items": [
         {
           "channelId": "AlIttihadTV.lb",
           "httpsStreamCount": 1,
           "name": "Al Ittihad TV",
+          "rawStreamCount": 2,
+          "reason": "CANDIDATE_NOT_APPROVED",
+          "validStreamCount": 1
+        },
+        {
+          "channelId": "AlJadeed.lb",
+          "httpsStreamCount": 1,
+          "name": "Al Jadeed",
           "rawStreamCount": 2,
           "reason": "CANDIDATE_NOT_APPROVED",
           "validStreamCount": 1
@@ -5610,14 +5634,6 @@
           "rawStreamCount": 1,
           "reason": "CANDIDATE_NOT_APPROVED",
           "validStreamCount": 1
-        },
-        {
-          "channelId": "AlJadeed.lb",
-          "httpsStreamCount": 0,
-          "name": "Al Jadeed",
-          "rawStreamCount": 1,
-          "reason": "HTTP_ONLY",
-          "validStreamCount": 0
         },
         {
           "channelId": "ALWifakNewsTV.lb",
@@ -5799,9 +5815,9 @@
       "reasons": {
         "ADULT_REJECTED": 0,
         "APPROVED": 14,
-        "CANDIDATE_NOT_APPROVED": 12,
+        "CANDIDATE_NOT_APPROVED": 13,
         "DMCA": 0,
-        "HTTP_ONLY": 5,
+        "HTTP_ONLY": 4,
         "INSECURE_REFERER": 0,
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
@@ -6020,13 +6036,13 @@
     },
     {
       "approvedCurrentChannels": 0,
-      "candidateChannels": 17,
-      "channelsWithAnyStream": 20,
-      "channelsWithHttpsStream": 17,
-      "channelsWithValidStream": 17,
+      "candidateChannels": 18,
+      "channelsWithAnyStream": 21,
+      "channelsWithHttpsStream": 18,
+      "channelsWithValidStream": 18,
       "country": "فلسطين",
       "countryCode": "PS",
-      "excludedBeforeCandidate": 25,
+      "excludedBeforeCandidate": 24,
       "hiddenDetailsCount": 0,
       "items": [
         {
@@ -6041,6 +6057,14 @@
           "channelId": "AlNajahNews.ps",
           "httpsStreamCount": 1,
           "name": "Al Najah News",
+          "rawStreamCount": 1,
+          "reason": "CANDIDATE_NOT_APPROVED",
+          "validStreamCount": 1
+        },
+        {
+          "channelId": "FajerTV1.ps",
+          "httpsStreamCount": 1,
+          "name": "Fajer TV 1",
           "rawStreamCount": 1,
           "reason": "CANDIDATE_NOT_APPROVED",
           "validStreamCount": 1
@@ -6238,14 +6262,6 @@
           "validStreamCount": 0
         },
         {
-          "channelId": "FajerTV1.ps",
-          "httpsStreamCount": 0,
-          "name": "Fajer TV 1",
-          "rawStreamCount": 0,
-          "reason": "NO_STREAMS",
-          "validStreamCount": 0
-        },
-        {
           "channelId": "FajerTV2.ps",
           "httpsStreamCount": 0,
           "name": "Fajer TV 2",
@@ -6369,14 +6385,14 @@
       "reasons": {
         "ADULT_REJECTED": 0,
         "APPROVED": 0,
-        "CANDIDATE_NOT_APPROVED": 17,
+        "CANDIDATE_NOT_APPROVED": 18,
         "DMCA": 0,
         "HTTP_ONLY": 3,
         "INSECURE_REFERER": 0,
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 0,
-        "NO_STREAMS": 22,
+        "NO_STREAMS": 21,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 0
@@ -6385,13 +6401,13 @@
     },
     {
       "approvedCurrentChannels": 2,
-      "candidateChannels": 4,
+      "candidateChannels": 5,
       "channelsWithAnyStream": 7,
-      "channelsWithHttpsStream": 4,
-      "channelsWithValidStream": 4,
+      "channelsWithHttpsStream": 5,
+      "channelsWithValidStream": 5,
       "country": "الجزائر",
       "countryCode": "DZ",
-      "excludedBeforeCandidate": 43,
+      "excludedBeforeCandidate": 42,
       "hiddenDetailsCount": 0,
       "items": [
         {
@@ -6411,17 +6427,17 @@
           "validStreamCount": 1
         },
         {
+          "channelId": "TV2.dz",
+          "httpsStreamCount": 1,
+          "name": "TV2",
+          "rawStreamCount": 2,
+          "reason": "CANDIDATE_NOT_APPROVED",
+          "validStreamCount": 1
+        },
+        {
           "channelId": "AmouYazidTV.dz",
           "httpsStreamCount": 0,
           "name": "Amou Yazid TV",
-          "rawStreamCount": 1,
-          "reason": "HTTP_ONLY",
-          "validStreamCount": 0
-        },
-        {
-          "channelId": "TV2.dz",
-          "httpsStreamCount": 0,
-          "name": "TV2",
           "rawStreamCount": 1,
           "reason": "HTTP_ONLY",
           "validStreamCount": 0
@@ -6758,9 +6774,9 @@
       "reasons": {
         "ADULT_REJECTED": 0,
         "APPROVED": 2,
-        "CANDIDATE_NOT_APPROVED": 2,
+        "CANDIDATE_NOT_APPROVED": 3,
         "DMCA": 0,
-        "HTTP_ONLY": 3,
+        "HTTP_ONLY": 2,
         "INSECURE_REFERER": 0,
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
@@ -8303,24 +8319,24 @@
       "upstreamChannels": 28
     }
   ],
-  "generatedAt": "2026-11-23T15:59:28Z",
+  "generatedAt": "2026-11-24T15:53:54Z",
   "schemaVersion": 1,
   "scope": "ARAB_COUNTRIES",
   "source": "iptv-org",
   "summary": {
     "approvedCurrentChannels": 149,
-    "candidateChannels": 289,
-    "channelsWithAnyStream": 329,
-    "channelsWithHttpsStream": 291,
-    "channelsWithValidStream": 291,
-    "excludedBeforeCandidate": 819,
+    "candidateChannels": 293,
+    "channelsWithAnyStream": 331,
+    "channelsWithHttpsStream": 295,
+    "channelsWithValidStream": 295,
+    "excludedBeforeCandidate": 817,
     "hiddenDetailsCount": 1,
     "reasons": {
       "ADULT_REJECTED": 1,
       "APPROVED": 149,
-      "CANDIDATE_NOT_APPROVED": 140,
+      "CANDIDATE_NOT_APPROVED": 144,
       "DMCA": 15,
-      "HTTP_ONLY": 37,
+      "HTTP_ONLY": 35,
       "INSECURE_REFERER": 0,
       "INVALID_STREAM_METADATA": 0,
       "INVALID_USER_AGENT": 0,
@@ -8330,6 +8346,6 @@
       "SAFETY_QUARANTINED": 0,
       "USER_BLOCKLIST": 2
     },
-    "upstreamChannels": 1108
+    "upstreamChannels": 1110
   }
 }
