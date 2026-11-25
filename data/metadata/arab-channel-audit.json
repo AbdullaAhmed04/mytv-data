@@ -191,15 +191,23 @@
     },
     {
       "approvedCurrentChannels": 29,
-      "candidateChannels": 55,
-      "channelsWithAnyStream": 56,
-      "channelsWithHttpsStream": 55,
-      "channelsWithValidStream": 55,
+      "candidateChannels": 56,
+      "channelsWithAnyStream": 57,
+      "channelsWithHttpsStream": 56,
+      "channelsWithValidStream": 56,
       "country": "السعودية",
       "countryCode": "SA",
-      "excludedBeforeCandidate": 112,
+      "excludedBeforeCandidate": 111,
       "hiddenDetailsCount": 0,
       "items": [
+        {
+          "channelId": "316Channel.sa",
+          "httpsStreamCount": 1,
+          "name": "3.16 Channel",
+          "rawStreamCount": 1,
+          "reason": "CANDIDATE_NOT_APPROVED",
+          "validStreamCount": 1
+        },
         {
           "channelId": "AbdulmajeedAbdullah.sa",
           "httpsStreamCount": 1,
@@ -420,14 +428,6 @@
           "channelId": "22ArabTV.sa",
           "httpsStreamCount": 0,
           "name": "22 Arab TV",
-          "rawStreamCount": 0,
-          "reason": "NO_STREAMS",
-          "validStreamCount": 0
-        },
-        {
-          "channelId": "316Channel.sa",
-          "httpsStreamCount": 0,
-          "name": "3.16 Channel",
           "rawStreamCount": 0,
           "reason": "NO_STREAMS",
           "validStreamCount": 0
@@ -1308,14 +1308,14 @@
       "reasons": {
         "ADULT_REJECTED": 0,
         "APPROVED": 29,
-        "CANDIDATE_NOT_APPROVED": 26,
+        "CANDIDATE_NOT_APPROVED": 27,
         "DMCA": 0,
         "HTTP_ONLY": 0,
         "INSECURE_REFERER": 0,
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 1,
-        "NO_STREAMS": 111,
+        "NO_STREAMS": 110,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 0
@@ -3334,13 +3334,13 @@
     },
     {
       "approvedCurrentChannels": 20,
-      "candidateChannels": 36,
-      "channelsWithAnyStream": 41,
-      "channelsWithHttpsStream": 36,
-      "channelsWithValidStream": 36,
+      "candidateChannels": 37,
+      "channelsWithAnyStream": 42,
+      "channelsWithHttpsStream": 37,
+      "channelsWithValidStream": 37,
       "country": "الإمارات",
       "countryCode": "AE",
-      "excludedBeforeCandidate": 105,
+      "excludedBeforeCandidate": 104,
       "hiddenDetailsCount": 1,
       "items": [
         {
@@ -3374,6 +3374,14 @@
           "rawStreamCount": 2,
           "reason": "CANDIDATE_NOT_APPROVED",
           "validStreamCount": 2
+        },
+        {
+          "channelId": "NTVUAEHD.ae",
+          "httpsStreamCount": 1,
+          "name": "NTV UAE HD",
+          "rawStreamCount": 1,
+          "reason": "CANDIDATE_NOT_APPROVED",
+          "validStreamCount": 1
         },
         {
           "channelId": "PeaceTVBangla.ae",
@@ -4008,14 +4016,6 @@
           "validStreamCount": 0
         },
         {
-          "channelId": "NTVUAEHD.ae",
-          "httpsStreamCount": 0,
-          "name": "NTV UAE HD",
-          "rawStreamCount": 0,
-          "reason": "NO_STREAMS",
-          "validStreamCount": 0
-        },
-        {
           "channelId": "OSNComedy.ae",
           "httpsStreamCount": 0,
           "name": "OSN Comedy",
@@ -4307,14 +4307,14 @@
       "reasons": {
         "ADULT_REJECTED": 1,
         "APPROVED": 20,
-        "CANDIDATE_NOT_APPROVED": 16,
+        "CANDIDATE_NOT_APPROVED": 17,
         "DMCA": 1,
         "HTTP_ONLY": 5,
         "INSECURE_REFERER": 0,
         "INVALID_STREAM_METADATA": 0,
         "INVALID_USER_AGENT": 0,
         "NO_HTTPS_STREAM": 0,
-        "NO_STREAMS": 98,
+        "NO_STREAMS": 97,
         "OTHER_EXCLUDED": 0,
         "SAFETY_QUARANTINED": 0,
         "USER_BLOCKLIST": 0
@@ -8319,29 +8319,29 @@
       "upstreamChannels": 28
     }
   ],
-  "generatedAt": "2026-11-24T15:53:54Z",
+  "generatedAt": "2026-11-25T15:37:13Z",
   "schemaVersion": 1,
   "scope": "ARAB_COUNTRIES",
   "source": "iptv-org",
   "summary": {
     "approvedCurrentChannels": 149,
-    "candidateChannels": 293,
-    "channelsWithAnyStream": 331,
-    "channelsWithHttpsStream": 295,
-    "channelsWithValidStream": 295,
-    "excludedBeforeCandidate": 817,
+    "candidateChannels": 295,
+    "channelsWithAnyStream": 333,
+    "channelsWithHttpsStream": 297,
+    "channelsWithValidStream": 297,
+    "excludedBeforeCandidate": 815,
     "hiddenDetailsCount": 1,
     "reasons": {
       "ADULT_REJECTED": 1,
       "APPROVED": 149,
-      "CANDIDATE_NOT_APPROVED": 144,
+      "CANDIDATE_NOT_APPROVED": 146,
       "DMCA": 15,
       "HTTP_ONLY": 35,
       "INSECURE_REFERER": 0,
       "INVALID_STREAM_METADATA": 0,
       "INVALID_USER_AGENT": 0,
       "NO_HTTPS_STREAM": 1,
-      "NO_STREAMS": 763,
+      "NO_STREAMS": 761,
       "OTHER_EXCLUDED": 0,
       "SAFETY_QUARANTINED": 0,
       "USER_BLOCKLIST": 2
