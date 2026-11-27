@@ -1,15 +1,15 @@
 # MYTV Arab channel audit
 
-Generated: `2026-11-26T15:19:00Z`
+Generated: `2026-11-27T15:06:53Z`
 
 This report audits Arab-country channels from IPTV-org without exposing adult or safety-quarantined channel identities or stream URLs.
 
 ## Summary
 
 - Upstream Arab channels: **1110**
-- Eligible candidate channels: **295**
+- Eligible candidate channels: **294**
 - Currently approved channels from this upstream set: **149**
-- Excluded before candidate generation: **815**
+- Excluded before candidate generation: **816**
 - Hidden safety details: **1**
 
 ## Countries
@@ -22,7 +22,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 | العراق | 141 | 59 | 56 | 56 | 55 | 2 | 86 | 0 | 0 | 3 | 82 | 0 | 1 |
 | الإمارات | 141 | 42 | 37 | 37 | 37 | 20 | 104 | 1 | 0 | 5 | 97 | 1 | 0 |
 | الكويت | 26 | 11 | 11 | 11 | 11 | 10 | 15 | 0 | 0 | 0 | 15 | 0 | 0 |
-| قطر | 87 | 17 | 17 | 17 | 17 | 15 | 70 | 0 | 0 | 0 | 56 | 14 | 0 |
+| قطر | 87 | 16 | 16 | 16 | 16 | 15 | 71 | 0 | 0 | 0 | 57 | 14 | 0 |
 | الأردن | 62 | 19 | 13 | 13 | 13 | 11 | 49 | 0 | 0 | 6 | 43 | 0 | 0 |
 | لبنان | 49 | 31 | 27 | 27 | 27 | 14 | 22 | 0 | 0 | 4 | 18 | 0 | 0 |
 | سوريا | 30 | 10 | 8 | 8 | 8 | 8 | 22 | 0 | 0 | 2 | 20 | 0 | 0 |
@@ -601,7 +601,6 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 ### قطر (QA)
 
 - `CANDIDATE_NOT_APPROVED` — **Al Jazeera Documentary** (`AlJazeeraDocumentary.qa`); streams: 4, HTTPS: 4, valid: 4
-- `CANDIDATE_NOT_APPROVED` — **beIN Sports 1** (`beINSports1.qa`); streams: 1, HTTPS: 1, valid: 1
 - `DMCA` — **beIN Sports French 1** (`beINSportsFrench1.qa`); streams: 0, HTTPS: 0, valid: 0
 - `DMCA` — **beIN Sports French 2** (`beINSportsFrench2.qa`); streams: 0, HTTPS: 0, valid: 0
 - `DMCA` — **beIN Sports French 3** (`beINSportsFrench3.qa`); streams: 0, HTTPS: 0, valid: 0
@@ -644,6 +643,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 - `NO_STREAMS` — **beIN Series 1** (`beINSeries1.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **beIN Series 2** (`beINSeries2.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **beIN Sports** (`beINSports.qa`); streams: 0, HTTPS: 0, valid: 0
+- `NO_STREAMS` — **beIN Sports 1** (`beINSports1.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **beIN Sports 2** (`beINSports2.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **beIN Sports 3** (`beINSports3.qa`); streams: 0, HTTPS: 0, valid: 0
 - `NO_STREAMS` — **beIN Sports 4** (`beINSports4.qa`); streams: 0, HTTPS: 0, valid: 0
@@ -794,7 +794,7 @@ This report audits Arab-country channels from IPTV-org without exposing adult or
 
 - `CANDIDATE_NOT_APPROVED` — **Al Madina** (`AlMadina.ps`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Al Najah News** (`AlNajahNews.ps`); streams: 1, HTTPS: 1, valid: 1
-- `CANDIDATE_NOT_APPROVED` — **Fajer TV 1** (`FajerTV1.ps`); streams: 1, HTTPS: 1, valid: 1
+- `CANDIDATE_NOT_APPROVED` — **Fajer TV 1** (`FajerTV1.ps`); streams: 2, HTTPS: 2, valid: 2
 - `CANDIDATE_NOT_APPROVED` — **Falastini TV** (`FalastiniTV.ps`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Kolalnas TV** (`KolalnasTV.ps`); streams: 1, HTTPS: 1, valid: 1
 - `CANDIDATE_NOT_APPROVED` — **Ma'an TV** (`MaanTV.ps`); streams: 1, HTTPS: 1, valid: 1
